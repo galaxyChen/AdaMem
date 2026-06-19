@@ -1,0 +1,25 @@
+model,fbmode,character,alignment_pct
+deepseek,verbose,Boss Zhang,90.0
+deepseek,verbose,Liwei,100.0
+deepseek,verbose,Wanghao,80.0
+deepseek,verbose,Sister Chen,90.0
+deepseek,verbose,Mom,80.0
+deepseek,verbose,Jiange,90.0
+deepseek,with_gold,Boss Zhang,60.0
+deepseek,with_gold,Liwei,90.0
+deepseek,with_gold,Wanghao,60.0
+deepseek,with_gold,Sister Chen,60.0
+deepseek,with_gold,Mom,50.0
+deepseek,with_gold,Jiange,60.0
+gemini,verbose,Boss Zhang,80.0
+gemini,verbose,Liwei,90.0
+gemini,verbose,Wanghao,70.0
+gemini,verbose,Sister Chen,100.0
+gemini,verbose,Mom,60.0
+gemini,verbose,Jiange,90.0
+gemini,with_gold,Boss Zhang,50.0
+gemini,with_gold,Liwei,70.0
+gemini,with_gold,Wanghao,60.0
+gemini,with_gold,Sister Chen,30.0
+gemini,with_gold,Mom,40.0
+gemini,with_gold,Jiange,70.0

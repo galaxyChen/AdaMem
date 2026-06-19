@@ -1,0 +1,9 @@
+axis,value,accuracy,extraction_f1,mer
+method,id,96.2,98.6,1.0
+method,fc,96.8,,
+method,m0,80.0,39.1,0.24
+method,adamem,84.3,43.7,0.279
+model,deepseek,80.9,37.3,0.246
+model,gemini,83.5,45.4,0.273
+fbmode,verbose,81.7,41.2,0.271
+fbmode,with_gold,82.7,41.6,0.248

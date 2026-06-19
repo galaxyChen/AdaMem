@@ -1,0 +1,2237 @@
+{
+  "theme": "Linchen is a data analyst at a social-product company, working on user-growth analysis.",
+  "num_weeks": 10,
+  "sessions_per_week": 10,
+  "weeks": [
+    {
+      "week": 1,
+      "date_range": "2025-07-07 ~ 2025-07-13",
+      "topic_anchors": [
+        "the OKR review",
+        "the Shenzhen trip",
+        "the gym membership",
+        "the weekend dinner"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-07",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the OKR review",
+          "topic": "Finalizing Q3 goals",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-07, Boss Zhang decided the Q3 user retention target for the OKR review is finalized at 45%."
+          ],
+          "noise_info": [
+            "Boss Zhang complained that the spreadsheet used for the OKR review was lagging heavily.",
+            "Boss Zhang mentioned the conference room booked for the OKR review was always too cold.",
+            "Boss Zhang asked if anyone was bringing coffee and snacks to the OKR review."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-08",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the OKR review",
+          "topic": "Data pipeline discussion",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-08, Wanghao concluded that the data pipeline for the OKR review will need to process exactly 2TB of logs daily."
+          ],
+          "noise_info": [
+            "Wanghao joked about falling asleep during the upcoming OKR review.",
+            "Wanghao complained that the slide deck for the OKR review had too much text on each page.",
+            "Wanghao asked what kind of lunch they should order after the OKR review is finished."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-09",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Discussing travel plans",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-09, Liwei became visibly upset when Linchen announced the Shenzhen trip would overlap with their anniversary."
+          ],
+          "noise_info": [
+            "Liwei asked if the flight for the Shenzhen trip was booked on Air China.",
+            "Liwei wondered what the humidity and weather would be like during the Shenzhen trip.",
+            "Liwei suggested packing a light jacket for the Shenzhen trip just in case the AC is strong.",
+            "Liwei asked if the hotel for the Shenzhen trip was close to the city center."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-10",
+          "focal_character": "Mom",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Weekly phone call",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-10, Linchen promised Mom he would visit his Auntie while on the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Mom asked if the hotel for the Shenzhen trip offered a good breakfast buffet.",
+            "Mom mentioned she recently watched a documentary on TV about the area near the Shenzhen trip.",
+            "Mom asked if Linchen was taking the high-speed rail or flying for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-11",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Pantry chat",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-11, Linchen expressed deep anxiety to Sister Chen because his presentation for the Shenzhen trip was completely unprepared."
+          ],
+          "noise_info": [
+            "Sister Chen recommended a famous dim sum restaurant to try during the Shenzhen trip.",
+            "Sister Chen mentioned her cousin also went on a Shenzhen trip earlier this month.",
+            "Sister Chen asked if Linchen needed to buy a new piece of luggage for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Monday",
+          "date": "2025-07-07",
+          "focal_character": "Jiange",
+          "topic_anchor": "the gym membership",
+          "topic": "Workout coordination",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-07, Jiange and Linchen scheduled to activate the gym membership at 7 PM on Wednesday."
+          ],
+          "noise_info": [
+            "Jiange noted that the physical card for the gym membership has a really cool black matte design.",
+            "Jiange heard a rumor that the gym membership includes a free daily towel service.",
+            "Jiange asked if the gym membership allows bringing a guest on weekends."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-08",
+          "focal_character": "Liwei",
+          "topic_anchor": "the gym membership",
+          "topic": "Health discussions at home",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-08, Linchen made a serious commitment to Liwei to utilize the gym membership at least three times a week."
+          ],
+          "noise_info": [
+            "Liwei asked exactly how much the gym membership cost per month.",
+            "Liwei mentioned a colleague from her office who also just bought a gym membership.",
+            "Liwei wondered if the gym membership had a hidden cancellation fee."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-12",
+          "focal_character": "Mom",
+          "topic_anchor": "the weekend dinner",
+          "topic": "Checking in on the weekend",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-12, Linchen promised Mom he would video call her immediately after the weekend dinner."
+          ],
+          "noise_info": [
+            "Mom asked what type of cuisine they were planning to eat at the weekend dinner.",
+            "Mom wondered if the company was paying the bill for the weekend dinner.",
+            "Mom told a long story about a similar weekend dinner she had with Linchen's dad years ago."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-09",
+          "focal_character": "Jiange",
+          "topic_anchor": "the weekend dinner",
+          "topic": "Adjusting plans",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-09, Jiange agreed to shift their Saturday workout to Sunday morning at 9 AM due to the weekend dinner."
+          ],
+          "noise_info": [
+            "Jiange asked if the weekend dinner was going to be at a fancy upscale restaurant.",
+            "Jiange mentioned he loves the specific steakhouse chosen for the weekend dinner.",
+            "Jiange joked that he was offended he wasn't invited to the weekend dinner."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-11",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the weekend dinner",
+          "topic": "Team building logistics",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-11, Boss Zhang finalized a 2000 RMB team budget for the weekend dinner."
+          ],
+          "noise_info": [
+            "Boss Zhang mentioned he prefers to drink red wine at the weekend dinner.",
+            "Boss Zhang asked if anyone on the team needed a vegetarian option for the weekend dinner.",
+            "Boss Zhang joked about enforcing a strict formal dress code for the weekend dinner."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "date_range": "2025-07-14 ~ 2025-07-20",
+      "topic_anchors": [
+        "the OKR review",
+        "the apartment hunting",
+        "the production incident",
+        "the running plan"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-14",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the OKR review",
+          "topic": "Revising the Q3 targets during a morning sync",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-14, Boss Zhang decided the Q3 user retention target for the OKR review is revised up to 48%."
+          ],
+          "noise_info": [
+            "Linchen mentioned the OKR review slides took him three hours to format.",
+            "Boss Zhang joked he needed more espresso before tackling the OKR review.",
+            "Wanghao complained about the OKR review meeting room being uncomfortably cold."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 1,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-15",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the OKR review",
+          "topic": "Technical prep for the upcoming review",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-15, Wanghao concluded that the real-time dashboard for the OKR review will require a latency of under 200 milliseconds."
+          ],
+          "noise_info": [
+            "Linchen felt relieved that Wanghao was handling the backend of the OKR review dashboard.",
+            "Wanghao mentioned he wants to buy a new mechanical keyboard after the OKR review is over.",
+            "They both decided to order pizza while prepping for the OKR review."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-16",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Discussing moving plans after work",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-16, Linchen made a serious commitment to Liwei to finalize a budget for the apartment hunting by Sunday.",
+            "On 2025-07-16, Liwei became extremely stressed about the apartment hunting because rent prices were unexpectedly soaring."
+          ],
+          "noise_info": [
+            "Linchen suggested they look at listings for the apartment hunting on a specific mobile app.",
+            "Liwei noted that her coworker also started the apartment hunting process recently.",
+            "The apartment hunting agency sent them a promotional flyer in the mail."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-17",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "A phone call with Mom about moving",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-17, Linchen promised Mom he would not sign a lease during the apartment hunting without showing her the floor plan first."
+          ],
+          "noise_info": [
+            "Mom mentioned that her neighbor's son finished his apartment hunting last month.",
+            "Linchen complained that the apartment hunting was taking up all of his free evenings.",
+            "Mom advised Linchen to wear comfortable shoes during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-18",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the production incident",
+          "topic": "Debugging a sudden system crash",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen",
+            "Boss Zhang"
+          ],
+          "key_info": [
+            "On 2025-07-18, Wanghao concluded that the memory leak causing the production incident was triggered by exactly 5000 concurrent user sessions."
+          ],
+          "noise_info": [
+            "Boss Zhang was visibly irritated about the production incident timing right before the weekend.",
+            "Linchen felt a wave of panic when the production incident alert went off on his phone.",
+            "Wanghao said he completely missed lunch because of the production incident."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-18",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the production incident",
+          "topic": "Venting after the crisis is resolved",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen",
+            "Boss Zhang"
+          ],
+          "key_info": [
+            "On 2025-07-18, Linchen experienced intense impostor syndrome during the production incident because he couldn't quickly identify the faulty data table."
+          ],
+          "noise_info": [
+            "Sister Chen suggested they grab an iced coffee to decompress after the production incident.",
+            "Linchen noted the production incident lasted for a total of 45 minutes.",
+            "Boss Zhang demanded a written post-mortem report for the production incident by Monday morning."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-19",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Setting up a new fitness routine",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-19, Jiange scheduled the first session of the running plan for 6:30 AM next Tuesday."
+          ],
+          "noise_info": [
+            "Linchen felt highly motivated to start the running plan to improve his cardio endurance.",
+            "Jiange recommended a specific brand of breathable shoes for the running plan.",
+            "They agreed the running plan would be a great way to enjoy the cool summer mornings."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-19",
+          "focal_character": "Liwei",
+          "topic_anchor": "the running plan",
+          "topic": "Discussing the new fitness routine at home",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-19, Linchen made a serious commitment to Liwei to stick to the running plan for at least a full month."
+          ],
+          "noise_info": [
+            "Liwei thought the running plan was a fun idea but doubted his morning energy levels.",
+            "Linchen said he would track the running plan progress on his new smartwatch.",
+            "They discussed which local park to use for the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-20",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the production incident",
+          "topic": "Weekend follow-up on Friday's crash",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-20, Boss Zhang decided that the post-mortem for the production incident will mandate a mandatory code-freeze for the next 48 hours."
+          ],
+          "noise_info": [
+            "Linchen worried that the production incident would negatively affect his performance review.",
+            "Boss Zhang mentioned he was tired of dealing with the production incident over the weekend.",
+            "Wanghao was already drafting the technical report for the production incident."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-20",
+          "focal_character": "Jiange",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Chatting about moving logistics",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-20, Jiange arranged to help Linchen move boxes from 2 PM to 5 PM once the apartment hunting is successful."
+          ],
+          "noise_info": [
+            "Jiange said he absolutely hated the apartment hunting process when he moved last year.",
+            "Linchen felt exhausted just thinking about the apartment hunting logistics.",
+            "They joked that the apartment hunting was worse than running a marathon."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "date_range": "2025-07-21 ~ 2025-07-27",
+      "topic_anchors": [
+        "the OKR review",
+        "the apartment hunting",
+        "the running plan",
+        "the new conference room"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-21",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the OKR review",
+          "topic": "Finalizing the retention metrics",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-21, Boss Zhang decided the Q3 user retention target for the OKR review is officially locked at 50%."
+          ],
+          "noise_info": [
+            "Linchen mentioned he felt anxious about presenting during the OKR review.",
+            "Boss Zhang scheduled a follow-up 15-minute sync for the OKR review tomorrow.",
+            "Wanghao noted that the dashboard for the OKR review looks a bit cluttered.",
+            "Linchen promised to buy coffee for everyone who helped prepare the OKR review."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 2,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-22",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the OKR review",
+          "topic": "Dashboard latency optimization",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-22, Wanghao concluded that the real-time dashboard for the OKR review now achieves a latency of exactly 120 milliseconds."
+          ],
+          "noise_info": [
+            "Wanghao felt extremely frustrated that the OKR review required so many last-minute changes.",
+            "Linchen scheduled a code pairing session for the OKR review dashboard at 3 PM.",
+            "Boss Zhang said the OKR review visuals look much better now.",
+            "Linchen promised to document the new pipeline used for the OKR review."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 2,
+            "session_index": 1
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-23",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Discussing lease timelines",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-23, Linchen made a serious commitment to Liwei to sign a lease for the apartment hunting by the end of August.",
+            "On 2025-07-23, Liwei felt a huge sense of relief regarding the apartment hunting after seeing a place within their budget."
+          ],
+          "noise_info": [
+            "Linchen arranged to view three units for the apartment hunting at 10 AM on Saturday.",
+            "The agent concluded that the average rent for the apartment hunting target area is 8000 RMB.",
+            "Linchen promised Mom he would check the neighborhood safety during the apartment hunting.",
+            "Boss Zhang asked if the apartment hunting would require Linchen to take time off."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-24",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Calling home about the search",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-24, Linchen promised Mom that any place chosen during the apartment hunting will have a south-facing window."
+          ],
+          "noise_info": [
+            "Mom felt very nostalgic while talking about the apartment hunting.",
+            "Linchen noted that the commute distance for the apartment hunting is exactly 4.5 kilometers.",
+            "Linchen scheduled a video tour of the apartment hunting progress for 8 PM.",
+            "Liwei decided that the apartment hunting should focus exclusively on two-bedroom units."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-25",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the new conference room",
+          "topic": "Office space allocation",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-25, Boss Zhang decided that the new conference room will be strictly reserved for VIP client meetings."
+          ],
+          "noise_info": [
+            "Linchen felt very excited to finally use the new conference room's 4K projector.",
+            "Wanghao calculated that the new conference room fits exactly 14 chairs.",
+            "Sister Chen arranged to host a casual lunch in the new conference room at noon.",
+            "Linchen promised to bring a plant to decorate the new conference room."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-26",
+          "focal_character": "Jiange",
+          "topic_anchor": "the new conference room",
+          "topic": "Weekend office access",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-26, Jiange scheduled a quick 15-minute stretching session in the new conference room at 12:30 PM."
+          ],
+          "noise_info": [
+            "Jiange felt impressed by the soundproofing in the new conference room.",
+            "Linchen decided the lighting in the new conference room is too dim.",
+            "Wanghao noted the AC in the new conference room is set to exactly 22 degrees Celsius.",
+            "Linchen committed to keeping the new conference room tidy after their session."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-26",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the OKR review",
+          "topic": "Post-review decompression",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-26, Linchen experienced a profound wave of relief while talking to Sister Chen because the OKR review was finally over."
+          ],
+          "noise_info": [
+            "Sister Chen scheduled a celebratory drinks outing for the OKR review at 7 PM.",
+            "Boss Zhang decided the OKR review format will remain unchanged next quarter.",
+            "Wanghao stated the slide deck for the OKR review was exactly 45 pages long.",
+            "Linchen promised to share his notes from the OKR review with the broader team."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-27",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Adjusting the morning run",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-27, Jiange rescheduled the first session of the running plan to 7:00 AM next Tuesday due to forecasted rain."
+          ],
+          "noise_info": [
+            "Linchen felt slightly annoyed that the running plan had to be delayed.",
+            "Jiange concluded that the route for the running plan covers exactly 5.2 kilometers.",
+            "Linchen promised Liwei he would not overexert himself on the running plan.",
+            "Boss Zhang decided that team members participating in the running plan could expense their water bottles."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 2,
+            "session_index": 7
+          }
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-27",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the running plan",
+          "topic": "App data usage",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-27, Wanghao concluded that the GPS tracker app Linchen uses for the running plan consumes exactly 15MB of data per hour."
+          ],
+          "noise_info": [
+            "Wanghao felt confused about why Linchen chose such a rigorous running plan.",
+            "Linchen scheduled a time to review the app's privacy settings for the running plan at 4 PM.",
+            "Linchen promised Mom he would share his location during the running plan.",
+            "Liwei decided to buy new shoes for her own version of the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-27",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the running plan",
+          "topic": "Motivation and fitness",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-27, Linchen became highly motivated about the running plan after discussing his long-term health goals with Sister Chen."
+          ],
+          "noise_info": [
+            "Sister Chen noted that the running plan requires exactly 3 days of commitment per week.",
+            "Linchen promised to send Sister Chen updates about the running plan.",
+            "Sister Chen scheduled a check-in call regarding the running plan for next Friday at 6 PM.",
+            "Boss Zhang decided to sponsor a company 5K event inspired by the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "date_range": "2025-07-28 ~ 2025-08-03",
+      "topic_anchors": [
+        "the running plan",
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the board game night"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-28",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Rescheduling the morning jog",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-28, Jiange rescheduled the first session of the running plan to 6:00 AM on Wednesday due to a sudden work conflict."
+          ],
+          "noise_info": [
+            "Jiange mentioned that his new shoes for the running plan feel a bit tight.",
+            "Linchen complained that the running plan routes are too crowded on weekdays.",
+            "They discussed whether listening to podcasts helps during the running plan.",
+            "Jiange suggested bringing electrolyte water for the running plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 3,
+            "session_index": 8
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-07-28",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the running plan",
+          "topic": "Venting about schedule changes",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-28, Linchen became extremely frustrated about the running plan because the constant rescheduling disrupted his morning routine."
+          ],
+          "noise_info": [
+            "Sister Chen asked if the running plan included hill sprints.",
+            "Linchen noted that the running plan burns about 400 calories per session.",
+            "They debated which app to use to track the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-29",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing travel logistics",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-29, Boss Zhang decided that the budget for the Shenzhen trip will be cut by 20% across all departments."
+          ],
+          "noise_info": [
+            "Linchen mentioned he prefers morning flights for the Shenzhen trip.",
+            "Boss Zhang joked about the humid weather during the Shenzhen trip.",
+            "They reviewed the hotel options for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-29",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Reassurance before departure",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-29, Liwei felt deeply reassured about the Shenzhen trip after Linchen promised to video call her every single night.",
+            "On 2025-07-29, Linchen made a serious commitment to Liwei to bring back her favorite pastries from the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Liwei helped Linchen fold his shirts for the Shenzhen trip.",
+            "Linchen realized his suitcase for the Shenzhen trip has a broken zipper.",
+            "They discussed the flight duration of the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-30",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the board game night",
+          "topic": "Analyzing a companion app",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-30, Wanghao concluded that the digital scoring app for the board game night requires exactly 50MB of RAM to run smoothly."
+          ],
+          "noise_info": [
+            "Linchen asked if Wanghao prefers strategy games for the board game night.",
+            "Wanghao suggested ordering pepperoni pizza for the board game night.",
+            "They laughed about who usually cheats during the board game night."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-30",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Family check-in on moving",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-30, Linchen promised Mom he would send her a full video tour of their top choice from the apartment hunting by Friday."
+          ],
+          "noise_info": [
+            "Mom asked if the neighborhood they saw during the apartment hunting has a good grocery store.",
+            "Linchen mentioned the agent for the apartment hunting was very talkative.",
+            "They discussed the wall colors of the places viewed during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-31",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Accelerating the timeline",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-31, Linchen made a serious commitment to Liwei to sign a lease for the apartment hunting by August 15th to avoid the student rush."
+          ],
+          "noise_info": [
+            "Liwei pointed out that the current listings for the apartment hunting lack good cabinet space.",
+            "Linchen calculated that the broker fee for the apartment hunting equals one month's rent.",
+            "They debated whether a balcony is strictly necessary for the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 3,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-01",
+          "focal_character": "Jiange",
+          "topic_anchor": "the board game night",
+          "topic": "Setting the weekend plans",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-01, Jiange scheduled the start time for the board game night to be exactly 8:00 PM this Saturday."
+          ],
+          "noise_info": [
+            "Jiange asked if Linchen was bringing any sour candies to the board game night.",
+            "Linchen mentioned he needed to read the rulebook before the board game night.",
+            "They discussed how many chairs they need to borrow for the board game night."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-02",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Calculating commute metrics",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-02, Wanghao concluded that the prime candidate from the apartment hunting is exactly 4.2 kilometers from the office."
+          ],
+          "noise_info": [
+            "Wanghao asked if the internet provider options for the apartment hunting were any good.",
+            "Linchen mentioned the lighting in the living room during the apartment hunting was a bit dim.",
+            "They talked about the noise levels of the street during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-03",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the board game night",
+          "topic": "Post-game recap",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-03, Linchen experienced pure joy reflecting on the board game night because he managed to pull off a surprise victory in the final round."
+          ],
+          "noise_info": [
+            "Sister Chen noted that the custom dice used during the board game night were very heavy.",
+            "Linchen mentioned that the snacks ran out halfway through the board game night.",
+            "They debated the clarity of the instruction manual used at the board game night."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "date_range": "2025-08-04 ~ 2025-08-10",
+      "topic_anchors": [
+        "the OKR review",
+        "the apartment hunting",
+        "the Shenzhen trip",
+        "the movie night"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-04",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the OKR review",
+          "topic": "Finalizing the target numbers for the quarter",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-04, Boss Zhang decided the Q3 user retention target for the OKR review is officially finalized at 52%."
+          ],
+          "noise_info": [
+            "Linchen felt incredibly stressed about the OKR review approaching.",
+            "Wanghao mentioned the OKR review slides currently have 15 pages.",
+            "Jiange asked if the OKR review would finish before their 6 PM workout."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 3,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-05",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Discussing the lease signing timeline",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-05, Linchen made a serious commitment to Liwei to sign a lease for the apartment hunting by August 10th instead of the 15th."
+          ],
+          "noise_info": [
+            "Wanghao calculated that the prime option from the apartment hunting is exactly 12 minutes from the subway.",
+            "Boss Zhang decided Linchen can leave an hour early for the apartment hunting.",
+            "Linchen promised Mom he would call her during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 4,
+            "session_index": 6
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-06",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the OKR review",
+          "topic": "Optimizing dashboard performance",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen",
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-06, Wanghao concluded that the data queries for the OKR review now run in exactly 85 milliseconds."
+          ],
+          "noise_info": [
+            "Boss Zhang decided the OKR review needs a dark mode theme.",
+            "Sister Chen felt a wave of relief about the OKR review backend being stable.",
+            "Linchen promised Liwei he would not work late on the OKR review tonight."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-06",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Venting about landlord negotiations",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen",
+            "Jiange"
+          ],
+          "key_info": [
+            "On 2025-08-06, Linchen felt completely exhausted during the apartment hunting because landlords kept raising prices at the last minute."
+          ],
+          "noise_info": [
+            "Boss Zhang decided Linchen's new address from the apartment hunting must be logged in the HR portal.",
+            "The apartment hunting budget is strictly capped at 6500 RMB.",
+            "Jiange scheduled to help move boxes for the apartment hunting at 10 AM next Sunday."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-07",
+          "focal_character": "Mom",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Updating family visit plans",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen",
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-07, Linchen promised Mom he would bring his cousin a gift during the Shenzhen trip instead of visiting Auntie's house."
+          ],
+          "noise_info": [
+            "Boss Zhang decided the Shenzhen trip budget will be reallocated to marketing.",
+            "Sister Chen felt jealous about the Shenzhen trip because of the local food.",
+            "Wanghao calculated the flight for the Shenzhen trip takes exactly 3.5 hours."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 1,
+            "session_index": 3
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-07",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Setting business objectives",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-07, Boss Zhang decided that the primary objective for the Shenzhen trip is to secure two new enterprise clients."
+          ],
+          "noise_info": [
+            "Linchen promised Liwei he would text her every morning from the Shenzhen trip.",
+            "The Shenzhen trip flight leaves at exactly 8:00 AM.",
+            "Linchen felt intense nervousness about the Shenzhen trip presentations."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-08",
+          "focal_character": "Jiange",
+          "topic_anchor": "the movie night",
+          "topic": "Planning the weekend entertainment",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen",
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-08, Jiange scheduled the start time for the movie night at exactly 7:30 PM this Saturday."
+          ],
+          "noise_info": [
+            "Boss Zhang decided the movie night is a great informal team-building idea.",
+            "Sister Chen felt extremely excited about the movie night selection.",
+            "The tickets for the movie night cost 85 RMB each."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-08",
+          "focal_character": "Liwei",
+          "topic_anchor": "the movie night",
+          "topic": "Booking the seats",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen",
+            "Mom"
+          ],
+          "key_info": [
+            "On 2025-08-08, Liwei became extremely delighted about the movie night because Linchen managed to book VIP seating."
+          ],
+          "noise_info": [
+            "Jiange scheduled a quick dinner before the movie night at 6 PM.",
+            "The movie night features a 135-minute sci-fi film.",
+            "Linchen promised Mom he would call her immediately after the movie night."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-09",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the movie night",
+          "topic": "Analyzing the theater specs",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen",
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-09, Wanghao concluded that the theater sound system for the movie night outputs exactly 120 decibels at peak volume."
+          ],
+          "noise_info": [
+            "Liwei felt a deep sense of nostalgia during the movie night.",
+            "Jiange scheduled drinks after the movie night at 10:15 PM.",
+            "Boss Zhang decided he won't be able to attend the movie night."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-10",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Finalizing the paperwork",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen",
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-10, Linchen promised Mom he would send her the signed contract for the apartment hunting by Monday morning."
+          ],
+          "noise_info": [
+            "Liwei felt immensely relieved that the apartment hunting was finally over.",
+            "The apartment hunting process took exactly 25 days in total.",
+            "Boss Zhang decided Linchen's relocation bonus for the apartment hunting is approved."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 4,
+            "session_index": 5
+          }
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "date_range": "2025-08-11 ~ 2025-08-17",
+      "topic_anchors": [
+        "the apartment hunting",
+        "the Shenzhen trip",
+        "the new MacBook",
+        "the weekly sync"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-11",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Discussing the delayed lease signing",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-11, Linchen made a serious commitment to Liwei to sign the lease for the apartment hunting by Wednesday, August 13th.",
+            "On 2025-08-11, Liwei felt incredibly frustrated about the apartment hunting due to the constant paperwork delays from the landlord."
+          ],
+          "noise_info": [
+            "Linchen mentioned that the landlord for the apartment hunting wore a really funny hat.",
+            "They calculated that the new place from the apartment hunting is exactly 4.2 kilometers from Linchen's office.",
+            "Liwei noted that they should buy blue curtains for the living room once the apartment hunting is over."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 5,
+            "session_index": 1
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-08-11",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Revising the travel budget",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-11, Boss Zhang decided that the budget cut for the Shenzhen trip is revised from 20% to 15%."
+          ],
+          "noise_info": [
+            "Linchen felt a wave of relief knowing he wouldn't have to stay in a cheap motel during the Shenzhen trip.",
+            "Boss Zhang mentioned that it usually rains a lot during the Shenzhen trip this time of year.",
+            "They discussed how the flight for the Shenzhen trip takes about 3 hours."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 4,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-12",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the new MacBook",
+          "topic": "Testing the new hardware compilation speed",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-12, Wanghao concluded that the new MacBook compiles the main repository in exactly 45 seconds."
+          ],
+          "noise_info": [
+            "Linchen was extremely excited to finally unbox the new MacBook.",
+            "Wanghao joked that the space gray color of the new MacBook looks very professional.",
+            "They agreed to grab coffee after finishing the setup of the new MacBook."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-12",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the weekly sync",
+          "topic": "Post-meeting debrief",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-12, Linchen felt a massive surge of confidence during the weekly sync because his data presentation was highly praised."
+          ],
+          "noise_info": [
+            "Sister Chen noted that the meeting room for the weekly sync was uncomfortably cold.",
+            "Linchen presented exactly 15 slides during the weekly sync.",
+            "They decided to change the recurring calendar invite for the weekly sync to include a Zoom link."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-13",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Calling Mom about the new place",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-13, Linchen promised Mom he would invite her over for a home-cooked dinner on the first weekend after finishing the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom asked if the rent price for the apartment hunting was over 6000 RMB.",
+            "Linchen felt exhausted just thinking about moving boxes after the apartment hunting.",
+            "They discussed how the living room from the apartment hunting gets great afternoon sunlight."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-13",
+          "focal_character": "Jiange",
+          "topic_anchor": "the new MacBook",
+          "topic": "Arranging a setup session",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-13, Jiange scheduled to help Linchen set up the development environment on the new MacBook at 8:00 PM on Thursday."
+          ],
+          "noise_info": [
+            "Jiange mentioned that the new MacBook has 32GB of unified memory.",
+            "Linchen expressed feeling overwhelmed by transferring all his old files to the new MacBook.",
+            "They talked about how the screen resolution on the new MacBook is incredibly crisp."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-14",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Pre-trip technical requirements",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-14, Wanghao concluded that the local demo server for the Shenzhen trip must be able to handle exactly 500 concurrent connections."
+          ],
+          "noise_info": [
+            "Linchen promised to bring back some local snacks from the Shenzhen trip.",
+            "Wanghao felt envious that Linchen gets to eat authentic dim sum during the Shenzhen trip.",
+            "They reviewed the flight departure time for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-15",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the weekly sync",
+          "topic": "Changing the meeting format",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-15, Boss Zhang decided that the format for the weekly sync will permanently shift to a written memo starting next week."
+          ],
+          "noise_info": [
+            "Linchen felt an immense sense of relief knowing he wouldn't have to speak at the weekly sync anymore.",
+            "The new memo template for the weekly sync requires exactly 3 bullet points per department.",
+            "Someone joked that the coffee during the weekly sync was the only reason people showed up."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-16",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Celebrating the signed lease",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-16, Linchen felt incredibly relieved and peaceful about the apartment hunting because the lease was finally officially signed."
+          ],
+          "noise_info": [
+            "Linchen mentioned that the security deposit for the apartment hunting was exactly two months' rent.",
+            "Sister Chen suggested they hire a moving company next Tuesday to finalize the apartment hunting.",
+            "They talked about buying a new sofa to celebrate the end of the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-17",
+          "focal_character": "Jiange",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Planning a send-off dinner",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-17, Jiange scheduled a quick farewell dinner for Linchen at 7:00 PM the night before the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Linchen felt a bit anxious about packing everything needed for the Shenzhen trip.",
+            "Jiange mentioned the restaurant is only 2 kilometers away from where Linchen is staying before the Shenzhen trip.",
+            "They decided to order exactly 4 dishes to keep things light before the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "date_range": "2025-08-18 ~ 2025-08-24",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the Pixel 9 phone",
+        "the in-laws visit",
+        "the weekly sync"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-18",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing the budget for the upcoming trip",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-18, Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 10% instead of 15%."
+          ],
+          "noise_info": [
+            "Linchen mentioned that the flight tickets for the Shenzhen trip were surprisingly cheap on Tuesdays.",
+            "Boss Zhang joked that the hotel breakfast during the Shenzhen trip better have good coffee.",
+            "Someone noted that the weather during the Shenzhen trip might be exceptionally humid."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 6,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-08-18",
+          "focal_character": "Jiange",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Rescheduling the farewell dinner",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-18, Jiange rescheduled the farewell dinner for the Shenzhen trip to exactly 8:00 PM to accommodate his gym session."
+          ],
+          "noise_info": [
+            "Linchen said he needed to pack his bags for the Shenzhen trip right after the dinner.",
+            "Jiange suggested eating at a spicy hot pot place before the Shenzhen trip.",
+            "They both agreed that the Shenzhen trip would be a good networking opportunity."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 6,
+            "session_index": 10
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-19",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Discussing new tech gadgets",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-19, Wanghao concluded that the AI processing unit on the Pixel 9 phone is exactly 20% faster than the previous generation."
+          ],
+          "noise_info": [
+            "Linchen thought the color options for the Pixel 9 phone were a bit boring this year.",
+            "Wanghao mentioned he saw a YouTube review of the Pixel 9 phone over the weekend.",
+            "They debated whether the camera bump on the Pixel 9 phone makes it wobble on a desk."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-19",
+          "focal_character": "Liwei",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Planning for the parents' arrival",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-19, Liwei became incredibly anxious about the in-laws visit because her parents are notoriously strict about apartment cleanliness.",
+            "On 2025-08-19, Linchen made a serious commitment to Liwei to deep clean the entire apartment before the in-laws visit."
+          ],
+          "noise_info": [
+            "Linchen asked if they should buy new slippers for the in-laws visit.",
+            "Liwei mentioned that her dad usually prefers drinking green tea during the in-laws visit.",
+            "They talked about taking a walk in the nearby park during the in-laws visit."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-20",
+          "focal_character": "Mom",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Calling Mom for cooking advice",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-20, Linchen promised Mom he would use her special braised pork recipe to impress Liwei's parents during the in-laws visit."
+          ],
+          "noise_info": [
+            "Mom said it's important to dress nicely for the in-laws visit.",
+            "Linchen mentioned he might buy some premium soy sauce for the in-laws visit.",
+            "Mom recalled how nervous Linchen's dad was during their own in-laws visit decades ago."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-21",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the weekly sync",
+          "topic": "Chatting about the new meeting format",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-21, Linchen felt deeply relieved about the weekly sync because the new written memo format saved him hours of slide preparation."
+          ],
+          "noise_info": [
+            "Sister Chen pointed out that nobody actually reads the appendices in the weekly sync memos.",
+            "Linchen wondered if he should use a different font for his section of the weekly sync.",
+            "They joked that the coffee is always cold by the time the weekly sync emails go out."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-22",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the weekly sync",
+          "topic": "Refining the memo format",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-22, Boss Zhang decided that the written memo for the weekly sync must strictly not exceed two pages in length."
+          ],
+          "noise_info": [
+            "Linchen mentioned he usually drafts his part of the weekly sync on Thursday afternoons.",
+            "Boss Zhang said the template for the weekly sync looks a bit outdated.",
+            "Someone asked if they should include a joke of the week in the weekly sync."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-22",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the weekly sync",
+          "topic": "Automating the data export",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-22, Wanghao concluded that the automated script to generate charts for the weekly sync takes exactly 45 seconds to run."
+          ],
+          "noise_info": [
+            "Linchen said the colors on the charts for the weekly sync looked a bit washed out on his monitor.",
+            "Wanghao suggested they should grab lunch after sending out the weekly sync data.",
+            "They both agreed that reading the weekly sync on a mobile phone is annoying."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-23",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Discussing upcoming birthdays",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-23, Linchen made a serious commitment to Liwei to pre-order the Pixel 9 phone as her upcoming birthday gift."
+          ],
+          "noise_info": [
+            "Liwei said she heard the battery life on the Pixel 9 phone was supposed to be amazing.",
+            "Linchen wondered if the local mall had a display unit of the Pixel 9 phone yet.",
+            "They debated whether to get a clear case or a silicone case for the Pixel 9 phone."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-24",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Venting about weekend chores",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-24, Linchen became overwhelmed with dread about the in-laws visit after realizing he hadn't bought new guest bedding yet."
+          ],
+          "noise_info": [
+            "Sister Chen suggested buying some nice fruit for the in-laws visit.",
+            "Linchen complained that the local supermarket was too crowded to shop for the in-laws visit.",
+            "They laughed about how awkward dinner conversations can be during an in-laws visit."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "date_range": "2025-08-25 ~ 2025-08-31",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the in-laws visit",
+        "the Pixel 9 phone",
+        "the weekly sync"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-25",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing the travel budget cut",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-25, Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 12% instead of 10%."
+          ],
+          "noise_info": [
+            "Linchen mentioned that flight options for the Shenzhen trip were getting expensive.",
+            "Boss Zhang joked about the spicy food during the Shenzhen trip.",
+            "Someone suggested booking a cheaper hotel for the Shenzhen trip to save money."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-26",
+          "focal_character": "Jiange",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Arranging help with furniture",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-26, Jiange scheduled to help Linchen assemble the new guest bed for the in-laws visit at exactly 10:00 AM this Saturday."
+          ],
+          "noise_info": [
+            "Jiange asked if Linchen was sweating yet about the in-laws visit.",
+            "Linchen mentioned the mattress for the in-laws visit was surprisingly heavy.",
+            "Jiange recommended a good drill to use before the in-laws visit."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-27",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Reviewing updated benchmark leaks",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-27, Wanghao concluded that the AI processing unit on the Pixel 9 phone is actually exactly 25% faster than the previous generation based on new benchmarks."
+          ],
+          "noise_info": [
+            "Wanghao thought the new color options for the Pixel 9 phone were uninspired.",
+            "Linchen wondered if the case for the Pixel 9 phone would be hard to find.",
+            "They debated whether the battery life of the Pixel 9 phone would last a full day."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-28",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the in-laws visit",
+          "topic": "A cooking disaster",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-28, Linchen felt a sudden wave of terror regarding the in-laws visit because he accidentally burned a practice batch of Mom's braised pork."
+          ],
+          "noise_info": [
+            "Sister Chen suggested buying pre-made sauce for the in-laws visit to be safe.",
+            "Linchen complained that grocery prices for the in-laws visit were adding up.",
+            "They discussed what shirt Linchen should wear on the first day of the in-laws visit."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-29",
+          "focal_character": "Mom",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Checking in on preparations",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-29, Linchen promised Mom he would call her the moment the first dinner of the in-laws visit concludes."
+          ],
+          "noise_info": [
+            "Mom advised serving green tea during the in-laws visit.",
+            "Linchen said the weather for the in-laws visit looks like it will be sunny.",
+            "Mom asked if the new apartment was fully dusted for the in-laws visit."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-30",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Deciding on the specific model",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-30, Linchen made a serious commitment to Liwei to order the Pro model of the Pixel 9 phone instead of the base model."
+          ],
+          "noise_info": [
+            "Liwei mentioned the screen size of the Pixel 9 phone was perfect for watching videos.",
+            "Linchen pointed out the camera bump on the Pixel 9 phone is quite large.",
+            "They read that the shipping weight of the Pixel 9 phone box is very light."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-31",
+          "focal_character": "Jiange",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Adjusting the farewell dinner time",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-31, Jiange rescheduled the farewell dinner for the Shenzhen trip back to exactly 7:30 PM due to a sudden gym closure."
+          ],
+          "noise_info": [
+            "Jiange wondered if they should order barbecue for the farewell dinner before the Shenzhen trip.",
+            "Linchen hoped the traffic wouldn't be bad on the way to the airport for the Shenzhen trip.",
+            "They talked about the restaurant's new decor for the dinner before the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 1
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-08-25",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the weekly sync",
+          "topic": "Tightening the memo constraints",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-25, Boss Zhang decided that the written memo for the weekly sync must strictly not exceed one single page in length."
+          ],
+          "noise_info": [
+            "Boss Zhang suggested using a smaller font for the weekly sync memo.",
+            "Linchen asked if bullet points were preferred for the weekly sync.",
+            "Someone mentioned that reading the weekly sync memo on a phone is difficult."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 6
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-26",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the weekly sync",
+          "topic": "Venting about the new page limit",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-26, Linchen became extremely frustrated about the weekly sync because condensing all his data into one single page felt impossible."
+          ],
+          "noise_info": [
+            "Sister Chen offered Linchen an extra coffee to help him write for the weekly sync.",
+            "They joked that the weekly sync was turning into a poetry contest.",
+            "Linchen noticed the meeting room for the weekly sync was double-booked anyway."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-27",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the weekly sync",
+          "topic": "Optimizing the chart generation",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-27, Wanghao concluded that the optimized automated script to generate charts for the weekly sync now takes exactly 30 seconds to run."
+          ],
+          "noise_info": [
+            "Wanghao complained about the Python version used for the weekly sync script.",
+            "Linchen asked if the colors on the weekly sync charts could be changed to blue.",
+            "They discussed the server load when the weekly sync script executes."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 8
+          }
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "date_range": "2025-09-01 ~ 2025-09-07",
+      "topic_anchors": [
+        "the in-laws visit",
+        "the Shenzhen trip",
+        "the Pixel 9 phone",
+        "the dentist appointment"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-09-01",
+          "focal_character": "Liwei",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Discussing the upcoming arrival of Liwei's parents",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-01, Liwei felt a profound sense of relief about the in-laws visit because the guest room was finally perfectly clean."
+          ],
+          "noise_info": [
+            "Linchen mentioned the guest bed for the in-laws visit cost 1500 RMB.",
+            "Liwei noted that the train for the in-laws visit arrives at exactly 3:00 PM.",
+            "Linchen decided to cook three dishes for the in-laws visit dinner."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 3
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-09-01",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing travel budgets before the trip",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-01, Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 15% instead of 12%."
+          ],
+          "noise_info": [
+            "Linchen felt frustrated about the budget cut for the Shenzhen trip.",
+            "Boss Zhang scheduled the flight for the Shenzhen trip at 8:00 AM.",
+            "Linchen promised to bring back souvenirs from the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 8,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-09-02",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Reviewing new benchmark scores",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-02, Wanghao concluded that the AI processing unit on the Pixel 9 phone is actually exactly 30% faster than the previous generation after a software update."
+          ],
+          "noise_info": [
+            "Linchen felt excited about buying the Pixel 9 phone.",
+            "Wanghao scheduled to test the Pixel 9 phone at 2 PM.",
+            "Linchen promised to let Wanghao borrow the Pixel 9 phone."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 8,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-09-03",
+          "focal_character": "Jiange",
+          "topic_anchor": "the dentist appointment",
+          "topic": "Coordinating workout schedules around a checkup",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-03, Jiange scheduled to drive Linchen to the dentist appointment at exactly 2:00 PM this Friday."
+          ],
+          "noise_info": [
+            "Linchen felt anxious about the dentist appointment.",
+            "Jiange concluded that the clinic for the dentist appointment is 5 kilometers away.",
+            "Linchen promised to buy Jiange coffee after the dentist appointment."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-04",
+          "focal_character": "Mom",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Catching up on family preparations",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-04, Linchen promised Mom he would send her a family group photo on the second day of the in-laws visit."
+          ],
+          "noise_info": [
+            "Mom concluded that the grocery bill for the in-laws visit was 800 RMB.",
+            "Linchen scheduled a city tour for the in-laws visit at 10 AM.",
+            "Mom felt excited about the in-laws visit."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-04",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the in-laws visit",
+          "topic": "Venting at the water cooler",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-04, Linchen felt incredibly calm about the in-laws visit because all the cooking preparations were finished early."
+          ],
+          "noise_info": [
+            "Sister Chen scheduled a follow-up chat about the in-laws visit for Monday.",
+            "Linchen promised Sister Chen he would share leftovers from the in-laws visit.",
+            "Sister Chen concluded that preparing for the in-laws visit took exactly 12 hours."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-09-05",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the dentist appointment",
+          "topic": "Pre-appointment jitters",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-05, Linchen became absolutely terrified about the dentist appointment after hearing the sound of a drill in a movie."
+          ],
+          "noise_info": [
+            "Sister Chen concluded that the dentist appointment will cost exactly 400 RMB.",
+            "Linchen scheduled a taxi for the dentist appointment at 1:30 PM.",
+            "Linchen promised to text Sister Chen right after the dentist appointment."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-09-06",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Weekend plans for the new device",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-06, Linchen made a serious commitment to Liwei to pick up the Pixel 9 phone from the mall on Sunday morning."
+          ],
+          "noise_info": [
+            "Liwei scheduled breakfast before getting the Pixel 9 phone at 9 AM.",
+            "Linchen concluded that the Pixel 9 phone case costs exactly 150 RMB.",
+            "Liwei felt happy about the color of the Pixel 9 phone."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-07",
+          "focal_character": "Jiange",
+          "topic_anchor": "the dentist appointment",
+          "topic": "Planning for a follow-up visit",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-07, Jiange scheduled to accompany Linchen to the follow-up for the dentist appointment at exactly 10:00 AM next Tuesday."
+          ],
+          "noise_info": [
+            "Linchen felt relieved that the first dentist appointment was painless.",
+            "Jiange concluded that the filling from the dentist appointment weighs 2 grams.",
+            "Linchen promised to floss daily after the dentist appointment."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-07",
+          "focal_character": "Mom",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "A weekend phone call about travel plans",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-07, Linchen promised Mom he would buy her favorite specialty tea during the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Mom felt worried about the weather during the Shenzhen trip.",
+            "Linchen concluded that the flight for the Shenzhen trip covers exactly 1500 miles.",
+            "Linchen scheduled a packing session for the Shenzhen trip at 8 PM."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "date_range": "2025-09-08 ~ 2025-09-14",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the Pixel 9 phone",
+        "the dentist appointment",
+        "the all-hands meeting"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-09-08",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing the travel budget cuts",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-08, Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 18% instead of 15%."
+          ],
+          "noise_info": [
+            "Linchen mentioned the weather forecast for the Shenzhen trip looks rainy.",
+            "Boss Zhang asked if anyone had dietary restrictions for the Shenzhen trip dinners.",
+            "Someone joked that the hotel pillows for the Shenzhen trip are always too soft."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 1
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-09-09",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Changing the pickup plan for the gift",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-09, Linchen made a serious commitment to Liwei to pick up the Pixel 9 phone on Tuesday evening instead of Sunday morning.",
+            "On 2025-09-09, Liwei felt extremely excited about the Pixel 9 phone because she had been waiting for the new camera features."
+          ],
+          "noise_info": [
+            "Linchen mentioned the store layout for picking up the Pixel 9 phone is confusing.",
+            "Liwei asked if the screen protector for the Pixel 9 phone comes pre-installed.",
+            "They discussed whether the charging cable for the Pixel 9 phone is braided."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 7
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-09-10",
+          "focal_character": "Jiange",
+          "topic_anchor": "the dentist appointment",
+          "topic": "Adjusting the escort schedule",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-10, Jiange rescheduled to accompany Linchen to the follow-up for the dentist appointment at exactly 11:30 AM next Tuesday instead of 10:00 AM."
+          ],
+          "noise_info": [
+            "Linchen complained about the parking fees near the clinic for the dentist appointment.",
+            "Jiange asked what flavor of mouthwash they use at the dentist appointment.",
+            "They debated whether the waiting room magazines for the dentist appointment are updated."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 8
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-11",
+          "focal_character": "Mom",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Updating the souvenir promise",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-11, Linchen promised Mom he would buy her favorite specialty snacks during the Shenzhen trip instead of tea."
+          ],
+          "noise_info": [
+            "Mom asked how many t-shirts Linchen packed for the Shenzhen trip.",
+            "Linchen mentioned the flight duration for the Shenzhen trip is about three hours.",
+            "Mom suggested taking a neck pillow for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 9
+          }
+        },
+        {
+          "day": "Friday",
+          "date": "2025-09-12",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the all-hands meeting",
+          "topic": "Testing the network for the broadcast",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-12, Wanghao concluded that the live stream for the all-hands meeting will consume exactly 500 Mbps of bandwidth."
+          ],
+          "noise_info": [
+            "Linchen asked if there will be free pastries at the all-hands meeting.",
+            "Wanghao wondered if the CEO will wear a suit to the all-hands meeting.",
+            "They discussed the seating arrangements in the main hall for the all-hands meeting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-09-12",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the all-hands meeting",
+          "topic": "Venting about presentation nerves",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-12, Linchen became extremely nervous about the all-hands meeting because he has to present his data to the entire company."
+          ],
+          "noise_info": [
+            "Sister Chen mentioned she prefers the old slide templates for the all-hands meeting.",
+            "Linchen asked if the microphone setup for the all-hands meeting is wireless.",
+            "They talked about the brand of bottled water provided at the all-hands meeting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-09-13",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the all-hands meeting",
+          "topic": "Setting the agenda limits",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-13, Boss Zhang decided that the Q&A segment of the all-hands meeting will be strictly limited to 15 minutes."
+          ],
+          "noise_info": [
+            "Linchen suggested playing upbeat background music before the all-hands meeting.",
+            "Boss Zhang noted the lighting in the room for the all-hands meeting is a bit dim.",
+            "They joked about the awkward silences that usually happen at the all-hands meeting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-09-13",
+          "focal_character": "Jiange",
+          "topic_anchor": "the all-hands meeting",
+          "topic": "Scheduling a practice run",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-13, Jiange scheduled to help Linchen practice his presentation for the all-hands meeting at exactly 4:00 PM on Sunday."
+          ],
+          "noise_info": [
+            "Linchen complained about the font sizes required for the all-hands meeting slides.",
+            "Jiange asked if Linchen bought a new laser pointer for the all-hands meeting.",
+            "They discussed the color of the stage backdrop for the all-hands meeting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-14",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Pixel 9 phone",
+          "topic": "Analyzing device performance",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-14, Wanghao concluded that the battery life on the Pixel 9 phone lasts exactly 18 hours under heavy load."
+          ],
+          "noise_info": [
+            "Linchen talked about the unboxing experience of the Pixel 9 phone.",
+            "Wanghao mentioned the texture of the silicone case for the Pixel 9 phone.",
+            "They debated the aesthetics of the camera bump on the Pixel 9 phone."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-14",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Saying goodbye before travel",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-14, Liwei felt a wave of sadness about the Shenzhen trip because it meant they would miss their favorite weekend market together."
+          ],
+          "noise_info": [
+            "Linchen checked if he packed enough socks for the Shenzhen trip.",
+            "Liwei asked about the subway route Linchen would take for the Shenzhen trip.",
+            "They discussed the luggage weight limits for the Shenzhen trip flight."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    }
+  ]
+}

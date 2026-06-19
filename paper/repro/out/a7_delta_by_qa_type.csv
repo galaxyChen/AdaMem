@@ -1,0 +1,5 @@
+model,fbmode,qa_type,m0_acc,adamem_acc,delta,n
+deepseek,verbose,within_pref,76.2,85.2,9.0,500
+deepseek,with_gold,within_pref,80.2,82.0,1.8,500
+gemini,verbose,within_pref,80.4,84.8,4.4,500
+gemini,with_gold,within_pref,83.2,85.4,2.2,500

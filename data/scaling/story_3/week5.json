@@ -1,0 +1,497 @@
+{
+  "week": 5,
+  "conversations": [
+    {
+      "session_id": "w5_s1",
+      "day": "Monday",
+      "date": "2025-08-04",
+      "topic": "Syncing on travel arrangements and upcoming deadlines.",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can we update the itinerary for the Shenzhen trip? Boss Zhang made another change today."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing. What's the latest update from the boss?"
+        },
+        {
+          "role": "user",
+          "content": "So, Boss Zhang decided that Wanghao will not accompany me on the Shenzhen trip after all. He wants Wanghao to stay here so he can focus on the upcoming demos."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've updated the trip so it's just you going again. Did he change anything else about the logistics?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Boss Zhang mentioned that the hotel rewards program for the Shenzhen trip has changed, so I'll need to figure out the new booking portal later."
+        },
+        {
+          "role": "assistant",
+          "content": "I'll remind you to check the new portal before you book the rooms. How's Wanghao taking the news?"
+        },
+        {
+          "role": "user",
+          "content": "He's fine, though Wanghao joked about missing the famous seafood on the Shenzhen trip. Honestly, I'm just speculating about the weather during the Shenzhen trip right now. I really hope it's not too humid."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed for good weather! I can pull up a forecast for you as we get closer to the departure date."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-04, Boss Zhang decided that Wanghao will not accompany Linchen on the Shenzhen trip so Wanghao can focus on upcoming demos."
+      ]
+    },
+    {
+      "session_id": "w5_s2",
+      "day": "Monday",
+      "date": "2025-08-04",
+      "topic": "Chatting by the water cooler about the schedule change.",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just bumped into Sister Chen by the water cooler. We were talking about the schedule change for the Shenzhen trip. Boss Zhang officially pulled Wanghao from the trip today so he can focus on demos."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, back to flying solo! How did Sister Chen take the news?"
+        },
+        {
+          "role": "user",
+          "content": "Not well at all. She became incredibly anxious again because Wanghao being pulled from the trip means she's left to handle all the on-call duties alone."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a huge bummer for her, especially since she was so relieved last week. Did you manage to change the subject to calm her down?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I tried to distract her by talking about the travel logistics. We ended up discussing how long the flight is for the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call on the distraction. Hopefully the flight isn't too brutal. Any other advice from her?"
+        },
+        {
+          "role": "user",
+          "content": "She actually suggested I pack an umbrella for the Shenzhen trip since the weather there is pretty unpredictable right now. Oh, and before we walked away, I asked her to water my desk plant during the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "That's nice of her to look out for your packing! Let's just hope she isn't too stressed with the on-call shifts to remember your plant."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-04, Sister Chen became incredibly anxious again because Wanghao was pulled from the Shenzhen trip, leaving her to handle on-call duties alone."
+      ]
+    },
+    {
+      "session_id": "w5_s3",
+      "day": "Tuesday",
+      "date": "2025-08-05",
+      "topic": "Evening discussion about rental market prices.",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just talking to Liwei about the apartment hunting. The rental market prices are insane right now."
+        },
+        {
+          "role": "assistant",
+          "content": "Yeah, the market has been pretty wild lately. How's the search going with Liwei?"
+        },
+        {
+          "role": "user",
+          "content": "It's tough. Liwei noted that the subway commute is a major factor in the apartment hunting for her, so we can't just move out to the middle of nowhere. Because of the rising rents, I seriously committed to Liwei that we will strictly cap our budget increase at 3500 RMB."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll note the new strict cap of a 3500 RMB increase. That should give you guys a bit more flexibility near the subway lines. Are you looking at any specific neighborhoods yet?"
+        },
+        {
+          "role": "user",
+          "content": "A few, but I'm really dreading the extra costs. I was just complaining to her about the high agency fees associated with the apartment hunting. It's basically a whole month's rent just for them opening a door."
+        },
+        {
+          "role": "assistant",
+          "content": "Those agency fees are definitely a painful pill to swallow. Sometimes you can negotiate them down a bit, or try hunting for direct-landlord listings on some apps."
+        },
+        {
+          "role": "user",
+          "content": "True, I'll keep an eye out for those. We also debated whether to hire a moving company after the apartment hunting is finally over. Not sure if it's worth the cost or if we should just rent a van ourselves."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense to weigh the options! Let's get the apartment locked down first, and then you can figure out the moving logistics. Let me know if you want me to track any listings for you."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-05, Linchen seriously committed to Liwei that they will strictly cap their budget increase at 3500 RMB for the apartment hunting due to rising rents."
+      ]
+    },
+    {
+      "session_id": "w5_s4",
+      "day": "Wednesday",
+      "date": "2025-08-06",
+      "topic": "A quick phone call home.",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a quick phone call with Mom about the apartment hunting. Can you take down some notes?"
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! How did the chat with your mom go?"
+        },
+        {
+          "role": "user",
+          "content": "It was good. I mentioned the square footage of the units we've viewed so far in our apartment hunting—mostly around 80 square meters. She immediately asked if the neighborhoods we saw have good grocery stores nearby."
+        },
+        {
+          "role": "assistant",
+          "content": "A very practical mom question! Did the neighborhoods check out on the grocery front?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, mostly. Then she shared a long story about her own experience with apartment hunting back in the day, like how she and Dad almost rented a place right next to a noisy factory. To keep her in the loop, I promised Mom I will send her video tours of our top three choices during the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great way to keep her involved and get her perspective. I'll make sure to remember that you're sending her those video tours. Anything else from the call?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, that's the gist of it. I need to get back to looking at the trading system logs now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good. Good luck with the logs, and let me know if you need anything else later!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-06, Linchen promised Mom he will send her video tours of their top three choices during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w5_s5",
+      "day": "Thursday",
+      "date": "2025-08-07",
+      "topic": "Finalizing the backend environment.",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up a quick sync with Wanghao about the customer demo. Do you have a record of what time the customer demo was scheduled to start today?"
+        },
+        {
+          "role": "assistant",
+          "content": "It looks like it's on your calendar for 2:00 PM today. How are you and Wanghao feeling about it?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good, actually. Wanghao concluded that the real-time matching engine is finally stable enough for the customer demo, which is a huge relief after all the recent refactoring."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news! It must feel great to have that locked in. Did you guys run any final load tests?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we pushed it hard. Wanghao noted that the system successfully handled exactly 50,000 concurrent mock users in preparation for the customer demo. Oh, we also discussed who would be operating the slides during the customer demo, and we decided I'll drive them so he can focus on talking."
+        },
+        {
+          "role": "assistant",
+          "content": "50,000 concurrent users is a fantastic benchmark! And you driving the slides while he presents sounds like a solid game plan."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it should go smoothly. Wanghao is already in celebration mode—he wondered if we should order pizza for the team after the customer demo. I told him I'm definitely down for that."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza is definitely earned after hitting those numbers! Let me know if you need me to look up some good places to order from later. Good luck with the demo!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-07, Wanghao concluded that the real-time matching engine is stable enough for the customer demo.",
+        "On 2025-08-07, Wanghao noted that the system successfully handled exactly 50,000 concurrent mock users in preparation for the customer demo."
+      ]
+    },
+    {
+      "session_id": "w5_s6",
+      "day": "Thursday",
+      "date": "2025-08-07",
+      "topic": "Reviewing the presentation plan.",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, let's review the presentation plan for the customer demo. I just had a quick sync with Boss Zhang about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! How did the sync go? Are we all set for the big demo?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly. Boss Zhang asked if the projector in the main room was working for the customer demo, and I confirmed we tested it. He also commented on the font size used in the slides, saying a few charts were hard to read."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I'll remind you to bump up those font sizes later. Did you guys finalize the logistics?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah. I suggested wearing formal attire for the customer demo to make a good impression. But the big news is that Boss Zhang decided to invite the CEO to watch the final internal rehearsal of the customer demo."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh wow, bringing the CEO in for the rehearsal! The stakes are definitely getting higher. Need me to block out some extra prep time on your calendar?"
+        },
+        {
+          "role": "user",
+          "content": "That would be great, maybe an hour tomorrow morning. I want to make sure the real-time matching engine runs flawlessly while the CEO is watching."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. An hour blocked for tomorrow morning. You and Wanghao have already stress-tested the engine, so you're going to crush it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-07, Boss Zhang decided to invite the CEO to watch the final internal rehearsal of the customer demo."
+      ]
+    },
+    {
+      "session_id": "w5_s7",
+      "day": "Friday",
+      "date": "2025-08-08",
+      "topic": "Texting about the weekend workout.",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just giving you an update on the running plan for this weekend. Jiange just texted me."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's the word? Are you guys still on for tomorrow morning?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, no. There's a thunderstorm forecasted for Saturday, so Jiange rescheduled the weekend session of our running plan to 7:00 AM on Sunday instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move avoiding the storm. Sunday at 7:00 AM it is. Have you guys figured out where you're running yet?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we discussed taking the scenic route through the park this time. I even shared a new Spotify playlist I created just for the running plan so we have some good tempo tracks."
+        },
+        {
+          "role": "assistant",
+          "content": "A scenic park route and a custom playlist sound like the perfect combo for a Sunday morning run. Anything else you need to prep?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Jiange recommended a specific brand of moisture-wicking socks for the running plan, so I might try to order a pair tonight before the weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call, keeping your feet dry makes a huge difference. Let me know if you need anything else before your 7:00 AM run on Sunday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-08, Jiange rescheduled the weekend session of the running plan to 7:00 AM on Sunday due to a forecasted thunderstorm on Saturday."
+      ]
+    },
+    {
+      "session_id": "w5_s8",
+      "day": "Friday",
+      "date": "2025-08-08",
+      "topic": "Relaxing at home after work.",
+      "focal_character": "Liwei",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, finally chilling on the couch after a long week. I just showed Liwei the GPS map of my route for the running plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice job keeping up with it! What did she think of your route?"
+        },
+        {
+          "role": "user",
+          "content": "She was curious and asked how many kilometers I logged for the running plan this week. But honestly, she felt slightly annoyed because the running plan is making me way too exhausted to actually enjoy our Friday movie night."
+        },
+        {
+          "role": "assistant",
+          "content": "Uh oh, falling asleep during the movie? It makes sense she'd be a bit annoyed if you're too wiped out for your dates."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I was literally nodding off. We did end up having a good chat about buying new reflective gear for the running plan though, since it's getting darker in the evenings."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a good pivot. Reflective gear is definitely a must. Are you going to adjust your runs so you have more energy for Friday nights?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, since Jiange moved our weekend run to Sunday at 7 AM anyway, I'll just keep Fridays light. Going to try and stay awake for the rest of this movie now!"
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Grab some snacks and enjoy the rest of your movie night with Liwei!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-08, Liwei felt slightly annoyed because the running plan was making Linchen too exhausted to enjoy their Friday movie night."
+      ]
+    },
+    {
+      "session_id": "w5_s9",
+      "day": "Saturday",
+      "date": "2025-08-09",
+      "topic": "Comparing fitness tracker stats in the group chat.",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "I was just catching up with Wanghao in the group chat about our running plan. I told him I've been drinking a ton more water lately just to stay hydrated for these runs."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart move, staying hydrated is crucial. How is the running plan going for Wanghao?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty well, actually. He was analyzing his fitness tracker stats and noted that his VO2 max estimate increased by exactly 2 points thanks to the running plan. Though he also complained about a nasty blister he got from his new shoes during it."
+        },
+        {
+          "role": "assistant",
+          "content": "A 2-point increase in VO2 max is a great quantifiable metric! Sucks about the blister, though. Did he figure out a way to treat it?"
+        },
+        {
+          "role": "user",
+          "content": "He's just taping it up. We got sidetracked anyway and debated the benefits of stretching before versus after the running plan. I still think static stretching after is the way to go."
+        },
+        {
+          "role": "assistant",
+          "content": "That's the classic debate! Static stretching afterward is definitely great for recovery. Are you guys still set for your rescheduled Sunday morning run?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, 7 AM tomorrow. Hopefully, his shoe situation doesn't mess up our pacing."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed! Have a good run tomorrow, and don't forget to keep up that water intake."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-09, Wanghao noted that his VO2 max estimate increased by exactly 2 points thanks to the running plan."
+      ]
+    },
+    {
+      "session_id": "w5_s10",
+      "day": "Sunday",
+      "date": "2025-08-10",
+      "topic": "A weekend check-in message.",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just doing a quick weekend check-in on the customer demo stuff. I was talking to Sister Chen earlier, and she mentioned she spent 3 hours writing documentation for the customer demo today."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey! Wow, 3 hours on a Sunday? She's really putting in the work. How's the rest of the prep looking?"
+        },
+        {
+          "role": "user",
+          "content": "Getting there. I asked her if the mock data generation script was ready for the customer demo, since we need it for the rehearsal."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. That mock data is crucial, especially with the CEO watching the final rehearsal. Did she have it ready?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she did. We also discussed the exact sequence of screens to show during the customer demo so we don't fumble the transitions during the live run."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like you guys have a really solid game plan. How's Sister Chen holding up? I know she was pretty anxious about covering your on-call shifts earlier this week."
+        },
+        {
+          "role": "user",
+          "content": "Actually, she's doing great now. She felt a massive surge of confidence after successfully testing her fallback API endpoints for the customer demo today. The tests passed perfectly."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome to hear! A successful test run is the best confidence booster. Sounds like you're both set to crush it tomorrow."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-10, Sister Chen felt a massive surge of confidence after successfully testing her fallback API endpoints for the customer demo."
+      ]
+    }
+  ]
+}

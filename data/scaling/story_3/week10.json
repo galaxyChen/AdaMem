@@ -1,0 +1,499 @@
+{
+  "week": 10,
+  "conversations": [
+    {
+      "session_id": "w10_s1",
+      "day": "Monday",
+      "date": "2025-09-08",
+      "topic": "Adjusting the travel roster again",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Boss Zhang just changed the roster for the Shenzhen trip again today. He decided that Wanghao will accompany me for exactly two days of the Shenzhen trip instead of just one."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, another change! At least you get Wanghao's help for an extra day. Do you need me to update the travel itinerary?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please do. We need to move fast though, because Boss Zhang was complaining that the high-speed rail tickets for the Shenzhen trip are selling out too fast. He also got totally sidetracked and felt extremely nostalgic thinking about his very first Shenzhen trip years ago."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Boss Zhang. I'll prioritize finding those train tickets right now so you don't miss out. Did he mention any budget updates while he was reminiscing?"
+        },
+        {
+          "role": "user",
+          "content": "Just a quick detail. He noted that the hotel for the Shenzhen trip costs exactly 650 RMB per night, so keep that in mind for the expense report. Oh, and to motivate us, he promised to buy the team dinner if we secure the client during the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 650 RMB a night for the hotel, and a potential free dinner on the line! I've updated your notes. Ready to review the train ticket options?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, let's get those booked before they're completely gone."
+        },
+        {
+          "role": "assistant",
+          "content": "On it. Pulling up the schedules for you and Wanghao right now."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-08, Boss Zhang decided that Wanghao will accompany Linchen for exactly two days of the Shenzhen trip instead of one."
+      ]
+    },
+    {
+      "session_id": "w10_s2",
+      "day": "Monday",
+      "date": "2025-09-08",
+      "topic": "Reacting to the new travel schedule",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, so Boss Zhang just updated the schedule and Wanghao is coming with me for two days on the Shenzhen trip instead of just one. Sister Chen felt a massive wave of relief when she heard. She was practically glowing because Wanghao's extended presence means she has even less solo on-call duty to worry about."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! I know she's been really anxious about covering on-call by herself. Having Wanghao there an extra day must be a huge weight off her shoulders."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. She was in such a good mood that she even noted the total budget for the Shenzhen trip was increased by 15%. Oh, and she scheduled a quick handover meeting for the Shenzhen trip at 2:00 PM today."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I'll block out 2:00 PM for the handover meeting. And a 15% budget bump is always a nice bonus for the trip! Anything specific you need to prep for the sync?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. She just decided to organize her own local tasks while the guys are on the Shenzhen trip, so she wants to align our timelines quickly."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense. Sounds like she's getting her whole week structured so things run smoothly while you and Wanghao are out."
+        },
+        {
+          "role": "user",
+          "content": "Yep. She even promised to water my desk plants during the Shenzhen trip. It's crazy how much her vibe changed just from that one schedule update."
+        },
+        {
+          "role": "assistant",
+          "content": "That's really sweet of her! It just goes to show how much a little backup means. Your plants are in good hands, and you can focus on the trip."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-08, Sister Chen felt a massive wave of relief because Wanghao's extended presence on the Shenzhen trip means she has even less solo on-call duty."
+      ]
+    },
+    {
+      "session_id": "w10_s3",
+      "day": "Tuesday",
+      "date": "2025-09-09",
+      "topic": "Updating Mom on the lease signing",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, remind me to prep for an 8 PM family WeChat call tonight. Mom scheduled it to discuss the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. I've set a reminder for 8 PM. Is she worried about how the search is going?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Mom felt incredibly anxious about the high rent prices we encountered during the apartment hunting. It's been stressing her out."
+        },
+        {
+          "role": "assistant",
+          "content": "Rents are definitely crazy right now. Any updates on actually locking a place down to ease her mind?"
+        },
+        {
+          "role": "user",
+          "content": "Well, because of a landlord delay, I promised Mom I will officially sign a lease by Sunday instead of Friday for the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, Sunday it is. A couple of extra days isn't too bad. Did you factor in all the extra moving costs?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, Mom noted that the standard agency fee for the apartment hunting is exactly 2% of the annual rent. Oh, and she also decided that I must buy new curtains immediately after concluding the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like she's already starting the interior decorating! I'll have all your notes ready for the call tonight."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-09, Linchen promised Mom he will officially sign a lease by Sunday instead of Friday for the apartment hunting due to a landlord delay."
+      ]
+    },
+    {
+      "session_id": "w10_s4",
+      "day": "Wednesday",
+      "date": "2025-09-10",
+      "topic": "Finalizing the maximum budget",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Liwei. She scheduled one final evening viewing at 6:30 PM today for our apartment hunting. She told me she feels completely exhausted from all the walking required to see these places."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame her, apartment hunting is a marathon! Hopefully, this 6:30 PM viewing is the last one you'll need. Does this new place look promising?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Liwei noted that the newest place they found is exactly 65 square meters, which is a decent size for us. But rents have been crazy. To keep us grounded, I seriously committed to Liwei that we will strictly cap our budget increase at exactly 6000 RMB for the apartment hunting. Not a penny more."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a very smart boundary to set. Sticking to that 6000 RMB cap will definitely keep things manageable for you both. Is she looking forward to finally wrapping this up?"
+        },
+        {
+          "role": "user",
+          "content": "Definitely. In fact, Liwei decided we should celebrate with hot pot once the apartment hunting is over."
+        },
+        {
+          "role": "assistant",
+          "content": "Hot pot sounds like the perfect reward! Let's hope tonight's viewing is the winner so you two can finally sign that lease by Sunday and celebrate."
+        },
+        {
+          "role": "user",
+          "content": "Thanks! Keep your fingers crossed for us tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed! Good luck to you and Liwei tonight. Have fun at the hot pot if you seal the deal!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-10, Liwei felt completely exhausted from all the walking required for the apartment hunting.",
+        "On 2025-09-10, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 6000 RMB for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w10_s5",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Reviewing system capacity",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of a capacity review meeting with Wanghao for the Double Eleven sale. He felt incredibly stressed about the upcoming workload."
+        },
+        {
+          "role": "assistant",
+          "content": "I can imagine! Double Eleven traffic is no joke, especially with the strict code freeze coming up. Did you guys nail down the capacity targets?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did the math. Wanghao concluded that our caching layer can handle 300,000 read requests per second for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive amount of throughput. Are there specific thresholds you need to maintain to keep it stable?"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Wanghao noted that the average cache hit ratio must remain above 98% for the Double Eleven sale, or else the extra database shards won't be enough. To be safe, he scheduled a simulated load testing session at 11:00 PM tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 300k reads/sec and a 98% hit ratio. Sounds like a long night ahead for him with that 11 PM test."
+        },
+        {
+          "role": "user",
+          "content": "For sure. He even decided to skip his weekend workouts to prep for the Double Eleven sale. Funny enough, he also promised to buy his girlfriend a new handbag during the Double Eleven sale, so he has personal stakes in the system staying up!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, high stakes indeed! If the system crashes, he might miss out on that handbag deal. I've noted down the cache metrics for your records."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Wanghao concluded that the caching layer can handle 300,000 read requests per second for the Double Eleven sale.",
+        "On 2025-09-11, Wanghao noted that the average cache hit ratio must remain above 98% for the Double Eleven sale."
+      ]
+    },
+    {
+      "session_id": "w10_s6",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Allocating extra resources",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just had a sync with Boss Zhang about the Double Eleven sale. He felt extremely excited about the new revenue projections we're looking at."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! High revenue projections usually mean massive traffic. Are we getting the resources we need?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we are. Boss Zhang noted that historical traffic spikes by 400% during the Double Eleven sale. Because of that, he decided to allocate an additional 50,000 RMB in cloud credits for the preparation."
+        },
+        {
+          "role": "assistant",
+          "content": "That 50k will definitely help with provisioning those extra 50 database shards Wanghao mentioned. When does the real work begin?"
+        },
+        {
+          "role": "user",
+          "content": "Immediately. Boss Zhang scheduled the official war room kickoff for Friday morning for the Double Eleven sale. We're getting right into the thick of it."
+        },
+        {
+          "role": "assistant",
+          "content": "Friday morning it is. Hope you're ready for some serious late-night coding sessions!"
+        },
+        {
+          "role": "user",
+          "content": "It'll be a grind, for sure. But Boss Zhang promised to order premium late-night snacks for the team during the Double Eleven sale, so at least we'll be well-fed while we debug."
+        },
+        {
+          "role": "assistant",
+          "content": "Premium snacks definitely make the crunch time more bearable. Let me know if you need help prepping any architecture notes for the kickoff!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Boss Zhang decided to allocate an additional 50,000 RMB in cloud credits for the Double Eleven sale preparation."
+      ]
+    },
+    {
+      "session_id": "w10_s7",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Booking the health screening",
+      "focal_character": "Jiange",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, about that medical check-up reminder we've been putting off. Jiange just scheduled our joint appointment for next Saturday at 8:00 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll block out next Saturday at 8:00 AM for your joint medical check-up with Jiange. Need me to add any specific details to the calendar event?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Jiange concluded that the comprehensive blood test package for the medical check-up reminder costs exactly 850 RMB, so we're going with that one. He also decided to drive us both to the clinic."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. I'll note the 850 RMB package and that he's handling the driving. Are there any prep instructions for the blood test?"
+        },
+        {
+          "role": "user",
+          "content": "Yep. Jiange promised to fast for exactly 12 hours before the medical check-up reminder. He actually felt slightly nervous about his cholesterol levels this time around, which is why he's taking the prep so seriously."
+        },
+        {
+          "role": "assistant",
+          "content": "Fasting for 12 hours is standard, but it's understandable he's a bit nervous about the cholesterol check. I can remind you both to start fasting on Friday evening if you'd like."
+        },
+        {
+          "role": "user",
+          "content": "That would be great, thanks. Set a reminder for Friday night so we don't accidentally snack on anything."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I've set a reminder for Friday evening so you and Jiange can start your 12-hour fast. Let me know if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Jiange scheduled their joint appointment for the medical check-up reminder for next Saturday at 8:00 AM.",
+        "On 2025-09-12, Jiange promised to fast for exactly 12 hours before the medical check-up reminder."
+      ]
+    },
+    {
+      "session_id": "w10_s8",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Discussing health with Mom",
+      "focal_character": "Mom",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "I finally talked to my mom about the medical check-up reminder. She felt deeply relieved that I finally acted on it."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great! I'm sure it takes a weight off her shoulders. Did she give you the usual health lecture?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, of course. She noted that her own blood pressure was 120/80 during her last check-up, and she decided that I should eat significantly more vegetables after this medical check-up reminder."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic mom advice! Can't argue with eating more greens though. Did she want to see the results?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I promised Mom I will forward her the full PDF report from the medical check-up reminder as soon as I receive it."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll remind you to send that PDF over once your results are in. Anything else she wanted to go over?"
+        },
+        {
+          "role": "user",
+          "content": "Just that she scheduled a follow-up call at 9:00 PM next Saturday to discuss the medical check-up reminder and how the appointment went."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted! I'll make sure your calendar is clear for 9:00 PM next Saturday so you can catch up with her."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Linchen promised Mom he will forward her the full PDF report from the medical check-up reminder as soon as he receives it."
+      ]
+    },
+    {
+      "session_id": "w10_s9",
+      "day": "Saturday",
+      "date": "2025-09-13",
+      "topic": "Morning conversation about health",
+      "focal_character": "Liwei",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning! So regarding that medical check-up reminder for next Saturday, Liwei and I were just looking at the logistics. She noted that the chosen clinic is exactly 5 kilometers away."
+        },
+        {
+          "role": "assistant",
+          "content": "Morning! 5 kilometers isn't too bad at all. Are you planning to drive or take the subway?"
+        },
+        {
+          "role": "user",
+          "content": "Neither. Liwei actually went ahead and scheduled an Uber for 7:30 AM to help me get to the medical check-up reminder without any stress."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move by Liwei! That way you can just relax on the way there, especially since you'll be fasting from the night before."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. She also promised to remind me to drink water before the medical check-up reminder so they can actually find a vein this time. Honestly, she told me she felt incredibly reassured because I'm finally taking my health seriously with this check-up."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome. It's great that you're prioritizing your health, and it clearly brings her a lot of peace of mind. Got any plans for after the appointment?"
+        },
+        {
+          "role": "user",
+          "content": "Oh yeah, Liwei decided we should get a hearty brunch immediately after the medical check-up reminder. I'm going to be starving by then."
+        },
+        {
+          "role": "assistant",
+          "content": "You'll definitely have earned it! Let me know if you want me to look up some good brunch spots near the clinic."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-13, Liwei felt incredibly reassured because Linchen was taking his health seriously with the medical check-up reminder."
+      ]
+    },
+    {
+      "session_id": "w10_s10",
+      "day": "Sunday",
+      "date": "2025-09-14",
+      "topic": "Weekend prep work",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm doing some weekend prep work for the Double Eleven sale. Just got off a call with Sister Chen. She had a sudden burst of motivation today to optimize her database queries ahead of the sale."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! It's always great when that wave of inspiration hits. How are her queries looking right now?"
+        },
+        {
+          "role": "user",
+          "content": "Well, she noted that her unoptimized queries currently take exactly 250ms on average for the Double Eleven sale traffic projections. Because of that, she decided to implement a new Redis cluster specifically for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "A dedicated Redis cluster should definitely help slash that 250ms latency down. Is she taking all of that on by herself?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, yeah. On top of that, she promised to review Wanghao's integration code for the Double Eleven sale by Monday. She's really going all out."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, she's definitely fired up! With the new cluster and code reviews, she's got a packed schedule. Is she coordinating with the rest of the team too?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she scheduled a quick sync with the frontend team at 10 AM regarding the Double Eleven sale just to make sure all the caching layers align. I'll just stick to my own backend tasks for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Let me know if you need me to help organize any of your own prep work today!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-14, Sister Chen felt a sudden burst of motivation to optimize her database queries ahead of the Double Eleven sale."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "method": "AdaMem",
+  "story_id": 4,
+  "fbmode": "with_gold",
+  "memory_model": "deepseek-v4-flash",
+  "finished_at": "2026-06-17T05:16:54.570009",
+  "artifacts": [
+    "qa_records.json",
+    "extracted_memories.jsonl",
+    "recall.jsonl",
+    "policy_snapshots.json"
+  ]
+}

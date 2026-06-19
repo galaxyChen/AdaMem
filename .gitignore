@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
+*.key
+
+# Vector DB / temp run state
+*_mem0_qdrant*/
+_mem0_qdrant*/
+.progress.lock
+.tmp_*
+*.bak
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

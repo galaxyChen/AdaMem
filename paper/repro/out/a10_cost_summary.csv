@@ -1,0 +1,5 @@
+model,fbmode,m0_build_tok,adamem_build_tok,extra_tok,extra_pct,reflect_tok,m0_acc,adamem_acc,acc_gain
+deepseek,verbose,4223793,5066707,842914,20.0,375712,76.2,85.2,9.0
+deepseek,with_gold,4182484,5114585,932101,22.3,398119,80.2,82.0,1.8
+gemini,verbose,5167803,6232043,1064240,20.6,479690,80.4,84.8,4.4
+gemini,with_gold,5170118,6246328,1076210,20.8,493000,83.2,85.4,2.2

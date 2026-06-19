@@ -1,0 +1,496 @@
+{
+  "week": 2,
+  "conversations": [
+    {
+      "session_id": "w2_s1",
+      "day": "Monday",
+      "date": "2025-07-14",
+      "topic": "Discussing Q3 infrastructure goals",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the weekly sync",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of the weekly sync with Boss Zhang. Man, he was complaining the whole time that the AC was too cold in the conference room."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic office struggles! Did you guys actually get to the Q3 infrastructure goals, or was everyone just freezing in there?"
+        },
+        {
+          "role": "user",
+          "content": "Well, before we even started the weekly sync, he asked if anyone watched the European Cup final over the weekend. Oh, and he was randomly raving about how much he liked the new dark roast coffee they served us."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a pretty chatty start to a Monday morning. Did he eventually drop any real news about the infrastructure?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we finally got down to business. During the sync, Boss Zhang made a huge call: he decided that we're going to migrate the core trading database to the new cloud provider by Q4."
+        },
+        {
+          "role": "assistant",
+          "content": "Whoa, that's a massive shift! Especially after the recent database timeouts Wanghao found. Q4 is coming up fast, though."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about it. With the strict Friday code freeze he just put in place last week, our timeline is going to be super tight. I better start sketching out the architecture now."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. You'll definitely need a solid plan. Let me know if you want to bounce some architecture ideas off me!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-14, Boss Zhang decided to migrate the core trading database to the new cloud provider by Q4 during the weekly sync."
+      ]
+    },
+    {
+      "session_id": "w2_s2",
+      "day": "Monday",
+      "date": "2025-07-14",
+      "topic": "Technical breakdown of the migration plan",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the weekly sync",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, let's log some notes from the weekly sync we just had. Boss Zhang already decided on the Q4 core trading database migration, but I need to document Wanghao's points."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing. What did Wanghao cover regarding the migration plan?"
+        },
+        {
+          "role": "user",
+          "content": "Well, first off, he showed up to the weekly sync wearing this incredibly bright yellow polo shirt. It was honestly kind of distracting."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, definitely a bold fashion choice for a Monday morning! Did he drop any hard numbers on how the migration affects performance?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, the numbers were good. Wanghao concluded that the database migration will reduce our average transaction latency by 25ms. That's a huge win for the trading system."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive improvement, especially with the 500ms timeout issues you guys had last week. Any other technical details?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. He was mostly saying he was feeling a bit sleep-deprived during the weekly sync. Oh, and he joked about his cat knocking over his monitor right before joining the call!"
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a chaotic morning for him! I've got the 25ms latency reduction noted down. Let me know if you need to prep anything else for the migration."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-14, Wanghao concluded that the database migration will reduce average transaction latency by 25ms, as stated in the weekly sync."
+      ]
+    },
+    {
+      "session_id": "w2_s3",
+      "day": "Tuesday",
+      "date": "2025-07-15",
+      "topic": "Revising the housing budget",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back from looking at places with Liwei. Man, the weather is getting way too hot to walk around for this apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! Yeah, July heat is brutal for apartment hunting. How did the search go today?"
+        },
+        {
+          "role": "user",
+          "content": "A bit slow. At one point Liwei got totally distracted because she saw a very cute golden retriever on the street while we were discussing the apartment hunting. But we did finally sit down to crunch the numbers."
+        },
+        {
+          "role": "assistant",
+          "content": "Golden retrievers definitely have a way of stealing the spotlight! Did you guys manage to finalize that strict budget you promised her last week?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did. The market is tough right now, so I seriously committed to Liwei today that we will increase our monthly budget by 2000 RMB for the apartment hunting. It's the only way we'll find a place we actually like."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. An extra 2000 RMB a month should definitely open up some better options for you two. Did you guys do anything fun to celebrate finishing up the search today?"
+        },
+        {
+          "role": "user",
+          "content": "Just a quick treat. Liwei thought about getting iced boba tea after we finished the apartment hunting for the day, so we grabbed a couple of drinks to cool off before heading home."
+        },
+        {
+          "role": "assistant",
+          "content": "Iced boba sounds like the perfect way to wrap up a hot day. Let me know if you need help tracking the new budget or organizing the listings!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-15, Linchen seriously committed to Liwei that they will increase their monthly budget by 2000 RMB for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w2_s4",
+      "day": "Tuesday",
+      "date": "2025-07-15",
+      "topic": "Calling home for advice",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up a call with my mom. I told her I'd call for her advice before we sign any lease for the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call! How did the chat go? Did she have any solid advice for you?"
+        },
+        {
+          "role": "user",
+          "content": "It was classic Mom. Before we even started talking about the apartment hunting, she had to ask what I ate for lunch today to make sure I'm not starving."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, priorities! Gotta pass the lunch inspection first. Did you eventually get to the apartment stuff?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, eventually. Though during the chat she spent a good ten minutes complaining about her noisy upstairs neighbor. But she also said she bought new walking shoes in case she visits to help us look."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh nice, sounds like she's fully prepared to hit the pavement with you! Did she give you any specific dealbreakers to watch out for?"
+        },
+        {
+          "role": "user",
+          "content": "She was super strict about the lighting. I promised Mom I will strictly prioritize places with south-facing windows for good sunlight during the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really good rule of thumb. South-facing windows make a huge difference. I'll keep that in mind for your apartment criteria!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-15, Linchen promised Mom he will strictly prioritize places with south-facing windows for good sunlight during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w2_s5",
+      "day": "Wednesday",
+      "date": "2025-07-16",
+      "topic": "Adjusting the travel delegation",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I have an update on the Shenzhen trip next month. Boss Zhang just made a change to the plan. He decided that Wanghao will now co-lead the technical delegation alongside me."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Wanghao is co-leading the Shenzhen trip with you now. That should take some pressure off you, right?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, definitely. Boss Zhang also asked me about my preferred flight times for the trip, so I'll need to figure that out soon."
+        },
+        {
+          "role": "assistant",
+          "content": "Make sense. Do you want me to pull up some flight schedules for you to review?"
+        },
+        {
+          "role": "user",
+          "content": "Not just yet, I'll check later. Boss Zhang was also talking about how humid the weather usually is down there during the trip, which I'm not looking forward to."
+        },
+        {
+          "role": "assistant",
+          "content": "Shenzhen humidity is definitely intense! You'll want to pack some breathable clothes. Anything else come up?"
+        },
+        {
+          "role": "user",
+          "content": "Just some casual chat. He mentioned he really hopes the hotel breakfast is good for the Shenzhen trip. That's pretty much it for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like Boss Zhang has his priorities straight! Just let me know whenever you're ready to look at those flights."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-16, Boss Zhang decided that Wanghao will now co-lead the technical delegation for the Shenzhen trip alongside Linchen."
+      ]
+    },
+    {
+      "session_id": "w2_s6",
+      "day": "Wednesday",
+      "date": "2025-07-16",
+      "topic": "On-call handover discussions",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just had a long chat with Sister Chen about the on-call handover for when I'm away on the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "How did it go? Is she ready to take over the pager?"
+        },
+        {
+          "role": "user",
+          "content": "Not exactly. Today she felt extremely stressed because she has to cover my on-call shifts during the Shenzhen trip. It's a lot of pressure, especially with the recent incidents."
+        },
+        {
+          "role": "assistant",
+          "content": "That makes sense, flying solo on-call is tough. Did you manage to reassure her or make a plan to ease the load?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I promised to write up a detailed runbook for her. To lighten the mood, we started talking about travel prep. She asked me what type of casual clothes to pack for the Shenzhen trip since she's flying down a few days after us."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call on the runbook. And definitely tell her to pack light, breathable stuff for Shenzhen! Did she have any other travel questions?"
+        },
+        {
+          "role": "user",
+          "content": "She wondered if there are any good seafood restaurants near the office for the Shenzhen trip. She also mentioned she might need to buy a new carry-on suitcase before heading down."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like she's already looking forward to the perks of the trip! I can look up some highly-rated seafood spots near the Shenzhen office if you want to send her a list."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-16, Sister Chen felt extremely stressed because she has to cover Linchen's on-call shifts during the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w2_s7",
+      "day": "Thursday",
+      "date": "2025-07-17",
+      "topic": "Rescheduling weekend sports",
+      "focal_character": "Jiange",
+      "topic_anchor": "the badminton session",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar for this weekend? Jiange just texted me about the badminton session."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! I currently have it down for Saturday at 3:00 PM. What's the new plan?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, there was a court booking conflict, so Jiange rescheduled the badminton session to Sunday at 10:00 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've moved the badminton session with Jiange to Sunday at 10:00 AM. Need me to add anything else to the calendar?"
+        },
+        {
+          "role": "user",
+          "content": "Not to the calendar. But Jiange said his favorite racket needs new grip tape before the badminton session, and he asked if I had bought those new Yonex shoes for the badminton session yet."
+        },
+        {
+          "role": "assistant",
+          "content": "I can set a quick reminder for you to pick up the shoes and some grip tape if you'd like. Want me to do that?"
+        },
+        {
+          "role": "user",
+          "content": "No need, I'll remember. It was just funny because he mentioned he drank a chocolate protein shake while planning the badminton session with me. The guy is totally in the zone."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, sounds like Jiange is taking his prep very seriously! Your schedule is all updated for Sunday at 10:00 AM. Hope you have a great game!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-17, Jiange rescheduled the badminton session to Sunday at 10:00 AM due to a court booking conflict."
+      ]
+    },
+    {
+      "session_id": "w2_s8",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Post-lunch sports chat",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the badminton session",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Just got back from lunch with Wanghao. We were chatting about the badminton session coming up this Sunday."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Is he looking forward to the 10:00 AM match?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, though he mentioned his right knee felt a little sore just thinking about the badminton session. Because of that, he said he generally prefers playing doubles rather than singles so he doesn't have to cover as much court."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense, doubles is definitely easier on the joints. Are you guys going to team up or play against each other?"
+        },
+        {
+          "role": "user",
+          "content": "Against each other, probably. He joked that he would definitely beat me 2-0 at the next badminton session. He's pretty data-driven about it too—he noted that his fitness tracker recorded exactly 640 calories burned during our previous badminton session."
+        },
+        {
+          "role": "assistant",
+          "content": "640 calories is a solid metric! Sounds like you'd better bring your A-game if he's planning a 2-0 sweep."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'll make sure to stretch. Anyway, I need to get back to coding now before the strict Friday code freeze kicks in."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. Good luck wrapping up your PRs before the freeze!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18, Wanghao noted that his fitness tracker recorded exactly 640 calories burned during their previous badminton session."
+      ]
+    },
+    {
+      "session_id": "w2_s9",
+      "day": "Saturday",
+      "date": "2025-07-19",
+      "topic": "Late night coding arguments",
+      "focal_character": "Liwei",
+      "topic_anchor": "the sleep schedule",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, it's been a rough morning. Liwei became noticeably frustrated with me today because my late-night coding completely ruined the sleep schedule we agreed upon."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, that's tough. It's so easy to lose track of time when you're deep in the code, but I get why she'd be upset. Did you guys talk it out?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we talked a bit. She's just trying to fix it. She even mentioned she read a magazine article recently about maintaining a proper sleep schedule."
+        },
+        {
+          "role": "assistant",
+          "content": "That's nice of her to look into it. Did the article have any practical tips for you?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly standard stuff. But she also suggested buying a new memory foam pillow to help us get better rest and stick to the sleep schedule."
+        },
+        {
+          "role": "assistant",
+          "content": "A good memory foam pillow can actually be a game changer! Sounds like she's really trying to find solutions for both of you."
+        },
+        {
+          "role": "user",
+          "content": "She is. She even joked that our neighbor's cat has the most consistent sleep schedule out of anyone around here. I just need to get better at logging off."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, well, the cat probably doesn't have to worry about microservices and database migrations! Setting a hard stop time for your coding might be the way to go to keep the peace."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-19, Liwei became noticeably frustrated because Linchen's late-night coding completely ruined the sleep schedule they agreed upon."
+      ]
+    },
+    {
+      "session_id": "w2_s10",
+      "day": "Sunday",
+      "date": "2025-07-20",
+      "topic": "Morning accountability check",
+      "focal_character": "Jiange",
+      "topic_anchor": "the sleep schedule",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning. I really need to fix my sleep schedule. Liwei got super frustrated with my late-night coding recently, so Jiange is stepping in to help me get back on track."
+        },
+        {
+          "role": "assistant",
+          "content": "Morning, Linchen. It's great that Jiange is helping out. What's the plan to get your sleep schedule back to normal?"
+        },
+        {
+          "role": "user",
+          "content": "He actually arranged to call me at 7:00 AM every weekday to enforce the sleep schedule. No sleeping in allowed."
+        },
+        {
+          "role": "assistant",
+          "content": "That's some solid accountability! A 7:00 AM wake-up call from your workout buddy will definitely force you out of bed."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he also mentioned listening to a health podcast about the sleep schedule, and said he prefers drinking green tea in the morning to fix it. Might have to try that instead of coffee."
+        },
+        {
+          "role": "assistant",
+          "content": "Green tea is a good call to avoid the afternoon caffeine crash. Sounds like he's got a whole system figured out."
+        },
+        {
+          "role": "user",
+          "content": "Haha, yeah. He even joked that his pet dog naturally follows the perfect sleep schedule, so maybe I should just copy the dog's routine."
+        },
+        {
+          "role": "assistant",
+          "content": "Dogs do know how to rest! I'll note down your new morning routine. Good luck with the 7:00 AM calls this week!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-20, Jiange arranged to call Linchen at 7:00 AM every weekday to enforce the sleep schedule."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "method": "m0",
+  "memory_model": "deepseek-v4-flash",
+  "fbmode": "verbose",
+  "story_id": 4,
+  "extracted_jobs": 415,
+  "recall_jobs": 100,
+  "extracted_judged_rows": 415,
+  "recall_judged_rows": 100,
+  "golden_pool_size": 103,
+  "ts": 1781639832
+}

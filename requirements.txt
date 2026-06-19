@@ -1,0 +1,14 @@
+# Python dependencies for AdaMem.
+#
+# Reproducing the paper figures/tables (paper/repro/) needs ONLY:
+#   matplotlib            # figure rendering (pulls in numpy)
+#
+# Running the full evaluation / data-generation pipeline additionally needs an
+# OpenAI-compatible chat endpoint + embedding endpoint (configured via env, see
+# README) and the following packages:
+matplotlib
+requests
+openai
+mem0ai
+qdrant-client
+python-dotenv

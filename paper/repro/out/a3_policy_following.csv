@@ -1,0 +1,5 @@
+model,fbmode,add_calls,judged,follow_rate
+deepseek,verbose,347,347,81.1
+deepseek,with_gold,346,346,80.8
+gemini,verbose,347,347,86.1
+gemini,with_gold,347,347,84.8

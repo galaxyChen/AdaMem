@@ -1,0 +1,503 @@
+{
+  "week": 5,
+  "conversations": [
+    {
+      "session_id": "w5_s1",
+      "day": "Monday",
+      "date": "2025-08-04",
+      "topic": "Adjusting the business trip duration",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just had a quick catch-up with Boss Zhang about the Shenzhen trip. We were discussing how the flight tickets for the trip are getting really expensive."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! Yeah, booking flights late can be brutal on the budget. Did you guys finalize the dates so you can lock in the tickets?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did. Because of everything we need to cover, Boss Zhang decided that the Shenzhen trip will be extended back to four days. I'm honestly a bit worried about the humidity down there, to be honest."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I'll note the change to four days. You'll definitely want to pack some light, breathable clothes for that humidity! Are you guys doing anything fun while you're there?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Boss Zhang joked about the spicy food we'll eat on the Shenzhen trip, so I guess we'll be sweating from both the weather and the meals. Oh, and I promised to buy a souvenir for the office during the trip, so please remind me."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, spicy food and high humidity is quite the combo! I'll set a reminder for you to grab that office souvenir before you head back. Do you need help adjusting your calendar for the extra day?"
+        },
+        {
+          "role": "user",
+          "content": "Not right now, I need to figure out how returning a day later affects my plans with Liwei first. I'll let you know."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense. Take your time sorting that out, and just give me a shout when you're ready to update your schedule!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-04 Boss Zhang decided that the Shenzhen trip will be extended back to four days."
+      ]
+    },
+    {
+      "session_id": "w5_s2",
+      "day": "Tuesday",
+      "date": "2025-08-05",
+      "topic": "Delaying the lease signing",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my reminders for the apartment hunting. The agent was being super pushy today, trying to get me to sign the paperwork immediately."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, pushy agents are the worst. Don't let them rush you. Do you need me to adjust your lease signing deadline?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please do. I talked it over with Liwei, and I made a serious commitment to her to delay signing the lease until August 8th. We just need a few extra days to be 100% sure."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move. I've updated the deadline to August 8th. Better safe than sorry! Anything else to note?"
+        },
+        {
+          "role": "user",
+          "content": "Just a couple of financial and decor things. I confirmed the deposit for the apartment hunting is exactly 5000 RMB. Also, Liwei suggested we should buy new curtains once the apartment hunting is completely done."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted! 5000 RMB for the deposit, and a reminder for curtain shopping later. Sounds like it's coming together."
+        },
+        {
+          "role": "user",
+          "content": "Yep! We even scheduled a time to visit Ikea once the apartment hunting is over to get all the essentials. Just gotta get past this signing first."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome! Ikea trips are a huge milestone. I'll keep your schedule flexible for that. Hang in there until the 8th!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-05 Linchen made a serious commitment to Liwei to delay signing the lease for the apartment hunting until August 8th."
+      ]
+    },
+    {
+      "session_id": "w5_s3",
+      "day": "Wednesday",
+      "date": "2025-08-06",
+      "topic": "Reviewing load test results",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just got out of the review with Wanghao for the Shenzhen trip prep. Man, he felt very annoyed by the network lag we were getting while setting things up."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, network lag is the worst when you're trying to prep. Did you guys manage to get the load test results sorted despite that?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, but the results weren't what we wanted. Wanghao concluded that the server load test prepared for the Shenzhen trip failed at exactly 8,500 connections. We were really pushing for that 10k mark."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, exactly 8,500. That's a bummer, but at least you have a hard number to work from now. How are you guys handling the rest of the prep?"
+        },
+        {
+          "role": "user",
+          "content": "We're figuring it out. I actually promised Wanghao I'd buy him a coffee during the Shenzhen trip to help him cool off. We also scheduled a packing session for all the Shenzhen trip gear on Thursday so we aren't rushing at the last minute."
+        },
+        {
+          "role": "assistant",
+          "content": "A promised coffee is a great peace offering! Getting the gear packed on Thursday sounds like a solid plan to keep the stress down. Anything else you need to prep for yourself?"
+        },
+        {
+          "role": "user",
+          "content": "Just one thing. I decided to pack an extra power bank for the Shenzhen trip. With all this testing and the long days, my phone is going to die way too fast."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move. You can never have too much battery life on a work trip. I'll keep my fingers crossed that you guys figure out the load test bottlenecks soon!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-06 Wanghao concluded that the server load test prepared for the Shenzhen trip failed at exactly 8,500 connections."
+      ]
+    },
+    {
+      "session_id": "w5_s4",
+      "day": "Wednesday",
+      "date": "2025-08-06",
+      "topic": "Venting about relationship prep",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, I need to vent. I just felt a deep sense of panic wash over me. I suddenly realized I haven't booked a restaurant for the anniversary plan yet!"
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, I totally get why you're stressed! Especially with the Shenzhen trip coming up and all the apartment hunting. Have you thought about what kind of place Liwei would like?"
+        },
+        {
+          "role": "user",
+          "content": "Not exactly. I was actually chatting with Sister Chen about it to calm my nerves, and she suggested scheduling the anniversary plan dinner at 7:00 PM. I did some math and concluded that the budget for the anniversary plan should be 2000 RMB."
+        },
+        {
+          "role": "assistant",
+          "content": "7:00 PM is a perfect time, and 2000 RMB gives you some really fantastic dining options. Do you want me to pull up some high-rated spots around the area?"
+        },
+        {
+          "role": "user",
+          "content": "Hold off on that for a second. I also decided to buy a silver necklace for the anniversary plan, so I need to figure out when I can sneak away to the jewelry store. I promised to text Sister Chen once the anniversary plan was finalized so she knows I didn't completely mess it up."
+        },
+        {
+          "role": "assistant",
+          "content": "A silver necklace sounds like a beautiful gift! You've got a solid outline here. Let's tackle the restaurant first tonight so you can check that off and text Sister Chen."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, you're right. I just hate that sudden panic feeling. I'll look at reservations after work today so I can finally breathe easily."
+        },
+        {
+          "role": "assistant",
+          "content": "Take a deep breath! You caught it in time, and you're going to put together a great anniversary for Liwei. I'm right here when you're ready to look at places."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-06 Linchen felt a deep sense of panic, triggered by realizing he hasn't booked a restaurant for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w5_s5",
+      "day": "Thursday",
+      "date": "2025-08-07",
+      "topic": "Family check-in call",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a family check-in call with my mom. We ended up talking a lot about the apartment hunting. She got really nostalgic thinking about my very first apartment hunting experience back in college."
+        },
+        {
+          "role": "assistant",
+          "content": "Aww, that's sweet! Moms always remember those big life milestones. Did you guys make any progress on the current search?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, a bit. I told her I decided to use a different real estate app for the apartment hunting since the old one was giving me outdated listings."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. A fresh app might show you some hidden gems. Any luck with the new one?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes. I did the math and concluded that the square footage of the best unit we've seen during the apartment hunting was exactly 65 sqm. It's a pretty decent size."
+        },
+        {
+          "role": "assistant",
+          "content": "65 square meters is really solid! Is your mom on board with this one?"
+        },
+        {
+          "role": "user",
+          "content": "She is, but she wants to be careful before I sign anything on the 8th. I promised Mom I would let her review the contract before finalizing the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart move. Having an extra set of eyes on a lease is never a bad idea, especially hers."
+        },
+        {
+          "role": "user",
+          "content": "Definitely. We scheduled a follow-up call about the apartment hunting for Sunday so we can go over the fine print together."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. I'll make sure you get a reminder on Sunday so you're ready for the call!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-07 Linchen promised Mom he would let her review the contract before finalizing the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w5_s6",
+      "day": "Thursday",
+      "date": "2025-08-07",
+      "topic": "Coordinating breaks at work",
+      "focal_character": "Jiange",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, remind me about my schedule this afternoon. I've got that all-hands meeting coming up. Boss Zhang decided the dress code for the all-hands meeting is business casual, so I had to swap my hoodie for a collared shirt earlier."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, you're looking sharp! You've got the all-hands on your calendar. What time does it officially kick off?"
+        },
+        {
+          "role": "user",
+          "content": "Starts at 2:30 PM. I looked at the agenda and concluded that the all-hands meeting would take exactly 90 minutes. Jiange was just complaining to me about it—he felt bored just thinking about sitting through the all-hands meeting."
+        },
+        {
+          "role": "assistant",
+          "content": "Yeah, 90 minutes is a long time to sit still. Want me to block out some recovery time for you afterward?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes. Jiange scheduled to meet me for a quick coffee right after the all-hands meeting at 4:00 PM. We definitely need a break. I also promised to save a seat for Jiange at the all-hands meeting so we can at least sit together."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid survival plan. I'll add the 4:00 PM coffee break with Jiange to your schedule. Anything else before you head in?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, that's it. Just make sure the coffee block is firm. I'm going to need the caffeine before I jump back into the multiplayer designs."
+        },
+        {
+          "role": "assistant",
+          "content": "Locked in. 4:00 PM coffee with Jiange is set. Good luck surviving the meeting!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-07 Jiange scheduled to meet Linchen for a quick coffee right after the all-hands meeting at 4:00 PM."
+      ]
+    },
+    {
+      "session_id": "w5_s7",
+      "day": "Friday",
+      "date": "2025-08-08",
+      "topic": "Studio announcements",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just got out of the all-hands meeting. Man, I felt a huge surge of excitement when I heard the big news!"
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! That's awesome. What was the big announcement?"
+        },
+        {
+          "role": "user",
+          "content": "Boss Zhang finally made the call. He decided during the all-hands meeting that we're officially launching the beta testing phase next month."
+        },
+        {
+          "role": "assistant",
+          "content": "That's huge! Next month is going to be packed, especially with your Shenzhen trip and apartment hunting wrapping up."
+        },
+        {
+          "role": "user",
+          "content": "Tell me about it! It was a packed house today, too. Someone noted that exactly 150 employees attended the all-hands meeting."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, a literal full house! Are you guys doing anything to celebrate the beta launch announcement?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Jiange scheduled a team lunch right after the all-hands meeting. Oh, and before I forget, I promised to distribute the slides from the all-hands meeting to everyone later today."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll remind you to send out those slides later this afternoon. Go enjoy the team lunch with Jiange!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-08 Boss Zhang decided during the all-hands meeting to officially launch the beta testing phase next month."
+      ]
+    },
+    {
+      "session_id": "w5_s8",
+      "day": "Friday",
+      "date": "2025-08-08",
+      "topic": "Revealing the surprise",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I finally revealed the surprise destination for our anniversary plan to Liwei today."
+        },
+        {
+          "role": "assistant",
+          "content": "That's huge! Especially after the panic about not having a restaurant booked earlier this week. How did she react?"
+        },
+        {
+          "role": "user",
+          "content": "She became overwhelmingly delighted when I told her! It was such a relief to see her so happy. To make it extra special, I decided to rent a convertible for the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "A convertible is a fantastic touch! It's going to make the trip feel so much more fun. When are you two heading out?"
+        },
+        {
+          "role": "user",
+          "content": "We scheduled the departure for the anniversary plan at 10:00 AM on Saturday. I mapped it out and concluded that the drive will take 45 minutes."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect timing to beat the worst of the traffic and just enjoy the open road. Do you have road trip food sorted out?"
+        },
+        {
+          "role": "user",
+          "content": "Yep! Liwei promised to pack the snacks for the anniversary plan, so we definitely won't go hungry on the way."
+        },
+        {
+          "role": "assistant",
+          "content": "Teamwork makes the dream work! You've got the sweet ride and she's got the snacks. Have an amazing anniversary getaway!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-08 Liwei became overwhelmingly delighted when Linchen revealed the surprise destination for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w5_s9",
+      "day": "Saturday",
+      "date": "2025-08-09",
+      "topic": "Post-meeting technical sync",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you take some notes from my sync with Wanghao today regarding yesterday's all-hands meeting?"
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What did you and Wanghao discuss?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Wanghao was feeling really stressed about the tight deadlines announced in the all-hands meeting. He ran the numbers and concluded that the beta launch will require 20 dedicated QA servers."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. 20 dedicated QA servers for the beta launch. That sounds like a heavy lift. Did you guys figure out a plan for getting them running?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I promised Wanghao I would help set up the servers mentioned in the all-hands meeting. It's going to be a grind, especially since Boss Zhang decided the QA team needs to work overtime after the all-hands meeting to hit the target."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, overtime for QA and extra setup work for you. Do you need me to block out some time for you to work on the servers?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet. We scheduled a follow-up sync regarding the all-hands meeting for Monday morning, so we'll figure out the exact timeline then."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good. I'll make sure you have everything ready for the Monday morning sync. Try to get some rest this weekend!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-09 Wanghao concluded based on the all-hands meeting that the beta launch will require 20 dedicated QA servers."
+      ]
+    },
+    {
+      "session_id": "w5_s10",
+      "day": "Sunday",
+      "date": "2025-08-10",
+      "topic": "Adjusting the moving schedule",
+      "focal_character": "Jiange",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I am honestly feeling so exhausted just thinking about the final stages of this apartment hunting. The logistics are draining me."
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! You're so close to the finish line. What's the latest on the actual move?"
+        },
+        {
+          "role": "user",
+          "content": "There's a slight change of plans. Jiange just rescheduled helping me move the boxes for the apartment hunting to August 11th at 9:00 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I'll update your calendar for tomorrow at 9:00 AM with Jiange. Do you guys have all the packing supplies sorted out?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Jiange concluded that we need exactly 15 large boxes for the apartment hunting move. Oh, and I promised to buy him lunch as thanks for his help."
+        },
+        {
+          "role": "assistant",
+          "content": "15 large boxes and a well-deserved lunch for Jiange, noted! Anything else left on your to-do list for the new place?"
+        },
+        {
+          "role": "user",
+          "content": "Just one final thing. I've decided to hire a professional cleaner after the apartment hunting is totally done. I definitely won't have the energy to do a deep clean myself."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a very smart investment. You focus on the move and your game launch, and let the pros handle the scrubbing!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-10 Jiange rescheduled helping Linchen move boxes for the apartment hunting to August 11th at 9:00 AM."
+      ]
+    }
+  ]
+}

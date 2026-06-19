@@ -1,0 +1,495 @@
+{
+  "week": 4,
+  "conversations": [
+    {
+      "session_id": "w4_s1",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Discussing the deadline for finding a place",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my notes on the apartment hunting? We went looking again yesterday, but man, the weather was just way too hot."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've noted the weekend hunt. Sounds like a sweaty time! Did you guys have any luck despite the heat?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. Liwei noted that a lot of the places we saw had incredibly ugly wallpaper. Plus, we couldn't stop joking about this one super grumpy landlord we met who barely let us look around."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, ugly wallpaper and a grumpy landlord—sounds like a bad sitcom episode. Are you guys getting worried about the timeline? You previously wanted to wrap this up by early August."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, the pressure is on. I talked it over with her tonight, and I made a serious commitment to Liwei that we will sign a lease for the apartment hunting by August 5th, no matter what."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid deadline. August 5th it is. I'll make sure to track that commitment for you. Need me to block out some extra time this week to review online listings?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, block out an hour on Wednesday evening. We need to get this locked down before things get crazy with work and the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! I've blocked out an hour this Wednesday evening for listing review. You guys will find the right spot before the deadline!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28 Linchen made a serious commitment to Liwei to sign a lease for the apartment hunting by August 5th."
+      ]
+    },
+    {
+      "session_id": "w4_s2",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Finalizing travel duration",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up a quick chat with Boss Zhang about the Shenzhen trip. He spent the first five minutes just complaining about the airline food he usually gets on that route."
+        },
+        {
+          "role": "assistant",
+          "content": "Typical! Airline food is rarely a highlight. Did you guys manage to lock down the actual schedule?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did. Boss Zhang decided that the Shenzhen trip will be shortened to three days. I also asked him if the weather would be super humid down there during the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Three days is pretty tight, but at least you'll be back sooner! What did he say about the humidity?"
+        },
+        {
+          "role": "user",
+          "content": "He just laughed and said to pack light because it's always humid. Oh, and he mentioned he really wants to visit a specific noodle shop he loves while we're there."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Good noodles definitely beat airplane meals! Do you need me to adjust your calendar for the three-day window?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please update my calendar. That's all for now, I've got to get back to the multiplayer code."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! Your calendar is updated for the shortened trip. Good luck with the multiplayer code, and let me know if you need anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28 Boss Zhang decided that the Shenzhen trip will be shortened to three days."
+      ]
+    },
+    {
+      "session_id": "w4_s3",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Technical review of the recent outage",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to log some notes from my post-mortem with Wanghao regarding that massive production incident."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What did you and Wanghao figure out during the review?"
+        },
+        {
+          "role": "user",
+          "content": "Well, before we even got to the root cause, Wanghao complained endlessly about the terrible office coffee he drank during the production incident. He also kept joking about someone's embarrassing typo in the main chat while everything was on fire."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like typical Wanghao, finding humor in the chaos. Did you guys nail down the actual fix?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, eventually. I remember my chair was squeaking the whole time we debugged the production incident, driving me crazy. But Wanghao finally concluded that the production incident fix requires increasing the connection pool size to 200."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Increasing the connection pool to 200 makes sense given the database timeout issues you had earlier. Anything else you need to jot down?"
+        },
+        {
+          "role": "user",
+          "content": "No, that's the main takeaway. I'll make sure the backend guys implement the pool size change before the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. I've got the technical details saved for you. Let me know if you need to review anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29 Wanghao concluded that the production incident fix requires increasing the connection pool size to 200."
+      ]
+    },
+    {
+      "session_id": "w4_s4",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Sharing feelings about finding a good place",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back from looking at places. The traffic I encountered on the way to the apartment hunting today was an absolute nightmare."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, dealing with terrible traffic is the last thing you need when you're already stressed about moving. Did you actually get to see any decent places despite the drive?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes! I was just telling Sister Chen that I felt a massive wave of relief today. It was triggered by finally finding a perfectly located unit during the apartment hunting. It's exactly what Liwei and I need."
+        },
+        {
+          "role": "assistant",
+          "content": "That is amazing news! I know how anxious you were about the high rent prices earlier this month. It must feel incredible to finally have a solid option on the table."
+        },
+        {
+          "role": "user",
+          "content": "It really does. Sister Chen was super helpful too, she recommended a moving company for after the apartment hunting is all wrapped up. I'll need to look into their rates."
+        },
+        {
+          "role": "assistant",
+          "content": "Sister Chen is always looking out for you! Do you want me to set a reminder to call that moving company later this week?"
+        },
+        {
+          "role": "user",
+          "content": "Not just yet, let me sign the lease first. Oh, Sister Chen also mentioned a sale on couches that might be useful for the apartment hunting since we're going to need some new furniture for the living room."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. A perfectly located unit and a new couch to go with it! Just let me know when you're ready to start organizing the move or the furniture shopping."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29 Linchen felt a massive wave of relief, triggered by finding a perfectly located unit during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w4_s5",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Updating family on the housing search",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, it is so hot out today. I just got off the phone with my mom to update her on the apartment hunting, and I actually had to stop and buy a bottle of water while I was walking around looking at places."
+        },
+        {
+          "role": "assistant",
+          "content": "Stay hydrated! Did you tell her about that perfectly located unit you found yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I did. She was relieved, but then Mom talked forever about her neighbor's son's recent experience with the apartment hunting. Apparently he had a nightmare with his landlord."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic mom worry! Did she give you a checklist of things to watch out for?"
+        },
+        {
+          "role": "user",
+          "content": "Of course. Mom advised me to check the water pressure during the apartment hunting. She said it's the one thing people always forget until they move in."
+        },
+        {
+          "role": "assistant",
+          "content": "Honestly, she's not wrong! A bad shower can ruin your morning. Are you going to test it before you sign the lease by August 5th?"
+        },
+        {
+          "role": "user",
+          "content": "Definitely. To give her some peace of mind, I promised Mom I would invite her over the first weekend after the apartment hunting concludes. She can inspect the water pressure herself!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great idea! I'm sure she’s already looking forward to the grand tour. Just let me know if you need any reminders for the final lease signing."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30 Linchen promised Mom he would invite her over the first weekend after the apartment hunting concludes."
+      ]
+    },
+    {
+      "session_id": "w4_s6",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Adjusting workout schedules around travel",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my schedule? Jiange and I just talked about adjusting our workouts around the upcoming Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! How are you two adjusting the schedule?"
+        },
+        {
+          "role": "user",
+          "content": "Well, to compensate for the Shenzhen trip, Jiange scheduled a makeup workout session for August 6th. He also asked if I was packing my new sneakers for the trip, so I need to remember to grab those."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've added the makeup session with Jiange on August 6th and noted your new sneakers. Are you planning to work out while you're away?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I mentioned to him that I might try the hotel gym during the Shenzhen trip. But Jiange just laughed and joked about all the dim sum I'd eat on the trip instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he might have a point about the dim sum! I'll remind you to check out the hotel gym anyway. Anything else you need me to note?"
+        },
+        {
+          "role": "user",
+          "content": "No, that's it for now. Just make sure the August 6th session is locked in so we can get back to our heavy lifting routine right after the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "All set! The August 6th makeup session is locked in your calendar. Enjoy the dim sum—and maybe the gym—in Shenzhen!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31 Jiange scheduled a makeup workout session for August 6th to compensate for the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w4_s7",
+      "day": "Friday",
+      "date": "2025-08-01",
+      "topic": "Planning technical tests for the travel",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up a sync with Wanghao about the Shenzhen trip next week. Need to log some details."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What did you and Wanghao figure out?"
+        },
+        {
+          "role": "user",
+          "content": "Mainly the testing parameters. Wanghao concluded that the server load test during the Shenzhen trip must simulate 10,000 concurrent connections. We really need to push the new architecture."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 10,000 concurrent connections for the load test. Need me to note down anything else for the travel prep?"
+        },
+        {
+          "role": "user",
+          "content": "Just random stuff. Wanghao mentioned he needs to buy a new neck pillow for the Shenzhen trip. I was actually just talking to him about the flight entertainment options so we don't get bored."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a comfortable flight is a priority! Did you guys figure out how you're getting to the hotel once you land?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Wanghao complained about the taxi lines at the airport for the Shenzhen trip, so we'll probably just pre-book a ride. That's all for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Pre-booking a ride is a smart move to skip those lines. I've got the load test numbers saved. Let me know if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-01 Wanghao concluded that the server load test during the Shenzhen trip must simulate 10,000 concurrent connections."
+      ]
+    },
+    {
+      "session_id": "w4_s8",
+      "day": "Saturday",
+      "date": "2025-08-02",
+      "topic": "Post-mortem meeting decisions",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up the post-mortem meeting for the production incident. We actually had someone order pizza for the team during the review, so I'm completely stuffed."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza definitely helps take the edge off a post-mortem! How did the review go?"
+        },
+        {
+          "role": "user",
+          "content": "It went okay. The main takeaway is that Boss Zhang decided that a full security audit is required as a result of the production incident. He wants to be absolutely sure there are no underlying vulnerabilities."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. A full security audit is a big step, but it makes total sense after a major incident. Was he pretty strict about it?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he even shared an anecdote about a past production incident at a different company he worked for. They apparently lost a whole week of user data because of a similar issue. Really put things in perspective."
+        },
+        {
+          "role": "assistant",
+          "content": "Yikes, a week of data loss sounds like a nightmare. At least you guys caught yours much earlier!"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. On a random note, I noticed the projector was blurry while we were discussing the production incident. I kept squinting at the slides. I'll need to submit an IT ticket on Monday to get that fixed."
+        },
+        {
+          "role": "assistant",
+          "content": "I'll remind you to put in that IT ticket on Monday morning. Try to get some rest this weekend, you've earned it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-02 Boss Zhang decided that a full security audit is required as a result of the production incident."
+      ]
+    },
+    {
+      "session_id": "w4_s9",
+      "day": "Saturday",
+      "date": "2025-08-02",
+      "topic": "Planning the menu",
+      "focal_character": "Mom",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to plan the menu for the weekend dinner. Mom was just discussing the rising grocery prices, so I want to figure out what to get before heading out to the market."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Given the prices, maybe we can balance it out with some affordable sides. What's the main course going to be?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I just got off the phone with her, and I promised Mom I would cook my signature fish dish for the weekend dinner. Oh, she also mentioned that the neighbor might stop by before the dinner starts."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! Your signature fish is always a hit. Since the neighbor might drop by, maybe get some extra snacks just in case. Need me to pull up the grocery list for the fish?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, put together a quick list. Also, I need to figure out the table setting. Should we use the good plates for the weekend dinner? Remind me to ask her."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do. I've added the fish ingredients to your list and set a reminder for you to ask Mom about using the good plates. Anything else for the dinner?"
+        },
+        {
+          "role": "user",
+          "content": "That's it for now. Just want to make sure everything goes smoothly, especially since my cousin is coming too."
+        },
+        {
+          "role": "assistant",
+          "content": "You're all set! Have a great time cooking, and let me know if you need help with anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-02 Linchen promised Mom he would cook his signature fish dish for the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w4_s10",
+      "day": "Sunday",
+      "date": "2025-08-03",
+      "topic": "Setting boundaries for the evening",
+      "focal_character": "Liwei",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to start getting ready for the weekend dinner tonight. Can you check the route? I'm a bit worried the traffic might be bad getting to the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "I just checked, and traffic is building up a bit. You might want to leave about 15 minutes earlier than planned. Everything else ready for tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Almost. Liwei was just talking about what dress she wanted to wear to the weekend dinner, so she's getting ready now. We also spent way too long debating whether to play background music during the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like it's going to be a special evening! Did you two settle the music debate?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we decided on some light jazz. But the most important thing is that I made a serious commitment to Liwei to not talk about work during the weekend dinner. It's been so stressful lately, I just want to focus entirely on her."
+        },
+        {
+          "role": "assistant",
+          "content": "That is an excellent boundary to set. Disconnecting from the studio will do you both a lot of good. Want me to mute your work notifications for the evening?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please do. I want zero distractions. I'll check in with you tomorrow morning once the weekend is over."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. Your work notifications are muted until tomorrow. Have a fantastic, work-free dinner with Liwei!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-03 Linchen made a serious commitment to Liwei to not talk about work during the weekend dinner."
+      ]
+    }
+  ]
+}

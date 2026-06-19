@@ -1,0 +1,496 @@
+{
+  "week": 5,
+  "conversations": [
+    {
+      "session_id": "w5_s1",
+      "day": "Monday",
+      "date": "2025-08-04",
+      "topic": "Updating Mom on the lease signing",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Mom about the apartment hunting. Can you remind me what my last promise to her was regarding the lease?"
+        },
+        {
+          "role": "assistant",
+          "content": "You told her you'd finalize the lease signing by this Friday. Did something change?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I just promised Mom I will definitely finalize the lease signing during the apartment hunting by this Wednesday instead of Friday. The landlord actually wants to meet at exactly 2:00 PM."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! Getting it done earlier is a huge win. How does Mom feel about the place?"
+        },
+        {
+          "role": "user",
+          "content": "She likes it. Mom suggested that the apartment hunting location is about 5 kilometers from the office, which is a pretty ideal commute. Honestly though, I'm feeling a bit stressed about the paperwork involved in the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "It's totally normal to feel stressed about lease paperwork, but you're almost at the finish line! A 5km commute will be fantastic. Want me to block your calendar for 2:00 PM this Wednesday?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please block out 1:30 PM to 3:30 PM. I just want to sign it and finally be done with this whole process."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. Your calendar is blocked for Wednesday afternoon. Just breathe, you'll get through the paperwork and then you can relax in your new place!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-04, Linchen promised Mom he will definitely finalize the lease signing during the apartment hunting by this Wednesday instead of Friday."
+      ]
+    },
+    {
+      "session_id": "w5_s2",
+      "day": "Monday",
+      "date": "2025-08-04",
+      "topic": "Planning the upcoming company-wide address",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can we set up a few reminders for the upcoming all-hands meeting? Boss Zhang just made a call today and decided that the all-hands will be fully remote. Absolutely no in-person attendance this time."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, fully remote all-hands. What kind of reminders do you need me to set up?"
+        },
+        {
+          "role": "user",
+          "content": "First, I went ahead and scheduled the tech check for the all-hands meeting at 9 AM on Thursday. Oh, and remind me to close my local dev servers before that. Someone noted that the streaming software uses 4GB of RAM, and I don't want my laptop freezing up."
+        },
+        {
+          "role": "assistant",
+          "content": "I've added the 9 AM Thursday tech check to your calendar, and I'll remind you to free up that 4GB of RAM beforehand. Anything else you need to prep?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, one more thing. Remind me to check in on Sister Chen on Wednesday. She mentioned she felt very anxious about presenting during the all-hands meeting, so I want to offer to do a dry run of her slides with her."
+        },
+        {
+          "role": "assistant",
+          "content": "That's really thoughtful of you. I'll set a reminder for Wednesday to check on Sister Chen and offer a dry run. Sounds like you've got the all-hands prep totally under control!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks! That's all for now. I'm going to grab a quick coffee before diving back into the classroom refactoring work."
+        },
+        {
+          "role": "assistant",
+          "content": "Enjoy the coffee! Let me know if you need anything else when you get back."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-04, Boss Zhang decided that the all-hands meeting will be fully remote with no in-person attendance."
+      ]
+    },
+    {
+      "session_id": "w5_s3",
+      "day": "Tuesday",
+      "date": "2025-08-05",
+      "topic": "Testing the streaming infrastructure",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm getting things ready for the all-hands meeting since Boss Zhang made it fully remote yesterday. He also just decided that Q&A during the all-hands meeting will be strictly moderated."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Fully remote with strict Q&A moderation. How is the streaming infrastructure holding up for it?"
+        },
+        {
+          "role": "user",
+          "content": "We actually just finished testing it. Wanghao felt relieved that the load test for the all-hands meeting went smoothly."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great news. Did he give you the final capacity numbers from the test?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Wanghao concluded that the internal streaming server for the all-hands meeting can handle a maximum of 2000 concurrent viewers."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect, 2000 concurrent viewers should be more than enough. Anything else you need to wrap up for the prep?"
+        },
+        {
+          "role": "user",
+          "content": "Just one admin task. I promised to send out the calendar invites for the all-hands meeting by noon. I'd better get on that now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good! Let me know if you need help drafting the invite description."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-05, Wanghao concluded that the internal streaming server for the all-hands meeting can handle a maximum of 2000 concurrent viewers."
+      ]
+    },
+    {
+      "session_id": "w5_s4",
+      "day": "Wednesday",
+      "date": "2025-08-06",
+      "topic": "Finally signing the lease",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, we finally did it! I met with Liwei and the landlord today to sign the lease. The apartment hunting is officially over!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news! Congratulations to both of you. How did the final paperwork go?"
+        },
+        {
+          "role": "user",
+          "content": "Really well. The final agreed rent after all the apartment hunting drama ended up being exactly 7800 RMB per month. Also, I seriously committed to Liwei that I'll pay the deposit for the place straight from my personal savings."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice job keeping it under the 8000 RMB budget you promised your mom! And stepping up for the deposit is a great move. How are you and Liwei feeling now?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, I felt an overwhelming sense of peace with Liwei just sitting there afterwards, because the apartment hunting was finally officially concluded. It's such a huge weight off our shoulders."
+        },
+        {
+          "role": "assistant",
+          "content": "I can imagine! It's been quite the journey since last month. When's the big moving day?"
+        },
+        {
+          "role": "user",
+          "content": "I scheduled the move-in day to be next Saturday at 10 AM. Oh, and my Mom was so relieved that she decided to buy us a new microwave to celebrate the end of the apartment hunting!"
+        },
+        {
+          "role": "assistant",
+          "content": "A new microwave and a new place! Sounds like everything is falling perfectly into place. Let me know if you need me to set up any reminders for the move-in checklist."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-06, Linchen seriously committed to Liwei that he will pay the deposit for the apartment hunting from his personal savings.",
+        "On 2025-08-06, Linchen felt an overwhelming sense of peace with Liwei because the apartment hunting was finally officially concluded."
+      ]
+    },
+    {
+      "session_id": "w5_s5",
+      "day": "Thursday",
+      "date": "2025-08-07",
+      "topic": "Checking out the repaired room",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just checked out the new conference room. The repair guy was just finishing up in there."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Is it finally usable again?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, the technician noted that the AC unit uses 3000 watts of power, so it's pretty beefy. Sister Chen walked in while I was there and she was pleasantly surprised because it was finally fixed and blowing cold air."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a relief! I remember she was super annoyed when it was broken during her meeting last week."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Oh, and it looks like Boss Zhang decided to buy ergonomic chairs for the new conference room too. Since it's all set up, I scheduled a team sync in there for 3 PM today."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid upgrade. Want me to send out a reminder to the team for the 3 PM sync?"
+        },
+        {
+          "role": "user",
+          "content": "No need, everyone's already accepted the calendar invite. I'll just spend the next hour prepping my notes."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Let me know if you need any help pulling those notes together!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-07, Sister Chen felt pleasantly surprised because the AC in the new conference room was finally fixed and blowing cold air."
+      ]
+    },
+    {
+      "session_id": "w5_s6",
+      "day": "Thursday",
+      "date": "2025-08-07",
+      "topic": "Updating the room booking policy",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to make some tweaks to the booking system for the new conference room. Boss Zhang just changed the policy today."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's the new policy for the room?"
+        },
+        {
+          "role": "user",
+          "content": "Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Thursdays now, rather than Fridays."
+        },
+        {
+          "role": "assistant",
+          "content": "Understood, I'll note that schedule change. Do you have a deadline to implement this?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I promised to update the calendar system for the new conference room by the end of the day today. Sister Chen was actually pretty annoyed about it because her recurring meeting in the new conference room got bumped."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, poor Sister Chen. At least the AC is finally working in there! Need me to set a reminder for your calendar update?"
+        },
+        {
+          "role": "user",
+          "content": "No, I'm doing it right now. Oh, fun fact I saw while updating the room's hardware profile: the smart display in the new conference room costs exactly 15000 RMB. Pretty expensive setup."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 15,000 RMB is steep! No wonder they want to reserve it for the executives. Good luck finishing up the calendar system!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-07, Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Thursdays, rather than Fridays."
+      ]
+    },
+    {
+      "session_id": "w5_s7",
+      "day": "Friday",
+      "date": "2025-08-08",
+      "topic": "Coordinating weekend plans",
+      "focal_character": "Jiange",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to sort out my plans for tomorrow. I'm incredibly excited about trying that new hotpot place for the weekend dinner!"
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds awesome! Hotpot is a great way to kick off the weekend. What time are you heading there?"
+        },
+        {
+          "role": "user",
+          "content": "Well, we need to leave a bit early. Wanghao calculated that the drive to the weekend dinner will take exactly 45 minutes in Saturday traffic."
+        },
+        {
+          "role": "assistant",
+          "content": "Good to know. Are you doing anything before dinner, or just heading straight there?"
+        },
+        {
+          "role": "user",
+          "content": "I actually just scheduled a quick gym session with Jiange for 4 PM on Saturday, right before the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. 4 PM gym with Jiange, then a 45-minute drive to hotpot. Need me to set any reminders for the dinner itself?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, remind me to save the receipt. Boss Zhang decided the company would reimburse up to 200 RMB per person if the weekend dinner was a team-building event."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I'll remind you to grab the receipt for the 200 RMB reimbursement. Have a great workout and an even better dinner tomorrow!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-08, Linchen scheduled a quick gym session with Jiange for 4 PM on Saturday, right before the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w5_s8",
+      "day": "Saturday",
+      "date": "2025-08-09",
+      "topic": "Family gathering details",
+      "focal_character": "Mom",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my schedule for today. Mom just called about the weekend dinner tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What do we need to add or change?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I promised Mom I would pick up my aunt from the train station so she could attend the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. You still have that 4 PM gym session with Jiange. What time is the station run?"
+        },
+        {
+          "role": "user",
+          "content": "I scheduled the pickup for 5:30 PM to make it to the weekend dinner on time."
+        },
+        {
+          "role": "assistant",
+          "content": "Tight schedule, but it works. Where's the dinner happening?"
+        },
+        {
+          "role": "user",
+          "content": "That seafood place downtown. The restaurant for the weekend dinner requires a minimum spend of 1200 RMB, which is annoying. And honestly, I felt a slight wave of dread because my aunt always asks intrusive questions at the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, good luck with the interrogation! Just focus on the food. Need me to set an 'emergency' alarm to give you an excuse to step away?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-09, Linchen promised Mom he would pick up his aunt from the train station so she could attend the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w5_s9",
+      "day": "Saturday",
+      "date": "2025-08-09",
+      "topic": "Venting about family obligations",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just texting Sister Chen. I am so drained right now."
+        },
+        {
+          "role": "assistant",
+          "content": "What's up? I thought you just had a quick gym session with Jiange scheduled for 4 PM."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'm heading there soon. But I was venting to Sister Chen about tonight's weekend dinner. I told her I'm feeling a deep sense of social exhaustion because my extended family is suddenly joining us."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, that's a lot to handle, especially after a busy week. Extended family dinners can definitely be intense."
+        },
+        {
+          "role": "user",
+          "content": "Seriously. The private room booked for the weekend dinner accommodates exactly 12 people, and now it's going to be completely packed. Plus, I still have to pick up my aunt from the train station."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a pretty tight schedule. Do you have enough time to manage the gym, the station, and the dinner?"
+        },
+        {
+          "role": "user",
+          "content": "Barely. I reminded Sister Chen that the weekend dinner reservation is strictly at 7 PM, so I absolutely can't be late. To make up for all my complaining, I promised her I'd bring leftovers from the weekend dinner to the office on Monday."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, free food makes everything better! Just survive tonight, and you'll be the office hero on Monday. Let me know if you need an alarm so you don't miss the 7 PM reservation."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-09, Linchen felt a deep sense of social exhaustion talking to Sister Chen because his extended family was joining the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w5_s10",
+      "day": "Sunday",
+      "date": "2025-08-10",
+      "topic": "Discussing the new commute",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm just taking it easy today. I have to say, I feel incredibly relieved that the stress of the apartment hunting is finally behind me."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome to hear! You definitely earned some downtime after all that searching and paying the deposit earlier this week."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it's a huge weight off my shoulders. I was actually just chatting with Wanghao about the new commute after the apartment hunting, and he did the math for me. He concluded that it's exactly 3.2 kilometers shorter than my old one!"
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 3.2 kilometers shorter is a solid upgrade! That's going to save you a nice chunk of time getting to the office every day."
+        },
+        {
+          "role": "user",
+          "content": "Exactly! I'm so hyped about it that I promised Wanghao I would host a board game night to celebrate the successful apartment hunting once I'm fully moved in."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a great way to break in the new place! Should I set a reminder for you to organize the board game night?"
+        },
+        {
+          "role": "user",
+          "content": "Not just yet, I need to make sure everything is set up first. I just scheduled my internet installation for the new place I found during the apartment hunting for next Tuesday at 2 PM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll note down the internet installation for next Tuesday at 2 PM. Hope the rest of your Sunday stays relaxing!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-10, Wanghao concluded that Linchen's new commute after the apartment hunting is exactly 3.2 kilometers shorter than his old one."
+      ]
+    }
+  ]
+}

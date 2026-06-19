@@ -1,0 +1,13 @@
+{
+  "status": "done",
+  "method": "ID",
+  "story_id": 10,
+  "fbmode": "verbose",
+  "memory_model": "deepseek-v4-flash",
+  "finished_at": "2026-06-16T03:11:45.497367",
+  "artifacts": [
+    "qa_records.json",
+    "extracted_memories.jsonl",
+    "recall.jsonl"
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "week": 9,
+  "conversations": [
+    {
+      "session_id": "w9_s1",
+      "day": "Monday",
+      "date": "2025-09-01",
+      "topic": "Discussing the upcoming arrival of Liwei's parents",
+      "focal_character": "Liwei",
+      "topic_anchor": "the in-laws visit",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just taking a quick breather. We're finally ready for Liwei's parents to arrive. Liwei noted that their train for the in-laws visit arrives at exactly 3:00 PM today."
+        },
+        {
+          "role": "assistant",
+          "content": "That's exciting! I know you two have been prepping hard. How's the apartment looking after the deep clean?"
+        },
+        {
+          "role": "user",
+          "content": "Spotless. Honestly, Liwei felt a profound sense of relief about the in-laws visit today because the guest room was finally perfectly clean. We also set up the new guest bed, which ended up costing 1500 RMB."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a huge win, especially since she was so anxious about her parents' strict cleanliness standards. Are you still cooking tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, I decided to cook three dishes for the dinner. I'm doing my mom's braised pork, just hoping I don't burn it like that practice batch!"
+        },
+        {
+          "role": "assistant",
+          "content": "You'll do great! Third time's the charm. Want me to set a reminder for when to head to the train station?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, remind me at 2:00 PM to leave. I'm just so glad Liwei is finally relaxed about this whole thing."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. Reminder set for 2:00 PM. Take a deep breath, the hard part is over!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-01, Liwei felt a profound sense of relief about the in-laws visit because the guest room was finally perfectly clean."
+      ]
+    },
+    {
+      "session_id": "w9_s2",
+      "day": "Monday",
+      "date": "2025-09-01",
+      "topic": "Finalizing travel budgets before the trip",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you pull up my itinerary for the Shenzhen trip? Boss Zhang just scheduled our flight for 8:00 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've added the 8:00 AM flight to your schedule for the Shenzhen trip. Do you need me to set an early alarm for you?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, set one for 5:30 AM. Also, I'm honestly so frustrated right now about the budget. Boss Zhang just told me he decided that the budget cut for the Shenzhen trip is finalized at 15% instead of the 12% we discussed last week."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, that 15% cut is definitely going to make expenses tight. I'll update the travel budget tracker right away. Anything else on your mind before you pack?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I already promised the team I'd bring back souvenirs from the Shenzhen trip, but with this tighter budget, I guess I'll have to hunt for some really cheap options."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sure they'll appreciate the thought regardless! I can find some affordable souvenir spots near your hotel once you land if you'd like."
+        },
+        {
+          "role": "user",
+          "content": "Thanks, that would actually be super helpful. I'll ping you when we get to the hotel."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Safe travels, and good luck securing those enterprise clients!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-01, Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 15% instead of 12%."
+      ]
+    },
+    {
+      "session_id": "w9_s3",
+      "day": "Tuesday",
+      "date": "2025-09-02",
+      "topic": "Reviewing new benchmark scores",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Pixel 9 phone",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "I'm honestly so excited about buying the Pixel 9 phone. I know I'm getting the Pro model for Liwei's birthday, but I kind of want to play with it myself first."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame you! It's a great gift, but it's totally normal to want to test out the shiny new tech yourself."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. Wanghao actually scheduled to test the Pixel 9 phone at 2 PM today using some of our work devices, just to see how it handles."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, nice. Did he get any new benchmark results from the test?"
+        },
+        {
+          "role": "user",
+          "content": "He did! Remember how he said it was 25% faster last week? Well, Wanghao concluded that the AI processing unit on the Pixel 9 phone is actually exactly 30% faster than the previous generation after a recent software update."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, a 30% bump just from a software update is huge! That AI processing unit is definitely living up to the hype."
+        },
+        {
+          "role": "user",
+          "content": "For sure. Because he was so hyped about those numbers, I promised to let Wanghao borrow the Pixel 9 phone for a weekend once Liwei opens it."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, I'm sure Wanghao will be thrilled. Just make sure Liwei gets first dibs on her own birthday present!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-02, Wanghao concluded that the AI processing unit on the Pixel 9 phone is exactly 30% faster than the previous generation after a software update."
+      ]
+    },
+    {
+      "session_id": "w9_s4",
+      "day": "Wednesday",
+      "date": "2025-09-03",
+      "topic": "Coordinating workout schedules around a checkup",
+      "focal_character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you take down a quick note about my dentist appointment this Friday? I'm honestly feeling pretty anxious about the whole thing."
+        },
+        {
+          "role": "assistant",
+          "content": "Of course. It's totally normal to feel anxious about the dentist! What do you need me to jot down?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Jiange is helping me out. He looked it up and concluded that the clinic for the dentist appointment is exactly 5 kilometers away from here."
+        },
+        {
+          "role": "assistant",
+          "content": "That's good to know, and nice of him to check. How are you getting there?"
+        },
+        {
+          "role": "user",
+          "content": "Jiange scheduled to drive me to the dentist appointment at exactly 2:00 PM this Friday. So we'll have to adjust our usual afternoon workout."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll make sure to log that schedule change. Anything else you need me to remember?"
+        },
+        {
+          "role": "user",
+          "content": "Just one last thing. I promised to buy Jiange coffee after the dentist appointment as a thank you for driving me. That's all!"
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a great plan. I've got it all noted. Good luck with the appointment on Friday, and enjoy the coffee!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-03, Jiange scheduled to drive Linchen to the dentist appointment at exactly 2:00 PM this Friday."
+      ]
+    },
+    {
+      "session_id": "w9_s5",
+      "day": "Thursday",
+      "date": "2025-09-04",
+      "topic": "Catching up on family preparations",
+      "focal_character": "Mom",
+      "topic_anchor": "the in-laws visit",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you help me organize my thoughts for the in-laws visit? I just got off the phone with Mom, and she felt so excited about the in-laws visit this weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! It's a big weekend ahead. What do we need to get sorted?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Mom helped out with some prep and concluded that the grocery bill for the in-laws visit was 800 RMB, so I need to transfer her that money. Also, I just scheduled a city tour for the in-laws visit at 10 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "I'll remind you to reimburse her for the 800 RMB. A 10 AM city tour sounds like a great way to show them around. Anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Just one more thing. Since Mom can't be there, I promised Mom I would send her a family group photo on the second day of the in-laws visit."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really nice gesture. I'll set a reminder for you to snap and send that group photo on day two. You're all set!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks! I'm a bit nervous, but hopefully Mom's braised pork recipe and the super clean apartment will win them over."
+        },
+        {
+          "role": "assistant",
+          "content": "They're going to love it. You've put in a ton of effort, so just take a deep breath and enjoy the weekend!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-04, Linchen promised Mom he would send her a family group photo on the second day of the in-laws visit."
+      ]
+    },
+    {
+      "session_id": "w9_s6",
+      "day": "Thursday",
+      "date": "2025-09-04",
+      "topic": "Venting at the water cooler",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the in-laws visit",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just taking a quick breather by the water cooler. I was just chatting with Sister Chen about Liwei's parents coming over."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice, a quick break is always good. How are you holding up? Still stressed about the braised pork and the apartment?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, no! I actually feel incredibly calm about the in-laws visit today because all the cooking preparations were finished early. It's a huge weight off my shoulders."
+        },
+        {
+          "role": "assistant",
+          "content": "That's fantastic! Getting all that prep out of the way must feel amazing. Did Sister Chen give you a pep talk?"
+        },
+        {
+          "role": "user",
+          "content": "A bit of one, yeah. She was laughing at how much effort we put in. Sister Chen concluded that preparing for the in-laws visit took exactly 12 hours of our time!"
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 12 hours is basically a part-time job! Liwei's parents are going to be so impressed."
+        },
+        {
+          "role": "user",
+          "content": "I hope so! I even promised Sister Chen I would share some leftovers from the in-laws visit with her. She scheduled a follow-up chat about the in-laws visit for Monday so I can give her the full debrief."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Enjoy the calm, and good luck with the dinner! You've totally got this."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-04, Linchen felt incredibly calm about the in-laws visit because all the cooking preparations were finished early."
+      ]
+    },
+    {
+      "session_id": "w9_s7",
+      "day": "Friday",
+      "date": "2025-09-05",
+      "topic": "Pre-appointment jitters",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just scheduled a taxi for the dentist appointment at 1:30 PM today. I know Jiange was supposed to drive me at 2, but I'm just too restless to wait around."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, taxi scheduled for 1:30 PM. It's totally fine to head out early. You sounding a bit on edge though, everything okay?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, no. I became absolutely terrified about the dentist appointment last night after hearing the sound of a drill in a movie. I haven't been able to shake the panic since."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, that drill sound is the worst trigger. It's completely normal to feel terrified. Just take some deep breaths. Want me to put on some calming music while you wait?"
+        },
+        {
+          "role": "user",
+          "content": "Maybe on the ride there. I was chatting with Sister Chen earlier trying to calm down, and she concluded that the dentist appointment will cost exactly 400 RMB, which is surprisingly reasonable at least."
+        },
+        {
+          "role": "assistant",
+          "content": "That is a pretty good silver lining! 400 RMB is definitely on the lower end for dental work. Focus on that."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'm trying. Anyway, I promised to text Sister Chen right after the dentist appointment to let her know I survived. Wish me luck."
+        },
+        {
+          "role": "assistant",
+          "content": "Good luck, Linchen! You're going to do great. I'll remind you to send that text to Sister Chen once you're out."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-05, Linchen became absolutely terrified about the dentist appointment after hearing the sound of a drill in a movie."
+      ]
+    },
+    {
+      "session_id": "w9_s8",
+      "day": "Saturday",
+      "date": "2025-09-06",
+      "topic": "Weekend plans for the new device",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Pixel 9 phone",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Help me map out my weekend schedule. It revolves around Liwei's birthday gift, the Pixel 9 phone."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! What's the game plan for the new phone?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I made a serious commitment to Liwei that I will pick up the Pixel 9 phone from the mall on Sunday morning. I can't let her down!"
+        },
+        {
+          "role": "assistant",
+          "content": "Noted. Sunday morning mall run for the Pixel 9 Pro. Are you two doing anything else while you're out?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Liwei scheduled breakfast before getting the Pixel 9 phone at 9 AM. Also, she felt really happy about the color of the Pixel 9 phone I managed to reserve."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a perfect Sunday morning. Do you need to grab any accessories for it while you're at the store?"
+        },
+        {
+          "role": "user",
+          "content": "Just a case. I looked it up and concluded that the Pixel 9 phone case costs exactly 150 RMB. I'll just grab it at the counter."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. You've got breakfast at 9 AM, the phone pickup right after, and the case budgeted. Have a great weekend celebrating!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-06, Linchen made a serious commitment to Liwei to pick up the Pixel 9 phone from the mall on Sunday morning.",
+        "On 2025-09-06, Liwei felt happy about the color of the Pixel 9 phone."
+      ]
+    },
+    {
+      "session_id": "w9_s9",
+      "day": "Sunday",
+      "date": "2025-09-07",
+      "topic": "Planning for a follow-up visit",
+      "focal_character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar? I need to log a follow-up for the dentist appointment."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! When is the follow-up, and do you need me to block out travel time?"
+        },
+        {
+          "role": "user",
+          "content": "It's next Tuesday. Jiange scheduled to accompany me to the follow-up for the dentist appointment at exactly 10:00 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Blocked it out for next Tuesday at 10:00 AM with Jiange. How did the first visit go, by the way? I know you were pretty terrified."
+        },
+        {
+          "role": "user",
+          "content": "Man, I really felt relieved that the first dentist appointment was totally painless. They just did a tiny bit of work."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a huge win! So no crazy drills or intense procedures?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, just a small filling. Jiange actually looked at the material and concluded that the filling from the dentist appointment weighs 2 grams. Also, I promised to floss daily after the dentist appointment, so hold me to that."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, leave it to Jiange to calculate the weight of your filling. I'll definitely nag you about flossing daily now. You're all set for Tuesday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-07, Jiange scheduled to accompany Linchen to the follow-up for the dentist appointment at exactly 10:00 AM next Tuesday."
+      ]
+    },
+    {
+      "session_id": "w9_s10",
+      "day": "Sunday",
+      "date": "2025-09-07",
+      "topic": "A weekend phone call about travel plans",
+      "focal_character": "Mom",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a long phone call with Mom about the Shenzhen trip. She was super worried about the weather down there, thinking I'll get caught in a typhoon or something."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic mom! It's sweet she's looking out for you, though. Did you manage to calm her down?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, mostly. I distracted her by promising I'd buy her favorite specialty tea during the Shenzhen trip. That definitely cheered her up."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice save! A good specialty tea always does the trick. Are you all prepped for the travel?"
+        },
+        {
+          "role": "user",
+          "content": "Not quite yet. I was looking at the route and concluded that the flight for the Shenzhen trip covers exactly 1500 miles. Going to be a bit of a haul."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a decent stretch in the air. Have you figured out when you're going to get your bags together?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, I actually scheduled a packing session for the Shenzhen trip tonight at 8 PM. Just going to throw on a podcast and get it done."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. I'll remind you at 7:50 PM so you can grab your suitcase. Let me know if you need a packing checklist!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-07, Linchen promised Mom he would buy her favorite specialty tea during the Shenzhen trip."
+      ]
+    }
+  ]
+}

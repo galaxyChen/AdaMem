@@ -1,0 +1,266 @@
+{
+  "adamem|deepseek|verbose": {
+    "Agreement/Promise": {
+      "acc": 72.26890756302521,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 93.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 79.64601769911505,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 94.25287356321839,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 92.5925925925926,
+      "n": 81
+    }
+  },
+  "adamem|deepseek|with_gold": {
+    "Agreement/Promise": {
+      "acc": 66.38655462184875,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 90.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 81.41592920353982,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 94.25287356321839,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 82.71604938271605,
+      "n": 81
+    }
+  },
+  "adamem|gemini|verbose": {
+    "Agreement/Promise": {
+      "acc": 74.78991596638656,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 91.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 78.76106194690266,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 94.25287356321839,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 90.12345679012346,
+      "n": 81
+    }
+  },
+  "adamem|gemini|with_gold": {
+    "Agreement/Promise": {
+      "acc": 73.10924369747899,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 98.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 78.76106194690266,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 93.10344827586206,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 88.88888888888889,
+      "n": 81
+    }
+  },
+  "fc|deepseek|verbose": {
+    "Agreement/Promise": {
+      "acc": 94.11764705882354,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 100.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 96.46017699115045,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 97.70114942528735,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 93.82716049382717,
+      "n": 81
+    }
+  },
+  "fc|deepseek|with_gold": {
+    "Agreement/Promise": {
+      "acc": 96.63865546218487,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 100.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 94.69026548672566,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 97.70114942528735,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 97.53086419753086,
+      "n": 81
+    }
+  },
+  "id|deepseek|verbose": {
+    "Agreement/Promise": {
+      "acc": 94.95798319327731,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 99.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 92.92035398230088,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 100.0,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 93.82716049382717,
+      "n": 81
+    }
+  },
+  "id|deepseek|with_gold": {
+    "Agreement/Promise": {
+      "acc": 93.27731092436974,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 100.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 94.69026548672566,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 98.85057471264368,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 96.29629629629629,
+      "n": 81
+    }
+  },
+  "m0|deepseek|verbose": {
+    "Agreement/Promise": {
+      "acc": 64.70588235294117,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 84.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 63.716814159292035,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 93.10344827586206,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 82.71604938271605,
+      "n": 81
+    }
+  },
+  "m0|deepseek|with_gold": {
+    "Agreement/Promise": {
+      "acc": 68.0672268907563,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 88.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 71.68141592920354,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 93.10344827586206,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 86.41975308641975,
+      "n": 81
+    }
+  },
+  "m0|gemini|verbose": {
+    "Agreement/Promise": {
+      "acc": 68.90756302521008,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 88.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 71.68141592920354,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 94.25287356321839,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 85.18518518518519,
+      "n": 81
+    }
+  },
+  "m0|gemini|with_gold": {
+    "Agreement/Promise": {
+      "acc": 67.22689075630252,
+      "n": 119
+    },
+    "Decision/Conclusion": {
+      "acc": 96.0,
+      "n": 100
+    },
+    "Emotion/Attitude": {
+      "acc": 76.10619469026548,
+      "n": 113
+    },
+    "Fact/Number": {
+      "acc": 95.40229885057471,
+      "n": 87
+    },
+    "Schedule/Time": {
+      "acc": 87.65432098765432,
+      "n": 81
+    }
+  }
+}

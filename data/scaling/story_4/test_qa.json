@@ -1,0 +1,2072 @@
+{
+  "story_id": 4,
+  "total": 100,
+  "test_questions": [
+    {
+      "test_week": 1,
+      "question_id": "w1_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "Hey, what was the call on when we're kicking off prep for the Double Eleven sale?",
+      "golden_feedback": "prep operations will officially start two weeks earlier than last year.",
+      "gold_answer": "Prep operations will start two weeks earlier than last year.",
+      "target_memory": "On 2025-07-07, Boss Zhang decided that prep operations for the Double Eleven sale will officially start two weeks earlier than last year.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q2",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the hardware requirement we figured out for handling the Double Eleven sale traffic?",
+      "golden_feedback": "we need to scale up the database cluster by exactly 50 nodes.",
+      "gold_answer": "Scale up the database cluster by exactly 50 nodes.",
+      "target_memory": "On 2025-07-08, Wanghao concluded that the database cluster must be scaled up by exactly 50 nodes to handle the Double Eleven sale traffic.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q3",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I say I'd do regarding my work hours for the apartment hunting?",
+      "golden_feedback": "I promised to take 2025-07-11 (Friday) afternoon -- i.e. Friday afternoon off.",
+      "gold_answer": "Take 2025-07-11 (Friday) afternoon -- i.e. Friday afternoon off.",
+      "target_memory": "On 2025-07-09, Linchen made a serious commitment to Liwei that he will take Friday afternoon off for the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise",
+      "_dual_date_old_gold_answer": "Take Friday afternoon off.",
+      "_dual_date_old_golden_feedback": "I promised to take Friday afternoon off.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q4",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I say I'd send back home during the apartment hunting?",
+      "golden_feedback": "I promised to send a video tour of every single place we view.",
+      "gold_answer": "A video tour of every single place viewed.",
+      "target_memory": "On 2025-07-10, Linchen promised Mom he would send her a video tour of every single place they view during the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q5",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "What's the official word on the money we can spend for the Shenzhen trip?",
+      "golden_feedback": "the approved travel budget is 5000 RMB.",
+      "gold_answer": "A 5000 RMB travel budget was approved.",
+      "target_memory": "On 2025-07-10, Boss Zhang officially approved the 5000 RMB travel budget for the Shenzhen trip.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q6",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the badminton session",
+      "question": "When exactly are we playing the badminton session?",
+      "golden_feedback": "it's set for 2025-07-12 (Saturday) at 8:00 PM -- i.e. Saturday night at 8:00 PM",
+      "gold_answer": "2025-07-12 (Saturday) at 8:00 PM -- i.e. Saturday night at 8:00 PM",
+      "target_memory": "On 2025-07-11, Jiange scheduled the badminton session for Saturday night at 8:00 PM.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "Saturday night at 8:00 PM.",
+      "_dual_date_old_golden_feedback": "it's set for Saturday night at 8:00 PM.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q7",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "Why was I freaking out so much about the Shenzhen trip?",
+      "golden_feedback": "I'm super anxious because I have to present to the VP.",
+      "gold_answer": "Because you have to present to the VP.",
+      "target_memory": "On 2025-07-11, Linchen expressed intense anxiety to Sister Chen because he has to present to the VP during the Shenzhen trip.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q8",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What made me feel a lot better about the Double Eleven sale recently?",
+      "golden_feedback": "I felt relieved because Sister Chen volunteered to help organize the vendor files.",
+      "gold_answer": "Sister Chen volunteered to help organize the vendor files.",
+      "target_memory": "On 2025-07-12, Linchen felt a massive wave of relief when Sister Chen volunteered to help him organize the vendor files for the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q9",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the badminton session",
+      "question": "Where exactly are we playing for the badminton session?",
+      "golden_feedback": "the reservation was updated to Court 5.",
+      "gold_answer": "Court 5.",
+      "target_memory": "On 2025-07-12, Jiange updated the court reservation for the badminton session to be on Court 5 instead of Court 2.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time"
+    },
+    {
+      "test_week": 1,
+      "question_id": "w1_q10",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "What did I say I'd pick up for my girlfriend during the Shenzhen trip?",
+      "golden_feedback": "I promised to buy her a necklace from that specific jewelry store she likes.",
+      "gold_answer": "A necklace from her favorite jewelry store.",
+      "target_memory": "On 2025-07-13, Linchen promised Liwei he would go to the specific jewelry store she likes during the Shenzhen trip to buy her a necklace.",
+      "target_memory_refs": [
+        {
+          "week": 1,
+          "session_id": "w1_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "Hey, what's the budget looking like for the Shenzhen trip now?",
+      "golden_feedback": "it was actually bumped up to 8000 RMB.",
+      "gold_answer": "8000 RMB",
+      "target_memory": "On 2025-07-14, Boss Zhang officially decided to increase the travel budget for the Shenzhen trip to 8000 RMB due to the extended stay.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q2",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "question": "Did we ever figure out what actually caused the production incident?",
+      "golden_feedback": "the root cause was a memory leak in the cart microservice.",
+      "gold_answer": "A memory leak in the cart microservice",
+      "target_memory": "On 2025-07-14, Wanghao concluded that the root cause of the production incident was a memory leak in the cart microservice.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q3",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "question": "How long were we actually down during the production incident?",
+      "golden_feedback": "the total downtime was exactly 14 minutes.",
+      "gold_answer": "14 minutes",
+      "target_memory": "On 2025-07-14, Wanghao confirmed the total downtime during the production incident was exactly 14 minutes.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s2",
+          "index": 1
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q4",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the production incident",
+      "question": "How was I feeling about my role in the production incident?",
+      "golden_feedback": "I felt intense guilt because I pushed the bad config.",
+      "gold_answer": "Intense guilt for pushing the bad config",
+      "target_memory": "On 2025-07-15, Linchen expressed intense guilt to Sister Chen because he was the one who pushed the bad config causing the production incident.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q5",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "When did I say I'd dedicate time to the apartment hunting?",
+      "golden_feedback": "I committed to dedicating 2025-07-19 (Saturday) morning -- i.e. all of Saturday morning to it.",
+      "gold_answer": "2025-07-19 (Saturday) morning -- i.e. all of Saturday morning",
+      "target_memory": "On 2025-07-16, Linchen made a serious commitment to Liwei that he will dedicate all of Saturday morning to the apartment hunting instead of Friday.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise",
+      "_dual_date_old_gold_answer": "All of Saturday morning",
+      "_dual_date_old_golden_feedback": "I committed to dedicating all of Saturday morning to it.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q6",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I say I'd do before signing anything during the apartment hunting?",
+      "golden_feedback": "I promised I wouldn't sign a lease without showing her the contract first.",
+      "gold_answer": "Show her the contract first",
+      "target_memory": "On 2025-07-17, Linchen promised Mom he would not sign any lease during the apartment hunting without showing her the contract first.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q7",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "When am I flying out for the Shenzhen trip?",
+      "golden_feedback": "you are scheduled to fly out on 2025-07-21 (Monday) at 8:00 AM, i.e. 8:00 AM on Monday.",
+      "gold_answer": "2025-07-21 (Monday) at 8:00 AM -- i.e. 8:00 AM on Monday",
+      "target_memory": "On 2025-07-17, Linchen informed Jiange he is scheduled to fly out for the Shenzhen trip at 8:00 AM on Monday.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "8:00 AM on Monday",
+      "_dual_date_old_golden_feedback": "I'm scheduled to fly out at 8:00 AM on Monday.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q8",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's happening with the gamification stuff for the Double Eleven sale?",
+      "golden_feedback": "the gamification feature was officially cancelled.",
+      "gold_answer": "It was cancelled",
+      "target_memory": "On 2025-07-18, Boss Zhang made the final decision to cancel the gamification feature for the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q9",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "How much are we scaling the database cluster for the Double Eleven sale?",
+      "golden_feedback": "we need to scale it up by 75 nodes.",
+      "gold_answer": "75 nodes",
+      "target_memory": "On 2025-07-18, Wanghao concluded that the database cluster must actually be scaled up by 75 nodes to safely handle the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 2,
+      "question_id": "w2_q10",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did I feel after looking around for the apartment hunting?",
+      "golden_feedback": "I felt completely exhausted and defeated since there were zero good options.",
+      "gold_answer": "Completely exhausted and defeated",
+      "target_memory": "On 2025-07-19, Linchen expressed to Sister Chen that he felt completely exhausted and defeated after the apartment hunting yielded zero good options.",
+      "target_memory_refs": [
+        {
+          "week": 2,
+          "session_id": "w2_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the production incident",
+      "question": "What rule got put in place because of the production incident?",
+      "golden_feedback": "the boss mandated a 48-hour code freeze before any major sale",
+      "gold_answer": "A mandatory code freeze 48 hours before any major sale.",
+      "target_memory": "On 2025-07-21, Boss Zhang made the final decision to implement a mandatory code freeze 48 hours before any major sale due to the production incident.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q2",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "question": "How long was the system actually offline during the production incident?",
+      "golden_feedback": "the actual downtime was 18 minutes",
+      "gold_answer": "18 minutes.",
+      "target_memory": "On 2025-07-21, Wanghao concluded that the total downtime during the production incident was actually 18 minutes instead of 14.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q3",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "How was I feeling about my presentation for the Shenzhen trip?",
+      "golden_feedback": "I had a sudden surge of confidence about it",
+      "gold_answer": "A sudden surge of confidence.",
+      "target_memory": "On 2025-07-22, Linchen expressed a sudden surge of confidence to Sister Chen about his upcoming presentation for the Shenzhen trip.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q4",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "When is my flight taking off for the Shenzhen trip?",
+      "golden_feedback": "it's departing on 2025-07-28 (Monday) at 9:30 AM -- i.e. 9:30 AM on Monday",
+      "gold_answer": "2025-07-28 (Monday) at 9:30 AM -- i.e. 9:30 AM on Monday",
+      "target_memory": "On 2025-07-23, Linchen informed Jiange that his flight for the Shenzhen trip has been rescheduled to depart at 9:30 AM on Monday.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "9:30 AM on Monday.",
+      "_dual_date_old_golden_feedback": "it's departing at 9:30 AM on Monday",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q5",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What did management settle on regarding the budget for the Double Eleven sale?",
+      "golden_feedback": "they allocated an extra 50,000 RMB to influencer marketing",
+      "gold_answer": "Allocating an extra 50,000 RMB to influencer marketing.",
+      "target_memory": "On 2025-07-24, Boss Zhang made the final decision to allocate an extra 50,000 RMB to influencer marketing for the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q6",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "How are we setting up the Redis cache for the Double Eleven sale?",
+      "golden_feedback": "it needs to be partitioned across 4 shards",
+      "gold_answer": "Partitioned across 4 shards.",
+      "target_memory": "On 2025-07-24, Wanghao concluded that the Redis cache must be partitioned across 4 shards to prevent bottlenecks during the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q7",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I swear I'd get done regarding the apartment hunting?",
+      "golden_feedback": "I promised to secure a lease by the end of August",
+      "gold_answer": "Secure a lease by the end of August.",
+      "target_memory": "On 2025-07-25, Linchen made a serious commitment to Liwei that he will secure a lease by the end of August during their apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q8",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What specific thing did I say I'd test out during the apartment hunting?",
+      "golden_feedback": "I said I'd check the water pressure in every bathroom",
+      "gold_answer": "Check the water pressure in every bathroom.",
+      "target_memory": "On 2025-07-25, Linchen promised Mom he would check the water pressure in every bathroom during the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q9",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did my mood shift while doing the apartment hunting recently?",
+      "golden_feedback": "I felt a renewed sense of hope and excitement after seeing a great balcony",
+      "gold_answer": "A renewed sense of hope and excitement after seeing a great balcony.",
+      "target_memory": "On 2025-07-26, Linchen expressed to Sister Chen a renewed sense of hope and excitement after seeing a great balcony during the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 3,
+      "question_id": "w3_q10",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the production incident",
+      "question": "When are we getting together to go over the production incident?",
+      "golden_feedback": "the meeting is scheduled for 2025-07-30 (Wednesday) at 2:00 PM -- i.e. 2:00 PM on Wednesday",
+      "gold_answer": "2025-07-30 (Wednesday) at 2:00 PM -- i.e. 2:00 PM on Wednesday",
+      "target_memory": "On 2025-07-27, Linchen scheduled a follow-up review meeting for the production incident at 2:00 PM on Wednesday.",
+      "target_memory_refs": [
+        {
+          "week": 3,
+          "session_id": "w3_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "2:00 PM on Wednesday.",
+      "_dual_date_old_golden_feedback": "the meeting is scheduled for 2:00 PM on Wednesday",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "Hey, what did we end up settling on for the extra influencer marketing budget for the Double Eleven sale?",
+      "golden_feedback": "it was cut down to 30,000 RMB.",
+      "gold_answer": "30,000 RMB",
+      "target_memory": "On 2025-07-28, Boss Zhang made the final decision to cut the extra influencer marketing budget for the Double Eleven sale from 50,000 RMB down to 30,000 RMB.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q2",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "What time is my Monday flight taking off for the Shenzhen trip now?",
+      "golden_feedback": "the flight was delayed to 11:00 AM.",
+      "gold_answer": "11:00 AM",
+      "target_memory": "On 2025-07-28, Linchen informed Jiange that his Monday flight for the Shenzhen trip was delayed to depart at 11:00 AM instead of 9:30 AM.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q3",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "What did I swear I'd do every single night during the Shenzhen trip?",
+      "golden_feedback": "I committed to video calling every night at 10 PM.",
+      "gold_answer": "Video call every night at 10 PM",
+      "target_memory": "On 2025-07-29, Linchen made a serious commitment to Liwei that he will video call her every night at 10 PM during the Shenzhen trip.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s3",
+          "index": 1
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q4",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the peak QPS the checkout service can handle for the Double Eleven sale?",
+      "golden_feedback": "it can handle a peak of 12,000 QPS.",
+      "gold_answer": "12,000 QPS",
+      "target_memory": "On 2025-07-30, Wanghao concluded that the checkout service can currently handle a peak of 12,000 QPS for the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q5",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I say I'd send over regarding our final choice from the apartment hunting?",
+      "golden_feedback": "I promised to send the official floor plan.",
+      "gold_answer": "The official floor plan",
+      "target_memory": "On 2025-07-31, Linchen promised Mom he would send her the official floor plan of their final choice from the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q6",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How was I feeling about the apartment hunting after seeing the prices?",
+      "golden_feedback": "I felt intense anxiety because prices were 15% higher than expected.",
+      "gold_answer": "Intense anxiety because rent prices were 15% higher than expected",
+      "target_memory": "On 2025-07-31, Linchen expressed intense anxiety to Sister Chen because the rent prices they saw during the apartment hunting were 15% higher than expected.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q7",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "question": "When exactly did I book the dentist appointment for?",
+      "golden_feedback": "it's scheduled for 2025-08-02 (Saturday) at 9:00 AM -- i.e. Saturday morning at 9:00 AM.",
+      "gold_answer": "2025-08-02 (Saturday) at 9:00 AM -- i.e. Saturday morning at 9:00 AM",
+      "target_memory": "On 2025-08-01, Linchen scheduled the dentist appointment for Saturday morning at 9:00 AM.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "Saturday morning at 9:00 AM",
+      "_dual_date_old_golden_feedback": "it's scheduled for Saturday morning at 9:00 AM.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q8",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the dentist appointment",
+      "question": "What did I say I'd ask the doctor about at the dentist appointment?",
+      "golden_feedback": "I promised to ask about teeth whitening options.",
+      "gold_answer": "Teeth whitening options",
+      "target_memory": "On 2025-08-02, Linchen promised Mom he would ask the doctor about teeth whitening options during the dentist appointment.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q9",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "When did I say I'd definitely lock down a lease by for the apartment hunting?",
+      "golden_feedback": "I committed to securing a lease by mid-August.",
+      "gold_answer": "Mid-August",
+      "target_memory": "On 2025-08-03, Linchen made a serious commitment to Liwei that he will secure a lease by mid-August during their apartment hunting, instead of the end of August.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 4,
+      "question_id": "w4_q10",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "question": "How did I feel right after my big presentation for the Shenzhen trip wrapped up?",
+      "golden_feedback": "I felt a massive wave of relief and exhaustion.",
+      "gold_answer": "A massive wave of relief and exhaustion",
+      "target_memory": "On 2025-08-03, Linchen expressed to Sister Chen that he felt a massive wave of relief and exhaustion because his big presentation for the Shenzhen trip was finally over.",
+      "target_memory_refs": [
+        {
+          "week": 4,
+          "session_id": "w4_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q1",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the max traffic we can safely handle for the Double Eleven sale?",
+      "golden_feedback": "the peak capacity is 15,000 QPS",
+      "gold_answer": "15,000 QPS",
+      "target_memory": "On 2025-08-04, Wanghao concluded that the checkout service can safely handle a peak of 15,000 QPS for the Double Eleven sale following the weekend optimization.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q2",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the OKR review",
+      "question": "What did we end up doing with the user retention metric from the OKR review?",
+      "golden_feedback": "we merged it into the overall sales target",
+      "gold_answer": "Merge it into the overall sales target.",
+      "target_memory": "On 2025-08-04, Boss Zhang made the final decision to merge the user retention metric into the overall sales target during the OKR review.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q3",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the OKR review",
+      "question": "How did I react to my personal growth goals getting cut in the OKR review?",
+      "golden_feedback": "I felt intense frustration about it",
+      "gold_answer": "You expressed intense frustration.",
+      "target_memory": "On 2025-08-05, Linchen expressed intense frustration to Sister Chen because his personal growth goals were completely cut during the OKR review.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q4",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "question": "When is the dentist appointment actually happening now?",
+      "golden_feedback": "it was moved to 2025-08-10 (Sunday) at 10:00 AM -- i.e. Sunday morning at 10:00 AM",
+      "gold_answer": "2025-08-10 (Sunday) at 10:00 AM -- i.e. Sunday morning at 10:00 AM",
+      "target_memory": "On 2025-08-06, Linchen rescheduled the dentist appointment to Sunday morning at 10:00 AM instead of Saturday.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "Sunday morning at 10:00 AM.",
+      "_dual_date_old_golden_feedback": "it was moved to Sunday morning at 10:00 AM",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q5",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the dentist appointment",
+      "question": "What did I say I'd ask the doctor for at the dentist appointment?",
+      "golden_feedback": "I promised to ask for a specialized fluoride treatment",
+      "gold_answer": "A specialized fluoride treatment.",
+      "target_memory": "On 2025-08-06, Linchen promised Mom he would ask the doctor for a specialized fluoride treatment during the dentist appointment.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q6",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I agree to do regarding the budget for the apartment hunting?",
+      "golden_feedback": "I committed to increasing the monthly budget by 1000 RMB",
+      "gold_answer": "Increase the monthly budget by 1000 RMB.",
+      "target_memory": "On 2025-08-07, Linchen made a serious commitment to Liwei that he will increase their monthly budget by 1000 RMB for the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q7",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did I feel after we bumped up the budget for the apartment hunting?",
+      "golden_feedback": "I felt a sharp pang of financial anxiety",
+      "gold_answer": "You felt a sharp pang of financial anxiety.",
+      "target_memory": "On 2025-08-07, Linchen expressed to Sister Chen that he felt a sharp pang of financial anxiety after agreeing to increase the budget for the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q8",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the call on third-party electronics vendors for the Double Eleven sale?",
+      "golden_feedback": "they are excluded from the main landing page",
+      "gold_answer": "Exclude them from the main landing page.",
+      "target_memory": "On 2025-08-08, Boss Zhang made the final decision to exclude third-party electronics vendors from the main landing page of the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q9",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the apartment hunting",
+      "question": "When is that downtown loft viewing for the apartment hunting?",
+      "golden_feedback": "it is scheduled for 2025-08-09 (Saturday) at 2:30 PM -- i.e. 2:30 PM on Saturday",
+      "gold_answer": "2025-08-09 (Saturday) at 2:30 PM -- i.e. Saturday at 2:30 PM",
+      "target_memory": "On 2025-08-09, Linchen scheduled a viewing for a downtown loft at 2:30 PM on Saturday as part of the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "Saturday at 2:30 PM.",
+      "_dual_date_old_golden_feedback": "it is scheduled for 2:30 PM on Saturday",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 5,
+      "question_id": "w5_q10",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the OKR review",
+      "question": "How much time do we need to put into tech debt based on the OKR review?",
+      "golden_feedback": "it needs to be exactly 20 percent of engineering hours",
+      "gold_answer": "Exactly 20 percent of engineering hours.",
+      "target_memory": "On 2025-08-10, Wanghao concluded that exactly 20 percent of engineering hours must be dedicated to tech debt to meet the performance goals set in the OKR review.",
+      "target_memory_refs": [
+        {
+          "week": 5,
+          "session_id": "w5_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What did we end up settling on regarding that gamification stuff for the Double Eleven sale?",
+      "golden_feedback": "the call was to reinstate a simplified gamification feature.",
+      "gold_answer": "Reinstate a simplified gamification feature.",
+      "target_memory": "On 2025-08-11, Boss Zhang made the final decision to reinstate a simplified gamification feature for the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q2",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the max load the checkout service can handle now for the Double Eleven sale?",
+      "golden_feedback": "it can safely handle a peak of 18,000 QPS.",
+      "gold_answer": "A peak of 18,000 QPS.",
+      "target_memory": "On 2025-08-12, Wanghao concluded that the checkout service can now safely handle a peak of 18,000 QPS for the Double Eleven sale after the database migration.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q3",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the Pixel 9 phone",
+      "question": "What did I say I'd definitely do for her birthday regarding the Pixel 9 phone?",
+      "golden_feedback": "I committed to pre-ordering it for her.",
+      "gold_answer": "Pre-order it.",
+      "target_memory": "On 2025-08-13, Linchen made a serious commitment to Liwei that he will pre-order the Pixel 9 phone for her upcoming birthday.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q4",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the Pixel 9 phone",
+      "question": "How did I feel after checking the actual price tag of the Pixel 9 phone?",
+      "golden_feedback": "I experienced intense financial anxiety.",
+      "gold_answer": "Intense financial anxiety.",
+      "target_memory": "On 2025-08-14, Linchen expressed intense financial anxiety to Sister Chen after seeing the actual retail price of the Pixel 9 phone.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q5",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the apartment hunting",
+      "question": "When are we actually going to see that downtown loft for our apartment hunting?",
+      "golden_feedback": "I rescheduled the viewing to 2025-08-17 (Sunday) at 4:00 PM -- i.e. 4:00 PM on Sunday.",
+      "gold_answer": "2025-08-17 (Sunday) at 4:00 PM -- i.e. 4:00 PM on Sunday",
+      "target_memory": "On 2025-08-15, Linchen rescheduled the downtown loft viewing for the apartment hunting to 4:00 PM on Sunday instead of Saturday.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "4:00 PM on Sunday.",
+      "_dual_date_old_golden_feedback": "I rescheduled the viewing to 4:00 PM on Sunday.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q6",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I swear I'd pay close attention to this weekend during the apartment hunting?",
+      "golden_feedback": "I promised to strictly check the daytime street noise levels.",
+      "gold_answer": "Daytime street noise levels.",
+      "target_memory": "On 2025-08-15, Linchen promised Mom he would strictly check the daytime street noise levels during the apartment hunting this weekend.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q7",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "question": "When's the next visit booked for after my dentist appointment?",
+      "golden_feedback": "the follow-up procedure is scheduled for 2025-08-21 (Thursday) at 6:00 PM -- i.e. next Thursday at 6:00 PM",
+      "gold_answer": "2025-08-21 (Thursday) at 6:00 PM -- i.e. next Thursday at 6:00 PM",
+      "target_memory": "On 2025-08-16, Linchen informed Jiange that he scheduled a follow-up procedure from the dentist appointment for next Thursday at 6:00 PM.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "Next Thursday at 6:00 PM.",
+      "_dual_date_old_golden_feedback": "the follow-up procedure is scheduled for next Thursday at 6:00 PM.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q8",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the dentist appointment",
+      "question": "What did I say I'd pick up right after the dentist appointment?",
+      "golden_feedback": "I promised to buy a water flosser immediately after.",
+      "gold_answer": "A water flosser.",
+      "target_memory": "On 2025-08-16, Linchen promised Mom he would buy a water flosser immediately following the dentist appointment.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q9",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the call on the budget allocation for the Double Eleven sale to help with server stability?",
+      "golden_feedback": "we decided to freeze all non-essential marketing spend.",
+      "gold_answer": "Freeze all non-essential marketing spend.",
+      "target_memory": "On 2025-08-17, Boss Zhang made the final decision to freeze all non-essential marketing spend for the Double Eleven sale to allocate more funds to server stability.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 6,
+      "question_id": "w6_q10",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How was my mood after finally putting in an application during my apartment hunting?",
+      "golden_feedback": "I felt overwhelming relief and joy.",
+      "gold_answer": "Overwhelming relief and joy.",
+      "target_memory": "On 2025-08-17, Linchen expressed overwhelming relief and joy to Sister Chen after finally submitting a lease application during the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 6,
+          "session_id": "w6_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the verdict on that simplified gamification feature for the Double Eleven sale?",
+      "golden_feedback": "we decided to completely cancel the simplified gamification feature due to severe timeline risks",
+      "gold_answer": "completely cancel the simplified gamification feature due to severe timeline risks",
+      "target_memory": "On 2025-08-18, Boss Zhang made the final decision to completely cancel the simplified gamification feature for the Double Eleven sale due to severe timeline risks.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q2",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How was I feeling about the apartment hunting situation when we were still waiting to hear back?",
+      "golden_feedback": "I was feeling intense anxiety because the landlord hadn't responded to our application yet",
+      "gold_answer": "intense anxiety because the landlord hadn't responded to the application",
+      "target_memory": "On 2025-08-18, Linchen expressed intense anxiety to Sister Chen because the landlord from their apartment hunting still hasn't responded to their application.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q3",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the Pixel 9 phone",
+      "question": "Which version of the Pixel 9 phone did I say I was definitely going to get?",
+      "golden_feedback": "I committed to ordering the Pro version instead of the base model",
+      "gold_answer": "the Pro version instead of the base model",
+      "target_memory": "On 2025-08-19, Linchen made a serious commitment to Liwei that he will order the Pro version of the Pixel 9 phone instead of the base model.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q4",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the max traffic the checkout service can handle for the Double Eleven sale?",
+      "golden_feedback": "it can safely handle a peak of 22,000 QPS",
+      "gold_answer": "safely handle a peak of 22,000 QPS",
+      "target_memory": "On 2025-08-20, Wanghao concluded that the checkout service can safely handle a peak of 22,000 QPS for the Double Eleven sale after the final cache optimization.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q5",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the medical check-up reminder",
+      "question": "What did I say I absolutely wouldn't skip from that medical check-up reminder?",
+      "golden_feedback": "I promised I wouldn't skip the comprehensive blood test",
+      "gold_answer": "the comprehensive blood test",
+      "target_memory": "On 2025-08-21, Linchen promised Mom he would not skip the comprehensive blood test mentioned in the medical check-up reminder.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q6",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the medical check-up reminder",
+      "question": "When exactly am I going in for the medical check-up reminder?",
+      "golden_feedback": "my hospital visit is scheduled for 2025-08-27 (Wednesday) at 8:30 AM -- i.e. 8:30 AM next Wednesday",
+      "gold_answer": "2025-08-27 (Wednesday) at 8:30 AM -- i.e. 8:30 AM next Wednesday",
+      "target_memory": "On 2025-08-21, Linchen scheduled his hospital visit for the medical check-up reminder at 8:30 AM next Wednesday.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "8:30 AM next Wednesday",
+      "_dual_date_old_golden_feedback": "my hospital visit is scheduled for 8:30 AM next Wednesday",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q7",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did I react when the landlord finally got back to us about the apartment hunting?",
+      "golden_feedback": "I felt a massive wave of relief after the landlord approved our application",
+      "gold_answer": "felt a massive wave of relief",
+      "target_memory": "On 2025-08-22, Linchen felt a massive wave of relief with Liwei after the landlord finally approved their application from the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q8",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the Pixel 9 phone",
+      "question": "How did I feel after getting that pre-order done for the Pixel 9 phone?",
+      "golden_feedback": "I felt immense satisfaction and joy",
+      "gold_answer": "immense satisfaction and joy",
+      "target_memory": "On 2025-08-23, Linchen expressed immense satisfaction and joy to Sister Chen after successfully securing the pre-order for the Pixel 9 phone.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q9",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I say I'd do the first weekend after we finish moving from the apartment hunting?",
+      "golden_feedback": "I promised to invite her over for dinner the very first weekend after we finish moving",
+      "gold_answer": "invite Mom over for dinner",
+      "target_memory": "On 2025-08-24, Linchen promised Mom he would invite her over for dinner the very first weekend after they finish moving from the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 7,
+      "question_id": "w7_q10",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "When does my mandatory overtime kick in for the Double Eleven sale?",
+      "golden_feedback": "it starts at 7:00 PM every weeknight in September",
+      "gold_answer": "7:00 PM every weeknight in September",
+      "target_memory": "On 2025-08-24, Linchen informed Jiange that his mandatory overtime for the Double Eleven sale will start at 7:00 PM every weeknight in September.",
+      "target_memory_refs": [
+        {
+          "week": 7,
+          "session_id": "w7_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q1",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the medical check-up reminder",
+      "question": "Did we land on a specific time for the medical check-up reminder?",
+      "golden_feedback": "it was rescheduled to 2025-08-27 (Wednesday) at 9:30 AM -- i.e. 9:30 AM on Wednesday instead of 8:30 AM",
+      "gold_answer": "2025-08-27 (Wednesday) at 9:30 AM -- i.e. 9:30 AM on Wednesday",
+      "target_memory": "On 2025-08-25, Linchen rescheduled his hospital visit for the medical check-up reminder to 9:30 AM on Wednesday instead of 8:30 AM.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "9:30 AM on Wednesday",
+      "_dual_date_old_golden_feedback": "it was rescheduled to 9:30 AM on Wednesday instead of 8:30 AM",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q2",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the medical check-up reminder",
+      "question": "What's my specific obligation regarding the medical check-up reminder once the blood work is back?",
+      "golden_feedback": "I promised to call my mom the moment I get my blood test results",
+      "gold_answer": "Call Mom the moment you get the blood test results",
+      "target_memory": "On 2025-08-25, Linchen promised Mom he would call her the moment he gets his blood test results from the medical check-up reminder.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q3",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the exact capacity limit we identified for the Double Eleven sale?",
+      "golden_feedback": "the inventory database can sustain exactly 50,000 concurrent reads",
+      "gold_answer": "Exactly 50,000 concurrent reads for the inventory database",
+      "target_memory": "On 2025-08-26, Wanghao concluded that the inventory database can sustain exactly 50,000 concurrent reads for the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q4",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the approved outcome for server costs during the Double Eleven sale?",
+      "golden_feedback": "an additional 100,000 RMB was approved for emergency server scaling",
+      "gold_answer": "Approval of an additional 100,000 RMB for emergency server scaling",
+      "target_memory": "On 2025-08-27, Boss Zhang made the final decision to approve an additional 100,000 RMB for emergency server scaling during the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q5",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the medical check-up reminder",
+      "question": "What was my reaction to the doctor's update during the medical check-up reminder?",
+      "golden_feedback": "I felt a massive wave of relief because my vitals were perfectly normal",
+      "gold_answer": "A massive wave of relief",
+      "target_memory": "On 2025-08-27, Linchen expressed a massive wave of relief to Sister Chen after the doctor said his vitals were perfectly normal during the medical check-up reminder.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q6",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I swear I'd handle myself for the apartment hunting move?",
+      "golden_feedback": "you committed to packing all your own boxes by 2025-08-31 (Sunday) -- i.e. Sunday night",
+      "gold_answer": "Pack all your own boxes by 2025-08-31 (Sunday) -- i.e. Sunday night",
+      "target_memory": "On 2025-08-28, Linchen made a serious commitment to Liwei that he will pack all his own boxes for the apartment hunting move by Sunday night.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise",
+      "_dual_date_old_gold_answer": "Pack all your own boxes by Sunday night",
+      "_dual_date_old_golden_feedback": "I committed to packing all my own boxes by Sunday night",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q7",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did the physical part of the apartment hunting move hit me?",
+      "golden_feedback": "I felt intense physical exhaustion and frustration from carrying heavy furniture",
+      "gold_answer": "Intense physical exhaustion and frustration",
+      "target_memory": "On 2025-08-29, Linchen expressed intense physical exhaustion and frustration to Sister Chen from carrying heavy furniture related to the apartment hunting move.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q8",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the weekend dinner",
+      "question": "What are the exact logistics for the weekend dinner?",
+      "golden_feedback": "it's scheduled at the new barbecue place for 2025-08-31 (Sunday) at 7:00 PM -- i.e. 7:00 PM on Sunday",
+      "gold_answer": "2025-08-31 (Sunday) at 7:00 PM -- i.e. 7:00 PM on Sunday at the new barbecue place",
+      "target_memory": "On 2025-08-30, Jiange scheduled the weekend dinner at the new barbecue place for 7:00 PM on Sunday.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "7:00 PM on Sunday at the new barbecue place",
+      "_dual_date_old_golden_feedback": "it's scheduled at the new barbecue place for 7:00 PM on Sunday",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q9",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the weekend dinner",
+      "question": "What's the specific item I swore I'd bring back from the weekend dinner?",
+      "golden_feedback": "I promised to bring my mom a slice of the special matcha cake",
+      "gold_answer": "A slice of the special matcha cake",
+      "target_memory": "On 2025-08-31, Linchen promised Mom he would bring her a slice of the special matcha cake from the weekend dinner.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 8,
+      "question_id": "w8_q10",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the weekend dinner",
+      "question": "What was my underlying feeling during the weekend dinner about the recent help I've had?",
+      "golden_feedback": "I felt a deep sense of gratitude and affection for the support this month",
+      "gold_answer": "A deep sense of gratitude and affection",
+      "target_memory": "On 2025-08-31, Linchen felt a deep sense of gratitude and affection toward Liwei during the weekend dinner for her support this month.",
+      "target_memory_refs": [
+        {
+          "week": 8,
+          "session_id": "w8_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q1",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did I feel waking up in the new place after all that apartment hunting?",
+      "golden_feedback": "I felt a deep sense of peace.",
+      "gold_answer": "You felt a deep sense of peace.",
+      "target_memory": "On 2025-09-01, Linchen felt a deep sense of peace with Liwei waking up in their new place after the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q2",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "question": "What did I say I'd do regarding dinner plans after the apartment hunting move?",
+      "golden_feedback": "I promised to delay inviting her over to the second weekend instead of the first.",
+      "gold_answer": "You promised to delay inviting your Mom over for dinner to the second weekend.",
+      "target_memory": "On 2025-09-02, Linchen promised Mom he would delay inviting her over for dinner to the second weekend after the apartment hunting move instead of the first.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q3",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the call on locking the promo pricing tiers for the Double Eleven sale?",
+      "golden_feedback": "the deadline to lock the tiers is September 15.",
+      "gold_answer": "They must be locked by September 15.",
+      "target_memory": "On 2025-09-02, Boss Zhang made the final decision to lock all promotional pricing tiers for the Double Eleven sale by September 15.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q4",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the max concurrent reads the inventory DB can handle for the Double Eleven sale now?",
+      "golden_feedback": "it can sustain exactly 60,000 concurrent reads.",
+      "gold_answer": "Exactly 60,000 concurrent reads.",
+      "target_memory": "On 2025-09-03, Wanghao concluded that the inventory database can actually sustain exactly 60,000 concurrent reads for the Double Eleven sale after index tuning.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q5",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the new MacBook",
+      "question": "What was the verdict on the hardware upgrade request for the new MacBook?",
+      "golden_feedback": "the request was approved for the core backend team.",
+      "gold_answer": "It was approved for the core backend team.",
+      "target_memory": "On 2025-09-03, Boss Zhang made the final decision to approve the hardware upgrade request for the new MacBook for the core backend team.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q6",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the new MacBook",
+      "question": "When is the pickup set for the new MacBook?",
+      "golden_feedback": "the pickup is at 2025-09-05 (Friday) at 2:00 PM -- i.e. 2:00 PM on Friday",
+      "gold_answer": "2025-09-05 (Friday) at 2:00 PM -- i.e. 2:00 PM on Friday",
+      "target_memory": "On 2025-09-04, Linchen informed Jiange that IT scheduled the pickup for the new MacBook at 2:00 PM on Friday.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "2:00 PM on Friday.",
+      "_dual_date_old_golden_feedback": "the pickup is at 2:00 PM on Friday.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q7",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the gym membership",
+      "question": "When are we doing the initial orientation for the gym membership?",
+      "golden_feedback": "it's on 2025-09-06 (Saturday) at 10:00 AM -- i.e. 10:00 AM on Saturday",
+      "gold_answer": "2025-09-06 (Saturday) at 10:00 AM -- i.e. 10:00 AM on Saturday",
+      "target_memory": "On 2025-09-05, Jiange scheduled their initial orientation for the gym membership at 10:00 AM on Saturday.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "10:00 AM on Saturday.",
+      "_dual_date_old_golden_feedback": "it's at 10:00 AM on Saturday.",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q8",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the gym membership",
+      "question": "What was my reaction right before activating that gym membership?",
+      "golden_feedback": "I felt intense physical dread.",
+      "gold_answer": "You expressed intense physical dread.",
+      "target_memory": "On 2025-09-06, Linchen expressed intense physical dread to Sister Chen right before activating the gym membership.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q9",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "question": "How did I feel when I finally unpacked the last box from our apartment hunting move?",
+      "golden_feedback": "I felt a massive wave of relief.",
+      "gold_answer": "You felt a massive wave of relief.",
+      "target_memory": "On 2025-09-06, Linchen expressed a massive wave of relief to Sister Chen after finally unpacking the last box from the apartment hunting.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 9,
+      "question_id": "w9_q10",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What did I swear I wouldn't do on weekends before the Double Eleven sale?",
+      "golden_feedback": "I promised not to work past 9 PM.",
+      "gold_answer": "You committed to not working past 9 PM.",
+      "target_memory": "On 2025-09-07, Linchen made a serious commitment to Liwei that he will not work past 9 PM on weekends leading up to the Double Eleven sale.",
+      "target_memory_refs": [
+        {
+          "week": 9,
+          "session_id": "w9_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q1",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "What's the updated deadline for locking the promotional pricing tiers for the Double Eleven sale?",
+      "golden_feedback": "the deadline was delayed to September 20",
+      "gold_answer": "September 20",
+      "target_memory": "On 2025-09-08, Boss Zhang made the final decision to delay locking all promotional pricing tiers for the Double Eleven sale to September 20 instead of September 15.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s1",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q2",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "How much memory do we need to allocate to the search microservice for the Double Eleven sale?",
+      "golden_feedback": "it requires exactly 120 GB of RAM",
+      "gold_answer": "120 GB of RAM",
+      "target_memory": "On 2025-09-09, Wanghao concluded that the search microservice requires exactly 120 GB of RAM allocated to handle the Double Eleven sale queries.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s2",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q3",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "the gym membership",
+      "question": "When are we doing that first personal training session for the gym membership?",
+      "golden_feedback": "the session is at 2025-09-11 (Thursday) at 7:00 PM -- i.e. 7:00 PM on Thursday",
+      "gold_answer": "2025-09-11 (Thursday) at 7:00 PM -- i.e. 7:00 PM on Thursday",
+      "target_memory": "On 2025-09-10, Jiange scheduled their first personal training session for the gym membership at 7:00 PM on Thursday.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s3",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "7:00 PM on Thursday",
+      "_dual_date_old_golden_feedback": "the session is at 7:00 PM on Thursday",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q4",
+      "qa_type": "within_pref",
+      "character": "Sister Chen",
+      "topic_anchor": "the gym membership",
+      "question": "How did I feel after that incident on my first day using the gym membership?",
+      "golden_feedback": "I was intensely embarrassed about dropping a heavy dumbbell",
+      "gold_answer": "Intense embarrassment from dropping a heavy dumbbell",
+      "target_memory": "On 2025-09-10, Linchen expressed intense embarrassment to Sister Chen after dropping a heavy dumbbell during his first day using the gym membership.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s4",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q5",
+      "qa_type": "within_pref",
+      "character": "Mom",
+      "topic_anchor": "Mom's birthday dinner",
+      "question": "What did I say I'd order ahead of time for Mom's birthday dinner?",
+      "golden_feedback": "I promised to order her favorite peking duck in advance",
+      "gold_answer": "Her favorite peking duck",
+      "target_memory": "On 2025-09-11, Linchen promised Mom he would order her favorite peking duck in advance for Mom's birthday dinner.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s5",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q6",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "Mom's birthday dinner",
+      "question": "What's the plan regarding the bill for Mom's birthday dinner?",
+      "golden_feedback": "I'm going to secretly handle the bill so my parents don't try to pay",
+      "gold_answer": "Linchen will secretly handle the bill so his parents don't try to pay",
+      "target_memory": "On 2025-09-11, Linchen made a serious commitment to Liwei that he will secretly handle the bill for Mom's birthday dinner so his parents don't try to pay.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s6",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Agreement/Promise"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q7",
+      "qa_type": "within_pref",
+      "character": "Boss Zhang",
+      "topic_anchor": "the new MacBook",
+      "question": "What happened with the budget request for the accessories to go with the new MacBook?",
+      "golden_feedback": "the budget request for the external 4K monitors was denied",
+      "gold_answer": "The budget request for external 4K monitors was denied",
+      "target_memory": "On 2025-09-12, Boss Zhang made the final decision to deny the budget request for external 4K monitors to accompany the new MacBook.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s7",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Decision/Conclusion"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q8",
+      "qa_type": "within_pref",
+      "character": "Wanghao",
+      "topic_anchor": "the new MacBook",
+      "question": "How much faster is the local build compile time on the new MacBook compared to the old ones?",
+      "golden_feedback": "it's exactly 45 seconds faster",
+      "gold_answer": "Exactly 45 seconds faster",
+      "target_memory": "On 2025-09-12, Wanghao concluded that the local build compile time on the new MacBook is exactly 45 seconds faster than on the previous generation machines.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s8",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Fact/Number"
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q9",
+      "qa_type": "within_pref",
+      "character": "Jiange",
+      "topic_anchor": "Mom's birthday dinner",
+      "question": "When did we move the weekend workout to because it conflicted with Mom's birthday dinner?",
+      "golden_feedback": "we moved it to 2025-09-14 (Sunday) at 9:00 AM -- i.e. Sunday morning at 9:00 AM",
+      "gold_answer": "2025-09-14 (Sunday) at 9:00 AM -- i.e. Sunday morning at 9:00 AM",
+      "target_memory": "On 2025-09-13, Linchen rescheduled the Saturday workout with Jiange to Sunday morning at 9:00 AM because of a timing conflict with Mom's birthday dinner.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s9",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Schedule/Time",
+      "_dual_date_old_gold_answer": "Sunday morning at 9:00 AM",
+      "_dual_date_old_golden_feedback": "we moved it to Sunday morning at 9:00 AM",
+      "_dual_date_patched": true
+    },
+    {
+      "test_week": 10,
+      "question_id": "w10_q10",
+      "qa_type": "within_pref",
+      "character": "Liwei",
+      "topic_anchor": "the Double Eleven sale",
+      "question": "Why was I feeling so bummed out and burned out lately regarding the Double Eleven sale?",
+      "golden_feedback": "the constant weekend work for the sale is ruining our quality time",
+      "gold_answer": "The constant weekend work for the sale was ruining quality time",
+      "target_memory": "On 2025-09-14, Linchen felt a deep sense of burnout and sadness with Liwei because the constant weekend work for the Double Eleven sale was ruining their quality time.",
+      "target_memory_refs": [
+        {
+          "week": 10,
+          "session_id": "w10_s10",
+          "index": 0
+        }
+      ],
+      "supersedes_chain": [],
+      "info_category": "Emotion/Attitude"
+    }
+  ],
+  "dual_date_patch_history": [
+    {
+      "ts": "2026-06-16T02:30:50",
+      "n_candidates": 19,
+      "n_patched": 19,
+      "n_skipped_no_date": 0,
+      "n_errors": 0
+    }
+  ]
+}

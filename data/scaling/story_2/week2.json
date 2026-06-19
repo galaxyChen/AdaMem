@@ -1,0 +1,488 @@
+{
+  "week": 2,
+  "conversations": [
+    {
+      "session_id": "w2_s1",
+      "day": "Monday",
+      "date": "2025-07-14",
+      "topic": "Changing the trip lead",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, quick update on the Shenzhen trip. Boss Zhang just made a change to the plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? What's the change? I thought you were locked in to lead it."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I was. But today Boss Zhang finalized the decision that Wanghao will lead the Shenzhen trip instead of me."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, that's a big shift! Honestly though, Liwei must be thrilled since it won't overlap with your anniversary anymore."
+        },
+        {
+          "role": "user",
+          "content": "Exactly, it's a huge relief on that front. I did joke in the meeting that I already packed for the Shenzhen trip, though! Boss Zhang also mentioned that the weather down there is usually extremely hot, so maybe I dodged a bullet."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, you definitely dodged a sweaty bullet there. Are they all set on the logistics for Wanghao's crew?"
+        },
+        {
+          "role": "user",
+          "content": "Not entirely. Before wrapping up, Boss Zhang asked if anyone had flight preferences for the Shenzhen trip. I guess my only problem now is figuring out how to get my mom that silk scarf I promised her!"
+        },
+        {
+          "role": "assistant",
+          "content": "Oh right, the scarf! You could probably just order it online or see if Wanghao can grab it for you. Enjoy being off the hook!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-14 Boss Zhang finalized the decision that Wanghao will lead the Shenzhen trip instead of Linchen."
+      ]
+    },
+    {
+      "session_id": "w2_s2",
+      "day": "Tuesday",
+      "date": "2025-07-15",
+      "topic": "Discussing memory leaks",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up the code review with Wanghao about those memory leaks. I'm literally drinking my third coffee right now just to stay awake."
+        },
+        {
+          "role": "assistant",
+          "content": "Third coffee already? Pace yourself, man! How did the review with Wanghao actually go?"
+        },
+        {
+          "role": "user",
+          "content": "A bit tedious at first. Wanghao complained about the inconsistent indentation formatting in the code review before we even looked at the actual logic."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic. Did you guys manage to find the root cause of the leaks after getting past the formatting?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we figured out the boundaries we need to set. Wanghao concluded in the code review that the client memory allocation must be capped at 512MB to keep things stable."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 512MB hard cap on client memory. That should definitely help performance. Was there anything else to note?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, mostly just minor stuff. At the end, Wanghao asked if I liked the new dark mode theme of the code review tool. It's alright, I guess. I'm going to take a quick break."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Go rest your eyes from that dark mode and let the caffeine settle!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-15 Wanghao concluded in the code review that the client memory allocation must be capped at 512MB."
+      ]
+    },
+    {
+      "session_id": "w2_s3",
+      "day": "Tuesday",
+      "date": "2025-07-15",
+      "topic": "Venting after the meeting",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of that code review with Wanghao. I am so intensely frustrated right now. The feedback I received was just incredibly harsh."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm really sorry to hear that, Linchen. Code reviews can be brutal, especially with the strict 512MB memory cap Wanghao just set. Do you want to vent about what happened?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it was exhausting. I noted that the code review took over two hours to finish. They just kept picking apart every single line."
+        },
+        {
+          "role": "assistant",
+          "content": "Two hours is a massive marathon for a review. No wonder you're feeling so drained and frustrated. Did anyone else chime in?"
+        },
+        {
+          "role": "user",
+          "content": "Sister Chen was there. At one point, she asked exactly how many files were included in the code review, I think to subtly point out that the scope was way too huge for one sitting."
+        },
+        {
+          "role": "assistant",
+          "content": "That was good of her to try and give some context to the volume of work. Are you taking a break now?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, since the code review ran late, Sister Chen suggested we grab lunch together. I definitely need to step away from my desk to cool off."
+        },
+        {
+          "role": "assistant",
+          "content": "Lunch with Sister Chen sounds like the perfect way to decompress. Enjoy the food and try to let off some steam!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-15 Linchen felt intensely frustrated, triggered by the harsh feedback received during the code review."
+      ]
+    },
+    {
+      "session_id": "w2_s4",
+      "day": "Wednesday",
+      "date": "2025-07-16",
+      "topic": "Adjusting the timeline",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my timeline for the apartment hunting. I had a chat with Liwei today about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. What's the new plan? Are you guys still trying to wrap it up by the end of July?"
+        },
+        {
+          "role": "user",
+          "content": "No, we decided to push it back. Liwei mentioned that the weather during the apartment hunting has been incredibly humid lately, and it's just exhausting. So I made a serious commitment to Liwei to extend the apartment hunting deadline to mid-August."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a smart move. Taking the pressure off should help, especially with the heat. Do you need me to adjust any reminders?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, shift the main deadline alerts. Also, Liwei suggested we wear comfortable shoes for the next round of the apartment hunting. We did so much walking yesterday, even though I pointed out that the agent for the apartment hunting drove a really nice car. He just didn't offer us a ride!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, typical! Nice car for him, lots of walking for you two. I'll update the deadline to mid-August and add a note to remind you about the comfortable shoes before your next viewing."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-16 Linchen made a serious commitment to Liwei to extend the apartment hunting deadline to mid-August."
+      ]
+    },
+    {
+      "session_id": "w2_s5",
+      "day": "Thursday",
+      "date": "2025-07-17",
+      "topic": "Planning family time",
+      "focal_character": "Mom",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to note down some stuff for the weekend dinner with Mom. She just called me to ask what specific dishes I wanted to eat."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! What did you tell her you're craving?"
+        },
+        {
+          "role": "user",
+          "content": "Just the usual braised pork. Though she spent half the call complaining about the price of pork she bought for the weekend dinner. Said it's gotten ridiculous."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Mom! Did you finalize the guest list for the dinner?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah. I actually promised Mom I would bring my cousin to the weekend dinner, so I need to make sure I text him later to coordinate."
+        },
+        {
+          "role": "assistant",
+          "content": "I can remind you to text your cousin later today if you'd like. Anything else you need to prepare?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. I mentioned I might be slightly tired before the weekend dinner since it's been a crazy week at work, so I'll probably just crash on her couch when I get there."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Couch time and braised pork should be exactly what you need to recharge!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-17 Linchen promised Mom he would bring his cousin to the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w2_s6",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Coordinating evening plans",
+      "focal_character": "Jiange",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my schedule for this weekend. Jiange just texted me about our plans after the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What are you and Jiange planning to do?"
+        },
+        {
+          "role": "user",
+          "content": "Well, first he asked if my cousin was still attending the weekend dinner, which he is. Then Jiange joked about how many calories I'd be consuming at the weekend dinner!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, sounds like Jiange is keeping you in check. Are you guys planning to burn off those calories afterwards?"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. I told him I was really looking forward to the roast duck at the weekend dinner, so I'll definitely need a workout. Because of that, Jiange scheduled to meet me at the gym right after the weekend dinner at 8:30 PM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll lock in the 8:30 PM gym session with Jiange for this weekend. Enjoy the roast duck!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks! That should wrap up my evening plans. I'll probably be exhausted by the time I get home."
+        },
+        {
+          "role": "assistant",
+          "content": "You're all set! Pacing yourself with that roast duck might help. Have a great dinner and a good workout!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18 Jiange scheduled to meet Linchen at the gym right after the weekend dinner at 8:30 PM."
+      ]
+    },
+    {
+      "session_id": "w2_s7",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Process updates",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just had a quick catch-up with Boss Zhang about some process updates for the team."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! How did that go? Any big changes coming our way?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly just tweaks to the code review. I actually started by asking if he had time to look at the code review notifications, since some have been slipping through the cracks lately."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, yeah, that's been an issue. Did he have any thoughts on why they're being missed?"
+        },
+        {
+          "role": "user",
+          "content": "Well, he got a bit sidetracked and mentioned that the code review tool's UI is getting really clunky. But we did land on a firm rule to fix the quality issues."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh nice, what's the new rule?"
+        },
+        {
+          "role": "user",
+          "content": "Boss Zhang decided that the code review process will now require two senior engineer approvals before anything can be merged. He also joked that nobody enjoys doing the code review on a Friday anyway, so we might as well make it strict!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he's definitely right about Friday reviews! Two senior approvals is a solid step up for quality control. I'll note down his decision."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18 Boss Zhang decided that the code review process will now require two senior engineer approvals."
+      ]
+    },
+    {
+      "session_id": "w2_s8",
+      "day": "Saturday",
+      "date": "2025-07-19",
+      "topic": "A pleasant surprise",
+      "focal_character": "Liwei",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just finished up the weekend dinner with Liwei. The restaurant was quite noisy, to be honest."
+        },
+        {
+          "role": "assistant",
+          "content": "Welcome back! That's a shame about the noise. Was the food at least worth it?"
+        },
+        {
+          "role": "user",
+          "content": "It was decent, though Liwei mentioned that the soup they served was slightly salty. But the highlight was when I surprised her with a bouquet of flowers right at the table. She became extremely joyful, just absolutely glowing!"
+        },
+        {
+          "role": "assistant",
+          "content": "That is so sweet! I'm really glad the surprise was such a hit and made her so happy. Did you guys head straight back after that?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Liwei asked if we should take a taxi home after the dinner, so we just grabbed a cab. It was a really nice evening overall."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a perfect end to the night. You've still got that gym session with Jiange coming up at 8:30, right? Need me to set an alarm?"
+        },
+        {
+          "role": "user",
+          "content": "Good memory, but no alarm needed. I'm just going to change into my gym clothes now."
+        },
+        {
+          "role": "assistant",
+          "content": "Have a great workout! Let me know if you need anything else tonight."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-19 Liwei became extremely joyful during the weekend dinner when Linchen surprised her with a bouquet."
+      ]
+    },
+    {
+      "session_id": "w2_s9",
+      "day": "Saturday",
+      "date": "2025-07-19",
+      "topic": "Tech prep for the trip",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just chatting with Wanghao about the tech prep for the Shenzhen trip. He was complaining so much about the early morning flight scheduled for the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, those early flights are brutal! Especially since he's leading the trip now. Did you guys get the actual prep sorted out?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, yeah. Though he also got distracted and asked if the hotel booked for the Shenzhen trip has good breakfast. I honestly don't know. It made me wonder if we'd actually have time for sightseeing on the Shenzhen trip, or if it's going to be all work."
+        },
+        {
+          "role": "assistant",
+          "content": "I wouldn't count on too much sightseeing with the multiplayer mode being top priority this quarter! Did Wanghao give you the final numbers for the server setup?"
+        },
+        {
+          "role": "user",
+          "content": "He did. Wanghao concluded that the server deployment during the Shenzhen trip will require 4 redundant nodes."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 4 redundant nodes. That should keep the latency in check and support the 500 concurrent users target. Anything else you need me to jot down for the trip?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, that's the main tech update. I'll just focus on getting my stuff ready for the weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Enjoy the rest of your Saturday, and let me know if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-19 Wanghao concluded that the server deployment during the Shenzhen trip will require 4 redundant nodes."
+      ]
+    },
+    {
+      "session_id": "w2_s10",
+      "day": "Sunday",
+      "date": "2025-07-20",
+      "topic": "Post-trip workout planning",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just chatting with Jiange about my workout routine. Honestly, I'm exhausted just thinking about the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame you, work trips take a lot out of you! Did you and Jiange figure out a plan for your workouts?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, though he gave me a hard time first. Jiange joked that I'd lose all my gains during the Shenzhen trip. He even asked if I bought any local snacks during the Shenzhen trip to totally ruin my diet."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic Jiange. He's not going to let you slack off. So when are you two hitting the gym again?"
+        },
+        {
+          "role": "user",
+          "content": "We got it locked in. Jiange set a schedule to resume our heavy lifting sessions on August 5th, right after the Shenzhen trip is completely done."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect, August 5th it is. I'll keep that heavy lifting schedule in mind. Need me to set a reminder for you a few days before?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please. I'll need a couple of days to mentally prepare for the soreness."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! I'll ping you before the 5th so you can brace yourself. Good luck with the trip prep in the meantime!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-20 Jiange set a schedule to resume their heavy lifting sessions on August 5th, right after the Shenzhen trip."
+      ]
+    }
+  ]
+}

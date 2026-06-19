@@ -1,0 +1,158 @@
+{
+  "id|deepseek|verbose": {
+    "components": {
+      "embedding": 259389,
+      "mem0_llm": 727898,
+      "answer": 244890,
+      "judge": 246340,
+      "reflect": 0
+    },
+    "total_tokens": 1478517,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 96.0
+  },
+  "id|deepseek|with_gold": {
+    "components": {
+      "embedding": 256188,
+      "mem0_llm": 678288,
+      "answer": 241722,
+      "judge": 250468,
+      "reflect": 0
+    },
+    "total_tokens": 1426666,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 96.4
+  },
+  "fc|deepseek|verbose": {
+    "components": {
+      "embedding": 0,
+      "mem0_llm": 0,
+      "answer": 9625059,
+      "judge": 245743,
+      "reflect": 0
+    },
+    "total_tokens": 9870802,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 96.4
+  },
+  "fc|deepseek|with_gold": {
+    "components": {
+      "embedding": 0,
+      "mem0_llm": 0,
+      "answer": 9564225,
+      "judge": 242401,
+      "reflect": 0
+    },
+    "total_tokens": 9806626,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 97.2
+  },
+  "m0|deepseek|verbose": {
+    "components": {
+      "embedding": 421443,
+      "mem0_llm": 4223793,
+      "answer": 221091,
+      "judge": 251082,
+      "reflect": 0
+    },
+    "total_tokens": 5117409,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 76.2
+  },
+  "m0|deepseek|with_gold": {
+    "components": {
+      "embedding": 421724,
+      "mem0_llm": 4182484,
+      "answer": 225395,
+      "judge": 251027,
+      "reflect": 0
+    },
+    "total_tokens": 5080630,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 80.2
+  },
+  "m0|gemini|verbose": {
+    "components": {
+      "embedding": 474890,
+      "mem0_llm": 5167803,
+      "answer": 271597,
+      "judge": 248595,
+      "reflect": 0
+    },
+    "total_tokens": 6162885,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 80.4
+  },
+  "m0|gemini|with_gold": {
+    "components": {
+      "embedding": 478701,
+      "mem0_llm": 5170118,
+      "answer": 269941,
+      "judge": 251599,
+      "reflect": 0
+    },
+    "total_tokens": 6170359,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 83.2
+  },
+  "adamem|deepseek|verbose": {
+    "components": {
+      "embedding": 471608,
+      "mem0_llm": 4690995,
+      "answer": 253578,
+      "judge": 247684,
+      "reflect": 375712
+    },
+    "total_tokens": 6039577,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 85.2
+  },
+  "adamem|deepseek|with_gold": {
+    "components": {
+      "embedding": 467806,
+      "mem0_llm": 4716466,
+      "answer": 251482,
+      "judge": 248816,
+      "reflect": 398119
+    },
+    "total_tokens": 6082689,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 82.0
+  },
+  "adamem|gemini|verbose": {
+    "components": {
+      "embedding": 526900,
+      "mem0_llm": 5752353,
+      "answer": 295588,
+      "judge": 250082,
+      "reflect": 479690
+    },
+    "total_tokens": 7304613,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 84.8
+  },
+  "adamem|gemini|with_gold": {
+    "components": {
+      "embedding": 528277,
+      "mem0_llm": 5753328,
+      "answer": 298296,
+      "judge": 248308,
+      "reflect": 493000
+    },
+    "total_tokens": 7321209,
+    "n_qa": 500,
+    "n_story": 5,
+    "accuracy": 85.4
+  }
+}

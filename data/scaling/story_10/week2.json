@@ -1,0 +1,500 @@
+{
+  "week": 2,
+  "conversations": [
+    {
+      "session_id": "w2_s1",
+      "day": "Monday",
+      "date": "2025-07-14",
+      "topic": "Revising the Q3 targets during a morning sync",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the OKR review",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, morning sync just wrapped up. Boss Zhang was dragging a bit today—he even joked that he needed a lot more espresso before tackling the OKR review."
+        },
+        {
+          "role": "assistant",
+          "content": "Morning! Sounds like a typical Monday. Did he finally get his coffee and wake up?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, eventually. The meeting itself was a bit distracting though. Wanghao kept complaining about the OKR review meeting room being uncomfortably cold."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Wanghao. Did you guys actually manage to get through the review despite the freezing room?"
+        },
+        {
+          "role": "user",
+          "content": "We did. I'm just glad my part is over, honestly. Those OKR review slides took me three hours to format last night. But we did make one major update to the numbers."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? What's the change? Hopefully nothing that requires another three hours of formatting."
+        },
+        {
+          "role": "user",
+          "content": "Luckily no formatting needed. But Boss Zhang decided the Q3 user retention target for the OKR review is revised up to 48%. We were sitting at 45% last week, so it's going to be a tougher push."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. A jump to 48% is definitely a stretch, but you guys have the data to back up the strategy. I'll note down the new target for you."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-14, Boss Zhang decided the Q3 user retention target for the OKR review is revised up to 48%."
+      ]
+    },
+    {
+      "session_id": "w2_s2",
+      "day": "Tuesday",
+      "date": "2025-07-15",
+      "topic": "Technical prep for the upcoming review",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the OKR review",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm doing some technical prep for the OKR review right now with Wanghao. We just decided to order some pizza to power through the evening."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza is definitely the right call for late-night prep! How's the review material coming together?"
+        },
+        {
+          "role": "user",
+          "content": "It's getting there. To be honest, I'm just so relieved that Wanghao is handling the backend of the OKR review dashboard. Dealing with the data pipeline would be a nightmare for me."
+        },
+        {
+          "role": "assistant",
+          "content": "For sure, especially since he figured out last week that the pipeline has to process exactly 2TB of logs daily. Did he give you any new technical specs today?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he just ran the final tests. Wanghao concluded that the real-time dashboard for the OKR review will require a latency of under 200 milliseconds. We need it that fast to smoothly present the new 48% retention target metrics Boss Zhang wants."
+        },
+        {
+          "role": "assistant",
+          "content": "Under 200 milliseconds is a tight constraint, but it'll make the presentation look incredibly snappy. Anything else you guys need to hash out tonight?"
+        },
+        {
+          "role": "user",
+          "content": "That's the main technical hurdle. Mostly we're just waiting for the food now. Oh, Wanghao also mentioned he wants to buy a new mechanical keyboard after the OKR review is over. I think all this coding is wearing his current one out!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he definitely deserves a new keyboard after hitting those latency targets! I'll log the dashboard specs for your records. Enjoy the pizza!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-15, Wanghao concluded that the real-time dashboard for the OKR review will require a latency of under 200 milliseconds."
+      ]
+    },
+    {
+      "session_id": "w2_s3",
+      "day": "Wednesday",
+      "date": "2025-07-16",
+      "topic": "Discussing moving plans after work",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to organize my thoughts about the apartment hunting. I was talking to Liwei after work, and she became extremely stressed about it because rent prices are unexpectedly soaring right now."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds rough, I can see why she'd be stressed. The rental market can be super unpredictable. How are you guys handling it?"
+        },
+        {
+          "role": "user",
+          "content": "I'm trying to step up. I made a serious commitment to Liwei that I will finalize a budget for the apartment hunting by this Sunday so we know exactly what we can afford."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great move. Having a hard budget by Sunday should definitely help ease some of the anxiety. Have you started looking anywhere specific?"
+        },
+        {
+          "role": "user",
+          "content": "A bit. I suggested we look at listings for the apartment hunting on a specific mobile app just to get a baseline. We also got a promotional flyer in the mail from an apartment hunting agency, though I don't know if they're any good."
+        },
+        {
+          "role": "assistant",
+          "content": "The app is a good start, and the agency might be worth a quick call just to see what inventory they have. Is Liwei feeling any better with those options?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. She noted that her coworker also started the apartment hunting process recently and is having a terrible time finding anything decent. It just makes the whole thing feel more daunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Hearing that from a coworker definitely adds to the pressure. Let's focus on getting that budget locked down by Sunday. Let me know if you need help crunching the numbers!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-16, Liwei became extremely stressed about the apartment hunting because rent prices were unexpectedly soaring.",
+        "On 2025-07-16, Linchen made a serious commitment to Liwei to finalize a budget for the apartment hunting by Sunday."
+      ]
+    },
+    {
+      "session_id": "w2_s4",
+      "day": "Thursday",
+      "date": "2025-07-17",
+      "topic": "A phone call with Mom about moving",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a long call with my mom about the apartment hunting. I had to vent a bit because it's taking up literally all of my free evenings lately, and I'm exhausted."
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there, man! Moving is always a massive time sink. Did your mom have any good advice, or was she just checking in?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly typical mom stuff. She advised me to wear comfortable shoes during the apartment hunting since I'm walking around so much. Oh, and she mentioned that her neighbor's son finished his apartment hunting last month, so of course she's using him as the gold standard now."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic mom comparison. Well, at least the shoe advice is solid. Are you looking at more places tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I've got two more viewings after work. But to keep her from worrying, I promised Mom I would not sign a lease during the apartment hunting without showing her the floor plan first."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart compromise. It keeps her involved and gives you a second set of eyes on the layout. Just make sure to snap some pics of the floor plans from the agents."
+        },
+        {
+          "role": "user",
+          "content": "Will do. I'm going to try and wrap up this user-growth query before I head out. Talk later."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good, Linchen. Good luck with the data and the viewings tonight!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-17, Linchen promised Mom he would not sign a lease during the apartment hunting without showing her the floor plan first."
+      ]
+    },
+    {
+      "session_id": "w2_s5",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Debugging a sudden system crash",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen",
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, what an afternoon. I felt a massive wave of panic when the production incident alert went off on my phone."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, a production alert on a Friday afternoon is the absolute worst. Did you guys manage to get it under control?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we finally did. But Boss Zhang was visibly irritated about the production incident timing right before the weekend. He was pacing around the whole time."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame him, especially with the OKR reviews coming up. What actually brought the system down?"
+        },
+        {
+          "role": "user",
+          "content": "Wanghao found it. He concluded that the memory leak causing the production incident was triggered by exactly 5000 concurrent user sessions."
+        },
+        {
+          "role": "assistant",
+          "content": "Exactly 5000? That's a very specific bottleneck. Sounds like Wanghao had to do some serious digging to find that."
+        },
+        {
+          "role": "user",
+          "content": "He really did. Poor guy told me he completely missed lunch because of the production incident. I'm going to buy him a coffee now."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call! He definitely earned that coffee. Grab one for yourself too, and hopefully you can kick off your weekend soon."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18, Wanghao concluded that the memory leak causing the production incident was triggered by exactly 5000 concurrent user sessions."
+      ]
+    },
+    {
+      "session_id": "w2_s6",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Venting after the crisis is resolved",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen",
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, what a day. The production incident is finally over, but I'm completely drained. I noted it lasted for a total of 45 minutes, but it felt like an absolute eternity."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm so glad it's finally resolved! 45 minutes of downtime is incredibly stressful. How are you holding up now that the fire is out?"
+        },
+        {
+          "role": "user",
+          "content": "Barely surviving, honestly. Sister Chen suggested we grab an iced coffee to decompress after the production incident, which I desperately needed."
+        },
+        {
+          "role": "assistant",
+          "content": "An iced coffee sounds like the perfect remedy. Sister Chen always knows how to handle the post-crisis crash. Did it help calm your nerves?"
+        },
+        {
+          "role": "user",
+          "content": "A little bit. But to be totally honest, I experienced intense impostor syndrome during the production incident because I couldn't quickly identify the faulty data table. I just froze up."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, don't be so hard on yourself. Production fires are chaotic, and pinpointing the exact issue under a ticking clock is tough for anyone. You got through it."
+        },
+        {
+          "role": "user",
+          "content": "I guess. To make matters worse, Boss Zhang demanded a written post-mortem report for the production incident by Monday morning. There goes my relaxing weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, that's really frustrating timing for a post-mortem. Just focus on finishing that iced coffee for now, and tackle the report later. You've earned a breather."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18, Linchen experienced intense impostor syndrome during the production incident because he could not quickly identify the faulty data table."
+      ]
+    },
+    {
+      "session_id": "w2_s7",
+      "day": "Saturday",
+      "date": "2025-07-19",
+      "topic": "Setting up a new fitness routine",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just chatted with Jiange about setting up a new fitness routine. I'm feeling highly motivated to start our new running plan to finally improve my cardio endurance."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! It'll be a great addition to the gym sessions you guys already do. How are you approaching it?"
+        },
+        {
+          "role": "user",
+          "content": "We agreed the running plan would be a great way to enjoy the cool summer mornings. Jiange even recommended a specific brand of breathable shoes for the running plan, so I'll probably order those soon."
+        },
+        {
+          "role": "assistant",
+          "content": "Good gear makes a huge difference, especially for running. Did you two nail down a time to actually hit the pavement?"
+        },
+        {
+          "role": "user",
+          "content": "Yep! Jiange scheduled the first session of the running plan for 6:30 AM next Tuesday. It's pretty early, but I think I can handle it."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, early indeed, but you've got this! I'll note down 6:30 AM next Tuesday for your first run. Want me to remind you to sleep early on Monday?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, that would be helpful. I'll need all the rest I can get."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it. I'll set a reminder for Monday night. Enjoy your Saturday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-19, Jiange scheduled the first session of the running plan for 6:30 AM next Tuesday."
+      ]
+    },
+    {
+      "session_id": "w2_s8",
+      "day": "Saturday",
+      "date": "2025-07-19",
+      "topic": "Discussing the new fitness routine at home",
+      "focal_character": "Liwei",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, so Liwei and I were just talking about that new running plan Jiange scheduled for Tuesday morning. We spent a while discussing which local park to use for it."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh nice! Did you two settle on a good park? Finding the right route is definitely half the battle."
+        },
+        {
+          "role": "user",
+          "content": "Still debating between a couple of them. Liwei thought the running plan was a fun idea overall, but she honestly doubted my morning energy levels for a 6:30 AM start. I told her I'd track my running plan progress on my new smartwatch to stay accountable."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, 6:30 AM is pretty early, so I can see why she'd be skeptical! The smartwatch tracking is a great way to prove her wrong though."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. In fact, I made a serious commitment to Liwei today that I will stick to the running plan for at least a full month. No excuses."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive commitment! A full month is perfect for building a solid habit. I'll definitely be checking in to see how those morning runs are going."
+        },
+        {
+          "role": "user",
+          "content": "Thanks, I'll definitely need the extra push. Let's just hope I can actually get out of bed on Tuesday."
+        },
+        {
+          "role": "assistant",
+          "content": "You've got this! Just make sure that new smartwatch is fully charged Monday night. Let me know if you need an alarm set!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-19, Linchen made a serious commitment to Liwei to stick to the running plan for at least a full month."
+      ]
+    },
+    {
+      "session_id": "w2_s9",
+      "day": "Sunday",
+      "date": "2025-07-20",
+      "topic": "Weekend follow-up on Friday's crash",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a call with Boss Zhang about Friday's production incident. Honestly, I'm really worried that this crash is going to negatively affect my performance review."
+        },
+        {
+          "role": "assistant",
+          "content": "Try not to stress too much, Linchen. Production incidents happen, and you were working hard to find that faulty data table. How is Boss Zhang handling it?"
+        },
+        {
+          "role": "user",
+          "content": "He was venting a bit. He mentioned he was just so tired of dealing with the production incident over the weekend. He wants to stop the bleeding immediately."
+        },
+        {
+          "role": "assistant",
+          "content": "I can imagine. It's been a long weekend for all of you. Did he outline a plan to stabilize things?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he made a hard call. Boss Zhang decided that the post-mortem for the production incident will mandate a mandatory code-freeze for the next 48 hours. No new deployments whatsoever."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. A 48-hour code freeze makes sense to give the team time to patch the memory leak. Do you have to write up the incident summary?"
+        },
+        {
+          "role": "user",
+          "content": "Thankfully, no. Wanghao is already drafting the technical report for the production incident, so I just need to help him pull some final data metrics."
+        },
+        {
+          "role": "assistant",
+          "content": "That definitely takes some pressure off you! Let me know if you need any help crunching those numbers for Wanghao."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-20, Boss Zhang decided that the post-mortem for the production incident will mandate a mandatory code-freeze for the next 48 hours."
+      ]
+    },
+    {
+      "session_id": "w2_s10",
+      "day": "Sunday",
+      "date": "2025-07-20",
+      "topic": "Chatting about moving logistics",
+      "focal_character": "Jiange",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to vent a bit. I was just chatting with Jiange, and honestly, I feel exhausted just thinking about the apartment hunting logistics."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you. Moving is incredibly draining, especially with rent prices soaring lately. Did you manage to finalize your budget for Liwei today?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I did. But man, Jiange was saying he absolutely hated the apartment hunting process when he moved last year. We actually joked that the apartment hunting was worse than running a marathon."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he's probably right! Good thing you have your new running plan with him starting Tuesday to build up your stamina. Did he at least offer to help you out?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes! He arranged to help me move boxes from 2 PM to 5 PM once the apartment hunting is successful and I secure a place."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a relief! Having an extra pair of hands for a few hours will be huge. Just remember to show your Mom the floor plan before you actually sign the lease."
+        },
+        {
+          "role": "user",
+          "content": "Will do. I'll probably buy Jiange dinner after we finish moving those boxes as a thank you."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Let me know when you lock down a place and need to block out that time on your calendar!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-20, Jiange arranged to help Linchen move boxes from 2 PM to 5 PM once the apartment hunting is successful."
+      ]
+    }
+  ]
+}

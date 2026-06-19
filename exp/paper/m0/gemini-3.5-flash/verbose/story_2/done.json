@@ -1,0 +1,13 @@
+{
+  "status": "done",
+  "method": "M0",
+  "story_id": 2,
+  "fbmode": "verbose",
+  "memory_model": "gemini-3.5-flash",
+  "finished_at": "2026-06-17T05:07:34.581127",
+  "artifacts": [
+    "qa_records.json",
+    "extracted_memories.jsonl",
+    "recall.jsonl"
+  ]
+}

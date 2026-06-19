@@ -1,0 +1,495 @@
+{
+  "week": 10,
+  "conversations": [
+    {
+      "session_id": "w10_s1",
+      "day": "Monday",
+      "date": "2025-09-08",
+      "topic": "Discussing weather concerns for the trip",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the team offsite",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, big update on the team offsite. Boss Zhang made a final call today. Because of that incoming coastal typhoon, he decided we're relocating the offsite back to the mountain resort."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, that's a sudden change! Back to the mountains it is. Is everyone okay with the switch?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly yeah. Though Boss Zhang was pretty bummed because he mentioned he really wanted to eat fresh seafood during the team offsite."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, that's a shame about the seafood. At least you'll avoid the typhoon! Anything else I should note for the trip?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, well, someone joked that the bus rental for the team offsite might not have working AC, which would be brutal. Oh, and since we're going to the mountains, I promised to bring bug spray to the team offsite."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call on the bug spray. Mountain mosquitoes are no joke! Let me know if you need help making a packing list."
+        },
+        {
+          "role": "user",
+          "content": "Thanks, I'll probably do that later. For now, just wanted to vent a bit about all the back-and-forth. Hopefully this is the last venue change!"
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed! I've updated my notes about the mountain resort. Just shout when you're ready to pack."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-08, Boss Zhang decided that the team offsite will be relocated back to the mountain resort due to an incoming coastal typhoon."
+      ]
+    },
+    {
+      "session_id": "w10_s2",
+      "day": "Monday",
+      "date": "2025-09-08",
+      "topic": "Testing build times on the new hardware",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Wanghao just got his new MacBook today. I gotta admit, I felt a twinge of jealousy seeing him unbox it in the office."
+        },
+        {
+          "role": "assistant",
+          "content": "Totally understandable! Boss Zhang did say only senior engineers get the upgrade this quarter. Did you at least get to see it in action?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we were testing it out. Wanghao kept saying the space grey color of the new MacBook looks incredibly sleek. He's really hyped about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Space grey is definitely a classic. Did you guys run any tests for the classroom refactor on it?"
+        },
+        {
+          "role": "user",
+          "content": "We did. Remember how he got 14 seconds on Friday? Well, today Wanghao concluded that compiling the classroom project on the new MacBook takes exactly 12 seconds after adjusting the local cache."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 12 seconds is lightning fast! That local cache tweak really paid off. It's going to make his dev cycle so much smoother."
+        },
+        {
+          "role": "user",
+          "content": "For sure. He's treating it like a baby, too. Wanghao promised to buy a protective sleeve for the new MacBook this evening so it doesn't get scratched."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame him! With build speeds like that, you definitely want to keep that machine safe. Hang in there, hopefully you'll get yours next quarter!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-08, Wanghao concluded that compiling the classroom project on the new MacBook takes exactly 12 seconds after adjusting the local cache."
+      ]
+    },
+    {
+      "session_id": "w10_s3",
+      "day": "Tuesday",
+      "date": "2025-09-09",
+      "topic": "Chatting about event planning",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the team offsite",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just caught up with Sister Chen about the team offsite. She noted that the budget for the team offsite was slightly increased, which is pretty cool."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great news! A little extra budget always helps, especially since you guys are heading back to the mountain resort. How is she feeling about the trip now?"
+        },
+        {
+          "role": "user",
+          "content": "Way better. Actually, Sister Chen felt immense relief today regarding the team offsite because HR officially took over organizing all the icebreaker games."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, I bet! I remember she was dreading having to plan those games just a couple of days ago. That must be a huge weight off her shoulders."
+        },
+        {
+          "role": "user",
+          "content": "Totally. In fact, she's in such a good mood now that she promised to bring her homemade cookies to the team offsite."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Her homemade treats are always a win. Is there anything left on your plate for the offsite prep?"
+        },
+        {
+          "role": "user",
+          "content": "Just some minor logistics. I scheduled a quick sync to review the dietary restrictions for the team offsite, just to make sure the resort kitchen has everything right."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move. I've noted the sync for the dietary restrictions. Let me know if you need help compiling the list!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-09, Sister Chen felt immense relief regarding the team offsite because HR officially took over organizing all the icebreaker games."
+      ]
+    },
+    {
+      "session_id": "w10_s4",
+      "day": "Wednesday",
+      "date": "2025-09-10",
+      "topic": "Discussing laptop hand-me-downs",
+      "focal_character": "Liwei",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, so I'm finally getting that new MacBook soon. I was just joking with Liwei earlier that carrying the new MacBook in my old battered backpack feels super risky, haha."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, you might want to invest in a decent sleeve at least! Are you excited for the faster compile times?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, definitely. Liwei was actually asking me a bunch of questions about it too. She asked what the screen resolution is for the new MacBook, and she also felt curious about the keyboard layout on the new MacBook compared to my old one."
+        },
+        {
+          "role": "assistant",
+          "content": "She's doing her research! I remember you told her you'd give her your old laptop once the new one arrives. Is she getting ready for the hand-me-down?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, we changed the plan. I seriously committed to Liwei today that I will sell my old laptop when the new MacBook arrives, and I'll use the money to buy her an iPad instead. A tablet makes way more sense for her daily use."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, that’s a great pivot! An iPad is probably way more convenient for her. Did she like that idea?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she was thrilled. Now I just need to make sure I don't drop the new laptop on day one before I even get a chance to sell the old one."
+        },
+        {
+          "role": "assistant",
+          "content": "Wrap it in bubble wrap before putting it in that old backpack! Let me know if you need help looking up trade-in values for your old laptop when the time comes."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-10, Linchen seriously committed to Liwei that he will sell his old laptop when the new MacBook arrives and use the money to buy her an iPad instead."
+      ]
+    },
+    {
+      "session_id": "w10_s5",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Calling mom about a schedule conflict",
+      "focal_character": "Mom",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to send a quick message to my mom. Honestly, I'm feeling highly anxious just thinking about the dentist appointment."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, dental visits can definitely be nerve-wracking. What do you want me to text her?"
+        },
+        {
+          "role": "user",
+          "content": "Tell her that I promise I will reschedule the dentist appointment from this Friday to next Monday. We have a massive work emergency right now with the classroom refactoring."
+        },
+        {
+          "role": "assistant",
+          "content": "Drafting that now. I know you promised her last week that you absolutely wouldn't skip Friday, but a work emergency is out of your hands."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I know. She's also going to complain because she already said the clinic for the dentist appointment is too far from my office. She even concluded that the copay is around 300 RMB and was lecturing me about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Moms will be moms! I've sent the message emphasizing that it's just a delay to Monday, not a cancellation. Don't let the distance or the 300 RMB copay stress you out too much today."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. I'll just have to brace myself for when I actually call her later tonight after we fix this bug."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good. Focus on putting out the work fire first. I'm here if you need help with anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Linchen promised Mom he will reschedule the dentist appointment from this Friday to next Monday due to a work emergency."
+      ]
+    },
+    {
+      "session_id": "w10_s6",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Adjusting the workout schedule",
+      "focal_character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my workout schedule with Jiange. I had to move my dentist appointment to next Monday because of that work emergency I mentioned earlier."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Since the dentist appointment is pushed to next week, do you want to move the run you originally pushed to Saturday?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. I just talked to him, and we rescheduled the run back to Friday at 7 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Done, I've updated the calendar for Friday at 7 AM with Jiange. Did he mind the back-and-forth?"
+        },
+        {
+          "role": "user",
+          "content": "Not at all. Mostly he just said his teeth hurt in sympathy when hearing about the dentist appointment. He was just really relieved he didn't have to go to the dentist himself."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, understandable! The dentist isn't exactly a fun trip. Anything else to note?"
+        },
+        {
+          "role": "user",
+          "content": "Just that I promised Jiange I would drink less acidic coffee before the dentist appointment next week. I really don't want to make my teeth more sensitive before they start poking around in there."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move. I'll remind you to lay off the acidic coffee next week. Have a great run with Jiange tomorrow morning!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Linchen rescheduled the run with Jiange back to Friday at 7 AM because the dentist appointment was moved to next week."
+      ]
+    },
+    {
+      "session_id": "w10_s7",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Planning evening routines",
+      "focal_character": "Jiange",
+      "topic_anchor": "the sleep schedule",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, I need to fix my evenings. I'm feeling incredibly frustrated that the sleep schedule is so hard to maintain right now."
+        },
+        {
+          "role": "assistant",
+          "content": "I get it, especially with the classroom refactoring pushing your limits. What are you thinking of changing to get back on track?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I was chatting with Jiange earlier. He concluded that a good sleep schedule lowers your resting heart rate by 10%, which would really help our morning runs."
+        },
+        {
+          "role": "assistant",
+          "content": "He's definitely right about the fitness benefits. Did he have any practical tips for actually falling asleep earlier?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Jiange actually promised to buy some melatonin gummies to help me with the sleep schedule. But I also need to force myself off my screens."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid workout buddy right there. How are you going to manage the screen time?"
+        },
+        {
+          "role": "user",
+          "content": "To make sure it happens, today I scheduled a strict 10:30 PM bedtime block on my phone to enforce the sleep schedule. Once that hits, all my distracting apps lock down."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. A hard lock at 10:30 PM is a great way to force the habit. Let's hope the new block and the gummies do the trick!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Linchen scheduled a strict 10:30 PM bedtime block on his phone to enforce the sleep schedule."
+      ]
+    },
+    {
+      "session_id": "w10_s8",
+      "day": "Saturday",
+      "date": "2025-09-13",
+      "topic": "Weekend catch-up over tea",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the sleep schedule",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I'm having some weekend tea right now. Just wanted to catch up. I woke up feeling a massive surge of energy and optimism today because my new adherence to the sleep schedule finally paid off!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome to hear! Sticking to that 10:30 PM bedtime block really did the trick, huh?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it totally did. I determined that the sleep schedule requires exactly 8 hours of rest to be effective for me. Anything less and my brain just lags during refactoring."
+        },
+        {
+          "role": "assistant",
+          "content": "Eight hours is the magic number. Glad you figured out the exact target that works for your body."
+        },
+        {
+          "role": "user",
+          "content": "Sister Chen actually helped a lot too. She suggested drinking warm milk to improve the sleep schedule, which surprisingly works really well."
+        },
+        {
+          "role": "assistant",
+          "content": "A classic remedy! Sister Chen always comes through with the good advice."
+        },
+        {
+          "role": "user",
+          "content": "She really does. Plus, Sister Chen promised to stop texting me late at night to respect the sleep schedule, which removes the temptation to check my phone."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid friend right there. Enjoy your tea and ride that newfound energy into a great weekend!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-13, Linchen felt a massive surge of energy and optimism because his new adherence to the sleep schedule finally paid off."
+      ]
+    },
+    {
+      "session_id": "w10_s9",
+      "day": "Sunday",
+      "date": "2025-09-14",
+      "topic": "Reviewing IT policies",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Boss Zhang just scheduled a brief meeting for tomorrow to finally hand out the new MacBook units to us seniors."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! It’s about time. You've been waiting for that upgrade."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, but I'm honestly a bit annoyed that the new MacBook has no USB-A ports. At least Boss Zhang promised to buy USB-C dongles for anyone receiving one."
+        },
+        {
+          "role": "assistant",
+          "content": "Typical Apple move. Good thing Zhang is covering the dongles so you don't have to buy your own."
+        },
+        {
+          "role": "user",
+          "content": "True. Oh, he also sent an update on IT policies today. Boss Zhang decided that any hardware defects in the new MacBook must be shipped directly to Apple instead of our local IT."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, that's a shift. Local IT must be pretty relieved to not deal with hardware repairs on these."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, probably. Anyway, I just wanted to make sure I noted that down before I forget. I'll need to back up my old laptop tonight before the handover."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll log the new IT policy for you. Good luck with the backup!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-14, Boss Zhang decided that any hardware defects in the new MacBook must be shipped directly to Apple instead of local IT."
+      ]
+    },
+    {
+      "session_id": "w10_s10",
+      "day": "Sunday",
+      "date": "2025-09-14",
+      "topic": "Calculating logistics for the trip",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the team offsite",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm trying to figure out the timing for the team offsite to the mountain resort. Wanghao just ran some route calculations."
+        },
+        {
+          "role": "assistant",
+          "content": "Gotcha. What did he find out about the travel time?"
+        },
+        {
+          "role": "user",
+          "content": "He concluded that the bus ride to the team offsite will take exactly 145 minutes based on current traffic models."
+        },
+        {
+          "role": "assistant",
+          "content": "Exactly 145 minutes, huh? Good to have a precise number. Are you guys coordinating anything else for the ride?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I promised to sit next to Wanghao on the bus so we can chat. He even scheduled a reminder to pack his mechanical keyboard for the team offsite, which is pretty funny."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Wanghao, bringing a mechanical keyboard to the mountains! Is he looking forward to the actual trip?"
+        },
+        {
+          "role": "user",
+          "content": "Definitely. He felt really excited about the barbecue dinner planned for the team offsite. It should be a great time."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a blast! Let me know if you need help packing or planning anything else before you go."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-14, Wanghao concluded that the bus ride to the team offsite will take exactly 145 minutes based on current traffic models."
+      ]
+    }
+  ]
+}

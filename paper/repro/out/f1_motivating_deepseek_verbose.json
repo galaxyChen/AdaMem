@@ -1,0 +1,143 @@
+{
+  "model": "deepseek-v4-flash",
+  "fbmode": "verbose",
+  "stories": [
+    2,
+    3,
+    4,
+    5,
+    10
+  ],
+  "rows": [
+    {
+      "week": 1,
+      "id_acc": 96.0,
+      "id_n": 50,
+      "m0_acc": 88.0,
+      "m0_n": 50,
+      "adamem_acc": 94.0,
+      "adamem_n": 50,
+      "m0_mem_week": 205,
+      "m0_mem_cum": 205,
+      "adamem_mem_week": 203,
+      "adamem_mem_cum": 203
+    },
+    {
+      "week": 2,
+      "id_acc": 96.0,
+      "id_n": 50,
+      "m0_acc": 90.0,
+      "m0_n": 50,
+      "adamem_acc": 96.0,
+      "adamem_n": 50,
+      "m0_mem_week": 168,
+      "m0_mem_cum": 373,
+      "adamem_mem_week": 151,
+      "adamem_mem_cum": 354
+    },
+    {
+      "week": 3,
+      "id_acc": 96.0,
+      "id_n": 50,
+      "m0_acc": 76.0,
+      "m0_n": 50,
+      "adamem_acc": 84.0,
+      "adamem_n": 50,
+      "m0_mem_week": 203,
+      "m0_mem_cum": 576,
+      "adamem_mem_week": 195,
+      "adamem_mem_cum": 549
+    },
+    {
+      "week": 4,
+      "id_acc": 92.0,
+      "id_n": 50,
+      "m0_acc": 76.0,
+      "m0_n": 50,
+      "adamem_acc": 72.0,
+      "adamem_n": 50,
+      "m0_mem_week": 203,
+      "m0_mem_cum": 779,
+      "adamem_mem_week": 184,
+      "adamem_mem_cum": 733
+    },
+    {
+      "week": 5,
+      "id_acc": 98.0,
+      "id_n": 50,
+      "m0_acc": 70.0,
+      "m0_n": 50,
+      "adamem_acc": 78.0,
+      "adamem_n": 50,
+      "m0_mem_week": 209,
+      "m0_mem_cum": 988,
+      "adamem_mem_week": 188,
+      "adamem_mem_cum": 921
+    },
+    {
+      "week": 6,
+      "id_acc": 94.0,
+      "id_n": 50,
+      "m0_acc": 76.0,
+      "m0_n": 50,
+      "adamem_acc": 94.0,
+      "adamem_n": 50,
+      "m0_mem_week": 207,
+      "m0_mem_cum": 1195,
+      "adamem_mem_week": 187,
+      "adamem_mem_cum": 1108
+    },
+    {
+      "week": 7,
+      "id_acc": 98.0,
+      "id_n": 50,
+      "m0_acc": 80.0,
+      "m0_n": 50,
+      "adamem_acc": 86.0,
+      "adamem_n": 50,
+      "m0_mem_week": 198,
+      "m0_mem_cum": 1393,
+      "adamem_mem_week": 171,
+      "adamem_mem_cum": 1279
+    },
+    {
+      "week": 8,
+      "id_acc": 96.0,
+      "id_n": 50,
+      "m0_acc": 64.0,
+      "m0_n": 50,
+      "adamem_acc": 76.0,
+      "adamem_n": 50,
+      "m0_mem_week": 189,
+      "m0_mem_cum": 1582,
+      "adamem_mem_week": 171,
+      "adamem_mem_cum": 1450
+    },
+    {
+      "week": 9,
+      "id_acc": 98.0,
+      "id_n": 50,
+      "m0_acc": 76.0,
+      "m0_n": 50,
+      "adamem_acc": 86.0,
+      "adamem_n": 50,
+      "m0_mem_week": 195,
+      "m0_mem_cum": 1777,
+      "adamem_mem_week": 159,
+      "adamem_mem_cum": 1609
+    },
+    {
+      "week": 10,
+      "id_acc": 96.0,
+      "id_n": 50,
+      "m0_acc": 66.0,
+      "m0_n": 50,
+      "adamem_acc": 86.0,
+      "adamem_n": 50,
+      "m0_mem_week": 192,
+      "m0_mem_cum": 1969,
+      "adamem_mem_week": 177,
+      "adamem_mem_cum": 1786
+    }
+  ]
+}

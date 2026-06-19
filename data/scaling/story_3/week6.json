@@ -1,0 +1,519 @@
+{
+  "week": 6,
+  "conversations": [
+    {
+      "session_id": "w6_s1",
+      "day": "Monday",
+      "date": "2025-08-11",
+      "topic": "Finalizing the presentation format",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao",
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm feeling incredibly nervous about the customer demo coming up. We're trying to finalize the presentation format today."
+        },
+        {
+          "role": "assistant",
+          "content": "It's totally normal to be nervous, especially with the CEO sitting in on the rehearsal! You guys have prepared a lot for this. What's the plan for the format?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Wanghao noted that the customer demo requires exactly 15 slides to cover all the system architecture and fallback plans. By the way, Sister Chen asked what time the customer demo is supposed to start, and I haven't even given her a straight answer yet."
+        },
+        {
+          "role": "assistant",
+          "content": "I can remind you to ping Sister Chen with the start time once it's set. 15 slides sounds manageable, but how long do you have to present them?"
+        },
+        {
+          "role": "user",
+          "content": "That's the main update. Boss Zhang decided to cap the customer demo duration at strictly 30 minutes to keep the CEO engaged. So we really have to move fast."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. A strict 30-minute cap means you'll have about two minutes per slide. It'll keep things punchy and focused."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Plus, I promised Mom I would call her right after the customer demo to let her know how it went, so I definitely don't want it dragging on."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect motivation to stick to the schedule! Let me know if you want to do a timed run-through of those 15 slides before the rehearsal."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-11, Boss Zhang decided to cap the customer demo duration at strictly 30 minutes to keep the CEO engaged."
+      ]
+    },
+    {
+      "session_id": "w6_s2",
+      "day": "Tuesday",
+      "date": "2025-08-12",
+      "topic": "Reviewing system metrics post-rehearsal",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen",
+        "Boss Zhang",
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, the final internal rehearsal for the customer demo is done. Boss Zhang even decided to order premium coffee for the actual demo tomorrow, which is a nice touch."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Sounds like Boss Zhang is pulling out all the stops to make a good impression. How did the actual rehearsal go?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty well, actually. We did a thorough sweep, and Wanghao noted that exactly 4 critical bugs were identified and fixed before the customer demo. Sister Chen was extremely stressed about the network stability for the customer demo, but it held up perfectly."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a huge relief. Squashing those 4 critical bugs must take a lot of weight off Sister Chen's shoulders. Did Wanghao run the failover tests too?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he just finished the analysis. Wanghao concluded that the system's failover latency is 120ms, which is totally safe for the customer demo."
+        },
+        {
+          "role": "assistant",
+          "content": "120ms is solid! It sounds like the trading system is completely bulletproof for tomorrow. Are you guys wrapping up for the day then?"
+        },
+        {
+          "role": "user",
+          "content": "Almost. I just texted Liwei, and she was really happy to hear that preparations for the customer demo were finishing early today. I'm going to pack up and head home."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome. Go get some rest, enjoy your evening with Liwei, and good luck crushing the demo tomorrow!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-12, Wanghao noted that exactly 4 critical bugs were identified and fixed before the customer demo.",
+        "On 2025-08-12, Wanghao concluded that the system's failover latency is 120ms, which is safe for the customer demo."
+      ]
+    },
+    {
+      "session_id": "w6_s3",
+      "day": "Wednesday",
+      "date": "2025-08-13",
+      "topic": "Re-evaluating travel plans after the demo",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao",
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, the customer demo wrap-up went well today, and we just had a follow-up meeting about the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Glad to hear the demo wrap-up went smoothly! What's the latest on the Shenzhen trip?"
+        },
+        {
+          "role": "user",
+          "content": "Well, we finally have a firm plan. Boss Zhang decided that Wanghao will definitely accompany me on the Shenzhen trip for its entire duration. No more back and forth on whether he's going or staying."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a huge relief! I'm sure Sister Chen will be thrilled she won't have to handle all the on-call duties alone. Have you guys booked the flights yet?"
+        },
+        {
+          "role": "user",
+          "content": "We're doing that right now. Wanghao calculated that the flight tickets for the Shenzhen trip cost 1800 RMB, which fits our travel budget perfectly."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. Everything seems to be falling into place. How is Liwei feeling about the finalized schedule?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, Liwei felt a wave of sadness because the Shenzhen trip means I'll be away longer than she hoped, especially with our anniversary coming up. I feel bad about it. On a lighter note, I promised to buy some special tea for my parents during the Shenzhen trip, so I need to find a good tea shop while I'm there."
+        },
+        {
+          "role": "assistant",
+          "content": "It's completely understandable that she's feeling a bit sad about the timing. Make sure to plan something extra special for when you get back! And I can definitely help you look up some highly-rated tea shops in Shenzhen whenever you're ready."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-13, Boss Zhang decided that Wanghao will definitely accompany Linchen on the Shenzhen trip for its entire duration."
+      ]
+    },
+    {
+      "session_id": "w6_s4",
+      "day": "Wednesday",
+      "date": "2025-08-13",
+      "topic": "Reacting to the updated travel roster",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen",
+        "Boss Zhang",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! So the roster for the Shenzhen trip is finally locked in. Boss Zhang decided to book a 4-star business hotel for the trip, which is a nice perk."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice, a 4-star hotel should make the trip a lot more comfortable! Who ended up on the final roster?"
+        },
+        {
+          "role": "user",
+          "content": "Well, you know how it kept changing back and forth. Today Boss Zhang confirmed Wanghao is definitely coming with me for the entire duration. Wanghao noted that the Shenzhen trip will require exactly 3 days of out-of-office time."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid plan. Having Wanghao there for the full three days should make the technical delegation a lot smoother. How did the rest of the team take the news?"
+        },
+        {
+          "role": "user",
+          "content": "Man, Sister Chen was ecstatic. She felt an overwhelming sense of joy and relief because she won't be on-call alone during the Shenzhen trip anymore."
+        },
+        {
+          "role": "assistant",
+          "content": "I bet! She was incredibly anxious last week about flying solo on those on-call shifts. It's great she finally gets some peace of mind."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. To make sure everything else runs smoothly while we're gone, I promised to send daily project updates to the team during the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. Daily updates will keep Boss Zhang and the rest of the team in the loop while you and Wanghao are out. Sounds like everything is finally falling into place!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-13, Sister Chen felt an overwhelming sense of joy and relief because she won't be on-call alone during the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w6_s5",
+      "day": "Thursday",
+      "date": "2025-08-14",
+      "topic": "Adjusting expectations in a hot rental market",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen",
+        "Wanghao",
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, the rental market is absolutely insane right now. We've been looking all week and it's getting ridiculous. Wanghao actually mentioned to me today that the average rent in the district we want for our apartment hunting is around 8500 RMB now!"
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 8500 RMB? That's a huge jump! No wonder the apartment hunt has been so stressful. How are you and Liwei holding up?"
+        },
+        {
+          "role": "user",
+          "content": "We're surviving, but barely. Sister Chen was joking that she felt entirely exhausted just hearing about our apartment hunting saga. On the bright side, Boss Zhang decided to give me Friday afternoon off to help with the search, which is a huge relief."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome of Boss Zhang! Having that extra Friday afternoon will definitely take some of the pressure off. Have you guys figured out how to handle those crazy rent prices?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we had to sit down and draw a hard line. I seriously committed to Liwei that we will strictly cap our budget increase at exactly 4000 RMB for the apartment hunting. We just can't justify going a single yuan over that."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a very smart boundary to set. A strict 4000 RMB cap gives you the flexibility you need for this market without completely breaking the bank. Are you lining up viewings for Friday?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, we've got three places to check out. I really hope one of them works out so we can finally be done with this."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed! Let me know if you need me to help organize the addresses or map out a route for your viewings."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-14, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 4000 RMB for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w6_s6",
+      "day": "Thursday",
+      "date": "2025-08-14",
+      "topic": "Calling home for advice",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen",
+        "Boss Zhang",
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to prep for a call with my mom about our apartment hunting. Boss Zhang actually said I can take a long lunch break today to look at places, so I want to get her advice first."
+        },
+        {
+          "role": "assistant",
+          "content": "That's nice of Boss Zhang! You've got that strict 4000 RMB budget increase cap ready, right? What specific advice are you looking to get from your mom?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. Liwei felt incredibly hopeful about the new listings we found this morning. Though Wanghao noted that 3 of our saved listings were already removed during our apartment hunting. The market is moving fast, so I want to make sure Mom is on board with our criteria before we rush into anything."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense, good places go quick. Remember you already promised her you'd send video tours of the top three choices, and avoid first-floor units unless there's a private garden. Anything else you plan to commit to her?"
+        },
+        {
+          "role": "user",
+          "content": "Right. I'm also going to promise Mom that I will absolutely avoid renting any units next to elevated highways during the apartment hunting. I know she worries a lot about the noise and air quality."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a very solid promise. Elevated highways can be super loud, especially at night, which would ruin the sleep schedule you've been working on. Ready to give her a call?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'm ready. I'll call her right now during my lunch break. Thanks for the quick chat!"
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! Good luck with the call and the apartment hunt today. Hope you find a great place!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-14, Linchen promised Mom he will absolutely avoid renting any units next to elevated highways during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w6_s7",
+      "day": "Friday",
+      "date": "2025-08-15",
+      "topic": "Hinting at a weekend surprise",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen",
+        "Boss Zhang",
+        "Wanghao",
+        "Mom"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to get my schedule sorted for this afternoon. I just dropped a huge hint to Liwei about our anniversary plan. She became incredibly excited because I finally revealed I booked a secret venue for us."
+        },
+        {
+          "role": "assistant",
+          "content": "That's amazing! I'm sure she's thrilled. What do you need help with to get ready for it?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I need a reminder to log off at 3:30 PM. Boss Zhang decided to approve my early departure so I can prepare for the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've set a reminder for 3:30 PM. It's great that Boss Zhang gave you the green light to head out early!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it takes some stress off. I was chatting with Wanghao about the food, and he noted that the special menu for the anniversary plan costs exactly 1500 RMB. A bit steep, but totally worth it."
+        },
+        {
+          "role": "assistant",
+          "content": "For a special anniversary dinner, 1500 RMB sounds like a solid investment for a memorable night. Anything else you need to coordinate?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, just tying up loose ends. Even my mom asked on WeChat if she should send a small gift to celebrate the anniversary plan, but I told her not to worry about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like you have everything perfectly under control. I'll buzz you at 3:30 PM so you can go set up the surprise!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-15, Liwei became incredibly excited because Linchen finally revealed he booked a secret venue for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w6_s8",
+      "day": "Saturday",
+      "date": "2025-08-16",
+      "topic": "Coordinating logistics for the surprise",
+      "focal_character": "Jiange",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen",
+        "Liwei",
+        "Wanghao",
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to get things ready for the anniversary plan today. Liwei has been deeply curious about what's happening behind the scenes, so I have to be really sneaky."
+        },
+        {
+          "role": "assistant",
+          "content": "Exciting! It's always fun to pull off a good surprise. What's the first step on the agenda?"
+        },
+        {
+          "role": "user",
+          "content": "First up is the cake. Jiange scheduled to help me pick up the custom cake for the anniversary plan at exactly 9:00 AM today."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 9:00 AM cake pickup with Jiange. Do you need me to set an alarm so you don't miss him?"
+        },
+        {
+          "role": "user",
+          "content": "No need, I'm already up. It's pretty funny though, Wanghao saw the order details yesterday and noted the custom cake for the anniversary plan weighs exactly 2 kilograms. It's huge!"
+        },
+        {
+          "role": "assistant",
+          "content": "A 2kg cake! Well, good thing you've got your workout buddy Jiange helping you lift it. Anything else left to coordinate?"
+        },
+        {
+          "role": "user",
+          "content": "Just the final decorations. Sister Chen actually told me yesterday she felt touched by the immense effort I put into the anniversary plan. I just really want it to be perfect for Liwei."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sure it will be absolutely perfect, Linchen. You've planned this out so well. Have a great time today!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-16, Jiange scheduled to help Linchen pick up the custom cake for the anniversary plan at exactly 9:00 AM."
+      ]
+    },
+    {
+      "session_id": "w6_s9",
+      "day": "Sunday",
+      "date": "2025-08-17",
+      "topic": "Discussing the event costs",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen",
+        "Liwei",
+        "Boss Zhang",
+        "Jiange"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, the anniversary plan went amazingly well this weekend. Liwei felt absolutely overwhelmed with joy regarding how perfectly it all turned out."
+        },
+        {
+          "role": "assistant",
+          "content": "That's fantastic news! I'm so glad the secret venue was a hit and Liwei loved it."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it was super relaxing. Plus, Boss Zhang decided not to text me any work questions during the anniversary plan, which was a huge relief."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, a true miracle! It's great that he actually respected your time off so you could just focus on the celebration."
+        },
+        {
+          "role": "user",
+          "content": "For sure. I was just reviewing the event costs with Wanghao this morning. Wanghao concluded that booking the rooftop venue for the anniversary plan required a 50% non-refundable upfront deposit, which definitely hit the wallet hard."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, a 50% non-refundable deposit is pretty steep. But considering how happy Liwei was, it sounds like it was worth every penny."
+        },
+        {
+          "role": "user",
+          "content": "Definitely worth it. Though we ate way too much of that custom cake. Jiange scheduled to meet me at the gym on Monday morning to burn off the calories from the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid recovery plan! Have a great workout with Jiange tomorrow morning."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-17, Wanghao concluded that booking the rooftop venue for the anniversary plan required a 50% non-refundable upfront deposit."
+      ]
+    },
+    {
+      "session_id": "w6_s10",
+      "day": "Sunday",
+      "date": "2025-08-17",
+      "topic": "Post-demo reflections",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen",
+        "Boss Zhang",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, the customer demo is finally over! It went incredibly well today. Boss Zhang was so happy he decided to send a company-wide congratulatory email about it."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news! A company-wide shoutout from Boss Zhang is huge. How is the rest of the team feeling?"
+        },
+        {
+          "role": "user",
+          "content": "Everyone's thrilled. Wanghao was looking at the analytics and noted that exactly 120 client representatives attended the virtual broadcast. That's a massive turnout for us."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 120 reps is a serious audience! No wonder you guys prepped so hard. Did the system hold up perfectly under that kind of scrutiny?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it did. Especially Sister Chen's part. After the demo, the CEO specifically praised her API fallback logic. She felt deeply validated by that, you could really see how much the recognition meant to her after all her hard work."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm so happy for her! She's had a lot on her plate lately, so getting direct praise from the CEO must feel amazing. Are you just relaxing for the rest of the day now?"
+        },
+        {
+          "role": "user",
+          "content": "Almost. I just promised to share the cloud recording link of the customer demo with the junior engineers so they can study the flow. Once I send that out, I'm logging off for the weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. That recording will be a great resource for the juniors. Send that link and then go enjoy the rest of your Sunday, you've definitely earned it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-17, Sister Chen felt deeply validated because the CEO specifically praised her API fallback logic after the customer demo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "week": 4,
+  "conversations": [
+    {
+      "session_id": "w4_s1",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Revising the marketing budget",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up the budget review with Boss Zhang for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "How did it go? Did the budget hold up?"
+        },
+        {
+          "role": "user",
+          "content": "Well, we actually started off just chatting about how fast the year went by. It feels like we were just doing the Double Eleven sale yesterday. I even told him I already saw a competitor's ad for it on the subway this morning."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, already? That's super early. Did seeing the competitor's ad make him want to push our marketing harder?"
+        },
+        {
+          "role": "user",
+          "content": "Not exactly. He was a bit grumpy and actually complained that his coffee was cold while we were discussing the sale. Then he brought up that extra 50,000 RMB we allocated for influencer marketing last Thursday."
+        },
+        {
+          "role": "assistant",
+          "content": "Uh oh. Don't tell me he decided to slash it."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he did. Boss Zhang made the final decision to cut the extra influencer marketing budget for the Double Eleven sale from 50,000 RMB down to 30,000 RMB. Please update the records."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've updated the influencer marketing budget to 30,000 RMB. Let me know if you need to adjust any other allocations to make up for the cut!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Boss Zhang made the final decision to cut the extra influencer marketing budget for the Double Eleven sale from 50,000 RMB down to 30,000 RMB."
+      ]
+    },
+    {
+      "session_id": "w4_s2",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Flight delay update",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you shoot a quick text to Jiange? Let him know my flight for the Shenzhen trip today got delayed. It's now departing at 11:00 AM instead of 9:30 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I just texted Jiange that your Shenzhen flight is pushed back to 11:00 AM. Anything else you want to tell him?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, add a joke that the airline food during the Shenzhen trip is probably going to be terrible as always."
+        },
+        {
+          "role": "assistant",
+          "content": "Sent! He'll probably agree with you on that. Need me to look up any food spots near your gate?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, I'll just grab a coffee. Oh, Jiange just replied asking if I packed my favorite blue shirt for the Shenzhen trip. Tell him yes, it's in the suitcase."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. I let him know the lucky blue shirt made the cut. Ready to head to the gate soon?"
+        },
+        {
+          "role": "user",
+          "content": "Almost. I just hope the weather holds up for the Shenzhen trip. I really don't want to deal with rain while dragging my luggage around."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed! I'll keep an eye on the forecast for you. Safe flight at 11!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Linchen informed Jiange that his Monday flight for the Shenzhen trip was delayed to depart at 11:00 AM instead of 9:30 AM."
+      ]
+    },
+    {
+      "session_id": "w4_s3",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Calling from the hotel",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back to my hotel room for the night. The hotel lobby here has this really weird modern art sculpture, I need to take a picture of it tomorrow. Can you help me set up some reminders for the rest of my Shenzhen trip?"
+        },
+        {
+          "role": "assistant",
+          "content": "Of course! I can definitely help you set up those reminders. How are you holding up on the trip so far?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, it's rough. I was just texting Liwei, and I told her I'm experiencing deep homesickness right now. It's only my second night of the Shenzhen trip and I already miss her so much."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sorry you're feeling so homesick, Linchen. Being away from home and the people you care about is always tough. Did talking to Liwei help a bit?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it did. We chatted for a bit, and she randomly asked what kind of tea they served at the meetings today, which made me smile. I also made a serious commitment to her: I promised I will video call her every night at 10 PM during this trip."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great idea. I'll set a daily recurring reminder for 9:55 PM so you can get ready for your 10 PM video call with Liwei. Anything else you need me to note down?"
+        },
+        {
+          "role": "user",
+          "content": "No, that's the main thing. Just a bit annoyed because I realized my laptop charger got slightly bent in my bag on the way here. It still works, but I have to be careful with it."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, that's frustrating. Let's hope it holds up for the rest of the trip! If it stops working, just let me know and I can find the nearest electronics store for you. Get some rest!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29, Linchen expressed deep homesickness to Liwei on his second night of the Shenzhen trip.",
+        "On 2025-07-29, Linchen made a serious commitment to Liwei that he will video call her every night at 10 PM during the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w4_s4",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Load testing results",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just got out of the load testing session with Wanghao for the Double Eleven sale prep. He spent half the time complaining about the air conditioning being way too cold in the server room."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic server room struggles! Better bring a jacket next time. Did you guys manage to get any solid data despite the freeze?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we actually got some good numbers. Wanghao concluded that the checkout service can currently handle a peak of 12,000 QPS for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great milestone! 12,000 QPS should give you a solid baseline for the checkout service. Are you guys planning to push it further tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Probably. I joked that we should just order pizza if we have to work late on the Double Eleven sale prep tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza is definitely mandatory for late-night prep! Should I set a reminder to order some later?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet, we'll see how it goes. Wanghao also said his mechanical keyboard is too loud for these late-night Double Eleven sale coding sessions, so he might try to find a quieter one."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, nobody wants to hear aggressive clacking at 2 AM. I'll hold off on the pizza reminder for now. Let me know if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Wanghao concluded that the checkout service can currently handle a peak of 12,000 QPS for the Double Eleven sale."
+      ]
+    },
+    {
+      "session_id": "w4_s5",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Updating Mom on the search",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with my mom to give her an update on the apartment hunting. She's been stressing out because she said she saw a TV show where someone had a really bad experience during their apartment hunt."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like classic mom worry! Did you manage to calm her nerves a bit?"
+        },
+        {
+          "role": "user",
+          "content": "I tried. I told her we're being careful. Oh, by the way, one agent we met during the apartment hunting wore a really bright yellow tie. It was super distracting, but he actually showed us some decent units."
+        },
+        {
+          "role": "assistant",
+          "content": "A bright yellow tie will definitely keep you awake during a long day of tours! Did she have any other advice for you?"
+        },
+        {
+          "role": "user",
+          "content": "Just the usual nagging. Mom suggested I eat more fruit while I'm busy with the apartment hunting, so I guess I need to buy some apples later."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted, I can add fruit to your grocery list. Did you guys agree on next steps for the apartments?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, to give her peace of mind, I promised Mom I would send her the official floor plan of our final choice from the apartment hunting. So remind me to ask the agent for the exact layout when we pick a place."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I'll remind you to get that official floor plan to send to your mom once you make your final decision."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Linchen promised Mom he would send her the official floor plan of their final choice from the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w4_s6",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Venting about rent prices",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Sister Chen. I really needed to vent to her about this whole apartment hunting thing."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, sounds rough. How did the search go today?"
+        },
+        {
+          "role": "user",
+          "content": "Exhausting. I told Sister Chen that we took the subway to three different neighborhoods for the apartment hunting today. I was walking around so much I had to stop and buy a bottle of water from a convenience store just to keep going."
+        },
+        {
+          "role": "assistant",
+          "content": "That is a lot of ground to cover in the summer heat! Did Sister Chen have any good advice?"
+        },
+        {
+          "role": "user",
+          "content": "She asked if I used a specific app for the apartment hunting to narrow things down. But honestly, the apps aren't the issue. I told her I'm feeling intense anxiety right now because the rent prices we saw were 15% higher than I expected."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, a 15% jump is huge. No wonder you're feeling so anxious about it. That completely messes with your budget."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. I'm just so stressed out now. At least Sister Chen is a good listener, but I really don't know what we're going to do next."
+        },
+        {
+          "role": "assistant",
+          "content": "Take a deep breath. You've got time to figure it out, and venting is a good first step. Let me know if you want me to help you run some budget numbers later!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Linchen expressed intense anxiety to Sister Chen because the rent prices they saw during the apartment hunting were 15% higher than expected."
+      ]
+    },
+    {
+      "session_id": "w4_s7",
+      "day": "Friday",
+      "date": "2025-08-01",
+      "topic": "Rescheduling weekend plans",
+      "focal_character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I finally bit the bullet and scheduled my dentist appointment. It's set for tomorrow, Saturday morning at 9:00 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, Saturday at 9:00 AM. I've blocked out your morning. Anything else you need to shuffle around for the weekend?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, just dreading it. I really dislike the smell of that clinic. I just hope the waiting room magazines are updated this time so I have something to distract me."
+        },
+        {
+          "role": "assistant",
+          "content": "That clinical smell is the worst! Hopefully they have some new reading material for you. Are you still on for badminton with Jiange tomorrow night?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, definitely still playing. When I told Jiange about the appointment, he joked that I shouldn't eat any candy before I go."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, solid advice from Jiange. I'll leave the 8:00 PM court reservation as is."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. Just make sure to remind me to leave by 8:30 AM tomorrow so I'm not late for the dentist."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I'll send you a quick ping at 8:15 AM tomorrow so you can grab your keys and head out."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-01, Linchen scheduled the dentist appointment for Saturday morning at 9:00 AM."
+      ]
+    },
+    {
+      "session_id": "w4_s8",
+      "day": "Saturday",
+      "date": "2025-08-02",
+      "topic": "Morning check-in",
+      "focal_character": "Mom",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning! Just heading out for my 9:00 AM dentist appointment. I just had a quick bowl of oatmeal for breakfast before heading out."
+        },
+        {
+          "role": "assistant",
+          "content": "Good morning! Oatmeal is a solid choice before someone pokes around in your mouth. Good luck at the dentist! Need directions to the clinic?"
+        },
+        {
+          "role": "user",
+          "content": "No, I know the way. Mom called earlier to remind me to wear a warm jacket on my way there, so I'm pretty bundled up right now."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Mom move! Always looking out for you. Are you just going in for a routine cleaning today?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, but I actually promised Mom I would ask the doctor about teeth whitening options during the appointment today. We were talking about it and she ended up telling this long story about her own childhood dentist and how strict they were back then."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, parents always have the wildest childhood stories. I'll make a note about the teeth whitening so you don't forget to ask!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks, I appreciate it. I'll check back in once I survive the chair."
+        },
+        {
+          "role": "assistant",
+          "content": "You'll do great! See you on the other side."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-02, Linchen promised Mom he would ask the doctor about teeth whitening options during the dentist appointment."
+      ]
+    },
+    {
+      "session_id": "w4_s9",
+      "day": "Sunday",
+      "date": "2025-08-03",
+      "topic": "Accelerating the timeline",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Today's apartment hunting was pretty exhausting. My shoes got really muddy walking around that new development area."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, muddy shoes are the worst way to end a long day of walking. Did you guys at least see any decent places?"
+        },
+        {
+          "role": "user",
+          "content": "A couple of okay ones, but nothing perfect yet. At least Liwei kept the mood light. She mentioned this really funny dog she saw on the street during the hunt, just rolling around in a pile of leaves."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, that's cute. It's good she was in high spirits! Are you guys still aiming to move by the end of the month?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, I want to accelerate the timeline. I made a serious commitment to Liwei today that I will secure a lease by mid-August during our apartment hunting, instead of the end of August like we originally planned."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, mid-August is coming up fast! That's a big promise. Want me to start blocking off more evenings this week so you can squeeze in extra viewings?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, let's look at the calendar tomorrow. Anyway, right after the apartment hunting today, we stood on the corner for like ten minutes debating whether to get bubble tea or iced coffee."
+        },
+        {
+          "role": "assistant",
+          "content": "The ultimate post-apartment-hunting dilemma! Whatever you chose, you definitely earned it. Let me know when you're ready to schedule those viewings tomorrow."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-03, Linchen made a serious commitment to Liwei that he will secure a lease by mid-August during their apartment hunting, instead of the end of August."
+      ]
+    },
+    {
+      "session_id": "w4_s10",
+      "day": "Sunday",
+      "date": "2025-08-03",
+      "topic": "Post-trip catchup",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a call with Sister Chen to catch up after the Shenzhen trip. I mentioned to her that I brought back some local snacks from the trip for the team."
+        },
+        {
+          "role": "assistant",
+          "content": "Welcome back! I'm sure the team will love the snacks. How was the catch-up with Sister Chen?"
+        },
+        {
+          "role": "user",
+          "content": "It was really nice. She asked if the flight back from the Shenzhen trip was bumpy, which it actually was a bit. But mostly, I just felt a massive wave of relief and exhaustion telling her that my big presentation for the Shenzhen trip was finally over."
+        },
+        {
+          "role": "assistant",
+          "content": "I remember how anxious you were about presenting to the VP! It must feel incredible to have that weight off your shoulders. You definitely earned a break."
+        },
+        {
+          "role": "user",
+          "content": "Exactly, it's such a huge weight off. I also told her that I took a lot of notes on my iPad during the Shenzhen trip, so I have plenty of material to review for our Double Eleven prep."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great. Having all those iPad notes will make organizing the action items so much easier. Do you want me to help you sort through them tomorrow?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, let's tackle that tomorrow. Tonight, I'm just going to relax and enjoy the fact that the hardest part is behind me."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like the perfect plan. Get some well-deserved rest, Linchen!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-03, Linchen expressed to Sister Chen that he felt a massive wave of relief and exhaustion because his big presentation for the Shenzhen trip was finally over."
+      ]
+    }
+  ]
+}

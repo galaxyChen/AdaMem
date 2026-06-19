@@ -1,0 +1,503 @@
+{
+  "week": 10,
+  "conversations": [
+    {
+      "session_id": "w10_s1",
+      "day": "Monday",
+      "date": "2025-09-08",
+      "topic": "Adjusting the promotional lock date",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need you to update the schedule for the Double Eleven sale. Boss Zhang just changed his mind about the promo lock date we set last week."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I remember on September 2nd he decided to lock all promotional pricing tiers by September 15. What's the new plan?"
+        },
+        {
+          "role": "user",
+          "content": "He made the final decision today to delay locking all promotional pricing tiers to September 20 instead of the 15th. Also, while I was reviewing the test site, I noticed the marketing banners for the sale look slightly washed out on mobile devices."
+        },
+        {
+          "role": "assistant",
+          "content": "I've updated the promo lock date to September 20. Do you want me to draft a quick message to the design team about the washed-out mobile banners?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, I'll just ping them directly on DingTalk. Oh, another random thing from the meeting—Boss Zhang asked if the catering for the war room during the Double Eleven sale would include vegetarian options. I'll need to check with the admin team later."
+        },
+        {
+          "role": "assistant",
+          "content": "I can set a reminder for you to check with admin about the vegetarian catering if you'd like. Anything else come up during the meeting?"
+        },
+        {
+          "role": "user",
+          "content": "No, just a quick reminder is fine. Well, an intern joked that we should buy more coffee beans for the Double Eleven sale prep. Honestly, they're probably right. Anyway, that's all for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, you can never have enough coffee for Double Eleven prep! I'll remind you about the catering, and the new September 20 lock date is officially logged. Let me know if you need anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-08, Boss Zhang made the final decision to delay locking all promotional pricing tiers for the Double Eleven sale to September 20 instead of September 15."
+      ]
+    },
+    {
+      "session_id": "w10_s2",
+      "day": "Tuesday",
+      "date": "2025-09-09",
+      "topic": "Reviewing search microservice capacity",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, I just got out of another daily sync meeting for the Double Eleven sale. I swear, they're taking up way too much of my morning lately."
+        },
+        {
+          "role": "assistant",
+          "content": "Those daily syncs can definitely eat up your whole morning! Did you at least get the search microservice capacity sorted out with Wanghao?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we finally nailed that down. Wanghao concluded that the search microservice requires exactly 120 GB of RAM allocated to handle the Double Eleven sale queries."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 120 GB of RAM for the search microservice. Did he mention any other technical tweaks needed?"
+        },
+        {
+          "role": "user",
+          "content": "Not on the backend side. Though, randomly, Wanghao noticed the dashboard UI for the Double Eleven sale monitoring was using an outdated font. He's super picky about that stuff."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, typical Wanghao catching the UI details! Sounds like the tech side is mostly locked in though. How's the marketing side looking?"
+        },
+        {
+          "role": "user",
+          "content": "Looking good. Actually, someone mentioned in the meeting that the promotional video for the Double Eleven sale is already trending on social media. So we really need to make sure these servers hold up!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news for sales, but definitely adds to the pressure! With Wanghao's RAM allocation and the recent database scaling, you guys should be in a solid spot."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-09, Wanghao concluded that the search microservice requires exactly 120 GB of RAM allocated to handle the Double Eleven sale queries."
+      ]
+    },
+    {
+      "session_id": "w10_s3",
+      "day": "Wednesday",
+      "date": "2025-09-10",
+      "topic": "Booking a personal training session",
+      "focal_character": "Jiange",
+      "topic_anchor": "the gym membership",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Jiange just texted me about the gym membership we got. You know, the one that gave us those really bright blue plastic key tags?"
+        },
+        {
+          "role": "assistant",
+          "content": "I remember! Did he reach out to set up a workout?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he went ahead and scheduled our first personal training session for the gym membership at 7:00 PM on Thursday."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll block out Thursday at 7:00 PM for your training session with Jiange. Do you need to pack anything specific?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, can you remind me to find out if the gym membership includes free towel service or if we have to bring our own? Jiange mentioned the locker rooms smell strongly of eucalyptus, which is nice, but he didn't check the towels."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I'll remind you to check on the towel situation before you head over. The eucalyptus sounds relaxing, at least!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, hopefully it helps. I'm just hoping I survive the workout!"
+        },
+        {
+          "role": "assistant",
+          "content": "You've got this! Just take it one step at a time. Let me know if you need anything else adjusted on your calendar for Thursday."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-10, Jiange scheduled their first personal training session for the gym membership at 7:00 PM on Thursday."
+      ]
+    },
+    {
+      "session_id": "w10_s4",
+      "day": "Wednesday",
+      "date": "2025-09-10",
+      "topic": "Chatting about the first workout",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the gym membership",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, I just had the most humiliating experience. I was just texting Sister Chen about it and I'm still cringing."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, what happened? Did the physical dread you were feeling about the gym finally catch up to you?"
+        },
+        {
+          "role": "user",
+          "content": "Way worse. It was my first day actually using the gym membership, and I completely dropped a heavy dumbbell on the floor. It made a massive crash and everyone stared. I told Sister Chen how I felt this intense embarrassment and just wanted to disappear."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, that is rough! Dropping weights happens to the best of us, though. How did Sister Chen react to your traumatic gym debut?"
+        },
+        {
+          "role": "user",
+          "content": "She laughed, of course, and then she immediately asked me how much the initiation fee for the gym membership actually cost."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Sister Chen, always pivoting to the financials. Was the fee at least reasonable?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it wasn't bad. I also explained to her that the gym membership allows me to bring one guest per month, so it's actually a pretty good deal."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great perk! You can bring Jiange or Liwei sometime. Did she have any other words of wisdom for you?"
+        },
+        {
+          "role": "user",
+          "content": "She just suggested I download the mobile app that comes with the gym membership to track my workouts. Anyway, at least Jiange and I have our first personal training session tomorrow night, so hopefully I won't drop anything then."
+        },
+        {
+          "role": "assistant",
+          "content": "The app sounds like a good idea. And having Jiange there tomorrow at 7 PM will definitely help you feel more grounded. You've got this!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-10, Linchen expressed intense embarrassment to Sister Chen after dropping a heavy dumbbell during his first day using the gym membership."
+      ]
+    },
+    {
+      "session_id": "w10_s5",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Planning the birthday menu",
+      "focal_character": "Mom",
+      "topic_anchor": "Mom's birthday dinner",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to finalize the plans for Mom's birthday dinner this weekend. She actually asked me earlier if the weather would be too chilly on the night of the dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "I can pull up the weekend forecast for you! It might be good to bring a light jacket just in case. Have you decided on the restaurant?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we're going to that roast duck place downtown. I promised Mom I would order her favorite peking duck in advance so we don't miss out."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect, Peking duck is always a great choice for a celebration. Want me to set a reminder for you to call them tomorrow?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please. Also, I noted that the parking lot near the restaurant for Mom's birthday dinner is usually full by 6 PM, so we might just take a cab. Oh, and Mom mentioned she was considering wearing her new silk scarf to the dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Taking a cab sounds like a smart move to avoid the parking headache. And the silk scarf will be perfect if it gets a bit chilly! I've set the reminder to call the restaurant tomorrow."
+        },
+        {
+          "role": "user",
+          "content": "Awesome, thanks. That takes a lot of the pressure off. I'll let her know the plan."
+        },
+        {
+          "role": "assistant",
+          "content": "You're welcome! Let me know if you need help organizing anything else for her big day."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Linchen promised Mom he would order her favorite peking duck in advance for Mom's birthday dinner."
+      ]
+    },
+    {
+      "session_id": "w10_s6",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Discussing payment logistics",
+      "focal_character": "Liwei",
+      "topic_anchor": "Mom's birthday dinner",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to sort out some logistics for Mom's birthday dinner tonight. I already promised Mom I'd order her favorite peking duck in advance, so we need to make sure that's sorted."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I can remind you to call the restaurant or I can place the order if they have an online portal. What time is the dinner?"
+        },
+        {
+          "role": "user",
+          "content": "Dinner is at 7. Oh, and Liwei suggested we take a taxi to Mom's birthday dinner so we could both have a glass of wine. Can you schedule a Didi for 6:30?"
+        },
+        {
+          "role": "assistant",
+          "content": "Smart idea. I've scheduled the Didi for 6:30 PM. Anything else you need to prepare for tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Liwei asked if she should bring a floral arrangement to Mom's birthday dinner, and I think that's a great idea. It'll look nice in the private room I booked, which has a great view of the river by the way."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a beautiful setup! A river view and flowers will definitely make your mom feel special. Should I add a reminder for Liwei to pick up the flowers?"
+        },
+        {
+          "role": "user",
+          "content": "No need, she's already on it. But remind me about the payment. I made a serious commitment to Liwei that I will secretly handle the bill for Mom's birthday dinner so my parents don't try to pay. I need to give the waiter my card before they even bring the check."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it. I'll set a high-priority reminder for 6:45 PM so you can slip your card to the waiter right when you arrive. Have a wonderful time celebrating!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Linchen made a serious commitment to Liwei that he will secretly handle the bill for Mom's birthday dinner so his parents don't try to pay."
+      ]
+    },
+    {
+      "session_id": "w10_s7",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Reviewing IT accessory requests",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just picked up the batch from IT. I have to say, the retail packaging for the new MacBook is surprisingly minimalistic this year."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Less waste is always a plus. Did the pickup go smoothly?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it was fine. One engineer even joked that we should get custom company stickers for the new MacBook since they look so plain out of the box. Boss Zhang was inspecting them too and asked if the aluminum chassis of the new MacBook scratches easily."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a valid concern, especially if the core backend team is going to be carrying them around. Did you guys finish reviewing the accessory requests?"
+        },
+        {
+          "role": "user",
+          "content": "We did. Unfortunately, Boss Zhang made the final decision to deny the budget request for external 4K monitors to accompany the new MacBook. He thinks the built-in screens are good enough."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll note that the 4K monitors are a no-go. Do you need help drafting an announcement to the team?"
+        },
+        {
+          "role": "user",
+          "content": "No, I'll just tell them in person when I hand out the laptops this afternoon. That's all for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Good luck with the distribution!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Boss Zhang made the final decision to deny the budget request for external 4K monitors to accompany the new MacBook."
+      ]
+    },
+    {
+      "session_id": "w10_s8",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Benchmarking the hardware",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I finally picked up the new MacBook from IT today. I have to say, I really like the darker space gray color on this model."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! The darker space gray always looks really slick. Did Boss Zhang ever change his mind about those external 4K monitors to go with them?"
+        },
+        {
+          "role": "user",
+          "content": "Unfortunately no, he officially denied the budget request for the monitors today. But the laptop itself is great. Wanghao was unboxing his and noted that the charging cable included with the new MacBook is braided now."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, bummer about the monitors, but a braided cable is a nice durability upgrade! Has Wanghao actually tested the performance yet?"
+        },
+        {
+          "role": "user",
+          "content": "He's getting there. He was just feeling it out and mentioned that the trackpad on the new MacBook feels slightly larger than before. But he did run a quick test on the backend repo."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? Did he get any solid numbers on how it handles the codebase?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah! Wanghao concluded that the local build compile time on the new MacBook is exactly 45 seconds faster than on the previous generation machines. That's going to be huge for us during the Double Eleven prep."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive win! Saving 45 seconds per build will definitely add up fast. Sounds like the hardware upgrade was totally worth it."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Wanghao concluded that the local build compile time on the new MacBook is exactly 45 seconds faster than on the previous generation machines."
+      ]
+    },
+    {
+      "session_id": "w10_s9",
+      "day": "Saturday",
+      "date": "2025-09-13",
+      "topic": "Adjusting weekend plans",
+      "focal_character": "Jiange",
+      "topic_anchor": "Mom's birthday dinner",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to text Jiange about our gym session today. Can you draft a message? We need to reschedule our Saturday workout to Sunday morning at 9:00 AM because I have a timing conflict with Mom's birthday dinner tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! How about: \"Hey Jiange, I've got a timing conflict with my Mom's birthday dinner tonight. Can we reschedule our Saturday workout to Sunday morning at 9:00 AM instead?\" Should I send that?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, send that. Oh, and remind me to text him later about the dessert. Earlier today, Jiange asked what kind of cake my family was getting for Mom's birthday dinner, and I need to tell him we went with a fruit tart."
+        },
+        {
+          "role": "assistant",
+          "content": "Sent! And I've noted down to remind you about the fruit tart. Let me know when he replies about the workout."
+        },
+        {
+          "role": "user",
+          "content": "He just replied and said Sunday at 9 AM works perfectly. In the same text, Jiange said he hoped the restaurant for Mom's birthday dinner had good seafood."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome, Sunday at 9:00 AM is locked in. That's nice of him to think of the seafood! Are you guys going to a seafood place?"
+        },
+        {
+          "role": "user",
+          "content": "We're doing Peking duck, actually! I'll let him know. I also mentioned to him earlier that my sister was also flying in just for Mom's birthday dinner, so it's going to be a pretty big family reunion tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a wonderful evening! Enjoy the duck and the time with your mom and sister. I'll make sure your alarm is set for your workout with Jiange tomorrow morning."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-13, Linchen rescheduled the Saturday workout with Jiange to Sunday morning at 9:00 AM because of a timing conflict with Mom's birthday dinner."
+      ]
+    },
+    {
+      "session_id": "w10_s10",
+      "day": "Sunday",
+      "date": "2025-09-14",
+      "topic": "Venting about work stress",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just need to vent. I was talking to Liwei earlier, and I just feel this deep sense of burnout and sadness. The constant weekend work for the Double Eleven sale is completely ruining our quality time together."
+        },
+        {
+          "role": "assistant",
+          "content": "Man, I'm really sorry to hear that. It's incredibly tough when work eats into your personal life, especially your time with Liwei. How is she handling it all?"
+        },
+        {
+          "role": "user",
+          "content": "She's trying to be supportive, but the sale is everywhere. She even mentioned she saw a targeted social media ad for the Double Eleven sale earlier today. She was trying to keep the mood light, though, and asked if the company was giving out custom t-shirts for the sale this year."
+        },
+        {
+          "role": "assistant",
+          "content": "That's sweet of her to try and lighten the mood with the t-shirt question, even with the ads following you guys around. Is the office environment just as intense right now?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it's a mess. I noticed my coworkers are drinking an unhealthy amount of energy drinks just to stay awake while prepping for the sale. It's just a really toxic grind right now."
+        },
+        {
+          "role": "assistant",
+          "content": "That energy drink diet is a recipe for a massive crash. Please make sure you're taking care of yourself and not falling into that same trap. You've got to protect your health."
+        },
+        {
+          "role": "user",
+          "content": "I'm trying. I'm just looking forward to this all being over so I can actually be present with Liwei again. Thanks for letting me vent."
+        },
+        {
+          "role": "assistant",
+          "content": "Anytime, Linchen. Hang in there. You're doing your best, and if you need help organizing your tasks to reclaim even a little bit of time, I'm right here."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-14, Linchen felt a deep sense of burnout and sadness with Liwei because the constant weekend work for the Double Eleven sale was ruining their quality time."
+      ]
+    }
+  ]
+}

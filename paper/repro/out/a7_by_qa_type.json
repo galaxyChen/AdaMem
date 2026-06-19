@@ -1,0 +1,74 @@
+{
+  "adamem|deepseek|verbose": {
+    "within_pref": {
+      "acc": 85.2,
+      "n": 500
+    }
+  },
+  "adamem|deepseek|with_gold": {
+    "within_pref": {
+      "acc": 82.0,
+      "n": 500
+    }
+  },
+  "adamem|gemini|verbose": {
+    "within_pref": {
+      "acc": 84.8,
+      "n": 500
+    }
+  },
+  "adamem|gemini|with_gold": {
+    "within_pref": {
+      "acc": 85.4,
+      "n": 500
+    }
+  },
+  "fc|deepseek|verbose": {
+    "within_pref": {
+      "acc": 96.4,
+      "n": 500
+    }
+  },
+  "fc|deepseek|with_gold": {
+    "within_pref": {
+      "acc": 97.2,
+      "n": 500
+    }
+  },
+  "id|deepseek|verbose": {
+    "within_pref": {
+      "acc": 96.0,
+      "n": 500
+    }
+  },
+  "id|deepseek|with_gold": {
+    "within_pref": {
+      "acc": 96.4,
+      "n": 500
+    }
+  },
+  "m0|deepseek|verbose": {
+    "within_pref": {
+      "acc": 76.2,
+      "n": 500
+    }
+  },
+  "m0|deepseek|with_gold": {
+    "within_pref": {
+      "acc": 80.2,
+      "n": 500
+    }
+  },
+  "m0|gemini|verbose": {
+    "within_pref": {
+      "acc": 80.4,
+      "n": 500
+    }
+  },
+  "m0|gemini|with_gold": {
+    "within_pref": {
+      "acc": 83.2,
+      "n": 500
+    }
+  }
+}

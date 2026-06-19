@@ -1,0 +1,495 @@
+{
+  "week": 7,
+  "conversations": [
+    {
+      "session_id": "w7_s1",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Re-evaluating the gamification feature",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, prepping for the Double Eleven sale kickoff meeting. Quick question, do we know if the catering for it will include vegetarian options?"
+        },
+        {
+          "role": "assistant",
+          "content": "I'll make a note to check with the vendor on vegetarian options for the kickoff! How are the rest of the sale preps going?"
+        },
+        {
+          "role": "user",
+          "content": "A bit chaotic. Big update today: Boss Zhang made the final decision to completely cancel the simplified gamification feature for the Double Eleven sale. He cited severe timeline risks. Oh, and he also casually remarked that our competitor's color scheme for the sale looked better last year, which stung a bit."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch on the color scheme comment. But noted on the big news: the simplified gamification feature is totally scrapped due to timeline risks. That officially reverses his decision from last week. Anything else happen?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, just to add to the chaos, my dog chewed up one of the mascot plushies for the Double Eleven sale. There's stuffing all over my living room."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, RIP to the plushie! I hope the cleanup isn't too terrible. Do you need me to remind you to grab a replacement from the office?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, I'll just toss the evidence and pretend it never happened. That's all the updates for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Hang in there with the sale prep, and just holler if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18, Boss Zhang made the final decision to completely cancel the simplified gamification feature for the Double Eleven sale due to severe timeline risks."
+      ]
+    },
+    {
+      "session_id": "w7_s2",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Waiting on the landlord's response",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a call with Sister Chen. I'm completely on edge right now."
+        },
+        {
+          "role": "assistant",
+          "content": "What's going on? Is this about the Double Eleven prep or something else?"
+        },
+        {
+          "role": "user",
+          "content": "No, it's about the apartment hunting. I expressed intense anxiety to Sister Chen because the landlord still hasn't responded to our lease application. We submitted it yesterday and the silence is killing me."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, that waiting period is always the hardest, especially after you were so relieved to finally find a place. Did Sister Chen have any thoughts on it?"
+        },
+        {
+          "role": "user",
+          "content": "She was trying to keep my mind off it. She actually asked if we used a specific mobile app for the apartment hunting to find this particular loft."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a fair question. Did you use an app or just stumble upon it while touring?"
+        },
+        {
+          "role": "user",
+          "content": "A bit of both, but we walked everywhere. I noted to her that our total walking distance during Sunday's apartment hunting was over 10 kilometers! Hearing that, Sister Chen suggested wearing more comfortable sneakers for any future apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Over 10 kilometers is a massive trek! Let's hope the landlord replies today so you won't even need those comfortable sneakers for more hunting."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18, Linchen expressed intense anxiety to Sister Chen because the landlord from their apartment hunting still hasn't responded to their application."
+      ]
+    },
+    {
+      "session_id": "w7_s3",
+      "day": "Tuesday",
+      "date": "2025-08-19",
+      "topic": "Finalizing the pre-order details",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Pixel 9 phone",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my reminder for Liwei's birthday gift? I know I said I'd get her the Pixel 9, but I just made a serious promise to her that I'll order the Pro version instead of the base model."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! Upgrading to the Pro version of the Pixel 9 for Liwei. That's a big step up, she's going to be thrilled. Should I remind you to place the pre-order today?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please do. She's really hyped. She even mentioned she saw an unboxing video where the Pixel 9 comes in this sleek pink box."
+        },
+        {
+          "role": "assistant",
+          "content": "A sleek pink box definitely adds to the unboxing experience! Do you know when the release date is?"
+        },
+        {
+          "role": "user",
+          "content": "I'm not entirely sure on the exact shipping dates, but Liwei was wondering out loud if the phone would arrive by next Tuesday."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed the shipping is fast! Once you place the order and get a tracking number, I can help keep an eye on it to see if it makes that Tuesday deadline."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. I think she'll get a lot of use out of it. I actually read a tech blog earlier estimating the Pixel 9 battery life at 24 hours, so the Pro model should easily keep up with her all day."
+        },
+        {
+          "role": "assistant",
+          "content": "A 24-hour battery life plus those camera features she was so excited about earlier this week makes it the perfect gift. I've got your reminder set to pre-order the Pro model!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-19, Linchen made a serious commitment to Liwei that he will order the Pro version of the Pixel 9 phone instead of the base model."
+      ]
+    },
+    {
+      "session_id": "w7_s4",
+      "day": "Wednesday",
+      "date": "2025-08-20",
+      "topic": "Post-migration load testing results",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up a sync with Wanghao about the post-migration load testing for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How did the numbers look this time?"
+        },
+        {
+          "role": "user",
+          "content": "I honestly felt a huge wave of relief hearing the new metrics for the Double Eleven sale. Wanghao concluded that the checkout service can now safely handle a peak of 22,000 QPS after they finished the final cache optimization."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! A solid jump from the 18,000 QPS last week. The server stability fund is definitely paying off."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, for sure. Though Wanghao complained that he had to completely skip lunch today just to monitor the Double Eleven sale load tests."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, you definitely owe him a good meal after that. Did he bring up anything else?"
+        },
+        {
+          "role": "user",
+          "content": "He actually asked if the engineering team would get a special bonus for the Double Eleven sale this year, considering all the heavy lifting they've been doing."
+        },
+        {
+          "role": "assistant",
+          "content": "Fair question given the workload! Want me to remind you to bring that up with Boss Zhang later?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-20, Wanghao concluded that the checkout service can safely handle a peak of 22,000 QPS for the Double Eleven sale after the final cache optimization."
+      ]
+    },
+    {
+      "session_id": "w7_s5",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Discussing annual health checks",
+      "focal_character": "Mom",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got a medical check-up reminder phone call today. Honestly, I felt so annoyed by the automated voice on that call, it was super grating."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, those robo-calls are the worst. Are you going to get it scheduled soon though?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I have to. My mom called me right after because she mentioned that her neighbor Mr. Wang received his medical check-up reminder yesterday, so now she's hyper-focused on everyone's health."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic mom move! Did she give you a whole lecture on what to do?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty much. She advised me to fast for 12 hours before the date on the medical check-up reminder. She's really not messing around this year."
+        },
+        {
+          "role": "assistant",
+          "content": "Standard mom advice, but she's right about the fasting! Anything else she made you swear to do?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I promised Mom I would not skip the comprehensive blood test mentioned in the medical check-up reminder. I hate needles, but I gave her my word."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. Better to just get it done and keep her happy! Let me know when you lock in the date and I'll remind you to start fasting."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21, Linchen promised Mom he would not skip the comprehensive blood test mentioned in the medical check-up reminder."
+      ]
+    },
+    {
+      "session_id": "w7_s6",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Coordinating gym time around the doctor",
+      "focal_character": "Jiange",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I finally scheduled my hospital visit for the medical check-up reminder at 8:30 AM next Wednesday."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. 8:30 AM next Wednesday. I'll block out your calendar. Do you need to adjust your gym schedule with Jiange?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, let him know I'm out for Wednesday morning. He already joked that the medical check-up reminder is a terrible excuse to skip leg day."
+        },
+        {
+          "role": "assistant",
+          "content": "Typical Jiange! I'll send him a message so he knows you won't be there. Anything else to add?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, tell him I promised to text him my body fat percentage after I complete the medical check-up reminder. He felt extremely proud of his own cholesterol levels from his last medical check-up reminder, so I have to show him up."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, the rivalry continues. I'll remind you to send him the stats next Wednesday. Don't forget you also promised your mom you wouldn't skip the comprehensive blood test!"
+        },
+        {
+          "role": "user",
+          "content": "I know, I know. I'll get the blood test done while I'm there. Thanks."
+        },
+        {
+          "role": "assistant",
+          "content": "You're welcome! Let me know if you need help with anything else today."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21, Linchen scheduled his hospital visit for the medical check-up reminder at 8:30 AM next Wednesday."
+      ]
+    },
+    {
+      "session_id": "w7_s7",
+      "day": "Friday",
+      "date": "2025-08-22",
+      "topic": "The landlord finally replies",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! The landlord finally replied to our application from our apartment hunting. They approved it! Liwei and I just felt this massive wave of relief, honestly."
+        },
+        {
+          "role": "assistant",
+          "content": "That's fantastic news! I know how stressful this whole process has been for you both. Huge congratulations on finally securing the place!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks! Liwei suggested we should buy celebratory boba tea tonight to mark the end of the apartment hunting, which sounds absolutely perfect right now."
+        },
+        {
+          "role": "assistant",
+          "content": "Boba is definitely the right call to celebrate. You two have definitely earned a relaxing evening."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we really did. I just calculated everything, and the total deposit required for the apartment hunting is exactly 15000 RMB. I'll need to get that transferred."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 15,000 RMB for the deposit. Just let me know if you want me to set a reminder for you to send that transfer."
+        },
+        {
+          "role": "user",
+          "content": "I'll handle it today. I also promised to buy sturdy packing boxes this weekend for the apartment hunting move, so my weekend is pretty much booked now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a busy weekend ahead, but at least the hard part is over! Enjoy the boba tonight and good luck tracking down those boxes."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-22, Linchen felt a massive wave of relief with Liwei after the landlord finally approved their application from the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w7_s8",
+      "day": "Saturday",
+      "date": "2025-08-23",
+      "topic": "Securing the device",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Pixel 9 phone",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Sister Chen. I finally did it! I successfully secured the pre-order for the Pixel 9 phone for Liwei. I told Sister Chen how immense my satisfaction and joy is right now. It's such a huge weight off my shoulders after stressing over it!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news! I know you were really anxious about the cost and making sure you got the Pro version for her birthday. Sounds like a massive win!"
+        },
+        {
+          "role": "user",
+          "content": "It really is. Though, I have to admit, the final checkout price for the Pixel 9 phone was exactly 8999 RMB. Sister Chen actually asked if the Pixel 9 phone has a decent trade-in program for older models to help offset that sting."
+        },
+        {
+          "role": "assistant",
+          "content": "8999 RMB is definitely an investment, but she's going to be thrilled. Did you end up looking into the trade-in options Sister Chen mentioned?"
+        },
+        {
+          "role": "user",
+          "content": "I'll look into it later. For now, I'm just glad it's ordered. Sister Chen also promised to help me pick out a cute protective case for the Pixel 9 phone so it's fully ready to go when it arrives."
+        },
+        {
+          "role": "assistant",
+          "content": "That's super helpful of her! Having a cute case ready will make the birthday surprise even better. Want me to set a reminder to browse cases with her next week?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, remind me on Monday. Between the apartment lease finally getting approved yesterday and this phone sorted today, I feel like I can actually breathe this weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "You've got it, I'll remind you on Monday about the case. Enjoy the weekend—you've definitely earned some downtime after knocking out all these big tasks!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-23, Linchen expressed immense satisfaction and joy to Sister Chen after successfully securing the pre-order for the Pixel 9 phone."
+      ]
+    },
+    {
+      "session_id": "w7_s9",
+      "day": "Sunday",
+      "date": "2025-08-24",
+      "topic": "Reporting the good news",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I just got off the phone with my mom to give her the good news. I'm so incredibly happy that the stress of this whole apartment hunting thing is finally over. The landlord officially approved us on Friday!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's amazing news! Congrats on finally locking a place down. How did your mom take it?"
+        },
+        {
+          "role": "user",
+          "content": "She was super relieved for us, though she remarked that the entire process of the apartment hunting sounded completely exhausting. Which, to be fair, it definitely was."
+        },
+        {
+          "role": "assistant",
+          "content": "She's not wrong! You guys really went through a lot to find the right spot. Did she have any of her usual practical questions about the new place?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, you know it. She immediately asked if the nearest subway station is within walking distance of the place we found. I told her it's only five minutes away, so that made her happy."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice, a five-minute walk is going to be so convenient. Are you planning to have her over once you're settled?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, absolutely. I promised Mom I would invite her over for dinner the very first weekend after we finish moving. We'll show her the place in person then."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a perfect plan. Let me know when you're ready to start coordinating the move or if you need ideas for that dinner menu!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-24, Linchen promised Mom he would invite her over for dinner the very first weekend after they finish moving from the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w7_s10",
+      "day": "Sunday",
+      "date": "2025-08-24",
+      "topic": "Adjusting the workout routine",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to talk about adjusting my workout routine with Jiange. I was just thinking about the impending workload for the Double Eleven sale, and honestly, I feel a deep sense of dread."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame you, Double Eleven prep is always a marathon. How is this going to affect your gym schedule with Jiange?"
+        },
+        {
+          "role": "user",
+          "content": "It's going to mess it up completely. I just informed Jiange that my mandatory overtime for the Double Eleven sale will start at 7:00 PM every weeknight in September. So our usual evening lifts are dead."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, that's rough for the evening routine. Did you guys figure out another time to train?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet. Jiange just joked that the Double Eleven sale is going to completely ruin our gym gains. But he's being supportive at least—he promised to buy me iced coffees during the peak weeks of the sale to keep me alive."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid workout buddy! Do you want me to remind you to text him later about switching to morning or weekend sessions?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, remind me next week to ask him about Saturday mornings. For now, I just need to mentally prepare for September."
+        },
+        {
+          "role": "assistant",
+          "content": "You've got this. I've set a reminder for next week to follow up with Jiange about Saturday morning workouts. Hang in there!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-24, Linchen informed Jiange that his mandatory overtime for the Double Eleven sale will start at 7:00 PM every weeknight in September."
+      ]
+    }
+  ]
+}

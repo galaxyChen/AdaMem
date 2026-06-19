@@ -1,0 +1,495 @@
+{
+  "week": 9,
+  "conversations": [
+    {
+      "session_id": "w9_s1",
+      "day": "Monday",
+      "date": "2025-09-01",
+      "topic": "Waking up in the new place",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Morning! Man, waking up in the new place today... I just felt this deep sense of peace with Liwei. After all that apartment hunting stress, we're finally here."
+        },
+        {
+          "role": "assistant",
+          "content": "Good morning! That is amazing to hear. All that hunting and packing finally paid off! How did the actual move go?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good, even though the moving truck for the apartment hunting move was 10 minutes late yesterday. We still got it done."
+        },
+        {
+          "role": "assistant",
+          "content": "A 10-minute delay isn't too bad in the grand scheme of things! Are you two fully unpacked yet?"
+        },
+        {
+          "role": "user",
+          "content": "Not quite. Liwei noted the leftover boxes from the apartment hunting were dusty, so we have some wiping down to do later tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, the inevitable moving dust. Take it easy on the cleaning though, you've got a long week ahead with the Double Eleven prep starting!"
+        },
+        {
+          "role": "user",
+          "content": "Will do. Honestly, I'm just glad the weather during the final day of the apartment hunting move was surprisingly cloudy. It kept us from sweating too much while carrying the couch."
+        },
+        {
+          "role": "assistant",
+          "content": "That cloudy weather was definitely a blessing! Enjoy the peace in your new home, and let me know if you need me to set any reminders for the week."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-01, Linchen felt a deep sense of peace with Liwei waking up in their new place after the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w9_s2",
+      "day": "Tuesday",
+      "date": "2025-09-02",
+      "topic": "Updating Mom on the move-in status",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you help me draft a message to Mom updating her on the new place? We finally finished the apartment hunting move, but man, those stairs were way steeper than they looked."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! Congrats on finally getting moved in. Want me to just tell her you're settling in and survived the steep stairs?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, and also let her know I hung up the new curtains we bought after the apartment hunting—tell her they are a dark blue. Oh, and she asked me earlier if the neighbors from the apartment hunting seem quiet during the day, so add that yes, it's been super peaceful."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll mention the dark blue curtains and reassure her about the quiet neighbors. Anything else you want to include?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes. I need to update a promise I made her. I originally said I'd have her over the first weekend after the move. Please tell her I promise I will delay inviting her over for dinner to the second weekend after the apartment hunting move instead of the first. We just need more time to unpack."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes total sense, unpacking is a lot of work. I'll let her know you promise to have her over for dinner on the second weekend instead. I've sent the message!"
+        },
+        {
+          "role": "user",
+          "content": "Perfect, thanks. That should keep her in the loop and give us some breathing room to organize."
+        },
+        {
+          "role": "assistant",
+          "content": "Anytime! Take it easy with the unpacking, and let me know if you need help with anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-02, Linchen promised Mom he would delay inviting her over for dinner to the second weekend after the apartment hunting move instead of the first."
+      ]
+    },
+    {
+      "session_id": "w9_s3",
+      "day": "Tuesday",
+      "date": "2025-09-02",
+      "topic": "Reviewing promotional timelines",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up the timeline review meeting with Boss Zhang for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! How did the review go? Sounds like crunch time is officially starting."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it's getting pretty intense. Boss Zhang was super wired, he actually mentioned he drank two coffees while reviewing the Double Eleven sale plans. He also randomly noted his office chair squeaks when leaning back to look at the Double Eleven sale charts."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, sounds like he was really locked in. Did you guys manage to finalize the timeline milestones?"
+        },
+        {
+          "role": "user",
+          "content": "We did get the most important one out of the way. Boss Zhang made the final decision to lock all promotional pricing tiers for the Double Eleven sale by September 15."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. September 15 is the hard deadline for all promotional pricing tiers. Did you cover the visual assets yet?"
+        },
+        {
+          "role": "user",
+          "content": "Just briefly. I asked if the Double Eleven sale banners should be red or gold, but we tabled that for the next meeting."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense, get the pricing locked first! I'll make sure to note the September 15 deadline for you."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-02, Boss Zhang made the final decision to lock all promotional pricing tiers for the Double Eleven sale by September 15."
+      ]
+    },
+    {
+      "session_id": "w9_s4",
+      "day": "Wednesday",
+      "date": "2025-09-03",
+      "topic": "Database index tuning results",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Wanghao just wrapped up the index tuning for the Double Eleven sale. We were in the war room, and man, he mentioned the AC was too cold in there the whole time."
+        },
+        {
+          "role": "assistant",
+          "content": "Those war rooms are always freezing! Did the tuning at least give you guys some good news?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it really did. Wanghao concluded that the inventory database can actually sustain exactly 60,000 concurrent reads for the Double Eleven sale after the index tuning. That's a nice bump from the 50k he reported last week."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome! 60,000 concurrent reads gives you a solid safety net. Did the rest of the testing go smoothly?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, though Wanghao complained his keyboard was sticky while testing the Double Eleven sale load. Someone probably spilled coffee on it."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, a sticky keyboard is the worst when you're trying to work fast. Are you guys planning another round of tests?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we'll have to. I suggested they order pizza during the next Double Eleven sale stress test to keep morale up."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza is a foolproof morale booster. Let me know when the next test is and I'll remind you to place the order!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-03, Wanghao concluded that the inventory database can actually sustain exactly 60,000 concurrent reads for the Double Eleven sale after index tuning."
+      ]
+    },
+    {
+      "session_id": "w9_s5",
+      "day": "Wednesday",
+      "date": "2025-09-03",
+      "topic": "Approving hardware upgrades",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of the meeting with Boss Zhang about the hardware upgrades."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How did it go? Did you manage to get those upgrades pushed through?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, finally. Boss Zhang made the final decision today to approve the hardware upgrade request for the new MacBook for the core backend team."
+        },
+        {
+          "role": "assistant",
+          "content": "That's huge! The backend team is going to be thrilled, especially with the Double Eleven prep ramping up."
+        },
+        {
+          "role": "user",
+          "content": "Totally. I actually watched an unboxing video of the new MacBook on Bilibili this morning just to see what the hype was about."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh nice, it looks pretty sleek, right? I hear the performance jump is pretty noticeable."
+        },
+        {
+          "role": "user",
+          "content": "Yeah! Boss Zhang even mentioned that it comes in a really nice space gray color. Though he also joked that the new MacBook box is notoriously hard to open."
+        },
+        {
+          "role": "assistant",
+          "content": "Ha! Typical Apple packaging. I'll note down the official approval for the backend team's MacBooks. Let me know if you need help drafting the procurement email!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-03, Boss Zhang made the final decision to approve the hardware upgrade request for the new MacBook for the core backend team."
+      ]
+    },
+    {
+      "session_id": "w9_s6",
+      "day": "Thursday",
+      "date": "2025-09-04",
+      "topic": "Coordinating IT pickup",
+      "focal_character": "Jiange",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you draft a quick message to Jiange for me? Just let him know that IT scheduled the pickup for the new MacBook at 2:00 PM on Friday."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! I've drafted the message. Do you want me to send it over to Jiange right now?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, go ahead and send it. Oh, wait, Jiange just messaged me separately and asked if the new MacBook has the latest M3 chip."
+        },
+        {
+          "role": "assistant",
+          "content": "Sent! Do you want me to reply to his question about the M3 chip?"
+        },
+        {
+          "role": "user",
+          "content": "No need, I just told him it does. He immediately replied that he still prefers Windows over the new MacBook for gaming anyway. Typical Jiange. Now I'm just sitting here wondering if the new MacBook will even fit in my old backpack."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic Jiange. You might want to measure your backpack tonight just in case! Should I set a reminder for you?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, I'll figure it out when I get it. Just make sure that 2 PM pickup tomorrow is blocked off on my calendar."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! The 2:00 PM IT pickup is locked in your calendar for tomorrow. Let me know if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-04, Linchen informed Jiange that IT scheduled the pickup for the new MacBook at 2:00 PM on Friday."
+      ]
+    },
+    {
+      "session_id": "w9_s7",
+      "day": "Friday",
+      "date": "2025-09-05",
+      "topic": "Planning the weekend workout",
+      "focal_character": "Jiange",
+      "topic_anchor": "the gym membership",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar for this weekend? Jiange and I are finally sorting out the gym membership. He just scheduled our initial orientation for 10:00 AM on Saturday."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! I've blocked out 10:00 AM this Saturday for your gym orientation with Jiange. Are you guys planning to work out right after?"
+        },
+        {
+          "role": "user",
+          "content": "Probably. Jiange mentioned the gym membership comes with a free promotional towel, which is nice. I actually asked him if the gym membership includes a branded water bottle too, since I lost mine during the apartment move."
+        },
+        {
+          "role": "assistant",
+          "content": "A free towel is always handy! Did he know if they throw in the water bottle too?"
+        },
+        {
+          "role": "user",
+          "content": "He wasn't sure about the bottle. But he did note that the gym membership flyer they handed out had a funny typo on it. It said 'sweat your pants off' instead of 'sweat your pains off'."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, that's an intense workout promise! Hopefully you get to keep your pants on. Anything else you need me to jot down for the weekend?"
+        },
+        {
+          "role": "user",
+          "content": "That's it for the gym stuff. I'm going to grab my new MacBook from IT at 2 PM today, then prep for Double Eleven overtime. Talk to you later."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Enjoy the new MacBook and good luck with the Double Eleven prep!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-05, Jiange scheduled their initial orientation for the gym membership at 10:00 AM on Saturday."
+      ]
+    },
+    {
+      "session_id": "w9_s8",
+      "day": "Saturday",
+      "date": "2025-09-06",
+      "topic": "Pre-workout jitters",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the gym membership",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm heading out to meet Jiange for that 10 AM gym orientation. I was just texting Sister Chen about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Good luck! How are you feeling about finally hitting the gym?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly? I just told Sister Chen that I am feeling intense physical dread right now, right before activating the gym membership. I haven't worked out in so long, my muscles are already crying."
+        },
+        {
+          "role": "assistant",
+          "content": "That's completely normal! Just take it easy today and don't push yourself too hard. Did Sister Chen give you any pep talk?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, haha. She just asked how much the gym membership costs per month to see if it's worth the torture. She also mentioned she heard the gym membership desk always has a long line."
+        },
+        {
+          "role": "assistant",
+          "content": "She's probably right about the line, especially on a Saturday morning. Are you almost at the front?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'm in line right now. It's moving okay. I did notice the gym membership card they're handing out is made of recycled plastic, which is kind of neat. Anyway, time to face the music."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a nice eco-friendly touch! You've got this, Linchen. Have a great session with Jiange!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-06, Linchen expressed intense physical dread to Sister Chen right before activating the gym membership."
+      ]
+    },
+    {
+      "session_id": "w9_s9",
+      "day": "Saturday",
+      "date": "2025-09-06",
+      "topic": "Finishing the unpacking",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I was just texting Sister Chen. I finally unpacked the last box from the apartment hunting move. I told her I feel a massive wave of relief right now! It's finally over."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! A massive wave of relief is totally deserved. Moving is exhausting. Does it finally feel like home?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it really does. I even found my lost socks from the apartment hunting chaos! Sister Chen also asked if I bought new plates after the move, but honestly, I just unpacked my old ones."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice find on the socks! And using the old plates definitely saves some money after all the recent expenses. Are you completely done with the cleanup too?"
+        },
+        {
+          "role": "user",
+          "content": "Almost. I'm taking out the garbage now. I gotta say, the trash bags used during the apartment hunting cleanup are very heavy. My arms are dead."
+        },
+        {
+          "role": "assistant",
+          "content": "Take it easy on your arms! You've had quite the workout between hauling heavy trash bags and getting ready for the gym today. Enjoy your box-free apartment!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks! I'm just going to crash on the sofa now. No more cardboard boxes staring at me."
+        },
+        {
+          "role": "assistant",
+          "content": "Enjoy the well-earned rest! You've definitely conquered the unpacking. Let me know if you need anything later."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-06, Linchen expressed a massive wave of relief to Sister Chen after finally unpacking the last box from the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w9_s10",
+      "day": "Sunday",
+      "date": "2025-09-07",
+      "topic": "Setting work-life boundaries",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just had a long talk with Liwei about my schedule. Prep for the Double Eleven sale is really ramping up, and with my mandatory weeknight overtime starting, things have been pretty tense."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, man. The overtime is a lot to handle right after moving. How did the talk with Liwei go?"
+        },
+        {
+          "role": "user",
+          "content": "It was good. We started out just joking around. Liwei asked if I get a free company t-shirt for the Double Eleven sale this year. I told her probably, though I mentioned the Double Eleven sale mascot looks a bit funny this year."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, hey, a funny mascot shirt makes for a great pajama top! Did you guys figure out a good way to manage your hours?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did. I made a serious commitment to Liwei that I will not work past 9 PM on weekends leading up to the Double Eleven sale. I really need to protect our time together."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really solid boundary to set. Stopping at 9 PM gives you both some much-needed downtime to just relax."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Plus, she noted she wants to buy some imported skincare during the Double Eleven sale, so I guess we'll be doing some late-night browsing together instead of me staring at server metrics!"
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a perfect trade-off! Let me know if you want me to set up a recurring 9 PM weekend alarm to make sure you actually close your laptop."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-07, Linchen made a serious commitment to Liwei that he will not work past 9 PM on weekends leading up to the Double Eleven sale."
+      ]
+    }
+  ]
+}

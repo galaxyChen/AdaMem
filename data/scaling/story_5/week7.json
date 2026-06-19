@@ -1,0 +1,495 @@
+{
+  "week": 7,
+  "conversations": [
+    {
+      "session_id": "w7_s1",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Linchen updates his mom on booking the scan.",
+      "focal_character": "Mom",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you help me draft a quick message to my mom? I need to update her about that medical check-up reminder we talked about last week."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What's the update on the check-up?"
+        },
+        {
+          "role": "user",
+          "content": "Tell her I promised to get it sorted, and I actually booked the gastroenterology scan for this Thursday instead of next Monday."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll draft: 'Hey Mom, just wanted to let you know I booked the gastroenterology scan for this Thursday instead of next Monday.' Want to add anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, tell her she was totally right—she complained that the hospital app was very confusing to navigate, and it really was a nightmare. Also mention that the hospital is only three subway stops away."
+        },
+        {
+          "role": "assistant",
+          "content": "Adding that in. 'You were totally right, the hospital app is very confusing to navigate! But at least the hospital is only three subway stops away.' Should I send it now?"
+        },
+        {
+          "role": "user",
+          "content": "Wait, one last thing. She suggested taking a taxi instead of driving, so tell her I'll follow her advice, especially since I noticed the parking fee there is 15 RMB per hour."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. 'I'll also take your advice and take a taxi instead of driving, since the parking fee there is 15 RMB per hour.' I'll send this over to her right now!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18, Linchen promised Mom he booked the gastroenterology scan mentioned in the medical check-up reminder for this Thursday instead of next Monday."
+      ]
+    },
+    {
+      "session_id": "w7_s2",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Linchen and Jiange adjust their workout around the fasting.",
+      "focal_character": "Jiange",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, so I finally booked that gastroenterology scan for this Thursday instead of next Monday, just like I promised my Mom. I just got the medical check-up reminder email, and it actually had a hilarious typo in the fasting instructions, saying I needed to fast for 240 hours instead of 24!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, 240 hours would definitely be a bit extreme! Glad you got it booked for Thursday, though your Mom will be relieved. Since you have to fast, do we need to adjust any of your workouts with Jiange?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I was just texting him about it. Jiange joked that fasting for the medical check-up reminder would completely ruin my gains. Honestly, I'm already feeling slightly hungry just thinking about the medical check-up reminder and having to skip meals."
+        },
+        {
+          "role": "assistant",
+          "content": "Tell him your gains will easily survive a day! Are you guys skipping the gym entirely on Thursday, or doing something else?"
+        },
+        {
+          "role": "user",
+          "content": "We're going to adapt. We scheduled a light stretching routine at 7 AM before the medical check-up reminder fast begins. Oh, and Jiange recommended a specific brand of electrolyte water called 'HydroBoost' for right after the medical check-up reminder to help me recover."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. A 7 AM stretching session is a great way to start the day without overdoing it. Want me to remind you to pick up that HydroBoost water before Thursday?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, that would be great, maybe remind me Wednesday evening. I just want to get this scan over with so I can get back to my normal routine and eat again."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I've set a reminder for Wednesday night to grab the electrolyte water. Good luck with the fast and the stretching session on Thursday morning—you've got this!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18, Linchen scheduled a light stretching routine with Jiange at 7 AM before the medical check-up reminder fast begins."
+      ]
+    },
+    {
+      "session_id": "w7_s3",
+      "day": "Tuesday",
+      "date": "2025-08-19",
+      "topic": "Boss Zhang announces new HR policies.",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the year-end performance review",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Boss Zhang just dropped some new HR policies on us today."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh boy. Anything major changing?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, mostly about the year-end performance review. He officially decided that this year, it'll include a mandatory 360-degree peer feedback component."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, mandatory 360 peer feedback. That's going to be a lot of writing for everyone."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. I'm honestly worried that the year-end performance review is going to take up way too much of my weekend. Oh, and Boss Zhang also randomly mentioned that the HR portal for the review has a new blue color scheme now."
+        },
+        {
+          "role": "assistant",
+          "content": "A new coat of paint won't make writing those reviews any faster! Did they mention any technical details?"
+        },
+        {
+          "role": "user",
+          "content": "Someone did ask if the year-end performance review forms could be exported to PDF, but I don't think we got a straight answer. Boss Zhang did note that last year's year-end performance review had a 95% completion rate, though."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like they'll definitely be tracking who hasn't finished it. Let me know when you want to block out some calendar time so you don't have to sacrifice your whole weekend!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-19, Boss Zhang decided that the year-end performance review will include a mandatory 360-degree peer feedback component."
+      ]
+    },
+    {
+      "session_id": "w7_s4",
+      "day": "Tuesday",
+      "date": "2025-08-19",
+      "topic": "Wanghao analyzes the backend load for the new HR tool.",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the year-end performance review",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just synced with Wanghao about the new HR tool for the year-end performance review. He was running some backend load analysis."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! How did the load analysis go for the new tool?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good on the backend side. Wanghao concluded that the data export tool for the year-end performance review will process exactly 5000 employee records per minute."
+        },
+        {
+          "role": "assistant",
+          "content": "5000 records per minute is a solid throughput! Any issues on the frontend side?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, actually. Wanghao complained that the UI for the year-end performance review is not mobile-friendly at all. He also felt super frustrated because the documentation for it was totally outdated."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, outdated docs are the worst. Are you guys planning to overhaul the frontend to fix the mobile issues?"
+        },
+        {
+          "role": "user",
+          "content": "We're discussing it. The team even debated whether to use GraphQL or REST for the year-end performance review dashboard. I ended up promising to help Wanghao test the year-end performance review module this Friday just to get it moving."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Sounds like you've got your work cut out for you on Friday! Let me know if you need help prepping for those tests."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-19, Wanghao concluded that the data export tool for the year-end performance review will process exactly 5000 employee records per minute."
+      ]
+    },
+    {
+      "session_id": "w7_s5",
+      "day": "Wednesday",
+      "date": "2025-08-20",
+      "topic": "Linchen vents to Sister Chen about his self-evaluation.",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the year-end performance review",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Ugh, I just got off a call with Sister Chen and I am stressing out. I'm feeling this paralyzing wave of anxiety regarding the year-end performance review because I haven't even started my self-evaluation yet."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds incredibly overwhelming, especially with the refactoring work you're doing. It's totally normal to feel anxious before starting these things. Did talking to Sister Chen help at all?"
+        },
+        {
+          "role": "user",
+          "content": "A little bit. She reminded me that the deadline for submitting the year-end performance review is next Wednesday at 5 PM. To keep myself from panicking, I decided to write the draft in a separate Google Doc first."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really smart strategy. Drafting it somewhere else takes the pressure off hitting 'submit' by accident. Did she give you any advice on what to include?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she noted that the form actually has a 500-word limit per section, so I need to be concise. The best part is she promised to proofread my review for me on Thursday."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! Having someone as supportive as Sister Chen review it will definitely help you refine it. Do you want to start brainstorming some bullet points for that Google Doc now?"
+        },
+        {
+          "role": "user",
+          "content": "Not right this second, I need to grab a coffee first and calm my nerves. But I'll definitely start outlining it this afternoon. Thanks for listening to me vent."
+        },
+        {
+          "role": "assistant",
+          "content": "Anytime! Go grab that coffee and take a breather. You've accomplished a lot this year, so you'll have plenty of good things to write down when you're ready."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-20, Linchen felt a paralyzing wave of anxiety regarding the year-end performance review because he hadn't started his self-evaluation yet."
+      ]
+    },
+    {
+      "session_id": "w7_s6",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Linchen finalizes plans with Liwei.",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you set a reminder for me? I'm finalizing the anniversary plan with Liwei. I need to pay a 500 RMB deposit for the restaurant we chose."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've noted the 500 RMB deposit for the restaurant. Anything else you need to prep for the anniversary?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I want to look sharp, so I scheduled a haircut at 4 PM before the anniversary plan begins."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! A fresh cut for the big day. Are you driving there after your haircut?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, Liwei thought the weather forecast looked rainy for the anniversary plan, so she suggested taking the subway to avoid traffic."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move by Liwei. The subway will definitely save you from rush hour rain traffic. Are you taking time off work on Friday?"
+        },
+        {
+          "role": "user",
+          "content": "No, just leaving a bit early. But I seriously committed to Liwei that I will keep Friday night entirely free for the anniversary plan. No overtime, no checking Slack at all."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid promise. I'll make sure to block off your Friday night so nothing interrupts your anniversary celebration!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21, Linchen seriously committed to Liwei that he will keep Friday night entirely free for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w7_s7",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Linchen chats with his mom about his relationship.",
+      "focal_character": "Mom",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a long call with my mom. We were chatting about Liwei and me, and Mom felt so nostalgic hearing about our anniversary plan for tomorrow night."
+        },
+        {
+          "role": "assistant",
+          "content": "That's really sweet! It's always nice when parents get invested in those milestones. Are you all prepped for the big night?"
+        },
+        {
+          "role": "user",
+          "content": "Getting there. I finally decided to wear my navy blue suit for the anniversary plan. I also sorted out the bouquet earlier today—I noted the flowers for the anniversary plan cost 299 RMB, which wasn't as crazy expensive as I expected."
+        },
+        {
+          "role": "assistant",
+          "content": "Navy blue is a classic, you'll look sharp. And 299 RMB is a solid deal for a nice bouquet! Did you guys pick a good spot for dinner?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, that upscale fusion place downtown. Mom actually asked if the restaurant for the anniversary plan had good vegetarian options, just in case Liwei prefers something lighter. I checked, and they do."
+        },
+        {
+          "role": "assistant",
+          "content": "Good looking out by your mom. It sounds like you've got every detail covered."
+        },
+        {
+          "role": "user",
+          "content": "I hope so! Before we hung up, I promised Mom I would send her photos of the dinner from the anniversary plan so she could see how nice everything turned out."
+        },
+        {
+          "role": "assistant",
+          "content": "She's going to love that. Make sure to snap a few good ones before the food disappears! Have an amazing anniversary tomorrow."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21, Linchen promised Mom he would send her photos of the dinner from the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w7_s8",
+      "day": "Friday",
+      "date": "2025-08-22",
+      "topic": "Boss Zhang shortens the upcoming travel.",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Beijing business trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, quick update on the Beijing business trip. Boss Zhang just told me he's cutting it short."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? How short are we talking?"
+        },
+        {
+          "role": "user",
+          "content": "Boss Zhang decided that the Beijing business trip will last exactly two days instead of three for the frontend team. Honestly, I felt so relieved that the trip was shortened."
+        },
+        {
+          "role": "assistant",
+          "content": "That is a relief! Less time away from home. Did he say why he changed the schedule?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, but Boss Zhang mentioned the hotel for the Beijing business trip has a terrible breakfast buffet, so maybe he just hates the food there. He did promise to send the updated itinerary for the Beijing business trip by tonight, though."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, bad breakfast is a very valid reason to leave early. I'll remind you to check for that itinerary later. Anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Just a minor detail, I saw the flight tickets for the Beijing business trip cost 1200 RMB round-trip. That's all for now, I've got to get back to the classroom refactoring."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've noted the new trip length. Good luck with the refactoring, let me know if you need anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-22, Boss Zhang decided that the Beijing business trip will last exactly two days instead of three for the frontend team."
+      ]
+    },
+    {
+      "session_id": "w7_s9",
+      "day": "Saturday",
+      "date": "2025-08-23",
+      "topic": "Linchen and Jiange plan a makeup workout.",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Beijing business trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I finally got back from the Beijing business trip. Man, my back is absolutely killing me from that flight back."
+        },
+        {
+          "role": "assistant",
+          "content": "Welcome back! Airplane seats are the worst. Do you want to do some stretching or hit the gym to loosen up?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I was just texting Jiange about it. He actually noted that the gym was unusually empty while I was on the Beijing business trip. Guess I bring the energy!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, clearly you're the VIP there! Did you two figure out a time to work out?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, I just scheduled a heavy lifting session with Jiange for Sunday at 8 PM. We really need to make up for the missed days during the Beijing business trip since I paused our sessions."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've noted the heavy lifting session for Sunday at 8 PM. Did you guys catch up on anything else?"
+        },
+        {
+          "role": "user",
+          "content": "A bit. Jiange asked if I visited the Forbidden City during the Beijing business trip, but honestly, it was cut down to two days so I had zero time. I promised to bring him a souvenir next time I go on the Beijing business trip, though."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense, those shortened trips are all work and no play. I'll remind you about the souvenir next time you head to Beijing. Have a great workout tomorrow!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-23, Linchen scheduled a heavy lifting session with Jiange for Sunday at 8 PM to make up for the missed days during the Beijing business trip."
+      ]
+    },
+    {
+      "session_id": "w7_s10",
+      "day": "Sunday",
+      "date": "2025-08-24",
+      "topic": "Linchen gives Liwei her gift from the trip.",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Beijing business trip",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just gave Liwei the pastry I brought back from the Beijing business trip. Honestly, I felt a deep sense of guilt towards her because I almost completely forgot to buy it while I was rushing around there."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, well at least you remembered in the end! Did she end up liking the pastry?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she really liked it. She actually decided to save half the pastry for breakfast tomorrow. I made sure to mention that the bakery line took 30 minutes to get through, which is true, but it definitely helped cover up my near-miss."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, the 30-minute wait definitely proves your dedication! Was it an expensive peace offering?"
+        },
+        {
+          "role": "user",
+          "content": "Not at all, it only cost 45 RMB per box. But seeing her so happy made me realize I should do better, so I promised to take her with me on the next Beijing business trip."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really sweet promise. I'm sure she'll be thrilled to explore Beijing with you next time!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I think so too. Anyway, I'm going to go relax with her for the rest of the Sunday. Talk to you later!"
+        },
+        {
+          "role": "assistant",
+          "content": "Have a great evening! See you later."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-24, Linchen felt a deep sense of guilt towards Liwei because he almost forgot to buy the pastry during the Beijing business trip."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "week": 8,
+  "conversations": [
+    {
+      "session_id": "w8_s1",
+      "day": "Monday",
+      "date": "2025-08-25",
+      "topic": "Rescheduling the hospital visit",
+      "focal_character": "Jiange",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar? I need to reschedule my hospital visit for the medical check-up reminder. Push it to 9:30 AM this Wednesday instead of the original 8:30 AM slot."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. I've moved your Wednesday hospital visit to 9:30 AM."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. Honestly, having to fast for this medical check-up reminder is making me incredibly grumpy. And to top it off, I just read that the blood test requires me to drink a lot of water beforehand."
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! I'll set a reminder for you to drink plenty of water on Wednesday morning before you go. "
+        },
+        {
+          "role": "user",
+          "content": "Appreciate it. Oh, one more thing—Jiange mentioned that the parking lot near the hospital for the medical check-up reminder is always full. Can you find some alternative parking garages nearby just in case?"
+        },
+        {
+          "role": "assistant",
+          "content": "Good tip from Jiange. I'll scope out some nearby parking alternatives and send the navigation links to your phone before you leave on Wednesday."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-25, Linchen rescheduled his hospital visit for the medical check-up reminder to 9:30 AM on Wednesday instead of 8:30 AM."
+      ]
+    },
+    {
+      "session_id": "w8_s2",
+      "day": "Monday",
+      "date": "2025-08-25",
+      "topic": "Mom checking in on the upcoming appointment",
+      "focal_character": "Mom",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with my mom about that medical check-up reminder I have for Wednesday."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey! How did the chat go? Is she making sure you're actually going to your 9:30 AM appointment?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. She said her friend's son also got a medical check-up reminder from his company last week, so it's fresh on her mind. She even suggested I wear a loose shirt for the appointment to make the blood draw easier."
+        },
+        {
+          "role": "assistant",
+          "content": "Moms always have the best practical advice! A loose shirt is definitely a good call for that."
+        },
+        {
+          "role": "user",
+          "content": "For sure. I also mentioned to her that the clinic for the check-up is located on the third floor of the health center, so I know exactly where I'm going. And to stop her from worrying, I promised Mom I would call her the moment I get my blood test results."
+        },
+        {
+          "role": "assistant",
+          "content": "That'll definitely give her some peace of mind. Knowing exactly where to go on the third floor means you won't be wandering around lost, either. Need me to set any extra alarms for Wednesday?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, I think I'm good. I'll just make sure everything is ready the night before."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. You've got this handled!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-25, Linchen promised Mom he would call her the moment he gets his blood test results from the medical check-up reminder."
+      ]
+    },
+    {
+      "session_id": "w8_s3",
+      "day": "Tuesday",
+      "date": "2025-08-26",
+      "topic": "Reviewing database load testing results",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of the Double Eleven sync. I was looking at the drafts and joked that the promotional banners for the sale look exactly like last year's."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey! Hey, if the design works, why fix it? Did you guys go over the database load testing results in that meeting?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did. Wanghao finally finished the latest round, and he concluded that the inventory database can sustain exactly 50,000 concurrent reads for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a huge milestone! Combined with the 22,000 QPS checkout capacity he confirmed last week, the backend is looking really solid."
+        },
+        {
+          "role": "user",
+          "content": "Technically, yes. But man, I feel completely exhausted just thinking about all the upcoming late nights for the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you. Those mandatory 7 PM weeknight shifts starting next month are going to be a grind. Make sure you're pacing yourself."
+        },
+        {
+          "role": "user",
+          "content": "I'll try my best. At least morale won't be totally zero—Wanghao mentioned that he plans to order pizza for the team during the next load test for the sale."
+        },
+        {
+          "role": "assistant",
+          "content": "Free pizza is definitely a proven strategy for surviving load tests! Let me know if you need me to prep anything else for the upcoming runs."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-26, Wanghao concluded that the inventory database can sustain exactly 50,000 concurrent reads for the Double Eleven sale."
+      ]
+    },
+    {
+      "session_id": "w8_s4",
+      "day": "Wednesday",
+      "date": "2025-08-27",
+      "topic": "Finalizing the server scaling budget",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, I have a massive headache from staring at the budget spreadsheets for the Double Eleven sale all morning. Can you help me get some notes down?"
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, spreadsheet fatigue is the worst. Grab some water! What do you need to get down?"
+        },
+        {
+          "role": "user",
+          "content": "The big win is that Boss Zhang just made the final decision to approve an additional 100,000 RMB for emergency server scaling during the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome news! That extra 100k will be a lifesaver for the servers. Do you need me to draft an announcement for the team?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet. I'm trying to process it, but the procurement portal for the Double Eleven sale budget is incredibly slow to load today. It's driving me nuts."
+        },
+        {
+          "role": "assistant",
+          "content": "Typical corporate software timing, right? Want me to set a timer to remind you to try submitting it again in like an hour?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, that'd be great. Oh, and during our chat, Boss Zhang mentioned that the marketing team is still arguing about the color scheme for the Double Eleven sale landing page. I'm so glad I'm just in operations!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, let them fight over the pixels while you keep the actual site from crashing! I'll ping you in an hour to check that procurement portal again."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-27, Boss Zhang made the final decision to approve an additional 100,000 RMB for emergency server scaling during the Double Eleven sale."
+      ]
+    },
+    {
+      "session_id": "w8_s5",
+      "day": "Wednesday",
+      "date": "2025-08-27",
+      "topic": "Post-appointment relief",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the medical check-up reminder",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back from the hospital for that medical check-up reminder. Man, the parking fee there was surprisingly expensive."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, hospital parking always gets you. How did the actual check-up go, though?"
+        },
+        {
+          "role": "user",
+          "content": "It was actually super fast. I was just texting Sister Chen about it, and she jokingly asked if the waiting room had any good magazines. I didn't even have time to look! The whole appointment took exactly 45 minutes from start to finish."
+        },
+        {
+          "role": "assistant",
+          "content": "That's incredibly efficient for a hospital visit! Did you get the results back yet?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I did. I told Sister Chen I felt a massive wave of relief because the doctor said my vitals were perfectly normal. With all the Double Eleven stress lately, I was really worried my blood pressure or something would be through the roof."
+        },
+        {
+          "role": "assistant",
+          "content": "That is fantastic news! It's totally understandable to be stressed right now, but it's great to hear your health is holding up."
+        },
+        {
+          "role": "user",
+          "content": "Thanks! Yeah, it's a huge weight off my shoulders. Anyway, I need to get back to my desk. Boss Zhang just approved that extra 100k for emergency server scaling, so I've got a lot to coordinate."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a busy afternoon ahead. Go get 'em, and remember to take a breather if you need it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-27, Linchen expressed a massive wave of relief to Sister Chen after the doctor said his vitals were perfectly normal during the medical check-up reminder."
+      ]
+    },
+    {
+      "session_id": "w8_s6",
+      "day": "Thursday",
+      "date": "2025-08-28",
+      "topic": "Planning the packing process",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you help me map out a packing schedule? Since we finally got the lease approved, Liwei and I are getting ready for the move. She actually mentioned that the cardboard boxes she bought for the apartment hunting move were on sale for 5 RMB each."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great deal on the boxes! How much time do we have to get everything packed up?"
+        },
+        {
+          "role": "user",
+          "content": "Not much. I made a serious commitment to Liwei that I will pack all my own boxes for the apartment hunting move by Sunday night. I really don't want her stressing over my stuff."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. Hitting that Sunday night deadline will definitely make her happy and keep the stress down. Want me to break down your packing by room?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, let's start with my home office tonight. Oh, and please make a note for moving day: the moving truck for the apartment hunting move needs to be parked in the back alley so we don't block traffic."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've noted down the back alley parking for the truck, and I'll set up a reminder to tackle your office tonight. Anything else on your mind?"
+        },
+        {
+          "role": "user",
+          "content": "Just that Liwei wondered if we should buy a new sofa to celebrate finishing the apartment hunting process. I think it's a great idea, so maybe remind me to browse online with her this weekend after I finish packing."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! A new sofa is the perfect way to celebrate. Let's get those boxes packed by Sunday night so you two can enjoy some guilt-free furniture shopping."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-28, Linchen made a serious commitment to Liwei that he will pack all his own boxes for the apartment hunting move by Sunday night."
+      ]
+    },
+    {
+      "session_id": "w8_s7",
+      "day": "Friday",
+      "date": "2025-08-29",
+      "topic": "Venting about packing stress",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey. I just got off the phone with Sister Chen and I am completely dead. Packing for this apartment hunting move is killing me."
+        },
+        {
+          "role": "assistant",
+          "content": "Take a breath! Moving is always the worst. How much do you have left to pack?"
+        },
+        {
+          "role": "user",
+          "content": "Too much. I was just venting to Sister Chen about it. I expressed intense physical exhaustion and frustration to her because I've been carrying heavy furniture all morning. My back is absolutely screaming."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, definitely pace yourself! Don't throw your back out before the movers even get there. Did Sister Chen have any good advice to make it easier?"
+        },
+        {
+          "role": "user",
+          "content": "She actually suggested using heavy-duty bubble wrap for all the fragile items so I don't have to be as careful boxing them up. I need to hurry though, the moving company we hired for the apartment hunting move charges by the hour."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call on the bubble wrap, Sister Chen knows what's up. Being on the clock with movers definitely adds to the stress. Is the drive to the new place far?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, the new place we found during our apartment hunting is exactly 3.2 kilometers away from my current place. Still, hauling all this junk even a short distance is a nightmare. I just want this weekend to be over."
+        },
+        {
+          "role": "assistant",
+          "content": "You're almost at the finish line! Just get through this weekend, and you'll be chilling in the new place before you know it. Drink some water and take a quick break!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-29, Linchen expressed intense physical exhaustion and frustration to Sister Chen from carrying heavy furniture related to the apartment hunting move."
+      ]
+    },
+    {
+      "session_id": "w8_s8",
+      "day": "Saturday",
+      "date": "2025-08-30",
+      "topic": "Scheduling a celebratory meal",
+      "focal_character": "Jiange",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar for tomorrow? Jiange just texted me about our plans for the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What time and where are you guys meeting up?"
+        },
+        {
+          "role": "user",
+          "content": "Jiange scheduled it at that new barbecue place for 7:00 PM on Sunday. I'm really craving some spicy food right now, so it's going to hit the spot."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've blocked out 7:00 PM on Sunday for the new barbecue place. Spicy food sounds like a great reward after all that moving! Anything else I should note?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Jiange noted that the place has a very extensive craft beer menu, which he's pretty hyped about. I just really hope the weather stays clear so we can sit on the patio for the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed for good weather! Patio seating with craft beer and barbecue sounds like the perfect way to unwind. I've got your schedule updated. Anything else you need help with today?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, that's all for now. Thanks!"
+        },
+        {
+          "role": "assistant",
+          "content": "You're welcome, Linchen. Have a fantastic time at dinner tomorrow!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-30, Jiange scheduled the weekend dinner at the new barbecue place for 7:00 PM on Sunday."
+      ]
+    },
+    {
+      "session_id": "w8_s9",
+      "day": "Sunday",
+      "date": "2025-08-31",
+      "topic": "Promising to bring food home",
+      "focal_character": "Mom",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm heading out soon for that weekend dinner. Just a heads up, the reservation is under Jiange's name."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! Have a great time at the new barbecue place. You definitely deserve a good meal after packing all those boxes this weekend."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. I'm taking a cab though, because Mom called earlier and noted that the restaurant we chose has terrible parking options."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move. Taking a cab will save you a lot of headache. Are you looking forward to the food?"
+        },
+        {
+          "role": "user",
+          "content": "Oh absolutely. I heard this barbecue place uses a special charcoal grill imported from Japan. Supposedly it makes the meat taste incredible."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds amazing! It'll be a nice treat before your mandatory September overtime kicks in tomorrow."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, don't remind me about the overtime just yet! Oh, before I forget, I promised Mom I would bring her a slice of the special matcha cake from the weekend dinner. Can you remind me around 8:30 PM so I don't leave without it?"
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! I've set a reminder for 8:30 PM to make sure you grab that slice of special matcha cake for your mom. Enjoy the Japanese charcoal barbecue!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-31, Linchen promised Mom he would bring her a slice of the special matcha cake from the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w8_s10",
+      "day": "Sunday",
+      "date": "2025-08-31",
+      "topic": "A sweet moment during the meal",
+      "focal_character": "Liwei",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just got back from the weekend dinner with Liwei at the new barbecue place Jiange recommended. It was mostly great, though I gotta say, the appetizer we ordered was a bit too salty."
+        },
+        {
+          "role": "assistant",
+          "content": "Glad you finally got to check it out! A salty start isn't ideal, but hopefully the actual barbecue made up for it. How did Liwei like the place?"
+        },
+        {
+          "role": "user",
+          "content": "She loved it. She actually mentioned that the ambient lighting at the restaurant was perfect for taking photos, so we ended up snapping quite a few good pictures of us at the table."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! Good lighting is definitely a huge win for a date night. Sounds like a really nice evening."
+        },
+        {
+          "role": "user",
+          "content": "It really was. Honestly, just sitting there looking at her, I felt this deep sense of gratitude and affection toward Liwei. She has been so incredibly supportive this entire month with the stressful apartment move and all my crazy overtime for the Double Eleven prep."
+        },
+        {
+          "role": "assistant",
+          "content": "That is really sweet, man. It sounds like she's been a total rock for you through all the recent chaos. It's great you got to just sit back and appreciate that."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I really do. And as a bonus, it didn't break the bank. The total bill for the weekend dinner came out to exactly 450 RMB, which is pretty reasonable for how much meat we ordered! Anyway, I'm gonna pack up that matcha cake for my mom now."
+        },
+        {
+          "role": "assistant",
+          "content": "450 RMB is a solid deal for a big barbecue feast! Good call on getting that cake ready for your mom, too. Have a good night and get some rest!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-31, Linchen felt a deep sense of gratitude and affection toward Liwei during the weekend dinner for her support this month."
+      ]
+    }
+  ]
+}

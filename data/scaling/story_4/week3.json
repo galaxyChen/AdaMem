@@ -1,0 +1,496 @@
+{
+  "week": 3,
+  "conversations": [
+    {
+      "session_id": "w3_s1",
+      "day": "Monday",
+      "date": "2025-07-21",
+      "topic": "Post-mortem review meeting",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, the post-mortem review meeting for the production incident just wrapped up."
+        },
+        {
+          "role": "assistant",
+          "content": "How did it go? I know you were feeling guilty about pushing that bad config last week."
+        },
+        {
+          "role": "user",
+          "content": "It was alright, mostly just going over what happened. I remember I was literally just drinking coffee when the production incident started, completely oblivious to the chaos. Oh, and during the meeting, someone randomly asked if the production incident affected the internal wiki."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a random question. Did Wanghao have much to say about the downtime?"
+        },
+        {
+          "role": "user",
+          "content": "Wanghao just joked that the production incident ruined his Sunday sleep schedule. But Boss Zhang stepped in at the end to lay down some new rules."
+        },
+        {
+          "role": "assistant",
+          "content": "Uh oh. What's the verdict from Boss Zhang?"
+        },
+        {
+          "role": "user",
+          "content": "Because of this whole mess, Boss Zhang made the final decision to implement a mandatory code freeze 48 hours before any major sale. No exceptions."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. That makes sense to prevent another downtime situation right before the Double Eleven sale. I'll make sure to note down Boss Zhang's decision."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-21, Boss Zhang made the final decision to implement a mandatory code freeze 48 hours before any major sale due to the production incident."
+      ]
+    },
+    {
+      "session_id": "w3_s2",
+      "day": "Monday",
+      "date": "2025-07-21",
+      "topic": "Technical deep dive",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of the post-mortem for that production incident. Man, I feel a huge wave of relief that it's finally completely resolved."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great news! I know that incident was weighing heavily on you. How did the review meeting go?"
+        },
+        {
+          "role": "user",
+          "content": "It went fine, but we had to update the official numbers. Wanghao dug deeper into the logs and concluded that the total downtime during the production incident was actually 18 minutes, not 14 like he originally thought."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 18 minutes instead of 14. Did that change anything about the root cause or Boss Zhang's new code freeze policy?"
+        },
+        {
+          "role": "user",
+          "content": "No, the memory leak is still the culprit. The funny part is Wanghao spent a good chunk of time complaining about the snacks provided during the production incident war room. He said the crackers were completely stale."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, leave it to Wanghao to focus on the snacks after a major outage. Are you guys going to do anything to decompress?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, actually we discussed scheduling a team lunch soon to celebrate fixing the production incident. I think everyone needs a good meal after all that stress."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a well-deserved break! Just let me know when you want to look at restaurant options."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-21, Wanghao concluded that the total downtime during the production incident was actually 18 minutes instead of 14."
+      ]
+    },
+    {
+      "session_id": "w3_s3",
+      "day": "Tuesday",
+      "date": "2025-07-22",
+      "topic": "Chatting by the water cooler",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back from chatting with Sister Chen by the water cooler. We were talking about the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How are you feeling about the trip? Still stressed about the VP presentation?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, no! I told Sister Chen I'm feeling a sudden surge of confidence about the upcoming presentation. I completely reworked the slide deck this morning and the narrative just flows perfectly now."
+        },
+        {
+          "role": "assistant",
+          "content": "That is amazing to hear! I know it was really weighing on you last week. I bet she was relieved to see you so pumped. Did you guys talk about anything fun to do there?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, though we debated whether the weather would be too humid down there to walk around much. She also suggested I try this famous dim sum place right by the venue."
+        },
+        {
+          "role": "assistant",
+          "content": "Dim sum is a must! The humidity might be rough, but the food will make up for it. Are you still going to look for Liwei's necklace?"
+        },
+        {
+          "role": "user",
+          "content": "For sure, but I also mentioned to Sister Chen that I plan to buy some tech gadgets for myself during the trip. Huaqiangbei is definitely on my list."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a packed and exciting itinerary! Let me know if you need help finalizing your schedule before you fly out."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-22, Linchen expressed a sudden surge of confidence to Sister Chen about his upcoming presentation for the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w3_s4",
+      "day": "Wednesday",
+      "date": "2025-07-23",
+      "topic": "Scheduling around travel",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, could you draft a quick message to Jiange? I need to update him about my Monday flight for the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What's the update on the flight?"
+        },
+        {
+          "role": "user",
+          "content": "Let him know that the flight has been rescheduled to depart at 9:30 AM on Monday. I'm honestly so annoyed about the airline changing my ticket out of nowhere."
+        },
+        {
+          "role": "assistant",
+          "content": "I'll let him know about the new 9:30 AM departure. Airlines can be so frustrating! Do you need me to mention anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, earlier Jiange asked if I was flying economy or business for the Shenzhen trip. Tell him it's just economy, unfortunately."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've added that you'll be flying economy. Ready to send?"
+        },
+        {
+          "role": "user",
+          "content": "Wait, one more thing. I also promised to bring back local snacks from the Shenzhen trip, so throw that in there too. He'll appreciate it."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. I've sent the message to Jiange with the 9:30 AM flight time, the economy class detail, and the promise of local snacks. Hope the rest of the trip prep goes smoothly!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-23, Linchen informed Jiange that his flight for the Shenzhen trip has been rescheduled to depart at 9:30 AM on Monday."
+      ]
+    },
+    {
+      "session_id": "w3_s5",
+      "day": "Thursday",
+      "date": "2025-07-24",
+      "topic": "Marketing alignment",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just finished the marketing alignment meeting with Boss Zhang for the Double Eleven sale. Honestly, I'm feeling really overwhelmed by the aggressive timelines we're setting this year."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, man. Double Eleven prep is always a beast, especially since you all are starting two weeks earlier this time. How did the rest of the meeting go?"
+        },
+        {
+          "role": "user",
+          "content": "Well, we got a bit sidetracked at first. Boss Zhang mentioned that his wife loves buying cosmetics during the Double Eleven sale, so we chatted about that for a bit."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Boss Zhang. Did he end up making any concrete calls on the marketing strategy?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he actually did. He made the final decision to allocate an extra 50,000 RMB to influencer marketing for the Double Eleven sale. So at least we have more firepower there."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid win! An extra 50k should definitely help ease the pressure on those timelines. Anything else to note?"
+        },
+        {
+          "role": "user",
+          "content": "Not much, though we did discuss how last year's Double Eleven sale had way better swag for the team. I guess I just need to figure out how to deploy this new influencer budget now."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Let me know if you need help brainstorming the influencer strategy or mapping out the new timeline!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-24, Boss Zhang made the final decision to allocate an extra 50,000 RMB to influencer marketing for the Double Eleven sale."
+      ]
+    },
+    {
+      "session_id": "w3_s6",
+      "day": "Thursday",
+      "date": "2025-07-24",
+      "topic": "Infrastructure sync",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Double Eleven sale",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just finished my infrastructure sync with Wanghao regarding the Double Eleven sale."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! How did the sync go? Are we looking solid for the sale?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly. Wanghao concluded that the Redis cache must be partitioned across 4 shards to prevent bottlenecks during the Double Eleven sale. He was actually feeling pretty anxious about the third-party API limits, though."
+        },
+        {
+          "role": "assistant",
+          "content": "Gotcha, 4 shards for Redis should definitely help with the throughput. Are you guys planning to test those API limits soon to ease his anxiety?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we scheduled a load testing session for the Double Eleven sale next Tuesday. I told him I promised to buy him a coffee if the servers survive the sale without crashing!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, a single coffee might be an underpayment for surviving Double Eleven traffic! I'll keep the load testing schedule in mind. Need me to track anything else from this sync?"
+        },
+        {
+          "role": "user",
+          "content": "No, that's it for now. Just make sure you note down that Redis technical conclusion."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do. I've got the Redis sharding requirement logged. Let me know if you need anything else as we get closer to the sale!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-24, Wanghao concluded that the Redis cache must be partitioned across 4 shards to prevent bottlenecks during the Double Eleven sale."
+      ]
+    },
+    {
+      "session_id": "w3_s7",
+      "day": "Friday",
+      "date": "2025-07-25",
+      "topic": "Weekend planning",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you make sure my calendar is totally blocked off for tomorrow morning? I know I already promised Liwei I'd dedicate all of Saturday morning to our apartment hunting, so I don't want any work pings getting through."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! Saturday morning is officially blocked off for apartment hunting with Liwei. No work interruptions allowed. Ready for round two?"
+        },
+        {
+          "role": "user",
+          "content": "I guess so. Liwei was telling me about a coworker of hers who also had terrible bad luck with apartment hunting and it took them forever. Plus, the agent we met earlier today drove a very flashy car, which just gave me weird vibes about the whole process."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, flashy cars and bad luck stories aren't exactly encouraging. Just trust your gut tomorrow. You guys will find the right place eventually!"
+        },
+        {
+          "role": "user",
+          "content": "We have to. In fact, I made a serious commitment to Liwei today that I will secure a lease by the end of August during our apartment hunting. I don't want to drag this out any longer."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a big step, but having a clear deadline by the end of August should help focus the search. I'll keep my fingers crossed for you both tomorrow."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. We're already trying to figure out lunch plans to decompress afterward. We were debating whether to grab noodles or rice after the apartment hunting, but I think a good bowl of noodles will hit the spot."
+        },
+        {
+          "role": "assistant",
+          "content": "Noodles sound like the perfect comfort food after a long morning of viewings. I can pull up some top-rated noodle spots nearby if you want. Good luck tomorrow!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-25, Linchen made a serious commitment to Liwei that he will secure a lease by the end of August during their apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w3_s8",
+      "day": "Friday",
+      "date": "2025-07-25",
+      "topic": "Family check-in",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Mom about the apartment hunting. Honestly, I feel exhausted just thinking about another day of looking at places tomorrow."
+        },
+        {
+          "role": "assistant",
+          "content": "Hang in there! Apartment hunting is definitely a marathon. How did the call with your mom go?"
+        },
+        {
+          "role": "user",
+          "content": "It was okay, though she complained that agents charge way too much commission for the apartment hunting. She even suggested we try looking further out in the suburbs to save some cash."
+        },
+        {
+          "role": "assistant",
+          "content": "Typical mom advice, always looking out for your wallet! Are you actually considering the suburbs?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, the commute would be brutal. But I did make one commitment to give her some peace of mind. I promised Mom I would check the water pressure in every bathroom during the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a very practical promise! Nobody likes a weak shower anyway. Want me to set a reminder for you to do that tomorrow?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please do. I'll definitely forget if I don't get a nudge before the viewings."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it. I'll ping you tomorrow morning to remind you to test those faucets. Try to get some rest tonight!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-25, Linchen promised Mom he would check the water pressure in every bathroom during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w3_s9",
+      "day": "Saturday",
+      "date": "2025-07-26",
+      "topic": "Texting after viewings",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm just texting Sister Chen an update about our apartment hunting today. I finally feel a renewed sense of hope and excitement! We saw a place with a really great balcony."
+        },
+        {
+          "role": "assistant",
+          "content": "That's amazing! After feeling so defeated last week, finding a great balcony must be a huge relief. Did you give her the details?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I told Sister Chen the rent was 6000 RMB for the best unit we saw today. It's totally worth it."
+        },
+        {
+          "role": "assistant",
+          "content": "6000 RMB sounds like a solid deal for a place you actually like. How did she reply?"
+        },
+        {
+          "role": "user",
+          "content": "She just texted back and asked if we scheduled any more viewings for the apartment hunting. I told her we have a couple more, but this one is definitely the frontrunner."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed this is the one! It would definitely help you hit that end-of-August goal you promised Liwei."
+        },
+        {
+          "role": "user",
+          "content": "For sure. I even promised to invite Sister Chen to a housewarming party once the apartment hunting is all over and we're moved in."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan! Let me know if you end up signing the lease so we can start planning that party."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-26, Linchen expressed to Sister Chen a renewed sense of hope and excitement after seeing a great balcony during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w3_s10",
+      "day": "Sunday",
+      "date": "2025-07-27",
+      "topic": "Gym chat",
+      "focal_character": "Jiange",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm heading to the gym to meet Jiange. I'm still feeling some lingering frustration about the root cause of that production incident."
+        },
+        {
+          "role": "assistant",
+          "content": "A good workout should help clear your head! It's completely normal to still be frustrated about it. Is Jiange already there?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he's here. He actually just joked that the production incident was probably caused by bad feng shui!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic Jiange. Maybe you guys need to bring some lucky bamboo into the server room next time."
+        },
+        {
+          "role": "user",
+          "content": "Right? Though considering the total CPU spike hit 99% during the production incident, I think we need more than luck. Anyway, I scheduled a follow-up review meeting for the production incident at 2:00 PM on Wednesday."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, 99% is brutal. I've noted down the follow-up review meeting for Wednesday at 2:00 PM. Go crush your workout with Jiange!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks, I'm going to focus on lifting now. Catch you later."
+        },
+        {
+          "role": "assistant",
+          "content": "Have a great session! Talk to you later."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-27, Linchen scheduled a follow-up review meeting for the production incident at 2:00 PM on Wednesday."
+      ]
+    }
+  ]
+}

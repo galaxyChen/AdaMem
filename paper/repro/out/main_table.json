@@ -1,0 +1,180 @@
+{
+  "id_ref": {
+    "verbose": [
+      0.96,
+      120.8
+    ],
+    "with_gold": [
+      0.964,
+      110.4
+    ]
+  },
+  "cells": {
+    "id|deepseek|verbose": {
+      "accuracy": 0.96,
+      "precision": 0.9602649006622517,
+      "recall": 0.998019801980198,
+      "f1": 0.9787784020518453,
+      "mem_vol": 120.8,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 1.0
+    },
+    "id|deepseek|with_gold": {
+      "accuracy": 0.964,
+      "precision": 0.9909420289855072,
+      "recall": 0.996116504854369,
+      "f1": 0.9935225295239174,
+      "mem_vol": 110.4,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 1.0
+    },
+    "fc|deepseek|verbose": {
+      "accuracy": 0.964,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "mem_vol": 0.0,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": null
+    },
+    "fc|deepseek|with_gold": {
+      "accuracy": 0.972,
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "mem_vol": 0.0,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": null
+    },
+    "m0|deepseek|verbose": {
+      "accuracy": 0.762,
+      "precision": 0.22429036761284318,
+      "recall": 0.7958830711126643,
+      "f1": 0.3499579577757043,
+      "mem_vol": 429.8,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.22309213587715215
+    },
+    "m0|deepseek|with_gold": {
+      "accuracy": 0.802,
+      "precision": 0.21944035346097202,
+      "recall": 0.7490394321364258,
+      "f1": 0.33943811773589727,
+      "mem_vol": 407.4,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.22544747890172884
+    },
+    "m0|gemini|verbose": {
+      "accuracy": 0.804,
+      "precision": 0.2864693446088795,
+      "recall": 0.8122931125539186,
+      "f1": 0.4235621158453001,
+      "mem_vol": 378.4,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.26736257928118395
+    },
+    "m0|gemini|with_gold": {
+      "accuracy": 0.832,
+      "precision": 0.3104859335038363,
+      "recall": 0.8256718916803567,
+      "f1": 0.45127446622953665,
+      "mem_vol": 391.0,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.24369050524774225
+    },
+    "adamem|deepseek|verbose": {
+      "accuracy": 0.852,
+      "precision": 0.2617124394184168,
+      "recall": 0.8540029434668671,
+      "f1": 0.40064553565127703,
+      "mem_vol": 371.4,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.2886645126548196
+    },
+    "adamem|deepseek|with_gold": {
+      "accuracy": 0.82,
+      "precision": 0.2631578947368421,
+      "recall": 0.8589559656841088,
+      "f1": 0.40288432675857694,
+      "mem_vol": 380.0,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.24712819392880542
+    },
+    "adamem|gemini|verbose": {
+      "accuracy": 0.848,
+      "precision": 0.32025028441410697,
+      "recall": 0.8999373817050165,
+      "f1": 0.4723948789985255,
+      "mem_vol": 351.6,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.30348881304512704
+    },
+    "adamem|gemini|with_gold": {
+      "accuracy": 0.854,
+      "precision": 0.31866892272983643,
+      "recall": 0.8981105136310233,
+      "f1": 0.4704220030659034,
+      "mem_vol": 354.6,
+      "n_story": 5,
+      "n_qa": 500,
+      "mer": 0.27581074344770445
+    }
+  },
+  "marginals": {
+    "method": {
+      "id": {
+        "accuracy": 0.962,
+        "f1": 0.9861504657878813,
+        "mer": 1.0
+      },
+      "fc": {
+        "accuracy": 0.968
+      },
+      "m0": {
+        "accuracy": 0.8,
+        "f1": 0.39105816439660956,
+        "mer": 0.2398981748269518
+      },
+      "adamem": {
+        "accuracy": 0.8434999999999999,
+        "f1": 0.4365866861185707,
+        "mer": 0.27877306576911415
+      }
+    },
+    "model": {
+      "deepseek": {
+        "accuracy": 0.8089999999999999,
+        "f1": 0.3732314844803639,
+        "mer": 0.2460830803406265
+      },
+      "gemini": {
+        "accuracy": 0.8345,
+        "f1": 0.4544133660348164,
+        "mer": 0.2725881602554394
+      }
+    },
+    "fbmode": {
+      "verbose": {
+        "accuracy": 0.8165,
+        "f1": 0.41164012206770173,
+        "mer": 0.2706520102145707
+      },
+      "with_gold": {
+        "accuracy": 0.827,
+        "f1": 0.4160047284474786,
+        "mer": 0.24801923038149523
+      }
+    }
+  }
+}

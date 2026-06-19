@@ -1,0 +1,2299 @@
+{
+  "theme": "Linchen is a backend engineer at a fintech company, building a trading system.",
+  "num_weeks": 10,
+  "sessions_per_week": 10,
+  "weeks": [
+    {
+      "week": 1,
+      "date_range": "2025-07-07 ~ 2025-07-13",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the production incident",
+        "the badminton session"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-07",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Planning the upcoming business travel",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-07, Boss Zhang decided that Linchen will lead the technical delegation for the Shenzhen trip next month."
+          ],
+          "noise_info": [
+            "Boss Zhang complained about the flight prices for the Shenzhen trip.",
+            "Linchen mentioned he prefers a window seat on the flight for the Shenzhen trip.",
+            "They discussed the humid weather expected during the Shenzhen trip.",
+            "Boss Zhang joked about the hotel breakfast options for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Monday",
+          "date": "2025-07-07",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Discussing travel dates at dinner",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-07, Liwei became noticeably anxious because the Shenzhen trip overlaps with their anniversary month."
+          ],
+          "noise_info": [
+            "Liwei asked what clothes Linchen was packing for the Shenzhen trip.",
+            "Linchen talked about the local dim sum places he wanted to visit during the Shenzhen trip.",
+            "They debated whether Linchen needed a new suitcase for the Shenzhen trip.",
+            "Liwei mentioned that her coworker also went on a Shenzhen trip last year."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-08",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Evening chat about moving",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-08, Linchen seriously committed to Liwei that they will finalize a strict budget for the apartment hunting by this weekend."
+          ],
+          "noise_info": [
+            "Linchen commented on the ugly wall colors they saw during the apartment hunting.",
+            "Liwei complained about the high agency fees associated with the apartment hunting.",
+            "They discussed how the commute routes might change after the apartment hunting.",
+            "Linchen showed Liwei a funny meme about the apartment hunting in big cities."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-09",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Weekly phone call",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-09, Linchen promised Mom he will call her for advice before signing any lease during the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom shared her opinions on feng shui regarding the apartment hunting.",
+            "Linchen mentioned the grocery stores nearby the places they saw during the apartment hunting.",
+            "Mom asked if the floor numbers were lucky in their apartment hunting.",
+            "Linchen complained about how tiring the apartment hunting has been."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-10",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the production incident",
+          "topic": "Debugging a system crash",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-10, Wanghao concluded that the production incident was caused by a 500ms database timeout.",
+            "On 2025-07-10, Wanghao noted that 15,000 transactions were delayed during the production incident."
+          ],
+          "noise_info": [
+            "Wanghao complained about who was paged first for the production incident.",
+            "Linchen mentioned the coffee they drank while fixing the production incident.",
+            "Wanghao joked about the alert channel name used for the production incident.",
+            "They discussed how tired they felt after the production incident."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-11",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the production incident",
+          "topic": "Post-incident venting",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-11, Sister Chen felt deeply relieved and relaxed once the production incident was finally marked resolved."
+          ],
+          "noise_info": [
+            "Sister Chen mentioned the Jira ticket number for the production incident.",
+            "Linchen talked about the exact server metrics observed during the production incident.",
+            "Sister Chen asked about the post-mortem document template for the production incident.",
+            "They discussed which meeting room was booked for the production incident review."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-11",
+          "focal_character": "Jiange",
+          "topic_anchor": "the badminton session",
+          "topic": "Booking weekend sports",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-11, Jiange scheduled the badminton session for Saturday at 3:00 PM."
+          ],
+          "noise_info": [
+            "Jiange talked about the racket brands they should use for the badminton session.",
+            "Linchen complained about the price of shuttlecocks for the badminton session.",
+            "They discussed the court floor material for the badminton session.",
+            "Jiange mentioned his muscle soreness leading up to the badminton session."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-12",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the production incident",
+          "topic": "Managerial review of the week",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-12, Boss Zhang decided to implement a strict Friday code freeze policy as a result of the production incident."
+          ],
+          "noise_info": [
+            "Boss Zhang noted how many engineers attended the review for the production incident.",
+            "Linchen mentioned the snacks provided during the meeting about the production incident.",
+            "They chatted about the jokes made to break the ice after the production incident.",
+            "Boss Zhang commented on the length of the meeting for the production incident."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-12",
+          "focal_character": "Jiange",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Updating workout schedules",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-12, Jiange agreed to pause their weekend workouts during the exact dates of the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Jiange asked Linchen to buy souvenirs during the Shenzhen trip.",
+            "Linchen talked about the gym facilities he might use on the Shenzhen trip.",
+            "They discussed potential flight delays for the Shenzhen trip.",
+            "Jiange shared a funny story from his own past Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-13",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the badminton session",
+          "topic": "Talking tech between games",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-13, Wanghao calculated that 85% of their microservices need refactoring, a metric he shared during the badminton session."
+          ],
+          "noise_info": [
+            "Wanghao kept score during the badminton session.",
+            "Linchen complained about the gym temperature during the badminton session.",
+            "They debated who served first in the second game of the badminton session.",
+            "Wanghao mentioned the brand of sports drink he brought to the badminton session."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "date_range": "2025-07-14 ~ 2025-07-20",
+      "topic_anchors": [
+        "the weekly sync",
+        "the apartment hunting",
+        "the Shenzhen trip",
+        "the badminton session",
+        "the sleep schedule"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-14",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the weekly sync",
+          "topic": "Discussing Q3 infrastructure goals",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-14, Boss Zhang decided to migrate the core trading database to the new cloud provider by Q4 during the weekly sync."
+          ],
+          "noise_info": [
+            "Boss Zhang mentioned he liked the new dark roast coffee served at the weekly sync.",
+            "Boss Zhang asked if anyone watched the European Cup final before starting the weekly sync.",
+            "Boss Zhang complained that the AC was too cold in the conference room during the weekly sync."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Monday",
+          "date": "2025-07-14",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the weekly sync",
+          "topic": "Technical breakdown of the migration plan",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-14, Wanghao concluded that the database migration will reduce average transaction latency by 25ms, as stated in the weekly sync."
+          ],
+          "noise_info": [
+            "Wanghao wore a bright yellow polo shirt to the weekly sync.",
+            "Wanghao joked about his cat knocking over his monitor right before joining the weekly sync.",
+            "Wanghao said he was feeling a bit sleep-deprived during the weekly sync."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-15",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Revising the housing budget",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-15, Linchen seriously committed to Liwei that they will increase their monthly budget by 2000 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Liwei said she saw a very cute golden retriever on the street while discussing the apartment hunting.",
+            "Liwei mentioned the weather is getting too hot to walk around for the apartment hunting.",
+            "Liwei thought about getting iced boba tea after they finish the apartment hunting for the day."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 1,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-15",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Calling home for advice",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-15, Linchen promised Mom he will strictly prioritize places with south-facing windows for good sunlight during the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom asked what Linchen ate for lunch before they started talking about the apartment hunting.",
+            "Mom complained about her noisy upstairs neighbor during their chat about the apartment hunting.",
+            "Mom said she bought new walking shoes in case she visits during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-16",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Adjusting the travel delegation",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-16, Boss Zhang decided that Wanghao will now co-lead the technical delegation for the Shenzhen trip alongside Linchen."
+          ],
+          "noise_info": [
+            "Boss Zhang mentioned he hopes the hotel breakfast is good for the Shenzhen trip.",
+            "Boss Zhang asked Linchen about preferred flight times for the Shenzhen trip.",
+            "Boss Zhang talked about how humid the weather usually is during the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 1,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-16",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "On-call handover discussions",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-16, Sister Chen felt extremely stressed because she has to cover Linchen's on-call shifts during the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Sister Chen asked Linchen what type of casual clothes to pack for the Shenzhen trip.",
+            "Sister Chen wondered if there are any good seafood restaurants near the office for the Shenzhen trip.",
+            "Sister Chen mentioned she might need to buy a new carry-on suitcase for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-17",
+          "focal_character": "Jiange",
+          "topic_anchor": "the badminton session",
+          "topic": "Rescheduling weekend sports",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-17, Jiange rescheduled the badminton session to Sunday at 10:00 AM due to a court booking conflict."
+          ],
+          "noise_info": [
+            "Jiange said his favorite racket needs new grip tape before the badminton session.",
+            "Jiange mentioned he drank a chocolate protein shake while planning the badminton session.",
+            "Jiange asked if Linchen had bought those new Yonex shoes for the badminton session yet."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 1,
+            "session_index": 7
+          }
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-18",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the badminton session",
+          "topic": "Post-lunch sports chat",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-18, Wanghao noted that his fitness tracker recorded exactly 640 calories burned during their previous badminton session."
+          ],
+          "noise_info": [
+            "Wanghao said he generally prefers playing doubles rather than singles at the badminton session.",
+            "Wanghao mentioned his right knee felt a little sore just thinking about the badminton session.",
+            "Wanghao joked that he would definitely beat Linchen 2-0 at the next badminton session."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-19",
+          "focal_character": "Liwei",
+          "topic_anchor": "the sleep schedule",
+          "topic": "Late night coding arguments",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-19, Liwei became noticeably frustrated because Linchen's late-night coding completely ruined the sleep schedule they agreed upon."
+          ],
+          "noise_info": [
+            "Liwei mentioned she read a magazine article about maintaining the sleep schedule.",
+            "Liwei suggested buying a new memory foam pillow to help with the sleep schedule.",
+            "Liwei joked that their neighbor's cat has the most consistent sleep schedule."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-20",
+          "focal_character": "Jiange",
+          "topic_anchor": "the sleep schedule",
+          "topic": "Morning accountability check",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-20, Jiange arranged to call Linchen at 7:00 AM every weekday to enforce the sleep schedule."
+          ],
+          "noise_info": [
+            "Jiange said he prefers drinking green tea in the morning to fix the sleep schedule.",
+            "Jiange mentioned listening to a health podcast about the sleep schedule.",
+            "Jiange joked that his pet dog naturally follows the perfect sleep schedule."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "date_range": "2025-07-21 ~ 2025-07-27",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the sleep schedule",
+        "the code review"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-21",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Adjusting the delegation for the upcoming trip",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-21, Boss Zhang decided that Wanghao will stay behind and Linchen will lead the technical delegation solo for the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Boss Zhang mentioned he heard the weather during the Shenzhen trip will be extremely humid.",
+            "Wanghao joked that he was looking forward to eating dim sum during the Shenzhen trip.",
+            "Linchen felt a bit nervous about handling all presentations during the Shenzhen trip.",
+            "Boss Zhang scheduled a 30-minute prep sync for the Shenzhen trip next Wednesday."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 2,
+            "session_index": 4
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-07-21",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Evening phone call with Mom about housing",
+          "characters_mentioned": [
+            "Mom"
+          ],
+          "key_info": [
+            "On 2025-07-21, Linchen promised Mom he will absolutely avoid first-floor units during the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom suggested that the apartment hunting should ideally happen when it's not raining.",
+            "Linchen mentioned that 15 new listings popped up for the apartment hunting this morning.",
+            "Mom felt nostalgic remembering her own experiences with the apartment hunting years ago.",
+            "Linchen decided to use a different real estate app for the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-22",
+          "focal_character": "Jiange",
+          "topic_anchor": "the sleep schedule",
+          "topic": "Adjusting the morning wake-up routine",
+          "characters_mentioned": [
+            "Jiange"
+          ],
+          "key_info": [
+            "On 2025-07-22, Jiange arranged to call Linchen at 6:30 AM every weekday instead of 7:00 AM to strictly enforce the sleep schedule."
+          ],
+          "noise_info": [
+            "Jiange felt proud that he was helping his friend maintain the sleep schedule.",
+            "Linchen promised he would buy Jiange coffee if he failed the sleep schedule.",
+            "Jiange noted that consistent REM cycles are the most important part of the sleep schedule.",
+            "Linchen decided to buy blackout curtains to help with the sleep schedule."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 2,
+            "session_index": 9
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-23",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the code review",
+          "topic": "Reviewing the memory leak fix",
+          "characters_mentioned": [
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-23, Wanghao concluded that the memory leak was successfully fixed during the code review.",
+            "On 2025-07-23, Wanghao noted that the optimization saves 450MB of RAM, as verified in the code review."
+          ],
+          "noise_info": [
+            "Wanghao felt relieved that the tricky bug was finally squashed in the code review.",
+            "Linchen promised to document the changes found during the code review by tomorrow.",
+            "Wanghao arranged a follow-up meeting at 4 PM to discuss the code review.",
+            "Boss Zhang decided to enforce a new linting rule based on the code review."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-23",
+          "focal_character": "Liwei",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Discussing travel dates over dinner",
+          "characters_mentioned": [
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-07-23, Linchen seriously committed to Liwei that he will book a flight to return two days early from the Shenzhen trip.",
+            "On 2025-07-23, Liwei felt immense relief and happiness because Linchen shortened the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Liwei noted that the flight tickets for the Shenzhen trip cost 1500 RMB.",
+            "Linchen scheduled his airport taxi for 5:00 AM for the Shenzhen trip.",
+            "Liwei concluded that packing light is the best strategy for the Shenzhen trip.",
+            "Linchen mentioned Boss Zhang's expectations for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-24",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the code review",
+          "topic": "Venting by the water cooler",
+          "characters_mentioned": [
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-07-24, Sister Chen became extremely frustrated because of the overly harsh comments left on her PR during the code review."
+          ],
+          "noise_info": [
+            "Sister Chen noted that 34 lines of code were flagged during the code review.",
+            "Linchen promised to help her refactor the module after the code review.",
+            "Sister Chen decided to use a different design pattern based on the code review.",
+            "Wanghao scheduled a pair-programming session to address the code review."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-07-25",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Revising the budget after seeing market prices",
+          "characters_mentioned": [
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-07-25, Linchen seriously committed to Liwei that they will increase their monthly budget by 3000 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Liwei noted that 80% of the good units are gone within a day during the apartment hunting.",
+            "Linchen scheduled three more viewings for Saturday morning for the apartment hunting.",
+            "Liwei concluded that living near the subway is non-negotiable for the apartment hunting.",
+            "Linchen mentioned that Boss Zhang suggested looking in the tech district for the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 2,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-26",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the sleep schedule",
+          "topic": "Weekend chat about health routines",
+          "characters_mentioned": [
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-07-26, Sister Chen felt deeply inspired to fix her own chaotic routine after hearing about Linchen's success with the sleep schedule."
+          ],
+          "noise_info": [
+            "Sister Chen noted she only gets about 5 hours of rest compared to the sleep schedule.",
+            "Linchen promised to send her the alarm app he uses for the sleep schedule.",
+            "Sister Chen decided to stop drinking coffee after 2 PM to help her sleep schedule.",
+            "Jiange texted a reminder about the sleep schedule during their conversation."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-07-26",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Approving a flexible work arrangement",
+          "characters_mentioned": [
+            "Boss Zhang"
+          ],
+          "key_info": [
+            "On 2025-07-26, Boss Zhang decided that Linchen can work remotely next Tuesday and Thursday to facilitate the apartment hunting."
+          ],
+          "noise_info": [
+            "Boss Zhang felt sympathetic about how stressful the apartment hunting can be.",
+            "Linchen promised Boss Zhang he would still attend all core meetings during the apartment hunting.",
+            "Boss Zhang noted that rent prices have increased by 15% since his own apartment hunting.",
+            "Linchen scheduled his viewings around his daily standups for the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-07-27",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the code review",
+          "topic": "Finalizing the authentication module",
+          "characters_mentioned": [
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-27, Wanghao concluded that the new authentication flow is fully secure during the code review.",
+            "On 2025-07-27, Wanghao noted that exactly 12 files were modified and approved in the code review."
+          ],
+          "noise_info": [
+            "Wanghao felt exhausted after staring at the screen for the code review.",
+            "Linchen promised to deploy the changes first thing Monday after the code review.",
+            "Wanghao scheduled a brief sync with the frontend team regarding the code review.",
+            "Boss Zhang decided to merge the branch immediately following the code review."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "date_range": "2025-07-28 ~ 2025-08-03",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the new conference room",
+        "the running plan"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-07-28",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Revising the travel delegation",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-07-28, Boss Zhang decided that Wanghao will accompany Linchen for the first two days of the Shenzhen trip after all."
+          ],
+          "noise_info": [
+            "Linchen mentioned the rainy weather forecast for the Shenzhen trip.",
+            "Boss Zhang talked about a great dim sum place he visited during his last Shenzhen trip.",
+            "They discussed whether to take the high-speed rail or fly for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 3,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-07-29",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Discussing ground floor units",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-29, Linchen promised Mom he will consider a first-floor unit during the apartment hunting if it includes a private garden."
+          ],
+          "noise_info": [
+            "Mom complained about the rising property prices affecting the apartment hunting.",
+            "Linchen mentioned he saw a cute stray dog while out on the apartment hunting.",
+            "Mom suggested checking the water pressure of the shower during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 3,
+            "session_index": 1
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-30",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the new conference room",
+          "topic": "Testing the AV equipment",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-30, Wanghao concluded that the Wi-Fi router in the new conference room has a maximum throughput of 1.2 Gbps.",
+            "On 2025-07-30, Wanghao noted that the display in the new conference room has exactly 80 milliseconds of input lag."
+          ],
+          "noise_info": [
+            "Wanghao joked that the chairs in the new conference room are too stiff for long meetings.",
+            "Linchen liked the soundproof glass walls of the new conference room.",
+            "They talked about who gets to book the new conference room first.",
+            "Wanghao felt annoyed by the harsh overhead lighting in the new conference room."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-07-30",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the new conference room",
+          "topic": "First team meeting in the new space",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-30, Sister Chen felt suddenly claustrophobic because the AC was broken in the new conference room."
+          ],
+          "noise_info": [
+            "Sister Chen noted that the new conference room fits exactly 12 people.",
+            "Linchen promised to book the new conference room for their next architecture sync.",
+            "Sister Chen scheduled a vendor meeting in the new conference room for 3 PM.",
+            "They discussed the strange color of the carpet in the new conference room."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-31",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Setting up the weekly miles",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-31, Jiange scheduled their first session of the running plan for 6:00 AM on Saturday."
+          ],
+          "noise_info": [
+            "Jiange felt excited to finally start the running plan.",
+            "Linchen bought new carbon-plated shoes specifically for the running plan.",
+            "Jiange concluded that the running plan will drastically improve their cardiovascular health.",
+            "Linchen promised Liwei he wouldn't get injured during the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-07-31",
+          "focal_character": "Liwei",
+          "topic_anchor": "the running plan",
+          "topic": "Balancing workouts and dates",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-07-31, Liwei felt incredibly proud because Linchen was taking the running plan so seriously.",
+            "On 2025-07-31, Linchen seriously committed to Liwei that he will not let the running plan interfere with their evening dates."
+          ],
+          "noise_info": [
+            "Liwei calculated they would run 15 kilometers a week on the running plan.",
+            "Linchen scheduled his rest days for the running plan on Tuesdays and Thursdays.",
+            "Liwei decided to buy a new insulated water bottle for the running plan.",
+            "They discussed the scenic route along the river for the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-01",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Relief over schedule changes",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-01, Sister Chen felt a massive wave of relief because Wanghao is now taking part in the Shenzhen trip, reducing her on-call burden."
+          ],
+          "noise_info": [
+            "Sister Chen noted that the Shenzhen trip will last 5 days in total.",
+            "Linchen promised to bring back coconut pastries from the Shenzhen trip.",
+            "Sister Chen scheduled a handover meeting for the Shenzhen trip at 4 PM.",
+            "Boss Zhang decided the daily meal budget for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-02",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Revising the budget cap",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-02, Linchen seriously committed to Liwei that they will strictly cap their budget increase at 2500 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Liwei calculated that 2500 RMB is exactly 15% of their disposable income for the apartment hunting.",
+            "Linchen scheduled three viewings for the apartment hunting on Sunday afternoon.",
+            "Liwei noted the weather was far too hot for the apartment hunting.",
+            "They discussed the walking distance to the subway during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 3,
+            "session_index": 6
+          }
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-03",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the new conference room",
+          "topic": "Setting room policies",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-03, Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Monday mornings."
+          ],
+          "noise_info": [
+            "Boss Zhang felt very proud of the sleek design of the new conference room.",
+            "Linchen promised to keep the whiteboard clean in the new conference room.",
+            "Wanghao calculated the new conference room cost 50,000 RMB to renovate.",
+            "Boss Zhang scheduled an all-hands in the new conference room for next month."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-03",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the running plan",
+          "topic": "Analyzing the first run",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-03, Wanghao noted that his average heart rate was exactly 142 bpm during the running plan.",
+            "On 2025-08-03, Wanghao concluded that a mid-foot strike is the most efficient biomechanical technique for the running plan."
+          ],
+          "noise_info": [
+            "Wanghao felt exhausted after the first day of the running plan.",
+            "Linchen scheduled their next session for the running plan on Wednesday.",
+            "Wanghao promised to buy better moisture-wicking socks for the running plan.",
+            "They debated which tech podcast to listen to during the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "date_range": "2025-08-04 ~ 2025-08-10",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the customer demo",
+        "the running plan"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-04",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Syncing on travel arrangements and upcoming deadlines.",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-04, Boss Zhang decided that Wanghao will not accompany Linchen on the Shenzhen trip after all, so Wanghao can focus on upcoming demos."
+          ],
+          "noise_info": [
+            "Boss Zhang mentioned that the hotel rewards program for the Shenzhen trip has changed.",
+            "Linchen speculated about the weather during the Shenzhen trip.",
+            "Wanghao joked about missing the famous seafood on the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 4,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-08-04",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Chatting by the water cooler about the schedule change.",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-04, Sister Chen became incredibly anxious again because Wanghao was pulled from the Shenzhen trip, leaving her to handle on-call duties alone."
+          ],
+          "noise_info": [
+            "Linchen asked Sister Chen to water his desk plant during the Shenzhen trip.",
+            "Sister Chen suggested Linchen pack an umbrella for the Shenzhen trip.",
+            "They discussed how long the flight is for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-05",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Evening discussion about rental market prices.",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-05, Linchen seriously committed to Liwei that they will strictly cap their budget increase at 3500 RMB for the apartment hunting due to rising rents."
+          ],
+          "noise_info": [
+            "Liwei noted that the subway commute is a major factor in the apartment hunting.",
+            "Linchen complained about the high agency fees associated with the apartment hunting.",
+            "They debated whether to hire a moving company after the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 4,
+            "session_index": 7
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-06",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "A quick phone call home.",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-06, Linchen promised Mom he will send her video tours of their top three choices during the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom asked if the neighborhoods they saw during the apartment hunting have good grocery stores.",
+            "Linchen mentioned the square footage of the units viewed in the apartment hunting.",
+            "Mom shared a story about her own experience with the apartment hunting back in the day."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-07",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the customer demo",
+          "topic": "Finalizing the backend environment.",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-07, Wanghao concluded that the real-time matching engine is stable enough for the customer demo.",
+            "On 2025-08-07, Wanghao noted that the system successfully handled exactly 50,000 concurrent mock users in preparation for the customer demo."
+          ],
+          "noise_info": [
+            "Linchen asked what time the customer demo was scheduled to start.",
+            "Wanghao wondered if they should order pizza for the team after the customer demo.",
+            "They discussed who would be operating the slides during the customer demo."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-07",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the customer demo",
+          "topic": "Reviewing the presentation plan.",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-07, Boss Zhang decided to invite the CEO to watch the final internal rehearsal of the customer demo."
+          ],
+          "noise_info": [
+            "Boss Zhang commented on the font size used in the slides for the customer demo.",
+            "Linchen suggested wearing formal attire for the customer demo.",
+            "Boss Zhang asked if the projector in the main room was working for the customer demo."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-08",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Texting about the weekend workout.",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-08, Jiange rescheduled the weekend session of the running plan to 7:00 AM on Sunday due to a forecasted thunderstorm on Saturday."
+          ],
+          "noise_info": [
+            "Jiange recommended a specific brand of moisture-wicking socks for the running plan.",
+            "Linchen shared a Spotify playlist he created for the running plan.",
+            "They discussed the scenic route through the park for the running plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 4,
+            "session_index": 4
+          }
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-08",
+          "focal_character": "Liwei",
+          "topic_anchor": "the running plan",
+          "topic": "Relaxing at home after work.",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-08, Liwei felt slightly annoyed because the running plan was making Linchen too exhausted to enjoy their Friday movie night."
+          ],
+          "noise_info": [
+            "Linchen showed Liwei the GPS map of his route for the running plan.",
+            "Liwei asked how many kilometers Linchen logged for the running plan this week.",
+            "They talked about buying new reflective gear for the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-09",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the running plan",
+          "topic": "Comparing fitness tracker stats in the group chat.",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-09, Wanghao noted that his VO2 max estimate increased by exactly 2 points thanks to the running plan."
+          ],
+          "noise_info": [
+            "Wanghao complained about a blister he got from his new shoes during the running plan.",
+            "Linchen mentioned he was drinking more water to stay hydrated for the running plan.",
+            "They debated the benefits of stretching before versus after the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-10",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the customer demo",
+          "topic": "A weekend check-in message.",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-08-10, Sister Chen felt a massive surge of confidence after successfully testing her fallback API endpoints for the customer demo."
+          ],
+          "noise_info": [
+            "Sister Chen mentioned she spent 3 hours writing documentation for the customer demo.",
+            "Linchen asked if the mock data generation script was ready for the customer demo.",
+            "They discussed the exact sequence of screens to show during the customer demo."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "date_range": "2025-08-11 ~ 2025-08-17",
+      "topic_anchors": [
+        "the customer demo",
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the anniversary plan"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-11",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the customer demo",
+          "topic": "Finalizing the presentation format",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao",
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-11, Boss Zhang decided to cap the customer demo duration at strictly 30 minutes to keep the CEO engaged."
+          ],
+          "noise_info": [
+            "Linchen felt incredibly nervous about the customer demo.",
+            "Wanghao noted that the customer demo requires exactly 15 slides.",
+            "Sister Chen asked what time the customer demo is supposed to start.",
+            "Linchen promised Mom he would call her right after the customer demo."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-12",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the customer demo",
+          "topic": "Reviewing system metrics post-rehearsal",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen",
+            "Boss Zhang",
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-12, Wanghao noted that exactly 4 critical bugs were identified and fixed before the customer demo.",
+            "On 2025-08-12, Wanghao concluded that the system's failover latency is 120ms, which is safe for the customer demo."
+          ],
+          "noise_info": [
+            "Boss Zhang decided to order premium coffee for the customer demo.",
+            "Liwei was happy to hear that preparations for the customer demo were finishing early.",
+            "Sister Chen felt extremely stressed about the network stability for the customer demo."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-13",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Re-evaluating travel plans after the demo",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao",
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-13, Boss Zhang decided that Wanghao will definitely accompany Linchen on the Shenzhen trip for its entire duration."
+          ],
+          "noise_info": [
+            "Linchen promised to buy special tea for his parents during the Shenzhen trip.",
+            "Wanghao calculated that the flight tickets for the Shenzhen trip cost 1800 RMB.",
+            "Liwei felt a wave of sadness because the Shenzhen trip means Linchen will be away longer."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 5,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-13",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Reacting to the updated travel roster",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen",
+            "Boss Zhang",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-13, Sister Chen felt an overwhelming sense of joy and relief because she won't be on-call alone during the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Boss Zhang decided to book a 4-star business hotel for the Shenzhen trip.",
+            "Wanghao noted that the Shenzhen trip will require exactly 3 days of out-of-office time.",
+            "Linchen promised to send daily project updates to the team during the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-14",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Adjusting expectations in a hot rental market",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen",
+            "Wanghao",
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-14, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 4000 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Wanghao noted that the average rent in the desired district during the apartment hunting is 8500 RMB.",
+            "Sister Chen felt entirely exhausted just hearing about their apartment hunting.",
+            "Boss Zhang decided to give Linchen Friday afternoon off to help with the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 5,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-14",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Calling home for advice",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen",
+            "Boss Zhang",
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-14, Linchen promised Mom he will absolutely avoid renting any units next to elevated highways during the apartment hunting."
+          ],
+          "noise_info": [
+            "Boss Zhang decided Linchen can take a long lunch break for the apartment hunting.",
+            "Liwei felt incredibly hopeful about the new listings found during the apartment hunting.",
+            "Wanghao noted that 3 of their saved listings were removed during their apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-15",
+          "focal_character": "Liwei",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Hinting at a weekend surprise",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen",
+            "Boss Zhang",
+            "Wanghao",
+            "Mom"
+          ],
+          "key_info": [
+            "On 2025-08-15, Liwei became incredibly excited because Linchen finally revealed he booked a secret venue for the anniversary plan."
+          ],
+          "noise_info": [
+            "Boss Zhang decided to approve Linchen's early departure to prepare for the anniversary plan.",
+            "Wanghao noted that the special menu for the anniversary plan costs exactly 1500 RMB.",
+            "Mom asked on WeChat if she should send a small gift to celebrate the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-16",
+          "focal_character": "Jiange",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Coordinating logistics for the surprise",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen",
+            "Liwei",
+            "Wanghao",
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-16, Jiange scheduled to help Linchen pick up the custom cake for the anniversary plan at exactly 9:00 AM."
+          ],
+          "noise_info": [
+            "Liwei felt deeply curious about what was happening behind the scenes for the anniversary plan.",
+            "Wanghao noted the custom cake for the anniversary plan weighs exactly 2 kilograms.",
+            "Sister Chen felt touched by the immense effort Linchen put into the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-17",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Discussing the event costs",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen",
+            "Liwei",
+            "Boss Zhang",
+            "Jiange"
+          ],
+          "key_info": [
+            "On 2025-08-17, Wanghao concluded that booking the rooftop venue for the anniversary plan required a 50% non-refundable upfront deposit."
+          ],
+          "noise_info": [
+            "Liwei felt overwhelmed with joy regarding how perfectly the anniversary plan turned out.",
+            "Boss Zhang decided not to text Linchen any work questions during the anniversary plan.",
+            "Jiange scheduled to meet Linchen at the gym on Monday morning to burn off the calories from the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-17",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the customer demo",
+          "topic": "Post-demo reflections",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen",
+            "Boss Zhang",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-17, Sister Chen felt deeply validated because the CEO specifically praised her API fallback logic after the customer demo."
+          ],
+          "noise_info": [
+            "Boss Zhang decided to send a company-wide congratulatory email about the customer demo.",
+            "Wanghao noted that exactly 120 client representatives attended the virtual broadcast of the customer demo.",
+            "Linchen promised to share the cloud recording link of the customer demo with the junior engineers."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "date_range": "2025-08-18 ~ 2025-08-24",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the anniversary plan",
+        "the running plan",
+        "the apartment hunting"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-18",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing the travel roster",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-18, Boss Zhang decided that Wanghao will only accompany Linchen for the final 3 days of the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Boss Zhang mentioned that the hotel breakfast is usually terrible during the Shenzhen trip.",
+            "Linchen speculated about the weather forecast for the Shenzhen trip.",
+            "Wanghao joked about packing his lucky socks for the Shenzhen trip.",
+            "Boss Zhang reminisced about a spicy hotpot he ate on his last Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 6,
+            "session_index": 3
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-19",
+          "focal_character": "Liwei",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Discussing the evening's entertainment",
+          "characters_mentioned": [
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-19, Liwei became extremely touched because Linchen secretly arranged for a live violinist during the anniversary plan."
+          ],
+          "noise_info": [
+            "Linchen mentioned that the violinist for the anniversary plan charges 500 RMB per hour.",
+            "Liwei asked if there would be enough parking spaces near the venue for the anniversary plan.",
+            "Linchen noted that they need to finalize the dinner menu for the anniversary plan by Thursday.",
+            "Liwei wondered if she should wear her blue dress or the red one for the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-20",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Adjusting the weekend workout schedule",
+          "characters_mentioned": [
+            "Jiange"
+          ],
+          "key_info": [
+            "On 2025-08-20, Jiange rescheduled the weekend session of the running plan back to Saturday at 6:30 AM."
+          ],
+          "noise_info": [
+            "Jiange complained about the rising cost of his favorite protein powder after discussing the running plan.",
+            "Linchen mentioned he bought a new pair of breathable socks for the running plan.",
+            "Jiange suggested they try a different park route for the running plan to see better scenery.",
+            "Linchen joked that he might need an extra shot of espresso before the running plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 5,
+            "session_index": 7
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-21",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Weekly family catch-up call",
+          "characters_mentioned": [
+            "Mom"
+          ],
+          "key_info": [
+            "On 2025-08-21, Linchen promised Mom he will send her video tours of their top five choices instead of three during the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom mentioned that her neighbor's son also had a hard time during his apartment hunting.",
+            "Linchen complained that the real estate agents are too pushy during the apartment hunting.",
+            "Mom suggested looking at the feng shui of the living room during the apartment hunting.",
+            "Linchen noted that the subway commute is a major factor in the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 5,
+            "session_index": 3
+          }
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-22",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Preparing the presentation deck",
+          "characters_mentioned": [
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-22, Wanghao concluded that they need to present exactly 15 architecture slides during the Shenzhen trip.",
+            "On 2025-08-22, Wanghao noted that the target API latency to showcase during the Shenzhen trip is under 45ms."
+          ],
+          "noise_info": [
+            "Wanghao wondered if he should bring his mechanical keyboard on the Shenzhen trip.",
+            "Linchen suggested they grab dim sum at the airport before the Shenzhen trip.",
+            "Wanghao joked that he hopes the Wi-Fi doesn't drop during their flight for the Shenzhen trip.",
+            "Linchen mentioned he needs to buy a new travel adapter for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-23",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Helping with the surprise",
+          "characters_mentioned": [
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-23, Sister Chen felt deeply honored to be trusted with hiding the surprise gift for the anniversary plan."
+          ],
+          "noise_info": [
+            "Sister Chen asked what color wrapping paper Linchen bought for the anniversary plan.",
+            "Linchen mentioned he has to pick up the dry cleaning before the anniversary plan starts.",
+            "Sister Chen noted that the traffic near the venue is usually terrible around the time of the anniversary plan.",
+            "Linchen debated whether to write a card or just speak from the heart during the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-24",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Reviewing finances after a long weekend of tours",
+          "characters_mentioned": [
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-24, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 4500 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Liwei mentioned she really liked the beige wall paint in the second unit they saw during the apartment hunting.",
+            "Linchen calculated that the agency fee is one month's rent for the apartment hunting.",
+            "Liwei pointed out that the kitchen cabinets looked a bit worn out during the apartment hunting.",
+            "Linchen joked that his legs were sore from climbing all those stairs during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 6,
+            "session_index": 5
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-08-18",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the running plan",
+          "topic": "Comparing fitness stats at work",
+          "characters_mentioned": [
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-18, Wanghao noted that his average pace improved to exactly 5:30 per kilometer during the running plan.",
+            "On 2025-08-18, Wanghao concluded that a 10-minute dynamic warmup prevents shin splints for the running plan."
+          ],
+          "noise_info": [
+            "Wanghao mentioned he updated his Spotify playlist for the running plan.",
+            "Linchen complained about the stray dogs barking at them during the running plan.",
+            "Wanghao showed off the new neon yellow water bottle he bought for the running plan.",
+            "Linchen said he prefers running in the shade to avoid sunburn during the running plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-19",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Requesting time off",
+          "characters_mentioned": [
+            "Boss Zhang"
+          ],
+          "key_info": [
+            "On 2025-08-19, Boss Zhang decided to grant Linchen a half-day off on Friday to prepare for the anniversary plan."
+          ],
+          "noise_info": [
+            "Boss Zhang reminisced about his own 10th wedding anniversary while discussing the anniversary plan.",
+            "Linchen mentioned that finding a good florist was the hardest part of the anniversary plan.",
+            "Boss Zhang joked that Linchen should not forget to iron his shirt for the anniversary plan.",
+            "Linchen assured Boss Zhang that all pull requests would be merged before he leaves for the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-20",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Chatting in the pantry",
+          "characters_mentioned": [
+            "Sister Chen"
+          ],
+          "key_info": [
+            "On 2025-08-20, Sister Chen felt a sudden pang of jealousy because Linchen found a place with a huge balcony during the apartment hunting."
+          ],
+          "noise_info": [
+            "Sister Chen asked if the landlord was willing to replace the old mattress during the apartment hunting.",
+            "Linchen mentioned the balcony is roughly 12 square meters, a great find in the apartment hunting.",
+            "Sister Chen suggested Linchen should buy some succulents for the new place after the apartment hunting.",
+            "Linchen complained about the slow elevators in the high-rise buildings they saw during the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "date_range": "2025-08-25 ~ 2025-08-31",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the running plan",
+        "the anniversary plan"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-08-25",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing travel roster",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-25, Boss Zhang decided that Wanghao will not accompany Linchen at all for the Shenzhen trip due to a new client escalation."
+          ],
+          "noise_info": [
+            "Wanghao felt very disappointed about missing the Shenzhen trip.",
+            "Linchen promised to bring back souvenirs from the Shenzhen trip.",
+            "The flight for the Shenzhen trip departs at 8:00 AM.",
+            "Exactly 3 client meetings were canceled for the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-08-26",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Discussing rising rent prices",
+          "characters_mentioned": [
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-26, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 5000 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "The agent scheduled a viewing at 6:30 PM for the apartment hunting.",
+            "Linchen noted that the average rent in the tech district is 12,000 RMB during the apartment hunting.",
+            "Boss Zhang advised Linchen to negotiate hard during the apartment hunting.",
+            "Mom suggested they look for places with a gas stove for the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 7
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-08-27",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Reacting to the roster change",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-27, Sister Chen felt completely devastated because Wanghao was pulled from the Shenzhen trip, leaving her on-call alone again."
+          ],
+          "noise_info": [
+            "Wanghao concluded that the on-call load will increase by 40% during the Shenzhen trip.",
+            "Linchen promised to monitor the Slack channels remotely during the Shenzhen trip.",
+            "Boss Zhang decided to route non-critical alerts to the offshore team during the Shenzhen trip.",
+            "The on-call handover meeting for the Shenzhen trip is scheduled for 4:00 PM."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-08-28",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Preparing the presentation deck",
+          "characters_mentioned": [
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-28, Wanghao concluded that they need to present exactly 18 architecture slides during the Shenzhen trip."
+          ],
+          "noise_info": [
+            "Sister Chen felt relieved that the deck for the Shenzhen trip was finally done.",
+            "Linchen promised to rehearse the presentation for the Shenzhen trip twice before flying.",
+            "Boss Zhang decided the Q&A session for the Shenzhen trip should be open-ended.",
+            "The rehearsal for the Shenzhen trip is scheduled for Friday morning."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 4
+          }
+        },
+        {
+          "day": "Friday",
+          "date": "2025-08-29",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Weekly family catch-up",
+          "characters_mentioned": [
+            "Mom"
+          ],
+          "key_info": [
+            "On 2025-08-29, Linchen promised Mom he will officially sign a lease by next Wednesday for the apartment hunting."
+          ],
+          "noise_info": [
+            "Wanghao noted that the commute from the new place would be exactly 22 minutes after the apartment hunting.",
+            "Liwei felt exhausted from walking up five flights of stairs during the apartment hunting.",
+            "Jiange scheduled a time to help them pack boxes for the apartment hunting.",
+            "Boss Zhang decided Linchen can take Monday morning off to finalize paperwork for the apartment hunting."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-30",
+          "focal_character": "Jiange",
+          "topic_anchor": "the running plan",
+          "topic": "Weekend workout coordination",
+          "characters_mentioned": [
+            "Jiange"
+          ],
+          "key_info": [
+            "On 2025-08-30, Jiange rescheduled the weekend session of the running plan to Sunday at 6:00 AM due to a track closure."
+          ],
+          "noise_info": [
+            "Wanghao concluded that carbon-plated shoes increase efficiency by 4% for the running plan.",
+            "Liwei felt annoyed that the running plan woke her up so early.",
+            "Linchen promised Mom he would drink enough water during the running plan.",
+            "Boss Zhang decided to sponsor a corporate 5k based on the running plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-08-30",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the running plan",
+          "topic": "Reviewing fitness metrics",
+          "characters_mentioned": [
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-08-30, Wanghao noted that his average pace improved to exactly 5:15 per kilometer during the running plan."
+          ],
+          "noise_info": [
+            "Sister Chen felt inspired by Wanghao's dedication to the running plan.",
+            "Jiange arranged a post-run stretch routine at 7:30 AM for the running plan.",
+            "Linchen seriously committed to Liwei that he won't talk about the running plan at dinner.",
+            "Mom asked if the running plan was making Linchen lose too much weight."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 8
+          }
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-31",
+          "focal_character": "Liwei",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Finalizing the celebration details",
+          "characters_mentioned": [
+            "Liwei"
+          ],
+          "key_info": [
+            "On 2025-08-31, Liwei felt overwhelmed with joy because Linchen finalized the custom menu for the anniversary plan."
+          ],
+          "noise_info": [
+            "Wanghao noted the custom menu for the anniversary plan cost exactly 1200 RMB.",
+            "Jiange scheduled a quick call at 2:00 PM to discuss the anniversary plan.",
+            "Boss Zhang decided to send a bottle of wine to the venue for the anniversary plan.",
+            "Linchen promised Mom he would send pictures of the dinner for the anniversary plan."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-31",
+          "focal_character": "Jiange",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Logistics for the cake",
+          "characters_mentioned": [
+            "Jiange"
+          ],
+          "key_info": [
+            "On 2025-08-31, Jiange rescheduled picking up the custom cake for the anniversary plan to exactly 10:00 AM."
+          ],
+          "noise_info": [
+            "Sister Chen felt nervous about keeping the cake safe for the anniversary plan.",
+            "Wanghao concluded the cake for the anniversary plan weighs exactly 3 kilograms.",
+            "Linchen promised Liwei that the dessert for the anniversary plan would be perfect.",
+            "Boss Zhang decided to let Linchen leave early to manage the anniversary plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 6,
+            "session_index": 8
+          }
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-08-31",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Approving time off",
+          "characters_mentioned": [
+            "Boss Zhang"
+          ],
+          "key_info": [
+            "On 2025-08-31, Boss Zhang decided to grant Linchen a full day off on Friday instead of a half-day to prepare for the anniversary plan."
+          ],
+          "noise_info": [
+            "Liwei felt incredibly relieved that Linchen got more time off for the anniversary plan.",
+            "Wanghao noted that Linchen's PTO balance for the anniversary plan was exactly 14 hours.",
+            "Jiange scheduled a gym session with Linchen on the morning of the anniversary plan.",
+            "Mom promised to call and wish them well during the anniversary plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 7,
+            "session_index": 10
+          }
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "date_range": "2025-09-01 ~ 2025-09-07",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the anniversary plan",
+        "the Double Eleven sale"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-09-01",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Finalizing the travel roster again",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-09-01, Boss Zhang decided that Wanghao will accompany Linchen for exactly one day of the Shenzhen trip to handle a VIP client."
+          ],
+          "noise_info": [
+            "Boss Zhang felt a bit stressed about the rising hotel costs for the Shenzhen trip.",
+            "Boss Zhang mentioned that high-speed rail tickets for the Shenzhen trip are selling out quickly.",
+            "Boss Zhang promised to buy the team coffee during the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 8,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-09-01",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Reacting to the roster update",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-09-01, Sister Chen felt cautiously optimistic because Wanghao is partially back on the Shenzhen trip roster, slightly easing her on-call anxiety."
+          ],
+          "noise_info": [
+            "Sister Chen noted that 3 critical microservices need extra monitoring during the Shenzhen trip.",
+            "Sister Chen decided to order takeout every night to save time during the Shenzhen trip.",
+            "Sister Chen scheduled a quick sync meeting for the Shenzhen trip at 2:00 PM."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-09-02",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Adjusting the budget",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-02, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 5500 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Liwei noted that they have viewed exactly 14 units so far during the apartment hunting.",
+            "Liwei scheduled the next viewing for the apartment hunting at 6:00 PM on Thursday.",
+            "Liwei decided they should definitely buy new blackout curtains after the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 8,
+            "session_index": 1
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-09-03",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Updating the lease timeline",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-03, Linchen promised Mom he will officially sign a lease by next Friday instead of Wednesday for the apartment hunting."
+          ],
+          "noise_info": [
+            "Mom felt incredibly nostalgic about her own first home while discussing the apartment hunting.",
+            "Mom noted that the standard security deposit is 2 months' rent for the apartment hunting.",
+            "Mom decided to mail Linchen a traditional housewarming gift after the apartment hunting concludes."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 8,
+            "session_index": 4
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-04",
+          "focal_character": "Jiange",
+          "topic_anchor": "the anniversary plan",
+          "topic": "Adjusting the cake pickup",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-04, Jiange rescheduled picking up the custom cake for the anniversary plan to exactly 11:30 AM due to bakery delays."
+          ],
+          "noise_info": [
+            "Jiange felt very excited to see the final custom design for the anniversary plan.",
+            "Jiange noted the multi-tiered cake for the anniversary plan weighs nearly 4 pounds.",
+            "Jiange decided to drive his larger SUV to ensure safe transport for the anniversary plan."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 8,
+            "session_index": 8
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-04",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Double Eleven sale",
+          "topic": "Planning Q4 load",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-04, Boss Zhang decided that the entire backend team will enter a strict code freeze two weeks before the Double Eleven sale."
+          ],
+          "noise_info": [
+            "Boss Zhang felt a bit nostalgic about the chaos of last year's Double Eleven sale.",
+            "Boss Zhang noted that the Double Eleven sale usually generates a 40% spike in quarterly revenue.",
+            "Boss Zhang scheduled a cross-department kickoff meeting for the Double Eleven sale tomorrow morning."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-09-05",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Double Eleven sale",
+          "topic": "Capacity planning",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-05, Wanghao concluded that the payment gateway needs to handle at least 20,000 TPS for the Double Eleven sale.",
+            "On 2025-09-05, Wanghao noted that they must provision exactly 50 extra database shards for the Double Eleven sale."
+          ],
+          "noise_info": [
+            "Wanghao felt highly anxious about being on primary call during the Double Eleven sale.",
+            "Wanghao promised to buy midnight snacks for the infrastructure team during the Double Eleven sale.",
+            "Wanghao scheduled an initial load testing session for the Double Eleven sale next Monday."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-09-06",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Double Eleven sale",
+          "topic": "Reviewing the dashboards",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-09-06, Sister Chen felt a sudden wave of dread after seeing the massive traffic projections for the Double Eleven sale."
+          ],
+          "noise_info": [
+            "Sister Chen noted that monitoring the Double Eleven sale requires tracking 15 separate Grafana dashboards.",
+            "Sister Chen decided to write a comprehensive new runbook for the Double Eleven sale.",
+            "Sister Chen scheduled her compensatory time off to immediately follow the Double Eleven sale."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-07",
+          "focal_character": "Liwei",
+          "topic_anchor": "the anniversary plan",
+          "topic": "The big night",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-07, Liwei felt overwhelmed with romantic bliss as Linchen finally executed the anniversary plan perfectly."
+          ],
+          "noise_info": [
+            "Liwei noted that the rooftop dinner for the anniversary plan cost exactly 1200 RMB.",
+            "Liwei decided to frame the custom printed menu from the anniversary plan.",
+            "Liwei scheduled a video call with her best friend to talk about the anniversary plan at 9:00 PM."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-07",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Wrapping up the integration",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-07, Wanghao concluded that the VIP client's API integration during the Shenzhen trip was successful with zero packet loss."
+          ],
+          "noise_info": [
+            "Wanghao felt intensely relieved that his brief portion of the Shenzhen trip was finally over.",
+            "Wanghao promised to share the updated presentation slides from the Shenzhen trip next week.",
+            "Wanghao decided to expense his airport taxi rides from the Shenzhen trip immediately."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "date_range": "2025-09-08 ~ 2025-09-14",
+      "topic_anchors": [
+        "the Shenzhen trip",
+        "the apartment hunting",
+        "the Double Eleven sale",
+        "the medical check-up reminder"
+      ],
+      "scenarios": [
+        {
+          "day": "Monday",
+          "date": "2025-09-08",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Adjusting the travel roster again",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-09-08, Boss Zhang decided that Wanghao will accompany Linchen for exactly two days of the Shenzhen trip instead of one."
+          ],
+          "noise_info": [
+            "Boss Zhang complained that the high-speed rail tickets for the Shenzhen trip are selling out too fast.",
+            "Boss Zhang felt extremely nostalgic thinking about his very first Shenzhen trip years ago.",
+            "Boss Zhang promised to buy the team dinner if they secure the client during the Shenzhen trip.",
+            "Boss Zhang noted that the hotel for the Shenzhen trip costs exactly 650 RMB per night."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 0
+          }
+        },
+        {
+          "day": "Monday",
+          "date": "2025-09-08",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Shenzhen trip",
+          "topic": "Reacting to the new travel schedule",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Wanghao"
+          ],
+          "key_info": [
+            "On 2025-09-08, Sister Chen felt a massive wave of relief because Wanghao's extended presence on the Shenzhen trip means she has even less solo on-call duty."
+          ],
+          "noise_info": [
+            "Sister Chen noted that the total budget for the Shenzhen trip was increased by 15%.",
+            "Sister Chen promised to water Linchen's desk plants during the Shenzhen trip.",
+            "Sister Chen scheduled a quick handover meeting for the Shenzhen trip at 2:00 PM.",
+            "Sister Chen decided to organize her own local tasks while the guys are on the Shenzhen trip."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Tuesday",
+          "date": "2025-09-09",
+          "focal_character": "Mom",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Updating Mom on the lease signing",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-09, Linchen promised Mom he will officially sign a lease by Sunday instead of Friday for the apartment hunting due to a landlord delay."
+          ],
+          "noise_info": [
+            "Mom felt incredibly anxious about the high rent prices they encountered during the apartment hunting.",
+            "Mom noted that the standard agency fee for the apartment hunting is exactly 2% of the annual rent.",
+            "Mom decided that Linchen must buy new curtains immediately after concluding the apartment hunting.",
+            "Mom scheduled a family WeChat call for 8 PM to discuss the apartment hunting."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 3
+          }
+        },
+        {
+          "day": "Wednesday",
+          "date": "2025-09-10",
+          "focal_character": "Liwei",
+          "topic_anchor": "the apartment hunting",
+          "topic": "Finalizing the maximum budget",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-10, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 6000 RMB for the apartment hunting."
+          ],
+          "noise_info": [
+            "Liwei scheduled one final evening viewing at 6:30 PM for the apartment hunting.",
+            "Liwei noted that the newest place they found during the apartment hunting is exactly 65 square meters.",
+            "Liwei felt completely exhausted from all the walking required for the apartment hunting.",
+            "Liwei decided they should celebrate with hot pot once the apartment hunting is over."
+          ],
+          "supersedes_key_info_ref": {
+            "week": 9,
+            "session_index": 2
+          }
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-11",
+          "focal_character": "Wanghao",
+          "topic_anchor": "the Double Eleven sale",
+          "topic": "Reviewing system capacity",
+          "characters_mentioned": [
+            "Wanghao",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-11, Wanghao concluded that the caching layer can handle 300,000 read requests per second for the Double Eleven sale.",
+            "On 2025-09-11, Wanghao noted that the average cache hit ratio must remain above 98% for the Double Eleven sale."
+          ],
+          "noise_info": [
+            "Wanghao felt incredibly stressed about the upcoming workload for the Double Eleven sale.",
+            "Wanghao scheduled a simulated load testing session at 11:00 PM for the Double Eleven sale.",
+            "Wanghao promised to buy his girlfriend a new handbag during the Double Eleven sale.",
+            "Wanghao decided to skip his weekend workouts to prep for the Double Eleven sale."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Thursday",
+          "date": "2025-09-11",
+          "focal_character": "Boss Zhang",
+          "topic_anchor": "the Double Eleven sale",
+          "topic": "Allocating extra resources",
+          "characters_mentioned": [
+            "Boss Zhang",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-11, Boss Zhang decided to allocate an additional 50,000 RMB in cloud credits for the Double Eleven sale preparation."
+          ],
+          "noise_info": [
+            "Boss Zhang promised to order premium late-night snacks for the team during the Double Eleven sale.",
+            "Boss Zhang scheduled the official war room kickoff for Friday morning for the Double Eleven sale.",
+            "Boss Zhang felt extremely excited about the new revenue projections for the Double Eleven sale.",
+            "Boss Zhang noted that historical traffic spikes by 400% during the Double Eleven sale."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-09-12",
+          "focal_character": "Jiange",
+          "topic_anchor": "the medical check-up reminder",
+          "topic": "Booking the health screening",
+          "characters_mentioned": [
+            "Jiange",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-12, Jiange scheduled their joint appointment for the medical check-up reminder for next Saturday at 8:00 AM."
+          ],
+          "noise_info": [
+            "Jiange concluded that the comprehensive blood test package for the medical check-up reminder costs exactly 850 RMB.",
+            "Jiange felt slightly nervous about his cholesterol levels before the medical check-up reminder.",
+            "Jiange promised to fast for exactly 12 hours before the medical check-up reminder.",
+            "Jiange decided to drive them both to the clinic for the medical check-up reminder."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Friday",
+          "date": "2025-09-12",
+          "focal_character": "Mom",
+          "topic_anchor": "the medical check-up reminder",
+          "topic": "Discussing health with Mom",
+          "characters_mentioned": [
+            "Mom",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-12, Linchen promised Mom he will forward her the full PDF report from the medical check-up reminder as soon as he receives it."
+          ],
+          "noise_info": [
+            "Mom decided that Linchen should eat significantly more vegetables after the medical check-up reminder.",
+            "Mom scheduled a follow-up call at 9:00 PM next Saturday to discuss the medical check-up reminder.",
+            "Mom felt deeply relieved that Linchen finally acted on the medical check-up reminder.",
+            "Mom noted that her own blood pressure was 120/80 during her last medical check-up reminder."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Saturday",
+          "date": "2025-09-13",
+          "focal_character": "Liwei",
+          "topic_anchor": "the medical check-up reminder",
+          "topic": "Morning conversation about health",
+          "characters_mentioned": [
+            "Liwei",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-13, Liwei felt incredibly reassured because Linchen was taking his health seriously with the medical check-up reminder."
+          ],
+          "noise_info": [
+            "Liwei noted that the chosen clinic for the medical check-up reminder is exactly 5 kilometers away.",
+            "Liwei scheduled an Uber for 7:30 AM to help Linchen get to the medical check-up reminder.",
+            "Liwei decided they should get a hearty brunch immediately after the medical check-up reminder.",
+            "Liwei promised to remind Linchen to drink water before the medical check-up reminder."
+          ],
+          "supersedes_key_info_ref": null
+        },
+        {
+          "day": "Sunday",
+          "date": "2025-09-14",
+          "focal_character": "Sister Chen",
+          "topic_anchor": "the Double Eleven sale",
+          "topic": "Weekend prep work",
+          "characters_mentioned": [
+            "Sister Chen",
+            "Linchen"
+          ],
+          "key_info": [
+            "On 2025-09-14, Sister Chen felt a sudden burst of motivation to optimize her database queries ahead of the Double Eleven sale."
+          ],
+          "noise_info": [
+            "Sister Chen noted that her unoptimized queries currently take exactly 250ms on average for the Double Eleven sale.",
+            "Sister Chen decided to implement a new Redis cluster specifically for the Double Eleven sale.",
+            "Sister Chen promised to review Wanghao's integration code for the Double Eleven sale by Monday.",
+            "Sister Chen scheduled a quick sync with the frontend team at 10 AM regarding the Double Eleven sale."
+          ],
+          "supersedes_key_info_ref": null
+        }
+      ]
+    }
+  ]
+}

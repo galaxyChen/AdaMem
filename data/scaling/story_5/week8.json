@@ -1,0 +1,477 @@
+{
+  "week": 8,
+  "conversations": [
+    {
+      "session_id": "w8_s1",
+      "day": "Monday",
+      "date": "2025-08-25",
+      "topic": "Adjusting the anniversary dinner schedule",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to make an update to the anniversary plan with Liwei."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! You currently have this Friday night blocked off for it. What's changing?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I just talked to her and I seriously committed to Liwei that I will keep Saturday night entirely free for the anniversary plan instead of Friday night. I mentioned I wanted to eat at a French restaurant for the dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've moved the dedicated anniversary block from Friday to Saturday night. A French restaurant sounds incredibly romantic! Do you have a specific place in mind?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet. Liwei suggested we should wear matching outfits for the anniversary plan, which is pretty cute. The only issue is I pointed out that the weather forecast looks rainy for it."
+        },
+        {
+          "role": "assistant",
+          "content": "Matching outfits will look great, rain or shine! Just make sure to grab a nice umbrella. Should I help you look up some indoor French places?"
+        },
+        {
+          "role": "user",
+          "content": "No need right now, I'll browse some options later tonight. Just make sure Saturday night is completely locked down so I don't mess up my promise to her."
+        },
+        {
+          "role": "assistant",
+          "content": "Consider it locked. Saturday night is entirely protected for your anniversary with Liwei."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-25, Linchen seriously committed to Liwei that he will keep Saturday night entirely free for the anniversary plan instead of Friday night."
+      ]
+    },
+    {
+      "session_id": "w8_s2",
+      "day": "Monday",
+      "date": "2025-08-25",
+      "topic": "Planning the upcoming team building",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the team offsite",
+      "characters_mentioned": [
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Boss Zhang finally made a call on the team offsite today."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh nice! Where is the team heading?"
+        },
+        {
+          "role": "user",
+          "content": "He decided that the team offsite will be held at a mountain resort in mid-September. It's funny, he was talking about how he used to go camping a lot before he actually started planning this offsite."
+        },
+        {
+          "role": "assistant",
+          "content": "A mountain resort in September sounds awesome. The weather should be perfect for it."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, though someone joked during the meeting that they really hope there are no mosquitoes at the team offsite. I'm actually wondering if I should bring my new camera to it."
+        },
+        {
+          "role": "assistant",
+          "content": "You definitely should bring the camera! The scenery will probably be worth it. Just don't forget to pack some bug spray just in case."
+        },
+        {
+          "role": "user",
+          "content": "Good call. I'll probably draft up a packing list later this week once we get the exact dates. That's pretty much it for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Just let me know when you're ready to make that list!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-25, Boss Zhang decided that the team offsite will be held at a mountain resort in mid-September."
+      ]
+    },
+    {
+      "session_id": "w8_s3",
+      "day": "Tuesday",
+      "date": "2025-08-26",
+      "topic": "Setting up a new morning routine",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to set up a new morning routine. I'm feeling highly motivated to lose weight through the running plan Jiange and I just talked about."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! A morning run is a great way to kickstart the day and hit those goals. Did you guys decide on a time?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we just locked it in today. I scheduled the running plan with Jiange for Wednesday mornings at 6:30 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, Wednesday mornings at 6:30 AM. I'll add that to your schedule. Is Jiange bringing any special gear?"
+        },
+        {
+          "role": "user",
+          "content": "Oh yeah, he mentioned he bought new carbon-plated shoes for the running plan, so he's totally ready. We also discussed how hydration is super important before starting the running plan, so we don't cramp up."
+        },
+        {
+          "role": "assistant",
+          "content": "Carbon-plated shoes mean he's not messing around! And yes, drinking some water right when you wake up is a smart move. Need me to set an alarm for you?"
+        },
+        {
+          "role": "user",
+          "content": "That's alright, I'll set my own phone alarm for 6:00 AM so I have time to drink water and stretch. Just wanted to get the routine down."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. You're all set for tomorrow morning. Have a great first run with Jiange!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-26, Linchen scheduled the running plan with Jiange for Wednesday mornings at 6:30 AM."
+      ]
+    },
+    {
+      "session_id": "w8_s4",
+      "day": "Tuesday",
+      "date": "2025-08-26",
+      "topic": "Reviewing the new rendering component",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up the session for the new rendering component. Someone actually poked their head in and asked if the code review was going to take longer than an hour."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a marathon session! Did it end up dragging on?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, a bit. Honestly, I felt a bit annoyed by all the nitpicks during the code review. We spent way too much time on minor styling details."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, nitpicks are the worst when you're trying to push a major refactor. Did you at least get some good news on the performance side?"
+        },
+        {
+          "role": "user",
+          "content": "We did get to the important stuff eventually. Wanghao concluded during the code review that the new virtual list component reduces render time by 15ms. So the refactoring effort is definitely paying off."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive win! A 15ms reduction is going to make the classroom feel so much snappier. Are you guys done for the day now?"
+        },
+        {
+          "role": "user",
+          "content": "Just about. Wanghao mentioned he wants to grab coffee after finishing the code review, so I'm heading downstairs to meet him now."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome, you definitely earned that break. Enjoy the coffee!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-26, Wanghao concluded during the code review that the new virtual list component reduces render time by 15ms."
+      ]
+    },
+    {
+      "session_id": "w8_s5",
+      "day": "Wednesday",
+      "date": "2025-08-27",
+      "topic": "Chatting by the water cooler",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the team offsite",
+      "characters_mentioned": [
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just ran into Sister Chen by the water cooler. We were talking about the team offsite Boss Zhang announced on Monday."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How is she feeling about the mountain resort idea?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, she felt a massive surge of excitement about the team offsite. She told me she desperately needs a break from the city. She was also asking if we're going to take a bus or if we'll be driving there."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes total sense, everyone could use a breather right now. Did you guys figure out the transportation?"
+        },
+        {
+          "role": "user",
+          "content": "Not officially, but I estimated we'd need about 2 hours to travel to the team offsite. After that, we just ended up discussing the potential food menu for the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a fun break from work! Let's hope the food turns out great."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-27, Sister Chen felt a massive surge of excitement about the team offsite because she desperately needed a break from the city."
+      ]
+    },
+    {
+      "session_id": "w8_s6",
+      "day": "Wednesday",
+      "date": "2025-08-27",
+      "topic": "Catching up with family",
+      "focal_character": "Mom",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Mom"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with my mom. We were catching up and chatting about the anniversary plan with Liwei this Saturday."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How's she doing? Is she excited for you two?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she's doing great. I actually felt a real wave of warmth talking about the anniversary plan with her. She was so supportive and even suggested we buy a cake to celebrate properly."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really sweet idea from her. Are you going to get one?"
+        },
+        {
+          "role": "user",
+          "content": "Probably! She also mentioned she saw a nice gift idea on TV for the anniversary plan, though she wouldn't tell me what it was. But anyway, I had to update her on one thing."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? What did you change?"
+        },
+        {
+          "role": "user",
+          "content": "I realized I want to be fully present on Saturday, so I promised Mom I will call her the morning after the anniversary plan instead of sending photos during the dinner like I originally said."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call! Keeping your phone away during the actual date is a great move, and I'm sure she'll love hearing all about it the next morning."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-27, Linchen promised Mom he will call her the morning after the anniversary plan instead of sending photos during the dinner."
+      ]
+    },
+    {
+      "session_id": "w8_s7",
+      "day": "Thursday",
+      "date": "2025-08-28",
+      "topic": "Updating engineering processes",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up a meeting with Boss Zhang about updating our engineering processes, specifically focusing on the code review."
+        },
+        {
+          "role": "assistant",
+          "content": "Welcome back! How did the meeting go? Any major changes coming your way?"
+        },
+        {
+          "role": "user",
+          "content": "It was a bit all over the place. Boss Zhang complained that the current tool for the code review is way too clunky. We even got sidetracked and spent 10 minutes discussing the UI layout of the dashboard during the code review."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic tangent. Did he actually finalize any new processes after complaining about the tools?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he did. He officially decided that the code review process must include a mandatory automated security scan from now on. I'm honestly feeling really anxious about the new strict rules for the code review, it's just going to add more bottlenecks."
+        },
+        {
+          "role": "assistant",
+          "content": "I understand why that would make you anxious, especially with your upcoming deadlines. I'll make sure to note his decision about the mandatory scan."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. Let's just hope setting up that automated scan isn't as painful as he makes it sound. That's all the updates for now."
+        },
+        {
+          "role": "assistant",
+          "content": "You've got this, Linchen. Just take it one step at a time. Let me know if you need help looking into security scanning tools later!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-28, Boss Zhang decided that the code review process must include a mandatory automated security scan."
+      ]
+    },
+    {
+      "session_id": "w8_s8",
+      "day": "Friday",
+      "date": "2025-08-29",
+      "topic": "Adjusting workout times",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my schedule? I need to change the running plan with Jiange. Wednesday mornings at 6:30 AM is just too early because of my morning meetings. I'm moving it to Thursday mornings instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! I've rescheduled the running plan with Jiange to Thursday mornings. How are the runs going, by the way?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good. Jiange noted that the park is quite beautiful during the running plan, especially with the early morning mist."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds really refreshing! A nice change of pace from the classroom refactoring. Anything else you need me to note down?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I promised I would buy breakfast after the running plan. We also debated whether to listen to podcasts or music during the run, but we haven't settled that yet."
+        },
+        {
+          "role": "assistant",
+          "content": "Breakfast is a great post-run motivator. I'll let you two figure out the audio situation. Need me to set a reminder for the breakfast?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, I'll remember the food. Just make sure the Thursday morning slot is locked in for the running plan so I don't doublebook."
+        },
+        {
+          "role": "assistant",
+          "content": "All set. Your running plan with Jiange is locked in for Thursday mornings. Have a great run next week!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-29, Linchen rescheduled the running plan with Jiange to Thursday mornings."
+      ]
+    },
+    {
+      "session_id": "w8_s9",
+      "day": "Saturday",
+      "date": "2025-08-30",
+      "topic": "Weekend relaxation",
+      "focal_character": "Liwei",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I am completely dead. Liwei and I just tried the first session of that running plan I set up. I am feeling a wave of sheer physical exhaustion right now."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, sounds rough! Make sure to hydrate. Did you guys push it too hard on the first day?"
+        },
+        {
+          "role": "user",
+          "content": "Probably. Liwei even asked me how many kilometers I actually covered during the running plan because I looked so out of breath. I think it was barely three."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, three kilometers for the first session isn't bad at all! How's the body holding up otherwise?"
+        },
+        {
+          "role": "user",
+          "content": "Not great, my knees are slightly sore from the running plan. I might need to ice them in a bit."
+        },
+        {
+          "role": "assistant",
+          "content": "Definitely ice them, don't want to risk an injury. What's the plan for the rest of your Saturday? Just recovering?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. After discussing the running plan and how tired we were, Liwei and I just put on a movie to relax. I am not moving from this couch for the rest of the night."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect way to spend the evening. Enjoy the movie and get some well-deserved rest!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-30, Linchen felt a wave of sheer physical exhaustion with Liwei after attempting the first session of the running plan."
+      ]
+    },
+    {
+      "session_id": "w8_s10",
+      "day": "Sunday",
+      "date": "2025-08-31",
+      "topic": "Budget calculations",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the team offsite",
+      "characters_mentioned": [
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just chatting with Wanghao about the team offsite Boss Zhang planned for mid-September. Wanghao was super annoyed because he had to fill out a bunch of extra forms just to get the budget sorted."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, classic corporate red tape. Did he finally get the numbers approved after all that?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he finally finished the math. Wanghao concluded that the allocated budget for the team offsite is exactly 1500 RMB per person."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 1500 RMB per head. That should be a decent amount for the mountain resort. Are you helping him manage it?"
+        },
+        {
+          "role": "user",
+          "content": "A little bit. I promised to help Wanghao collect the receipts during the team offsite so he doesn't lose his mind dealing with everyone's expenses."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid move. Tracking down receipts from a bunch of engineers sounds like a nightmare. Any other logistics to plan?"
+        },
+        {
+          "role": "user",
+          "content": "We actually just discussed whether we should buy snacks in bulk for the team offsite to stretch the budget a bit further. Anyway, I should get back to coding."
+        },
+        {
+          "role": "assistant",
+          "content": "Buying in bulk is definitely the way to go! Have a good coding session, let me know if you need anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-31, Wanghao concluded that the allocated budget for the team offsite is exactly 1500 RMB per person."
+      ]
+    }
+  ]
+}

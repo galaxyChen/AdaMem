@@ -1,0 +1,479 @@
+{
+  "week": 8,
+  "conversations": [
+    {
+      "session_id": "w8_s1",
+      "day": "Monday",
+      "date": "2025-08-25",
+      "topic": "Finalizing travel roster",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, quick update on the Shenzhen trip. Boss Zhang just made a final call. Wanghao won't be accompanying me at all for the Shenzhen trip due to a new client escalation."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. So it's officially a solo trip for you now. Do you need me to adjust your travel itinerary?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please do. My flight for the Shenzhen trip departs at 8:00 AM. Also, because Wanghao isn't coming, exactly 3 client meetings were canceled for the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "I've updated the flight departure to 8:00 AM and removed those 3 client meetings from your calendar. Anything else I should note?"
+        },
+        {
+          "role": "user",
+          "content": "Just a personal reminder. Wanghao felt very disappointed about missing the Shenzhen trip, so I promised to bring back souvenirs from the Shenzhen trip to cheer him up."
+        },
+        {
+          "role": "assistant",
+          "content": "That's nice of you! I'll set a reminder for you to grab some souvenirs before you head back. Need help reviewing those architecture slides before you fly out?"
+        },
+        {
+          "role": "user",
+          "content": "No, I'm good on the slides. Just wanted to get the logistics finalized. Thanks!"
+        },
+        {
+          "role": "assistant",
+          "content": "You're welcome! Let me know if anything else changes. Safe travels!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-25, Boss Zhang decided that Wanghao will not accompany Linchen at all for the Shenzhen trip due to a new client escalation."
+      ]
+    },
+    {
+      "session_id": "w8_s2",
+      "day": "Tuesday",
+      "date": "2025-08-26",
+      "topic": "Discussing rising rent prices",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, apartment hunting is getting ridiculous. I was just checking the listings, and the average rent in the tech district is now 12,000 RMB. Boss Zhang advised me to negotiate hard, but these landlords aren't budging at all."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a crazy jump! 12k is steep, even for the tech district. Are you and Liwei still looking exclusively around there, or are you expanding the search area?"
+        },
+        {
+          "role": "user",
+          "content": "We're looking a bit further out now. The agent actually scheduled a viewing for us at 6:30 PM today. I had a long talk with Liwei about the rising prices, and I seriously committed to her that we will strictly cap our budget increase at exactly 5000 RMB for the apartment hunting. We just can't justify spending more than that."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move setting a hard boundary at 5000 RMB. It's way too easy to get carried away when you see a nice place. Does the one you're seeing tonight check all your other boxes?"
+        },
+        {
+          "role": "user",
+          "content": "Hopefully. We'll see if it has a gas stove, which Mom suggested we look for. She insists electric stoves completely ruin a good stir-fry, and she's probably right."
+        },
+        {
+          "role": "assistant",
+          "content": "Your mom definitely has a point about the wok hei! Good luck with the viewing at 6:30. Let me know if you want me to crunch any numbers or draft a negotiation message for the landlord afterwards."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-26, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 5000 RMB for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w8_s3",
+      "day": "Wednesday",
+      "date": "2025-08-27",
+      "topic": "Reacting to the roster change",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you prep my notes for the on-call handover meeting for the Shenzhen trip? It's scheduled for 4:00 PM today."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing, I'll set up the notes for the 4:00 PM handover. How is the team feeling about the coverage?"
+        },
+        {
+          "role": "user",
+          "content": "It's a bit of a mess. Sister Chen felt completely devastated today because Wanghao was pulled from the Shenzhen trip, leaving her on-call alone again."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, that's rough for her, especially since she was so relieved when he was added back. Is there a plan to help her out?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it's tough. Wanghao concluded that the on-call load will increase by 40% during the Shenzhen trip. To help out, I promised to monitor the Slack channels remotely during the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid backup plan, though it means you'll be pretty busy. Is management stepping in at all?"
+        },
+        {
+          "role": "user",
+          "content": "Thankfully, yes. Boss Zhang decided to route non-critical alerts to the offshore team during the Shenzhen trip, so she shouldn't get pinged for minor stuff."
+        },
+        {
+          "role": "assistant",
+          "content": "That should definitely take some of the pressure off her. I'll make sure all these details are organized for your meeting."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-27, Sister Chen felt completely devastated because Wanghao was pulled from the Shenzhen trip, leaving her on-call alone again."
+      ]
+    },
+    {
+      "session_id": "w8_s4",
+      "day": "Thursday",
+      "date": "2025-08-28",
+      "topic": "Preparing the presentation deck",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm wrapping up the deck for the Shenzhen trip. Can you note down some updates?"
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What's new with the presentation?"
+        },
+        {
+          "role": "user",
+          "content": "So, Wanghao reviewed the flow today and concluded that we need to present exactly 18 architecture slides during the Shenzhen trip, up from the 15 we originally planned."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, updated the count to 18 architecture slides per Wanghao. How is everyone else feeling about it?"
+        },
+        {
+          "role": "user",
+          "content": "Sister Chen felt super relieved that the deck for the Shenzhen trip was finally done. Oh, and Boss Zhang decided the Q&A session for the Shenzhen trip should be open-ended, so we aren't prepping specific slides for that."
+        },
+        {
+          "role": "assistant",
+          "content": "Glad the deck is finally off your plate! An open-ended Q&A should keep things flexible. When are you doing a run-through?"
+        },
+        {
+          "role": "user",
+          "content": "The rehearsal for the Shenzhen trip is scheduled for Friday morning. I actually promised to rehearse the presentation for the Shenzhen trip twice before flying out, so it's going to be a busy morning."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Two rehearsals tomorrow morning should have you perfectly dialed in. Let me know if you need help timing it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-28, Wanghao concluded that they need to present exactly 18 architecture slides during the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w8_s5",
+      "day": "Friday",
+      "date": "2025-08-29",
+      "topic": "Weekly family catch-up",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up my weekly catch-up call with Mom. We spent the whole time talking about the apartment hunting. Honestly, Liwei felt completely exhausted today from walking up five flights of stairs at that last viewing."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, five flights of stairs is quite the workout! Did you and Liwei manage to narrow down the options, or is Mom still waiting for more video tours?"
+        },
+        {
+          "role": "user",
+          "content": "We actually made our final choice! I promised Mom I will officially sign a lease by next Wednesday for the apartment hunting. Boss Zhang even decided I can take Monday morning off to finalize the paperwork."
+        },
+        {
+          "role": "assistant",
+          "content": "That's huge news! Congrats on finally finding the right place. Taking Monday morning off will definitely take the pressure off. How's the location for your daily routine?"
+        },
+        {
+          "role": "user",
+          "content": "It's perfect. Wanghao noted that the commute from the new place would be exactly 22 minutes. Plus, Jiange already scheduled a time to help us pack boxes for the move."
+        },
+        {
+          "role": "assistant",
+          "content": "A 22-minute commute and free packing labor from Jiange? Sounds like a massive win. Need me to set any reminders for Monday's paperwork?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, just remind me Sunday night to double-check that I have all my IDs and the deposit ready. I want this done smoothly."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it. I'll ping you Sunday evening so you're locked and loaded for Monday morning. Enjoy the rest of your Friday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-29, Linchen promised Mom he will officially sign a lease by next Wednesday for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w8_s6",
+      "day": "Saturday",
+      "date": "2025-08-30",
+      "topic": "Weekend workout coordination",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar? Jiange just texted me. He rescheduled our weekend session for the running plan to Sunday at 6:00 AM because the local track is closed today."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've moved your running session with Jiange to Sunday at 6:00 AM. Do you need me to adjust any other weekend plans?"
+        },
+        {
+          "role": "user",
+          "content": "Not right now. Honestly, it's probably for the best we delayed it. Liwei felt really annoyed that my alarm for the running plan woke her up so early this morning. I'll need to sneak out quieter tomorrow."
+        },
+        {
+          "role": "assistant",
+          "content": "I'll make a note to remind you to keep the noise down tomorrow morning! Are you planning to test out any new gear for the run?"
+        },
+        {
+          "role": "user",
+          "content": "Maybe soon. Wanghao concluded that carbon-plated shoes increase efficiency by 4% for the running plan, so I might look into buying a pair. Also, I promised my Mom I would drink enough water during the running plan, so remind me to fill my hydration flask tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I'll set a reminder to prep your water flask tonight. A 4% efficiency boost from those shoes sounds like a great edge if you're getting competitive."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it's actually turning into a bigger deal at work. Boss Zhang decided to sponsor a corporate 5k based on our running plan! So I definitely need to keep my pace up."
+        },
+        {
+          "role": "assistant",
+          "content": "That's amazing! A corporate 5k is a fantastic goal to train for. You and Jiange are going to crush it. Let me know if you need help finding those carbon-plated shoes later."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-30, Jiange rescheduled the weekend session of the running plan to Sunday at 6:00 AM due to a track closure."
+      ]
+    },
+    {
+      "session_id": "w8_s7",
+      "day": "Saturday",
+      "date": "2025-08-30",
+      "topic": "Reviewing fitness metrics",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you log a quick update on the running plan for me? I was chatting with Wanghao today, and he noted that his average pace improved to exactly 5:15 per kilometer."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 5:15 per kilometer is a fantastic pace! I've logged Wanghao's new metric. How are you holding up with the plan yourself?"
+        },
+        {
+          "role": "user",
+          "content": "I'm doing okay, though Mom asked if the running plan was making me lose too much weight. It's funny, Sister Chen also mentioned today that she felt really inspired by Wanghao's dedication to the whole routine."
+        },
+        {
+          "role": "assistant",
+          "content": "Moms will always worry! And it's cool that Wanghao's consistency is rubbing off on the team. Are you and Jiange still set for your rescheduled Sunday run?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, since we got bumped to Sunday at 6:00 AM, Jiange actually arranged a post-run stretch routine at 7:30 AM for the running plan. We definitely need it to avoid injuries."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart addition from Jiange. A solid stretch routine makes a huge difference. Anything else on your mind before you sign off for the weekend?"
+        },
+        {
+          "role": "user",
+          "content": "Just one thing to keep in mind for tonight. I seriously committed to Liwei that I won't talk about the running plan at dinner. She's definitely heard enough about our paces and stretches for one week!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, understood! I'll keep my lips sealed on the running metrics so you can enjoy a completely non-fitness-related dinner with Liwei. Have a great evening!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-30, Wanghao noted that his average pace improved to exactly 5:15 per kilometer during the running plan."
+      ]
+    },
+    {
+      "session_id": "w8_s8",
+      "day": "Sunday",
+      "date": "2025-08-31",
+      "topic": "Finalizing the celebration details",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I just finalized the custom menu for the anniversary plan. I showed it to Liwei and she was absolutely overwhelmed with joy. It was totally worth the effort."
+        },
+        {
+          "role": "assistant",
+          "content": "That's wonderful to hear! I know you've been putting a lot of thought into this. What did you end up putting on the menu?"
+        },
+        {
+          "role": "user",
+          "content": "A mix of her favorite seafood dishes and a special dessert. Wanghao actually helped me look over the catering quotes earlier, and he noted the custom menu for the anniversary plan cost exactly 1200 RMB. Pretty reasonable for a private rooftop dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great deal for a custom rooftop setup! Are the rest of the logistics all set?"
+        },
+        {
+          "role": "user",
+          "content": "Just about. Jiange scheduled a quick call at 2:00 PM today to discuss the anniversary plan, mostly to coordinate picking up the cake. Oh, and get this—Boss Zhang decided to send a bottle of wine to the venue for the anniversary plan!"
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, that's really generous of Boss Zhang! It sounds like everything is coming together perfectly. Anything else you need me to keep track of?"
+        },
+        {
+          "role": "user",
+          "content": "Just one thing. I promised Mom I would send pictures of the dinner for the anniversary plan. So please remind me tomorrow evening to snap a few good photos before we start eating!"
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! I'll set a reminder to make sure you take some great photos for your mom before you dig in. Good luck with the 2:00 PM call with Jiange!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-31, Liwei felt overwhelmed with joy because Linchen finalized the custom menu for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w8_s9",
+      "day": "Sunday",
+      "date": "2025-08-31",
+      "topic": "Logistics for the cake",
+      "focal_character": "Jiange",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Jiange"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I'm finalizing the logistics for the anniversary plan today. Boss Zhang actually decided to let me leave early to manage the anniversary plan, which is a huge relief."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! Having that extra time will definitely take the pressure off. What's first on the agenda?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I promised Liwei that the dessert for the anniversary plan would be absolutely perfect. There's a slight change though. Jiange just rescheduled picking up the custom cake for the anniversary plan to exactly 10:00 AM this morning."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, updated the pickup time to 10:00 AM with Jiange. Are you guys bringing it straight to the office?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we are. It's huge, too. Wanghao saw the specs and concluded the cake for the anniversary plan weighs exactly 3 kilograms."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, a 3-kilogram cake is no joke! It's going to be a showstopper. Is there enough space in the office fridge?"
+        },
+        {
+          "role": "user",
+          "content": "Barely! Sister Chen felt really nervous about keeping the cake safe for the anniversary plan while it's in there. I told her not to stress too much, I'll grab it as soon as I head out."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame her for being nervous around a masterpiece like that! Everything sounds like it's coming together perfectly. Have an amazing anniversary tonight!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-31, Jiange rescheduled picking up the custom cake for the anniversary plan to exactly 10:00 AM."
+      ]
+    },
+    {
+      "session_id": "w8_s10",
+      "day": "Sunday",
+      "date": "2025-08-31",
+      "topic": "Approving time off",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I've got a great update regarding the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome! Did you get everything sorted out with the venue and the custom menu?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, but even better: Boss Zhang decided to grant me a full day off on Friday instead of a half-day to prepare for the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "That’s amazing! A full day will make setting up the rooftop and the violinist so much easier."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Liwei felt incredibly relieved that I got more time off for it. I was checking the system and Wanghao noted that my PTO balance for the anniversary plan was exactly 14 hours, so it worked out perfectly."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect timing with the PTO balance. Are you doing anything else with the extra free time?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Jiange scheduled a gym session with me on the morning of the anniversary plan. Oh, and my mom promised to call and wish us well during the anniversary plan too."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like you've got a fantastic day lined up. A morning workout, plenty of prep time, and a great evening ahead. Let me know if you need help organizing anything else!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-31, Boss Zhang decided to grant Linchen a full day off on Friday instead of a half-day to prepare for the anniversary plan."
+      ]
+    }
+  ]
+}

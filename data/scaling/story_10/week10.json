@@ -1,0 +1,480 @@
+{
+  "week": 10,
+  "conversations": [
+    {
+      "session_id": "w10_s1",
+      "day": "Monday",
+      "date": "2025-09-08",
+      "topic": "Finalizing the travel budget cuts",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of the meeting with Boss Zhang about the Shenzhen trip. Turns out the weather forecast for the trip looks rainy, which is kind of a bummer."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, that's annoying. Better remind the team to pack umbrellas! How did the rest of the meeting go?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty standard. Boss Zhang asked if anyone had dietary restrictions for the Shenzhen trip dinners, so I'll need to send out a quick poll later. Also, someone joked that the hotel pillows for the Shenzhen trip are always too soft, which got a good laugh."
+        },
+        {
+          "role": "assistant",
+          "content": "I can help you draft that poll whenever you're ready. Did you guys finalize the budget? Last time I checked, the cut was sitting at 15%."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we finally nailed it down. Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 18% instead of 15%. We're going to have to get a bit creative with our expenses."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, an 18% cut is definitely going to require some belt-tightening. I'll update the budget tracker with the new target. Anything else you need me to note down?"
+        },
+        {
+          "role": "user",
+          "content": "No, that's the main conclusion from the meeting. Let's just make sure that 18% figure is locked in for the planning spreadsheet."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. The 18% budget cut is locked and loaded. Let me know if you need help adjusting the specific line items later!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-08, Boss Zhang decided that the budget cut for the Shenzhen trip is finalized at 18% instead of 15%."
+      ]
+    },
+    {
+      "session_id": "w10_s2",
+      "day": "Tuesday",
+      "date": "2025-09-09",
+      "topic": "Changing the pickup plan for the gift",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Pixel 9 phone",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my reminder for Liwei's birthday gift. I know I previously said I'd get it Sunday, but I made a serious commitment to Liwei today that I'll pick up the Pixel 9 phone on Tuesday evening instead of Sunday morning."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! I've updated the pickup time for the Pixel 9 phone to Tuesday evening. Anything else you need me to note down for the pickup?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Liwei asked if the screen protector for the Pixel 9 phone comes pre-installed, so I need to ask them about that. We also discussed whether the charging cable for the Pixel 9 phone is braided."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call. I'll remind you to check on the screen protector and the braided cable when you're there. Ready to brave the mall?"
+        },
+        {
+          "role": "user",
+          "content": "Ugh, barely. The store layout for picking up the Pixel 9 phone is so confusing, I always get lost in there. But it's worth it, Liwei felt extremely excited about the Pixel 9 phone today because she has been waiting for the new camera features."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! She's going to love testing out those new camera features. Just take a deep breath when you get to the store—you'll navigate it just fine!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-09, Linchen made a serious commitment to Liwei to pick up the Pixel 9 phone on Tuesday evening instead of Sunday morning.",
+        "On 2025-09-09, Liwei felt extremely excited about the Pixel 9 phone because she had been waiting for the new camera features."
+      ]
+    },
+    {
+      "session_id": "w10_s3",
+      "day": "Wednesday",
+      "date": "2025-09-10",
+      "topic": "Adjusting the escort schedule",
+      "focal_character": "Jiange",
+      "topic_anchor": "the dentist appointment",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, update my calendar. Jiange just texted me about next Tuesday's follow-up for the dentist appointment. He rescheduled to accompany me at exactly 11:30 AM instead of the original 10:00 AM slot."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. I've moved your dentist follow-up with Jiange to 11:30 AM next Tuesday. Anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, though I was just complaining to him about the parking fees near the clinic for the dentist appointment. They charge an arm and a leg!"
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, clinic parking is the worst. At least Jiange is driving you again."
+        },
+        {
+          "role": "user",
+          "content": "Yeah. He's a weird guy though, he just asked me what flavor of mouthwash they use at the dentist appointment. Like, why would I know that?"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, maybe he's hoping for a nice mint instead of that weird medicinal flavor."
+        },
+        {
+          "role": "user",
+          "content": "Probably. We also spent like ten minutes debating whether the waiting room magazines for the dentist appointment are actually updated. He swears they're all from five years ago."
+        },
+        {
+          "role": "assistant",
+          "content": "He's probably right! Let me know if you need any reminders for the new 11:30 AM slot."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-10, Jiange rescheduled to accompany Linchen to the follow-up for the dentist appointment at exactly 11:30 AM next Tuesday instead of 10:00 AM."
+      ]
+    },
+    {
+      "session_id": "w10_s4",
+      "day": "Thursday",
+      "date": "2025-09-11",
+      "topic": "Updating the souvenir promise",
+      "focal_character": "Mom",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my shopping list for the Shenzhen trip? I just got off the phone with Mom."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! What are we changing for the trip?"
+        },
+        {
+          "role": "user",
+          "content": "Well, mostly she was just checking up on me. She asked how many t-shirts I packed for the Shenzhen trip, and then suggested taking a neck pillow because I mentioned the flight duration for the Shenzhen trip is about three hours."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic mom advice! A neck pillow is definitely a smart move for a three-hour flight. Did she want you to bring anything specific back?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she actually changed her mind about the souvenir. I promised Mom I would buy her favorite specialty snacks during the Shenzhen trip instead of tea. Can you make sure I don't forget?"
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've updated your reminder to buy her favorite specialty snacks instead of tea. Anything else you need me to note?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, that's everything for now. Thanks!"
+        },
+        {
+          "role": "assistant",
+          "content": "You're welcome! Have a safe flight and good luck packing!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-11, Linchen promised Mom he would buy her favorite specialty snacks during the Shenzhen trip instead of tea."
+      ]
+    },
+    {
+      "session_id": "w10_s5",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Testing the network for the broadcast",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm down at the venue right now. Wanghao and I were just discussing the seating arrangements in the main hall for the all-hands meeting."
+        },
+        {
+          "role": "assistant",
+          "content": "Gotcha. Getting everything prepped for the broadcast? How's the network testing going?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good, we just finished the stress tests. Wanghao concluded that the live stream for the all-hands meeting will consume exactly 500 Mbps of bandwidth. So the network should hold up fine."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome, that's a solid number to have. I'll make sure to note the 500 Mbps requirement. Anything else you guys need to figure out?"
+        },
+        {
+          "role": "user",
+          "content": "Not on the technical side. Mostly just gossiping now. Wanghao wondered if the CEO will wear a suit to the all-hands meeting, since he's been dressing down lately. Meanwhile, I just asked if there will be free pastries at the all-hands meeting. Priorities, right?"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, definitely priorities! Fingers crossed for the free pastries. Let me know if you need anything else before the meeting starts."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Wanghao concluded that the live stream for the all-hands meeting will consume exactly 500 Mbps of bandwidth."
+      ]
+    },
+    {
+      "session_id": "w10_s6",
+      "day": "Friday",
+      "date": "2025-09-12",
+      "topic": "Venting about presentation nerves",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm really freaking out today. I just realized I have to present my user-growth data to the entire company at the all-hands meeting later, and I'm extremely nervous about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Take a deep breath! It's completely normal to feel jittery before a big audience. Remember how much Boss Zhang praised your data presentation last month? You know this stuff inside out."
+        },
+        {
+          "role": "user",
+          "content": "I know, but the scale of this is terrifying. To make it worse, I was just chatting with Sister Chen, and she mentioned she actually prefers the old slide templates for the all-hands meeting. Now I'm second-guessing the whole new deck I built."
+        },
+        {
+          "role": "assistant",
+          "content": "Don't let that shake your confidence. Sister Chen might just be used to the old format, but your new charts are optimized and look great. Just focus on your delivery."
+        },
+        {
+          "role": "user",
+          "content": "Delivery is another worry. Do you know if the microphone setup for the all-hands meeting is wireless? I tend to pace around a lot when my anxiety spikes like this."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't have the exact AV specs, but usually, the main stage has a wireless lapel mic. You can ask the tech team to hook you up with one so you can move around freely."
+        },
+        {
+          "role": "user",
+          "content": "Good call, I'll ask them. Sister Chen and I were also just joking about the brand of bottled water provided at the all-hands meeting—it's always that weird, cheap tasting one. But honestly, with how dry my throat is getting from nerves, I'll probably chug three of them."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, whatever keeps the vocal cords working! Try to do some quick stretches before you go on. You're going to crush this, Linchen."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-12, Linchen became extremely nervous about the all-hands meeting because he has to present his data to the entire company."
+      ]
+    },
+    {
+      "session_id": "w10_s7",
+      "day": "Saturday",
+      "date": "2025-09-13",
+      "topic": "Setting the agenda limits",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up prep with Boss Zhang for the all-hands meeting. I'm still super nervous about presenting my data to the whole company."
+        },
+        {
+          "role": "assistant",
+          "content": "You're going to crush it! Your data is solid. How did the prep session go?"
+        },
+        {
+          "role": "user",
+          "content": "Not bad. Boss Zhang noted the lighting in the room for the all-hands meeting is a bit dim, so we might need to adjust the projector brightness. I also suggested playing some upbeat background music before it starts to get people energized."
+        },
+        {
+          "role": "assistant",
+          "content": "Upbeat music is a smart idea. It definitely helps break the ice before everyone settles in."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we even joked about the awkward silences that usually happen at the all-hands meeting while people are waiting for it to start. Anyway, he also made a firm call on the agenda."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? What's the final word on the agenda?"
+        },
+        {
+          "role": "user",
+          "content": "Boss Zhang decided that the Q&A segment of the all-hands meeting will be strictly limited to 15 minutes. So if people have extra questions, they'll just have to ping me offline."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, a hard 15-minute cap on the Q&A. That should actually take some pressure off you. Anything else you need me to prep for the presentation?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-13, Boss Zhang decided that the Q&A segment of the all-hands meeting will be strictly limited to 15 minutes."
+      ]
+    },
+    {
+      "session_id": "w10_s8",
+      "day": "Saturday",
+      "date": "2025-09-13",
+      "topic": "Scheduling a practice run",
+      "focal_character": "Jiange",
+      "topic_anchor": "the all-hands meeting",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm prepping for the all-hands meeting and it's driving me crazy. I have to complain—the required font sizes for these slides are ridiculously huge. I can barely fit my data in."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds super frustrating! Giant fonts and detailed data charts definitely don't mix well. How are you managing to fit everything?"
+        },
+        {
+          "role": "user",
+          "content": "I'm just splitting the charts across multiple slides. I was actually talking to Jiange about the venue setup earlier. We discussed the color of the stage backdrop for the all-hands meeting—it's going to be a dark navy blue."
+        },
+        {
+          "role": "assistant",
+          "content": "Dark navy blue is a solid background, it'll make your slides stand out nicely. Did Jiange have any good advice for the stage presence?"
+        },
+        {
+          "role": "user",
+          "content": "He mostly just asked if I bought a new laser pointer for the all-hands meeting. I haven't yet, but I probably should grab one so I can point out the metrics clearly."
+        },
+        {
+          "role": "assistant",
+          "content": "A good laser pointer is definitely a pro move, especially with those massive slides! Are you going to do a dry run beforehand?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, we just nailed down the time. Jiange scheduled to help me practice my presentation for the all-hands meeting at exactly 4:00 PM on Sunday."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome, I've got it logged! Sunday at 4:00 PM practice run with Jiange. You're going to crush the presentation!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-13, Jiange scheduled to help Linchen practice his presentation for the all-hands meeting at exactly 4:00 PM on Sunday."
+      ]
+    },
+    {
+      "session_id": "w10_s9",
+      "day": "Sunday",
+      "date": "2025-09-14",
+      "topic": "Analyzing device performance",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Pixel 9 phone",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just chatting with Wanghao about the Pixel 9 phone I finally picked up for Liwei. The unboxing experience was honestly super premium, way better than I expected."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! I bet Liwei was thrilled, especially since she's been so excited about the camera features. Did Wanghao appreciate the premium feel too?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, though we mostly got sidetracked. Wanghao mentioned he really liked the grippy texture of the silicone case for the Pixel 9 phone, but then we spent like ten minutes debating the aesthetics of the camera bump. I think it looks fine, but he thinks it sticks out too much."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic tech debate. Did you guys actually talk about how it performs for our app testing, or just critique the design?"
+        },
+        {
+          "role": "user",
+          "content": "We got to the performance eventually! We were analyzing how it handles our data-heavy dashboards. Wanghao ran some tests and concluded that the battery life on the Pixel 9 phone lasts exactly 18 hours under heavy load."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 18 hours under heavy load is seriously impressive. That pairs well with the 30% faster AI processing unit he benchmarked earlier this month."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. It's going to make our mobile user-growth testing much smoother without constantly reaching for a charger. Anyway, I need to get ready for my presentation practice with Jiange at 4 PM."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good! I'll note down Wanghao's battery benchmark. Good luck practicing for the all-hands meeting with Jiange!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-14, Wanghao concluded that the battery life on the Pixel 9 phone lasts exactly 18 hours under heavy load."
+      ]
+    },
+    {
+      "session_id": "w10_s10",
+      "day": "Sunday",
+      "date": "2025-09-14",
+      "topic": "Saying goodbye before travel",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm doing some final packing for the Shenzhen trip. We were just discussing the luggage weight limits for the flight. Can you remind me what the usual domestic allowance is?"
+        },
+        {
+          "role": "assistant",
+          "content": "Usually, it's 20kg for checked baggage and around 7kg for a carry-on, but it depends on your airline. Want me to look up your specific flight?"
+        },
+        {
+          "role": "user",
+          "content": "No need, I'll just weigh it. I just checked if I packed enough socks for the Shenzhen trip, and I think I'm covered. Liwei also asked about the subway route I'd take to the airport, so I need to map that out."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. You can usually take Line 2 and transfer to the Airport Express, but mapping it on your phone now is your best bet. How's Liwei doing with you leaving?"
+        },
+        {
+          "role": "user",
+          "content": "Saying goodbye was actually a bit tough. Liwei felt a wave of sadness about the Shenzhen trip because it means we'll miss our favorite weekend market together."
+        },
+        {
+          "role": "assistant",
+          "content": "Aw, that's totally understandable. Missing out on your regular traditions is hard. You'll definitely have to make it up to her when you get back!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I plan to. Alright, I need to finish zipping up this bag and head out. I'll check in when I land."
+        },
+        {
+          "role": "assistant",
+          "content": "Safe travels, Linchen! Talk to you when you touch down in Shenzhen."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-09-14, Liwei felt a wave of sadness about the Shenzhen trip because it meant they would miss their favorite weekend market together."
+      ]
+    }
+  ]
+}

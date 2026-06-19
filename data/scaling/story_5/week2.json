@@ -1,0 +1,501 @@
+{
+  "week": 2,
+  "conversations": [
+    {
+      "session_id": "w2_s1",
+      "day": "Monday",
+      "date": "2025-07-14",
+      "topic": "Linchen updates his mom on the housing search progress.",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with my mom about the apartment hunting. I spent the whole weekend looking, just like I told Liwei I would, but man, I have to complain about the hot weather during the apartment hunting. It's absolutely brutal out there."
+        },
+        {
+          "role": "assistant",
+          "content": "Yeah, apartment hunting in July is no joke. Did you manage to see anything promising at least, despite the heat?"
+        },
+        {
+          "role": "user",
+          "content": "A couple of okay places. Mom mentioned her friend's son also went on the apartment hunting recently and found a great deal. She also suggested looking at south-facing windows during the apartment hunting so I can get better natural light."
+        },
+        {
+          "role": "assistant",
+          "content": "Moms always have the best practical tips! South-facing windows definitely make a huge difference. Are you going to keep looking next weekend?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I have to. I actually promised Mom I will sign a lease during the apartment hunting before the end of the month. I need to get this sorted so I can focus on the classroom refactoring at work."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid deadline. It'll be a huge relief to have it done before August. Need me to block out some time next weekend for more viewings?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please block out Saturday afternoon. And I'm definitely keeping my promise to her about staying under that 8000 RMB budget, too."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! Saturday afternoon is blocked for viewings, keeping that 8000 RMB budget in mind. You'll find the right place soon enough."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-14, Linchen promised Mom he will sign a lease during the apartment hunting before the end of the month."
+      ]
+    },
+    {
+      "session_id": "w2_s2",
+      "day": "Tuesday",
+      "date": "2025-07-15",
+      "topic": "Linchen and Liwei browse listings online together.",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Liwei and I are browsing apartment listings online right now. We're trying to nail down a place before the end of the month."
+        },
+        {
+          "role": "assistant",
+          "content": "That's exciting! Finding anything good that fits the 8000 RMB budget you promised your mom?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes! Liwei just found a perfect listing for us. Honestly, I felt a wave of deep reassurance towards her when she showed it to me. She just completely gets what we need."
+        },
+        {
+          "role": "assistant",
+          "content": "That's so sweet. It really takes the stress off when you're on the exact same page. What's the place like?"
+        },
+        {
+          "role": "user",
+          "content": "It looks great. I noted on the map that the subway is only 500 meters away, which is super convenient for my commute. And Liwei pointed out that the walls in the living room are painted blue, which she loves."
+        },
+        {
+          "role": "assistant",
+          "content": "Close to the subway and pre-painted in her favorite color? Sounds like a total win. Are the move-in costs reasonable?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it fits the budget. The rent is exactly 8000, so I calculated the deposit is 16000 RMB since they want two months upfront. I actually just called the agent and scheduled a viewing at 3 PM tomorrow."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome. I'll make a note of the 3 PM viewing tomorrow for you. Have fun checking it out with Liwei!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-15, Linchen felt a wave of deep reassurance towards Liwei when she found a perfect listing for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w2_s3",
+      "day": "Wednesday",
+      "date": "2025-07-16",
+      "topic": "Linchen reschedules his weekend sports plan.",
+      "focal_character": "Jiange",
+      "topic_anchor": "the badminton session",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my calendar for this weekend. I was originally supposed to play badminton with Jiange on Saturday at 7 PM, but since I promised Liwei I'd dedicate Saturday to apartment hunting, I rescheduled the badminton session with Jiange to Sunday at 10 AM instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! I've moved your badminton session with Jiange to Sunday at 10 AM. Good luck with the apartment hunting on Saturday—hope you find a great place under budget!"
+        },
+        {
+          "role": "user",
+          "content": "Thanks. I'm actually a bit worried because my shoulder felt a bit sore before the badminton session even starts. Hopefully, a couple of days of rest will help."
+        },
+        {
+          "role": "assistant",
+          "content": "Take it easy until then! Maybe do some light stretching. You definitely don't want to aggravate that shoulder before the game."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'll make sure to stretch. Jiange is taking it super seriously, by the way. He told me he bought a new Yonex racket for the badminton session."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh wow, he's bringing out the big guns! You better be ready for some serious smashes with that new Yonex."
+        },
+        {
+          "role": "user",
+          "content": "Haha, we'll see. He also joked about wearing neon shorts to the badminton session just to blind and distract me on the court."
+        },
+        {
+          "role": "assistant",
+          "content": "Neon shorts and a new racket? He's definitely going for the full psychological advantage. Rest up that shoulder and have a great time on Sunday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-16, Linchen rescheduled the badminton session with Jiange to Sunday at 10 AM."
+      ]
+    },
+    {
+      "session_id": "w2_s4",
+      "day": "Wednesday",
+      "date": "2025-07-16",
+      "topic": "Linchen vents to Sister Chen about his changing weekend plans.",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the badminton session",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey Sister Chen, I'm so annoyed right now. I just had to delay the badminton session with Jiange to Sunday because of unexpected overtime. It's intensely frustrating!"
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, that’s the worst. Overtime ruining weekend plans is super frustrating. At least you still get to play on Sunday though."
+        },
+        {
+          "role": "user",
+          "content": "True. By the way, like you noted before, the court rental for the badminton session costs 120 RMB per hour, right? We usually play doubles during the badminton session, so at least we can split it four ways."
+        },
+        {
+          "role": "assistant",
+          "content": "Yep, 120 RMB per hour. Splitting it definitely makes it way more reasonable. Are the other two confirmed for Sunday?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, they're in. And I'll definitely do what you recommended about bringing extra water to the badminton session. I'm going to be sweating a lot trying to burn off this work stress."
+        },
+        {
+          "role": "assistant",
+          "content": "Good plan! Hydration is key, especially when you're blowing off steam. Hang in there with the overtime, you've got this."
+        },
+        {
+          "role": "user",
+          "content": "Thanks, Sister Chen. I just want this week to be over so I can finally get on the court."
+        },
+        {
+          "role": "assistant",
+          "content": "You're almost there! Just power through the refactoring and enjoy your game on Sunday."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-16, Linchen felt intense frustration because he had to delay the badminton session due to unexpected overtime."
+      ]
+    },
+    {
+      "session_id": "w2_s5",
+      "day": "Thursday",
+      "date": "2025-07-17",
+      "topic": "The team scrambles to address a live site issue.",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, what a crazy morning. We had a massive production incident on the live site. I felt a massive surge of panic right at the start when the alerts went off."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, that sounds incredibly stressful! Did you guys manage to get it under control quickly?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, eventually. But at first, it was pure chaos. I noticed the server logs were filling up insanely quickly during the incident. And Wanghao was literally just sitting there eating a sandwich when it all started."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, talk about bad timing for a snack break. How did the rest of the team handle the scramble?"
+        },
+        {
+          "role": "user",
+          "content": "Everyone jumped on it. Boss Zhang rushed over and immediately asked if anyone had called DevOps for the production incident. We finally stabilized the servers after an hour."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm glad it's stabilized now. Is there going to be a formal follow-up to figure out what went wrong?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, definitely. Boss Zhang decided that a mandatory post-mortem document must be filed for the production incident. I'll probably have to help draft it later today."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense for an issue like that. Let me know if you need any help organizing your notes or drafting the post-mortem!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-17, Boss Zhang decided that a mandatory post-mortem document must be filed for the production incident."
+      ]
+    },
+    {
+      "session_id": "w2_s6",
+      "day": "Thursday",
+      "date": "2025-07-17",
+      "topic": "Wanghao identifies the root cause of the crash.",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, what a crazy day. The production incident is finally resolved, but Boss Zhang ordered everyone to stay late to deal with it."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, mandatory overtime is never fun. At least it's resolved now! Did you guys figure out what actually went wrong?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Wanghao finally found the root cause. He concluded that the production incident was caused by a nasty memory leak consuming 8GB of heap space."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 8GB of heap space is massive. No wonder the system crashed. How is Wanghao holding up after finding that?"
+        },
+        {
+          "role": "user",
+          "content": "He felt extremely stressed during the whole incident, honestly. Sweating bullets the entire time. I promised to buy coffee for the team tomorrow after fixing the production incident just to boost morale."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great gesture. I'm sure Wanghao and the team will really appreciate the caffeine after such a stressful night."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we're going to need it to write up that mandatory post-mortem document Boss Zhang asked for. Anyway, I'm heading home now."
+        },
+        {
+          "role": "assistant",
+          "content": "Get some well-deserved rest, Linchen. Let me know if you need help drafting that post-mortem tomorrow!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-17, Wanghao concluded that the production incident was caused by a memory leak consuming 8GB of heap space."
+      ]
+    },
+    {
+      "session_id": "w2_s7",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Sister Chen and Linchen debrief the stressful night.",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the production incident",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen",
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just talking to Sister Chen about that massive production incident yesterday. She was up literally all night dealing with the aftermath."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, that sounds brutal. How is she holding up today?"
+        },
+        {
+          "role": "user",
+          "content": "Not well at all. She told me she's experiencing profound burnout after handling the fallout all night. She just sounded completely drained."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame her. Firefighting all night will do that to you. Did she say what made it cascade so badly?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she mentioned the database connections spiked to 5000 during the incident. Everything just locked up."
+        },
+        {
+          "role": "assistant",
+          "content": "5000 connections? Yikes, that's a nightmare. Is management stepping in to review what happened?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, Boss Zhang decided to hold a meeting about the production incident. I also went ahead and scheduled a follow-up call regarding the incident at 2 PM today so we can align on the frontend fixes."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Good luck with the 2 PM call, and hopefully Sister Chen can finally log off and get some rest!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18, Sister Chen experienced profound burnout after dealing with the aftermath of the production incident all night."
+      ]
+    },
+    {
+      "session_id": "w2_s8",
+      "day": "Friday",
+      "date": "2025-07-18",
+      "topic": "Boss Zhang sets a new engineering standard.",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao",
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up the code review for the classroom refactoring. I was honestly so nervous waiting for Boss Zhang to join."
+        },
+        {
+          "role": "assistant",
+          "content": "I don't blame you, especially after the production incident yesterday! How did it go once he finally logged on?"
+        },
+        {
+          "role": "user",
+          "content": "Well, before we even got to the heavy architecture stuff, Wanghao pointed out a missing semicolon in the code review. Classic Wanghao."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he never misses the tiny details. Did Boss Zhang have any major feedback on the actual refactor?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he made a pretty big call. To prevent any more incidents, Boss Zhang finalized the policy that all senior engineers must approve the code review before deployment."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, that's a strict new standard. Getting all the seniors to sign off might slow down your workflow. How did everyone take it?"
+        },
+        {
+          "role": "user",
+          "content": "We survived. Sister Chen just joked about the sheer length of the code review, saying we'd be reading PRs until retirement. But the new rule is officially in place."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like she's trying to keep the mood light despite the burnout! Just make sure you factor in that extra review time for your Q3 deadline."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-18, Boss Zhang finalized the policy that all senior engineers must approve the code review before deployment."
+      ]
+    },
+    {
+      "session_id": "w2_s9",
+      "day": "Saturday",
+      "date": "2025-07-19",
+      "topic": "Wanghao analyzes the performance impact of Linchen's PR.",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen",
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a call with Wanghao. We were going over the code review for my recent PR on the classroom refactoring."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How did the review go? Hopefully no major blockers."
+        },
+        {
+          "role": "user",
+          "content": "It went really well! During the code review today, Wanghao determined that the new caching layer I built actually improves query speed by 60%."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive performance boost! 60% is definitely a win. Did he sign off on it?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I felt extremely relieved when Wanghao approved the code review. I've been stressing over it all week. He promised to finish his part of the remaining code review by tomorrow, so we can wrap this up."
+        },
+        {
+          "role": "assistant",
+          "content": "I bet that's a huge weight off your shoulders, especially with the tight Q3 deadline. Is the rest of the team waiting on this?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, yes. Sister Chen asked me earlier when the code review would be completed. I can finally give her a solid update now."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. You should definitely let her know the good news. Enjoy the rest of your Saturday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-19, Wanghao determined during the code review that the new caching layer improves query speed by 60%."
+      ]
+    },
+    {
+      "session_id": "w2_s10",
+      "day": "Sunday",
+      "date": "2025-07-20",
+      "topic": "Linchen tells Jiange he needs to block out time for work.",
+      "focal_character": "Jiange",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey Jiange, I'm honestly so annoyed that I have to work today on a Sunday just to deal with this code review."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, working on a Sunday is the worst, man. Is this code review about those new React components you've been refactoring?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. It's a massive PR, containing like 400 lines of changes. Plus, Wanghao decided the code review needed more test coverage before we can even think about merging it."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 400 lines and more tests? That's definitely going to take a bit of focus. Do you need me to block out some time for you to tackle it?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please do. Can you schedule a 30-minute block at 9 AM on Monday for me to finish the code review with Wanghao?"
+        },
+        {
+          "role": "assistant",
+          "content": "Done! I've blocked out 30 minutes at 9 AM tomorrow for you and Wanghao to finish up the review. Anything else you need me to set up?"
+        },
+        {
+          "role": "user",
+          "content": "No, that should be it for now. I'm just going to try and salvage the rest of my weekend."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Try to get some rest today, you've earned it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-20, Linchen scheduled a 30-minute block at 9 AM on Monday to finish the code review with Wanghao."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "week": 4,
+  "conversations": [
+    {
+      "session_id": "w4_s1",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Revising the travel delegation",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just had another meeting with Boss Zhang about the Shenzhen trip. It's been a bit of a back-and-forth lately."
+        },
+        {
+          "role": "assistant",
+          "content": "I remember! Last week he said you'd be leading it solo. Did something change?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, today Boss Zhang decided that Wanghao will accompany me for the first two days of the Shenzhen trip after all. Just to help with the initial technical setup."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense. That should take some of the load off you. Have you figured out the travel logistics yet?"
+        },
+        {
+          "role": "user",
+          "content": "Not entirely. We discussed whether to take the high-speed rail or just fly for the trip. I'm leaning towards the train because I checked the forecast and it's supposed to be really rainy down there."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call, heavy rain and flights usually mean delays. Anything else come up in the meeting?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly just chit-chat at the end. Boss Zhang couldn't stop talking about a really great dim sum place he visited during his last Shenzhen trip. Told me I absolutely have to check it out."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid recommendation! Let me know once you guys pick between the train and the flight so I can update your schedule."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Boss Zhang decided that Wanghao will accompany Linchen for the first two days of the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w4_s2",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Discussing ground floor units",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need you to update my apartment hunting notes. I just got off the phone with my mom. She was complaining non-stop about how rising property prices are making this whole search so difficult."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. The market is definitely rough right now. What updates do you need for your hunting notes?"
+        },
+        {
+          "role": "user",
+          "content": "Well, you know how I previously said I'd absolutely avoid first-floor units? Today I promised Mom I will actually consider a first-floor unit during the apartment hunting if it includes a private garden. That feels like a fair tradeoff."
+        },
+        {
+          "role": "assistant",
+          "content": "That makes sense! A private garden is a huge plus. I've updated your preferences to include first-floor units with gardens. Anything else from your mom?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Mom also suggested checking the water pressure of the shower when viewing places. Oh, and totally unrelated, but I saw a really cute stray dog while out on the apartment hunting today!"
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, seeing a cute dog is always a good omen! And your mom's tip about the shower water pressure is super practical. Should I add that to your viewing checklist?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please add the shower water pressure to the checklist. Hopefully, we can lock down a place soon with the budget Liwei and I finalized."
+        },
+        {
+          "role": "assistant",
+          "content": "Checklist updated! Fingers crossed you and Liwei find the perfect spot with a great shower and maybe even a garden soon."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29, Linchen promised Mom he will consider a first-floor unit during the apartment hunting if it includes a private garden."
+      ]
+    },
+    {
+      "session_id": "w4_s3",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Testing the AV equipment",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just got back from testing the AV equipment in the new conference room with Wanghao. I actually really liked the soundproof glass walls they installed."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Sounds like a solid upgrade for the office. How did the actual equipment testing go?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good on the network side. Wanghao ran some benchmarks and concluded that the Wi-Fi router in the new conference room has a maximum throughput of 1.2 Gbps. We were also talking about who gets to book the new conference room first for their team syncs."
+        },
+        {
+          "role": "assistant",
+          "content": "1.2 Gbps is plenty fast for your syncs! Did you guys test the screen performance too?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we hooked up a laptop. Wanghao measured it and noted that the display in the new conference room has exactly 80 milliseconds of input lag. He was complaining about the ambiance though—he felt annoyed by the harsh overhead lighting in there."
+        },
+        {
+          "role": "assistant",
+          "content": "80ms is totally fine for standard slide decks, but yeah, harsh lighting is always a pain. Anything else stand out?"
+        },
+        {
+          "role": "user",
+          "content": "Just that Wanghao joked that the chairs in the new conference room are too stiff for long meetings. Guess we won't be doing any marathon debugging sessions in there!"
+        },
+        {
+          "role": "assistant",
+          "content": "Ha! Probably for the best. Stiff chairs and harsh lighting sound like a great incentive to keep meetings short."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Wanghao concluded that the Wi-Fi router in the new conference room has a maximum throughput of 1.2 Gbps.",
+        "On 2025-07-30, Wanghao noted that the display in the new conference room has exactly 80 milliseconds of input lag."
+      ]
+    },
+    {
+      "session_id": "w4_s4",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "First team meeting in the new space",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got out of our first team meeting in the new conference room. It was an interesting experience. Sister Chen noted that the new conference room fits exactly 12 people, which is perfect for us, but we spent the first five minutes just discussing the strange color of the carpet in there."
+        },
+        {
+          "role": "assistant",
+          "content": "A new space and you guys are already critiquing the interior design? Sounds like a classic team meeting. How was the actual room otherwise?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, pretty rough. Sister Chen felt suddenly claustrophobic because the AC was broken in the new conference room. It got incredibly stuffy with all of us in there."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, a broken AC in a packed room is definitely a recipe for panic. Is she doing okay now?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she stepped out to catch her breath and felt better. Strangely enough, she still scheduled a vendor meeting in the new conference room for 3 PM today. I guess she's hoping facilities fixes it fast."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed for her sake! A sweaty vendor pitch doesn't sound ideal. Are you going to be using that room a lot?"
+        },
+        {
+          "role": "user",
+          "content": "Probably. Even with the AC issue, I promised to book the new conference room for our next architecture sync. It really is the best size for our group."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll make a note for your architecture sync. Let's just hope the AC is running and you guys can ignore the weird carpet by then!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Sister Chen felt suddenly claustrophobic because the AC was broken in the new conference room."
+      ]
+    },
+    {
+      "session_id": "w4_s5",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Setting up the weekly miles",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you add a reminder for this weekend? Jiange and I are finally kicking off the running plan. He scheduled our first session for 6:00 AM this Saturday."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've added a reminder for 6:00 AM this Saturday for your first running session with Jiange. That's an early start!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it is, but Jiange felt super excited to finally start the running plan. He concluded that the running plan will drastically improve our cardiovascular health."
+        },
+        {
+          "role": "assistant",
+          "content": "He's definitely right about the cardio benefits. It'll be a great way to balance out those long hours coding at the desk. Do you have all your gear ready?"
+        },
+        {
+          "role": "user",
+          "content": "I do. I actually bought new carbon-plated shoes specifically for the running plan. Hoping they give me a bit of an edge."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice upgrade! Carbon-plated shoes are fantastic for energy return. How is Liwei feeling about this new early morning routine?"
+        },
+        {
+          "role": "user",
+          "content": "She's mostly supportive, though I promised Liwei I wouldn't get injured during the running plan. She knows how competitive Jiange and I can get."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart promise to make. Just remember to pace yourself and warm up properly before you guys take off on Saturday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Jiange scheduled the first session of the running plan for 6:00 AM on Saturday."
+      ]
+    },
+    {
+      "session_id": "w4_s6",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Balancing workouts and dates",
+      "focal_character": "Liwei",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, so Jiange set our first run for 6 AM this Saturday. I was just talking to Liwei about it, and she's actually incredibly proud that I'm taking this running plan so seriously."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! It's great that she's so supportive, especially since you've been working hard on your sleep schedule and fitness lately. Are you ready for that early 6 AM start?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I think so. We mapped it out together, and Liwei calculated we'd be hitting about 15 kilometers a week on the running plan. We even discussed taking the scenic route along the river, which should make the early mornings a bit more manageable."
+        },
+        {
+          "role": "assistant",
+          "content": "15 kilometers a week along the river sounds like a fantastic routine. Are you planning to run every day, or are you pacing yourself?"
+        },
+        {
+          "role": "user",
+          "content": "Definitely pacing myself. I scheduled my rest days for the running plan on Tuesdays and Thursdays. Oh, and Liwei decided to buy a new insulated water bottle for the running plan so we can have cold water after."
+        },
+        {
+          "role": "assistant",
+          "content": "Smart move on the rest days, especially since you're working remotely on Tuesdays and Thursdays for the apartment hunting anyway. A new insulated water bottle will definitely come in handy for those humid summer runs!"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Her only real concern was that I might be too exhausted by the end of the day, but I seriously committed to Liwei that I will not let the running plan interfere with our evening dates."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect balance. You get your morning miles in with Jiange and keep your evenings free and energized for Liwei. Sounds like you've got a bulletproof plan!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Liwei felt incredibly proud because Linchen was taking the running plan so seriously.",
+        "On 2025-07-31, Linchen seriously committed to Liwei that he will not let the running plan interfere with their evening dates."
+      ]
+    },
+    {
+      "session_id": "w4_s7",
+      "day": "Friday",
+      "date": "2025-08-01",
+      "topic": "Relief over schedule changes",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just wrapping up some prep for the Shenzhen trip next week. Sister Chen noted that the trip will last 5 days in total, so I'm trying to get everything organized before I fly out."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid trip! 5 days gives you a good amount of time to get things done. How are the rest of the preparations coming along?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty good. Actually, Sister Chen felt a massive wave of relief today because Wanghao is now taking part in the Shenzhen trip, which really reduces her on-call burden. She was so stressed about covering everything alone."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great news for her! Having Wanghao there definitely takes the pressure off. Have you guys figured out how the handover is going to work?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Sister Chen scheduled a handover meeting for the Shenzhen trip at 4 PM today to go over the shift details. I also promised to bring back some coconut pastries from the trip to say thanks for holding down the fort."
+        },
+        {
+          "role": "assistant",
+          "content": "Coconut pastries are a perfect thank-you gift! The 4 PM meeting should give you plenty of time to finalize the on-call schedule. Anything else left to sort out?"
+        },
+        {
+          "role": "user",
+          "content": "Just some admin stuff. Boss Zhang finally decided the daily meal budget for the Shenzhen trip, so I can actually start looking at places for the team dinners now."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. Let me know if you need help finding some good restaurants in Shenzhen that fit Boss Zhang's budget, or if you need a reminder for that 4 PM handover!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-01, Sister Chen felt a massive wave of relief because Wanghao is now taking part in the Shenzhen trip, reducing her on-call burden."
+      ]
+    },
+    {
+      "session_id": "w4_s8",
+      "day": "Saturday",
+      "date": "2025-08-02",
+      "topic": "Revising the budget cap",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update some plans for the apartment hunting. Liwei and I just sat down to figure out our finances."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! How did the budget talk go?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty well. We were bouncing between the 2000 and 3000 RMB increases we discussed last month. I seriously committed to Liwei that we will strictly cap our budget increase at 2500 RMB."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, capping the increase at 2500 RMB. Seems like a solid compromise."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Liwei calculated that 2500 RMB is exactly 15% of our disposable income for the apartment hunting, so it feels safe. We also spent some time discussing the walking distance to the subway, since we don't want a terrible commute."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes total sense. A short walk to the subway is definitely worth factoring into that 2500 RMB increase. Are you going to look at places soon?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, I went ahead and scheduled three viewings for the apartment hunting on Sunday afternoon. Liwei noted the weather was far too hot for it right now, but we want to get this done."
+        },
+        {
+          "role": "assistant",
+          "content": "Good luck with the viewings! Definitely stay hydrated out there, it's been brutal lately. Let me know if you need help organizing the details for those three places."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-02, Linchen seriously committed to Liwei that they will strictly cap their budget increase at 2500 RMB for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w4_s9",
+      "day": "Sunday",
+      "date": "2025-08-03",
+      "topic": "Setting room policies",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you take a quick note about the new conference room? Boss Zhang was showing it off to us today. He felt very proud of the sleek design of the place."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! It sounds like a nice upgrade. What do you need me to note down?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Wanghao calculated that the new conference room cost 50,000 RMB to renovate, so they're being super strict about its upkeep. I actually had to promise to keep the whiteboard clean in there after my architecture reviews."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense with that kind of price tag! Did they set any specific rules or policies for booking it?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, that's the main thing. Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Monday mornings. So I'll have to schedule my team syncs elsewhere."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll make sure to remind you not to book it on Monday mornings. Anything else happening with the new room?"
+        },
+        {
+          "role": "user",
+          "content": "Just one more thing—Boss Zhang scheduled an all-hands in the new conference room for next month to show it off to the wider team. That's all for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted! I've got all the updates logged. Let me know if you need help prepping for those architecture reviews or anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-03, Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Monday mornings."
+      ]
+    },
+    {
+      "session_id": "w4_s10",
+      "day": "Sunday",
+      "date": "2025-08-03",
+      "topic": "Analyzing the first run",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back from the first day of our running plan. Man, Wanghao was completely exhausted after we finished today."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey! Congrats on kicking off the running plan. Sounds like Wanghao really pushed himself out there. How did you hold up?"
+        },
+        {
+          "role": "user",
+          "content": "I did alright. I actually scheduled our next session for the running plan on Wednesday to give us a couple of days to recover. We wasted a bunch of breath because we debated which tech podcast to listen to while running."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, debating tech podcasts while jogging is certainly one way to test your lung capacity! Did Wanghao track any of his stats?"
+        },
+        {
+          "role": "user",
+          "content": "Of course he did, he's obsessed with the data. He checked his watch and noted that his average heart rate was exactly 142 bpm during the running plan today."
+        },
+        {
+          "role": "assistant",
+          "content": "142 bpm is a very solid aerobic zone. Typical engineer, analyzing the telemetry right away!"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. He also went full biomechanics nerd and concluded that a mid-foot strike is the most efficient biomechanical technique for the running plan. Oh, and he ended up with blisters, so he promised to buy better moisture-wicking socks for next time."
+        },
+        {
+          "role": "assistant",
+          "content": "A mid-foot strike is definitely the way to go for efficiency and saving the knees. Sounds like he's upgrading his hardware with those new socks and optimizing his software for Wednesday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-03, Wanghao noted that his average heart rate was exactly 142 bpm during the running plan.",
+        "On 2025-08-03, Wanghao concluded that a mid-foot strike is the most efficient biomechanical technique for the running plan."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "week": 4,
+  "conversations": [
+    {
+      "session_id": "w4_s1",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Rescheduling the morning jog",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, update my calendar. Jiange just messaged me. We need to reschedule the first session of our running plan. He has a sudden work conflict tomorrow morning, so he pushed it to 6:00 AM on Wednesday instead of Tuesday."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've updated the first session of your running plan with Jiange to Wednesday at 6:00 AM. Everything else good to go?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, though Jiange mentioned his new shoes for the running plan are feeling a bit tight. I hope he doesn't get blisters. Also, I was complaining to him earlier that the running plan routes are way too crowded on weekdays. It's annoying dodging people."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds frustrating! Going at 6:00 AM on Wednesday might help beat the crowds, though. Want me to remind you to check on his shoes after the run?"
+        },
+        {
+          "role": "user",
+          "content": "No need. We also discussed whether listening to podcasts helps during the running plan, or if it just distracts from the pacing. I'm leaning towards upbeat music. Oh, and Jiange suggested bringing electrolyte water for the running plan, so remind me to pack some Tuesday night."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do. I've set a reminder for Tuesday night to pack electrolyte water, and I'll leave the podcast vs. music debate up to you two. Anything else you need to adjust?"
+        },
+        {
+          "role": "user",
+          "content": "That's all for now. Just make sure the 6 AM Wednesday slot is locked in. I really want to stick to this commitment."
+        },
+        {
+          "role": "assistant",
+          "content": "Locked in for Wednesday at 6:00 AM. I know how important this is. Have a good evening, Linchen!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Jiange rescheduled the first session of the running plan to 6:00 AM on Wednesday due to a sudden work conflict."
+      ]
+    },
+    {
+      "session_id": "w4_s2",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Venting about schedule changes",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I really need to vent. I was just talking to Sister Chen, and I am extremely frustrated about this running plan today. The constant rescheduling is completely disrupting my morning routine."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, man. It's incredibly annoying when your morning flow gets thrown off, especially after Jiange had to push it to Wednesday at 6 AM."
+        },
+        {
+          "role": "user",
+          "content": "Exactly! Sister Chen was trying to keep me motivated, asking if the running plan included hill sprints to make it more intense. But I can't even get out the door on a consistent schedule to worry about hills!"
+        },
+        {
+          "role": "assistant",
+          "content": "Yeah, it's hard to focus on the workout details when the schedule keeps shifting. Did chatting with her help at all?"
+        },
+        {
+          "role": "user",
+          "content": "A little bit. We got distracted and debated which app to use to track the running plan. We couldn't really agree on one. I did mention to her that the plan burns about 400 calories per session, which is a nice silver lining."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid calorie burn! And since Wanghao checked that your current GPS app only uses 15MB an hour, you're set on data once you actually get to run. Hang in there."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. I know I committed to Liwei to stick to it for a month, so I won't quit. I just hate when my mornings get this chaotic."
+        },
+        {
+          "role": "assistant",
+          "content": "You've got this. The first week is always the hardest to lock in. Let me know if you want me to set an un-ignorable alarm for Wednesday morning!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Linchen became extremely frustrated about the running plan because the constant rescheduling disrupted his morning routine."
+      ]
+    },
+    {
+      "session_id": "w4_s3",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Finalizing travel logistics",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, let's finalize the logistics for the Shenzhen trip. I was just catching up with Boss Zhang about it. I mentioned to him that I definitely prefer morning flights so I can get settled in early."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good! Morning flights usually help beat the rush anyway. Do you want me to start pulling up some flight options for you?"
+        },
+        {
+          "role": "user",
+          "content": "Hold off for a second, we need to adjust our parameters. Boss Zhang just decided today that the budget for the Shenzhen trip will be cut by 20% across all departments. So we have to be pretty frugal."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, a 20% cut is pretty significant. I'll make sure to prioritize budget airlines and economy options for those morning flights. What about where you're staying?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we reviewed the hotel options for the Shenzhen trip right after he dropped the budget news. We'll have to downgrade a bit. Boss Zhang even joked about the humid weather during the trip, saying we'll be sweating through our cheap shirts since we can't afford the fancy hotels anymore."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he's definitely right about that Shenzhen humidity! I'll find some cost-effective hotels that at least have reliable air conditioning. Want me to draft a new itinerary with the tighter budget?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please. Put together a few cheap morning flight and hotel combos, and I'll run them by him tomorrow."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it. I'll round up the best budget-friendly options and have them ready for you to review shortly."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29, Boss Zhang decided that the budget for the Shenzhen trip will be cut by 20% across all departments."
+      ]
+    },
+    {
+      "session_id": "w4_s4",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Reassurance before departure",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm packing for the Shenzhen trip right now. I just realized my suitcase has a broken zipper, which is super annoying."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, a broken zipper right before a trip is the worst! Do you have a backup bag you can use instead?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'm squeezing everything into my smaller duffel. Liwei is actually helping me fold my shirts for the Shenzhen trip so they fit better."
+        },
+        {
+          "role": "assistant",
+          "content": "That's really nice of her to help you pack! How is she feeling about you heading out, especially with the anniversary coming up?"
+        },
+        {
+          "role": "user",
+          "content": "Much better, actually. She felt deeply reassured about the Shenzhen trip after I promised to video call her every single night. We also discussed the flight duration of the Shenzhen trip, since it's a few hours, so I'll have time to prep my presentation on the plane."
+        },
+        {
+          "role": "assistant",
+          "content": "I'm so glad she's feeling reassured! A daily video call is a great way to stay connected. Do you want me to set a daily evening reminder for those calls?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please do. Also, I made a serious commitment to Liwei to bring back her favorite pastries from the Shenzhen trip. Please remind me to buy them before I fly back!"
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! I've set up reminders for your daily evening video calls and a special alert to hunt down her favorite pastries before your return flight. Safe travels, Linchen!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29, Liwei felt deeply reassured about the Shenzhen trip after Linchen promised to video call her every single night.",
+        "On 2025-07-29, Linchen made a serious commitment to Liwei to bring back her favorite pastries from the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w4_s5",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Analyzing a companion app",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the board game night",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm doing some quick analysis on a companion app we want to use for the board game night."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds fun! What kind of companion app are you looking into?"
+        },
+        {
+          "role": "user",
+          "content": "It's a digital scoring app. I was just chatting with Wanghao about it. I asked him if he prefers strategy games for the board game night, but he totally side-tracked and just suggested ordering pepperoni pizza instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic! You can't really go wrong with pepperoni pizza though. Did you guys actually figure out the app details?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, eventually. We had a good laugh about who usually cheats during the board game night first. But then Wanghao actually looked into the app's performance. He concluded that the digital scoring app requires exactly 50MB of RAM to run smoothly."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 50MB is super lightweight. It shouldn't cause any lag or drain anyone's battery while you play. Need me to track anything else for the game night?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, that's all for now. Just wanted to get that spec logged."
+        },
+        {
+          "role": "assistant",
+          "content": "All set! Have a great time at the board game night, and watch out for the cheaters!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Wanghao concluded that the digital scoring app for the board game night requires exactly 50MB of RAM to run smoothly."
+      ]
+    },
+    {
+      "session_id": "w4_s6",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Family check-in on moving",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a long call with Mom about the apartment hunting. She was immediately asking if the neighborhood we saw has a good grocery store nearby."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic mom question! Did you reassure her that you won't starve?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I told her there's a huge market just two blocks away. I also mentioned that the agent for the apartment hunting was super talkative today. He just kept going on and on. We even ended up having a whole debate about the wall colors of the places we viewed."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds exhausting but productive. Did Mom have strong opinions on the wall colors?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, definitely. She hates the off-white ones. But anyway, we think we found the one. I promised Mom I would send her a full video tour of our top choice from the apartment hunting by Friday so she can really get a feel for the layout."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart move, especially since she wants to see the floor plan before you sign anything. I'll set a reminder for you to send her that video by Friday."
+        },
+        {
+          "role": "user",
+          "content": "Perfect, thanks. Hopefully, this means we can finally wrap up this whole housing search soon."
+        },
+        {
+          "role": "assistant",
+          "content": "Fingers crossed! Let me know if you need help organizing the move once the lease is signed."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Linchen promised Mom he would send her a full video tour of their top choice from the apartment hunting by Friday."
+      ]
+    },
+    {
+      "session_id": "w4_s7",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Accelerating the timeline",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! So, about the apartment hunting. We really need to speed things up. Liwei and I were looking at places last night and we were debating whether a balcony is strictly necessary."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! A balcony is definitely a nice-to-have, but it can limit your options. Did you two reach a verdict on it?"
+        },
+        {
+          "role": "user",
+          "content": "Not completely, but we definitely agreed we need to move faster. I made a serious commitment to Liwei today that we will sign a lease by August 15th to avoid the crazy student rush."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a smart move. The student rush gets super competitive. How are the places you're looking at right now?"
+        },
+        {
+          "role": "user",
+          "content": "They're just okay. Liwei pointed out that the current listings all seem to lack good cabinet space, which is a bit of a bummer."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, lack of storage is always frustrating, especially in the kitchen. Are the costs at least reasonable?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. I was doing the math earlier, and I calculated that the broker fee equals exactly one month's rent. It's a huge upfront cost."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, that broker fee stings. But if it gets you a great place before the 15th, it might be worth it. Let me know if you need help organizing your viewings!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Linchen made a serious commitment to Liwei to sign a lease for the apartment hunting by August 15th to avoid the student rush."
+      ]
+    },
+    {
+      "session_id": "w4_s8",
+      "day": "Friday",
+      "date": "2025-08-01",
+      "topic": "Setting the weekend plans",
+      "focal_character": "Jiange",
+      "topic_anchor": "the board game night",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, let's lock in some weekend plans. I was just chatting with Jiange about the board game night."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid weekend! What's the plan?"
+        },
+        {
+          "role": "user",
+          "content": "Jiange scheduled the start time for the board game night to be exactly 8:00 PM this Saturday. He also asked if I was bringing any sour candies to it."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 8:00 PM on Saturday. Want me to add sour candies to your shopping list?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, do that. Also, I definitely need to read the rulebook before the board game night, otherwise I'll be totally lost. We even spent time discussing how many chairs we need to borrow for everyone."
+        },
+        {
+          "role": "assistant",
+          "content": "I'll remind you to check the rulebook beforehand. Sounds like a full house if you're borrowing chairs! Anything else for the weekend?"
+        },
+        {
+          "role": "user",
+          "content": "That's it for now. I'll figure out the chair situation later tonight."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. Let me know if you need help with anything else. Have a great time at the game night!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-01, Jiange scheduled the start time for the board game night to be exactly 8:00 PM this Saturday."
+      ]
+    },
+    {
+      "session_id": "w4_s9",
+      "day": "Saturday",
+      "date": "2025-08-02",
+      "topic": "Calculating commute metrics",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to calculate some commute metrics for this new place we're considering. Wanghao and I were just going over the details of the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh nice! Did you guys find a solid option?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we have a prime candidate. I mentioned the lighting in the living room during the apartment hunting was a bit dim, but the location is great. Wanghao ran the route data and concluded that the prime candidate from the apartment hunting is exactly 4.2 kilometers from the office."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really short commute! 4.2 km is definitely bikeable too. Any other concerns about the place?"
+        },
+        {
+          "role": "user",
+          "content": "A few. Wanghao asked if the internet provider options for the apartment hunting were any good, since we both need stable connections for work."
+        },
+        {
+          "role": "assistant",
+          "content": "Good point, especially for his data pipelines. Did you manage to check the coverage?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet, I'll have to call the building manager. We also talked about the noise levels of the street during the apartment hunting, but it seemed fairly quiet when we visited."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like it could be a winner. Let me know if you want me to help crunch those commute times or look up ISP coverage!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-02, Wanghao concluded that the prime candidate from the apartment hunting is exactly 4.2 kilometers from the office."
+      ]
+    },
+    {
+      "session_id": "w4_s10",
+      "day": "Sunday",
+      "date": "2025-08-03",
+      "topic": "Post-game recap",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the board game night",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I'm still riding high from the board game night yesterday. We had such a great time."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like it was a blast! Did you end up crushing the competition?"
+        },
+        {
+          "role": "user",
+          "content": "I actually did! I felt this rush of pure joy reflecting on the board game night today because I managed to pull off a surprise victory in the final round."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! A comeback win is always the best feeling. Did the digital scoring app hold up okay?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, the app was fine. But we did have a long debate over the clarity of the instruction manual for the new expansion. Sister Chen also noted that the custom dice we used during the board game night were really heavy, almost dented the table."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic board game struggles—confusing rules and weaponized dice! Did you at least have enough food to survive the debates?"
+        },
+        {
+          "role": "user",
+          "content": "Barely! The snacks ran out halfway through the board game night. I'll definitely need to buy way more next time."
+        },
+        {
+          "role": "assistant",
+          "content": "Good to know. I'll remind you to double the snack budget next time you host. Congrats again on the epic win!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-03, Linchen experienced pure joy reflecting on the board game night because he managed to pull off a surprise victory in the final round."
+      ]
+    }
+  ]
+}

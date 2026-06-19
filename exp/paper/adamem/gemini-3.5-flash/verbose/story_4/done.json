@@ -1,0 +1,14 @@
+{
+  "status": "done",
+  "method": "AdaMem",
+  "story_id": 4,
+  "fbmode": "verbose",
+  "memory_model": "gemini-3.5-flash",
+  "finished_at": "2026-06-17T06:04:30.215210",
+  "artifacts": [
+    "qa_records.json",
+    "extracted_memories.jsonl",
+    "recall.jsonl",
+    "policy_snapshots.json"
+  ]
+}

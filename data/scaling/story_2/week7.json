@@ -1,0 +1,495 @@
+{
+  "week": 7,
+  "conversations": [
+    {
+      "session_id": "w7_s1",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Rescheduling the planned chat",
+      "focal_character": "Jiange",
+      "topic_anchor": "the morning coffee chat",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my calendar for tomorrow. Jiange just messaged me about the follow-up morning coffee chat we had set for 9:15 AM."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing. What time are we moving it to?"
+        },
+        {
+          "role": "user",
+          "content": "He rescheduled it to Tuesday at 10:00 AM instead of 9:15 AM. He mentioned that the morning coffee chat usually features terrible espresso, so I guess he wants a little extra time beforehand."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've updated the morning coffee chat with Jiange to 10:00 AM tomorrow. Sounds like you guys might need a backup coffee plan!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I actually joked about bringing my own beans to the morning coffee chat just to survive it."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, not a bad idea! Anything else you need me to adjust for tomorrow's schedule?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, that's it. We also debated whether the morning coffee chat should include pastries, but we'll figure that out when we meet. Just make sure the 10:00 AM slot is blocked."
+        },
+        {
+          "role": "assistant",
+          "content": "All set! The 10:00 AM slot is blocked off for you and Jiange. Let me know if you need anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18 Jiange rescheduled the follow-up morning coffee chat to Tuesday at 10:00 AM instead of 9:15 AM."
+      ]
+    },
+    {
+      "session_id": "w7_s2",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Revising the travel duration",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, update my notes on the Shenzhen trip. Boss Zhang just changed the schedule again."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing. What's the latest plan for the trip?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Boss Zhang finalized the decision today that the Shenzhen trip will be extended back to three days. We need the extra time to allow for client meetings."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've noted the extension to three days for client meetings. Was he okay with the budget changes?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, Boss Zhang complained a lot about the flight prices for the Shenzhen trip. I tried to lighten the mood and asked if the Shenzhen trip would involve eating local dim sum now that we have an extra day."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, always prioritizing the important stuff! Did he agree to the dim sum?"
+        },
+        {
+          "role": "user",
+          "content": "He just sighed. Oh, and someone mentioned it might rain during the Shenzhen trip, so remind me to pack my umbrella when we get closer to the date. That's all for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I'll remind you to pack an umbrella, and I've got Boss Zhang's final decision on the three-day duration saved."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18 Boss Zhang finalized the decision that the Shenzhen trip will be extended back to three days to allow for client meetings."
+      ]
+    },
+    {
+      "session_id": "w7_s3",
+      "day": "Tuesday",
+      "date": "2025-08-19",
+      "topic": "Discussing QA support",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the morning coffee chat",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just got back from the morning coffee chat with Sister Chen. It was actually less crowded than usual today, which was a nice change of pace. We literally spent ten minutes just talking about the weather."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a pretty relaxing start to the day! Did you guys talk about anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she showed off her new mug, which was pretty cool. But the best part of the conversation was about the upcoming beta launch."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh? Any new updates on that front? I know you were anxious about it last week."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Honestly, I felt a sudden wave of relief during our chat today, triggered by hearing that the QA team will handle the beta testing. I was so worried the multiplayer team would have to manage it all manually."
+        },
+        {
+          "role": "assistant",
+          "content": "That is a huge weight off your shoulders! Having dedicated QA support for the beta is going to make a massive difference."
+        },
+        {
+          "role": "user",
+          "content": "It really is. Now I can actually focus on getting ready for the Shenzhen trip without panicking about beta server loads."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. Let me know if you need help organizing any of your notes or schedules for the trip!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-19 Linchen felt a sudden wave of relief during the morning coffee chat, triggered by hearing that the QA team will handle the beta testing."
+      ]
+    },
+    {
+      "session_id": "w7_s4",
+      "day": "Wednesday",
+      "date": "2025-08-20",
+      "topic": "Preparing demo hardware",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, let's start prepping for the Shenzhen trip. Wanghao and I were just sorting out our gear. He actually spent twenty minutes debating which backpack to use."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic Wanghao. Want me to start a packing list for you?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, start one. I suggested bringing extra snacks for the Shenzhen trip flights, so add that. More importantly, log this: Wanghao concluded that the demo for the Shenzhen trip requires exactly 3 backup laptops to ensure redundancy."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted. Added flight snacks to the packing list, and recorded Wanghao's technical requirement for exactly 3 backup laptops for demo redundancy."
+        },
+        {
+          "role": "user",
+          "content": "Thanks. We also discussed the hotel's gym facilities for the Shenzhen trip, so I should probably pack my running shoes and workout clothes."
+        },
+        {
+          "role": "assistant",
+          "content": "Added running shoes and workout clothes to the list. Sounds like you'll be able to keep up your routine while you're there."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Just make sure the laptop requirement is saved properly, we can't afford to mess up the demo hardware."
+        },
+        {
+          "role": "assistant",
+          "content": "Don't worry, the requirement for the 3 backup laptops is securely saved. You'll be fully prepared for the demo."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-20 Wanghao concluded that the demo for the Shenzhen trip requires exactly 3 backup laptops to ensure redundancy."
+      ]
+    },
+    {
+      "session_id": "w7_s5",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Discussing a big purchase",
+      "focal_character": "Liwei",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! So Liwei and I were talking about getting the new MacBook today. She said the space gray color looks very sleek."
+        },
+        {
+          "role": "assistant",
+          "content": "Space gray is definitely a classic choice! Are you two planning to pull the trigger on it soon?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, probably this weekend. I actually spent some time reading reviews about the keyboard feel on the new MacBook, and it sounds like a massive improvement for typing up my design docs."
+        },
+        {
+          "role": "assistant",
+          "content": "That's great, a good keyboard is essential for all the work you do. Have you figured out all the accessories you want with it?"
+        },
+        {
+          "role": "user",
+          "content": "Sort of. We debated whether the new MacBook needed a protective case, but eventually decided a padded sleeve is enough. The big thing is, I made a serious commitment to Liwei that we'll split the cost of the new MacBook equally."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a very fair and solid plan since you'll both be using it. Do you need me to help you track the budget for it?"
+        },
+        {
+          "role": "user",
+          "content": "Nah, we already have the funds set aside. I just wanted to talk it through. Thanks for listening!"
+        },
+        {
+          "role": "assistant",
+          "content": "Anytime! Let me know how you both like it once you get your hands on it."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21 Linchen made a serious commitment to Liwei to split the cost of the new MacBook equally."
+      ]
+    },
+    {
+      "session_id": "w7_s6",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Evaluating compile times",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Wanghao and I were just checking out the new MacBook in the office. We both really admired the unboxing experience, it's always so slick."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Nothing beats that new Apple product smell. Did you guys actually get to run any tests on it yet?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we ran a build test. Wanghao concluded that the new MacBook compiles the entire game client in exactly 45 seconds. It's an absolute beast."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, 45 seconds for the whole client is incredible! That's going to save a massive amount of time. Is he totally in love with it?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, though Wanghao complained about the lack of ports on the new MacBook. Classic engineer gripe, always needing more connections."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, typical! Dongle life it is, then. Has he started customizing it yet?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet. I actually asked if he was going to put stickers on the new MacBook, but he hasn't decided if he wants to ruin the pristine look. Anyway, just make sure to log that compile time for our records."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do! I've noted the 45-second compile time. Let me know if he runs any server benchmarks on it next!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21 Wanghao concluded that the new MacBook compiles the entire game client in exactly 45 seconds."
+      ]
+    },
+    {
+      "session_id": "w7_s7",
+      "day": "Friday",
+      "date": "2025-08-22",
+      "topic": "Changing the menu",
+      "focal_character": "Mom",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Mom about the weekend dinner. She mentioned that grocery prices for the weekend dinner are getting really high lately."
+        },
+        {
+          "role": "assistant",
+          "content": "Yeah, food prices have definitely been creeping up. Did you guys decide on the final menu to work around that?"
+        },
+        {
+          "role": "user",
+          "content": "We did. I promised Mom I would cook roasted chicken instead of fish for the weekend dinner. It's a bit easier on the wallet and she loves it."
+        },
+        {
+          "role": "assistant",
+          "content": "Roasted chicken sounds like a great pivot. I'll make a note of the menu change. Do you need to get anything special ready for the table?"
+        },
+        {
+          "role": "user",
+          "content": "I actually asked if she wanted me to use the blue plates for the weekend dinner to make it feel a bit more special."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call, the blue plates always add a nice touch. Do you need me to pull up any cooking instructions?"
+        },
+        {
+          "role": "user",
+          "content": "That would be helpful. Mom and I discussed watching a recipe video to prepare for the weekend dinner, so queue up a good tutorial for me."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! I've queued up a highly-rated roasted chicken recipe video for you. Good luck with the cooking!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-22 Linchen promised Mom he would cook roasted chicken instead of fish for the weekend dinner."
+      ]
+    },
+    {
+      "session_id": "w7_s8",
+      "day": "Saturday",
+      "date": "2025-08-23",
+      "topic": "Distractions at dinner",
+      "focal_character": "Liwei",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you take down some notes about tonight's weekend dinner? It didn't go as well as I hoped."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing. What happened? Is everything alright?"
+        },
+        {
+          "role": "user",
+          "content": "Well, the food was mostly fine. I made the roasted chicken I promised my mom I'd practice, though I thought the soup I made on the side was slightly too salty."
+        },
+        {
+          "role": "assistant",
+          "content": "Happens to the best of us! Did the salty soup ruin the mood?"
+        },
+        {
+          "role": "user",
+          "content": "No, the setup was actually really nice at first. Liwei put on a jazz playlist as background music for the dinner, and we even used the newly bought napkins to make it feel special."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a great vibe. So what went wrong?"
+        },
+        {
+          "role": "user",
+          "content": "I messed up. Liwei became visibly annoyed during the dinner because I kept checking my phone for work messages. I know I promised her earlier this month I wouldn't bring work into our weekend dinners, and I totally blew it."
+        },
+        {
+          "role": "assistant",
+          "content": "Ah, I see. It's tough to disconnect with the beta launch coming up, but I completely get why she felt that way. Want me to set an automatic 'Do Not Disturb' routine for your future dinners?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-23 Liwei became visibly annoyed during the weekend dinner when Linchen kept checking his phone for work messages."
+      ]
+    },
+    {
+      "session_id": "w7_s9",
+      "day": "Saturday",
+      "date": "2025-08-23",
+      "topic": "Equipment upgrades",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new MacBook",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, quick update on the equipment upgrades. Boss Zhang's own laptop actually broke recently, which kinda kicked things into gear before ordering the new MacBook."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, wow! Silver lining, I guess. Did he make a final call on getting them for the rest of the team?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he did. Today he decided to officially approve the budget to buy the new MacBook for all senior developers."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news! The senior devs will definitely appreciate the speed boost, especially with those long compile times. Do you know when they'll arrive?"
+        },
+        {
+          "role": "user",
+          "content": "Not yet. I asked him about the estimated delivery times for the new MacBook, but he didn't have the exact dates from the vendor. We also discussed the standard warranty options for the new MacBook to make sure the studio is covered."
+        },
+        {
+          "role": "assistant",
+          "content": "Makes sense to check the warranty details upfront. Let me know when you get the delivery dates and I can help you track them."
+        },
+        {
+          "role": "user",
+          "content": "Will do. I'll probably just ping IT on Monday to see if they have the tracking numbers yet."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Try not to think too much about work for the rest of your Saturday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-23 Boss Zhang decided to officially approve the budget to buy the new MacBook for all senior developers."
+      ]
+    },
+    {
+      "session_id": "w7_s10",
+      "day": "Sunday",
+      "date": "2025-08-24",
+      "topic": "Planning the next meetup",
+      "focal_character": "Jiange",
+      "topic_anchor": "the weekend dinner",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to coordinate the next weekend dinner with Jiange. Last time was a mess with the heavy traffic we encountered before the weekend dinner."
+        },
+        {
+          "role": "assistant",
+          "content": "I can help with that. Traffic is the worst. Did you guys figure out a better plan for next time?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we need one. I really complained about finding parking near the weekend dinner spot last time. It took me forever."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, that's frustrating. Are you taking public transit next time to avoid the parking hassle?"
+        },
+        {
+          "role": "user",
+          "content": "No, Jiange is driving. He wouldn't stop bragging about the new car smell on the way to the weekend dinner, so he's super eager to take his car again."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, of course he is. So what's the actual schedule for the meetup?"
+        },
+        {
+          "role": "user",
+          "content": "Jiange scheduled to pick me up at 7:00 PM for the next weekend dinner. Make sure to remind me so I'm ready when he gets here."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! I've noted that Jiange is picking you up at 7:00 PM for the next weekend dinner."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-24 Jiange scheduled to pick up Linchen at 7:00 PM for the next weekend dinner."
+      ]
+    }
+  ]
+}

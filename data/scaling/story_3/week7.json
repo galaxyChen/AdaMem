@@ -1,0 +1,488 @@
+{
+  "week": 7,
+  "conversations": [
+    {
+      "session_id": "w7_s1",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Finalizing the travel roster",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can we update the notes for the Shenzhen trip? Boss Zhang just finalized the travel roster."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing. What's the final plan for the roster?"
+        },
+        {
+          "role": "user",
+          "content": "Well, after going back and forth on it, Boss Zhang decided today that Wanghao will only accompany me for the final 3 days of the trip. He needs him here for some other tasks early in the week."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I'll note that Wanghao is joining for just the last 3 days. Did he mention any other changes to the schedule?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, but Boss Zhang spent half the meeting reminiscing about a spicy hotpot he ate on his last Shenzhen trip. He also warned us that the hotel breakfast is usually terrible during the Shenzhen trip, so we should eat out."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Boss Zhang. Guess you'll be hunting for good food outside the hotel! Anything else you need to prep?"
+        },
+        {
+          "role": "user",
+          "content": "Just packing. Wanghao joked about packing his lucky socks for the Shenzhen trip to keep the servers from crashing. I was also just speculating about the weather forecast for the trip—hopefully, it doesn't rain too much while we're down there."
+        },
+        {
+          "role": "assistant",
+          "content": "Let's hope the lucky socks do their job and the weather holds up. I've got the final roster decision saved for you!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18, Boss Zhang decided that Wanghao will only accompany Linchen for the final 3 days of the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w7_s2",
+      "day": "Tuesday",
+      "date": "2025-08-19",
+      "topic": "Discussing the evening's entertainment",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, so I was chatting with Liwei about the anniversary plan tonight. She was wondering if she should wear her blue dress or the red one."
+        },
+        {
+          "role": "assistant",
+          "content": "That's exciting! Both are great choices. Did you give her a hint about the vibe of the venue to help her decide?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I actually ended up spilling a surprise. I told her I secretly arranged for a live violinist! She became extremely touched when she found out."
+        },
+        {
+          "role": "assistant",
+          "content": "Aww, that's amazing! A live violinist is such a romantic touch. No wonder she was so moved. Is everything all set with the musician?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, all confirmed. The violinist charges 500 RMB per hour, which is pretty reasonable. Oh, Liwei also asked if there would be enough parking spaces near the venue. I need to look into that."
+        },
+        {
+          "role": "assistant",
+          "content": "I can definitely remind you to check the parking situation. Anything else left to sort out for the big night?"
+        },
+        {
+          "role": "user",
+          "content": "Just the food. I noted that we need to finalize the dinner menu for the anniversary plan by Thursday. After that, we're fully ready."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. I'll put a reminder in for Thursday to lock in the menu. It's going to be a perfect evening!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-19, Liwei became extremely touched because Linchen secretly arranged for a live violinist during the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w7_s3",
+      "day": "Wednesday",
+      "date": "2025-08-20",
+      "topic": "Adjusting the weekend workout schedule",
+      "focal_character": "Jiange",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Jiange"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Jiange just texted me about the running plan for this weekend. We need to make a quick update."
+        },
+        {
+          "role": "assistant",
+          "content": "No problem! What's the new plan?"
+        },
+        {
+          "role": "user",
+          "content": "He rescheduled the weekend session of the running plan back to Saturday at 6:30 AM. He also suggested we try a different park route this time to see some better scenery."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've moved the run to Saturday at 6:30 AM. A new park route sounds like a great way to mix things up!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, though I joked with him that I might need an extra shot of espresso before the running plan to wake up that early. At least I bought a new pair of breathable socks for it, so my feet will be happy."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, the espresso is definitely a must for a 6:30 AM start! The new socks should help too. Did you guys discuss anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Not much, just some venting. Right after we finalized the running plan, Jiange complained about the rising cost of his favorite protein powder."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic Jiange! I've got your schedule updated. Let me know if you need to adjust anything else before the weekend."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-20, Jiange rescheduled the weekend session of the running plan back to Saturday at 6:30 AM."
+      ]
+    },
+    {
+      "session_id": "w7_s4",
+      "day": "Thursday",
+      "date": "2025-08-21",
+      "topic": "Weekly family catch-up call",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just wrapped up my weekly catch-up call with Mom. We ended up talking a lot about the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! How did the call go? Any new developments on the apartment search front?"
+        },
+        {
+          "role": "user",
+          "content": "It went alright, but it's getting stressful. I was complaining to her that the real estate agents are just way too pushy during the apartment hunting lately."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, pushy agents are the worst. Did your mom have any good advice or sympathy for that?"
+        },
+        {
+          "role": "user",
+          "content": "She did, actually. Mom mentioned that her neighbor's son also had a hard time during his apartment hunting recently, so at least I'm not alone. I also noted to her that the subway commute is a major factor in the apartment hunting for Liwei and me, so we can't just settle for anything."
+        },
+        {
+          "role": "assistant",
+          "content": "Absolutely, a bad commute can ruin a great place. Did she have any specific things she wants you to watch out for?"
+        },
+        {
+          "role": "user",
+          "content": "You know how she is. Mom suggested looking at the feng shui of the living room during the apartment hunting. To keep her in the loop, I promised Mom I will send her video tours of our top five choices instead of three like I said before."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, gotta make sure the feng shui is right! I'll make a note that you're sending her the top five video tours. Let me know if you need help keeping track of the listings!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-21, Linchen promised Mom he will send her video tours of their top five choices instead of three during the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w7_s5",
+      "day": "Friday",
+      "date": "2025-08-22",
+      "topic": "Preparing the presentation deck",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, let's start preparing the presentation deck for the Shenzhen trip. I just talked to Wanghao, and he concluded that we need to present exactly 15 architecture slides during the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 15 architecture slides it is. Do you want me to help you outline the structure for those?"
+        },
+        {
+          "role": "user",
+          "content": "Maybe later. I also need to make sure we highlight the right metrics. Wanghao noted that the target API latency to showcase during the Shenzhen trip is under 45ms. By the way, he was randomly wondering if he should bring his mechanical keyboard on the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Under 45ms is a great target to highlight. As for Wanghao's keyboard, you might want to tell him to spare everyone's ears, especially if you guys are working on the go!"
+        },
+        {
+          "role": "user",
+          "content": "Haha, I'll let him know. He also joked that he hopes the Wi-Fi doesn't drop during our flight for the Shenzhen trip so he can keep coding. Oh, remind me later that I need to buy a new travel adapter for the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Will do, I've noted down the travel adapter reminder for you. Let's just hope the airline Wi-Fi is actually stable enough for him to code!"
+        },
+        {
+          "role": "user",
+          "content": "Fingers crossed! Anyway, I suggested to Wanghao that we grab dim sum at the airport before the Shenzhen trip. I think that's all the prep we need to log for today."
+        },
+        {
+          "role": "assistant",
+          "content": "Dim sum sounds like the perfect way to kick off the trip. I've got all the technical targets and your reminders saved. Have a great weekend!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-22, Wanghao concluded that they need to present exactly 15 architecture slides during the Shenzhen trip.",
+        "On 2025-08-22, Wanghao noted that the target API latency to showcase during the Shenzhen trip is under 45ms."
+      ]
+    },
+    {
+      "session_id": "w7_s6",
+      "day": "Saturday",
+      "date": "2025-08-23",
+      "topic": "Helping with the surprise",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just finalizing some details for the anniversary plan tonight. I still need to pick up the dry cleaning before the anniversary plan starts."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! Don't forget Jiange is also helping you pick up the custom cake at 9:00 AM. What else is on the checklist?"
+        },
+        {
+          "role": "user",
+          "content": "Cake is handled! I was just chatting with Sister Chen to coordinate. She asked what color wrapping paper I bought for the anniversary plan, which reminded me I actually need to wrap the thing right now."
+        },
+        {
+          "role": "assistant",
+          "content": "Good catch by Sister Chen! Better get on that wrapping. Is she helping you set things up at the rooftop?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she's taking the gift over early. She actually felt deeply honored to be trusted with hiding the surprise gift for the anniversary plan. It was really sweet seeing her so touched by it."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome. It's great having a friend you can count on for the big moments. Is she heading over soon?"
+        },
+        {
+          "role": "user",
+          "content": "Soon, yeah. She noted that the traffic near the venue is usually terrible around the time of the anniversary plan, so she wants a head start. Now I'm just debating whether to write a card or just speak from the heart during the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "With the live violinist you booked, speaking from the heart will be perfect. Good luck tonight, man!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-23, Sister Chen felt deeply honored to be trusted with hiding the surprise gift for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w7_s7",
+      "day": "Sunday",
+      "date": "2025-08-24",
+      "topic": "Reviewing finances after a long weekend of tours",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to review our finances after looking at apartments all weekend. Man, my legs are seriously sore from climbing all those stairs during the apartment hunting."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch! Sounds like you definitely got a workout in. Did you and Liwei find any places that actually stood out?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, a couple of them. Liwei mentioned she really liked the beige wall paint in the second unit we saw. Though she also pointed out that the kitchen cabinets in that one looked a bit worn out."
+        },
+        {
+          "role": "assistant",
+          "content": "Beige walls are a nice touch, but worn cabinets can be a pain if you guys like to cook. How are the prices looking compared to what you originally planned?"
+        },
+        {
+          "role": "user",
+          "content": "Well, they're creeping up, and I calculated that the agency fee is one full month's rent for the apartment hunting. So we had a long talk, and I seriously committed to Liwei that we will strictly cap our budget increase at exactly 4500 RMB. We can't go a single yuan over that."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. A strict 4500 RMB cap on the budget increase makes total sense, especially with that hefty agency fee on top. Do you want me to update your budget tracker with this new limit?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, please do. We need to stick to this number so we don't mess up our savings for the anniversary plans and my upcoming Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! The tracker is updated with the new cap. I'll keep an eye out and remind you if any new listings push past that limit. Get some rest for those sore legs!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-24, Linchen seriously committed to Liwei that they will strictly cap their budget increase at exactly 4500 RMB for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w7_s8",
+      "day": "Monday",
+      "date": "2025-08-18",
+      "topic": "Comparing fitness stats at work",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the running plan",
+      "characters_mentioned": [
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Wanghao and I were comparing our stats from the running plan today at work. He was showing off this new neon yellow water bottle he bought for it."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, a neon bottle definitely makes him look the part. How are your stats holding up against his?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Wanghao noted that his average pace improved to exactly 5:30 per kilometer during the running plan. I'm a bit slower, but partly because I prefer running in the shade to avoid sunburn, so my route is a bit weird."
+        },
+        {
+          "role": "assistant",
+          "content": "5:30 per km is a really solid pace! And staying out of the sun is just a smart strategy. Did he share any secrets for getting that fast?"
+        },
+        {
+          "role": "user",
+          "content": "He concluded that a 10-minute dynamic warmup prevents shin splints for the running plan. He was doing his routine while listening to an updated Spotify playlist he made just for the runs."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great technical takeaway on the warmup. Shin splints are the worst. Are you going to start doing the 10-minute routine too?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I'll definitely try it. I just hope we don't have to deal with the stray dogs barking at us during the running plan again. It totally threw off my focus last time."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, stray dogs barking would definitely mess up anyone's rhythm. Let's hope the next session is a bit more peaceful!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-18, Wanghao noted that his average pace improved to exactly 5:30 per kilometer during the running plan.",
+        "On 2025-08-18, Wanghao concluded that a 10-minute dynamic warmup prevents shin splints for the running plan."
+      ]
+    },
+    {
+      "session_id": "w7_s9",
+      "day": "Tuesday",
+      "date": "2025-08-19",
+      "topic": "Requesting time off",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Boss Zhang"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just had a quick chat with Boss Zhang about getting some time off for the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! How did it go? Did he sign off on the PTO?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he was actually really chill. He even reminisced about his own 10th wedding anniversary while we were discussing the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "That's surprisingly wholesome for Boss Zhang! So, what did you guys agree on?"
+        },
+        {
+          "role": "user",
+          "content": "He decided to grant me a half-day off on Friday to prepare for the anniversary plan. I made sure to assure him that all my pull requests would be merged before I leave."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. A half-day on Friday should give you plenty of time to get everything set up. Are all the other details sorted?"
+        },
+        {
+          "role": "user",
+          "content": "Pretty much. I actually mentioned to him that finding a good florist was the hardest part of the anniversary plan, but I finally got it locked down. He just laughed and joked that I shouldn't forget to iron my shirt for the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, solid advice! Sounds like everything is falling perfectly into place. Do you need me to set an alarm for Friday morning to remind you about the shirt?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-19, Boss Zhang decided to grant Linchen a half-day off on Friday to prepare for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w7_s10",
+      "day": "Wednesday",
+      "date": "2025-08-20",
+      "topic": "Chatting in the pantry",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "I just had a nice chat with Sister Chen in the pantry about the apartment hunting. We actually found a pretty amazing place yesterday."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! Did you guys finally lock something down?"
+        },
+        {
+          "role": "user",
+          "content": "Not officially yet, but it's a top contender. I mentioned to her that the balcony is roughly 12 square meters, which is a really great find in our apartment hunting. Sister Chen actually felt a sudden pang of jealousy because of it, since she's been wanting a nice balcony for ages."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, I can't blame her! 12 square meters is huge for an apartment balcony. Are there any downsides to the place?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, there is one annoying thing. I complained to her about the extremely slow elevators in the high-rise buildings we saw during the apartment hunting. This one is on the 25th floor, so waiting for the lift takes forever."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, high-rise elevator traffic during rush hour is the worst. Did Sister Chen have any advice for the new place?"
+        },
+        {
+          "role": "user",
+          "content": "She did! She suggested I should buy some succulents for the new place to put on that giant balcony. Oh, and she also asked if the landlord was willing to replace the old mattress before we move in, so I need to text the agent about that."
+        },
+        {
+          "role": "assistant",
+          "content": "Succulents are a great idea, they're super low maintenance. Definitely follow up on that mattress, you don't want to mess up your sleep schedule!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-20, Sister Chen felt a sudden pang of jealousy because Linchen found a place with a huge balcony during the apartment hunting."
+      ]
+    }
+  ]
+}

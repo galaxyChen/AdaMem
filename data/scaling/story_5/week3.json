@@ -1,0 +1,496 @@
+{
+  "week": 3,
+  "conversations": [
+    {
+      "session_id": "w3_s1",
+      "day": "Monday",
+      "date": "2025-07-21",
+      "topic": "Discussing the latest apartment find with Mom",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off the phone with Mom about the apartment hunting. It's so exhausting. I had to take the subway for 40 minutes just to see this one place today."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds draining! Did the place turn out to be any good at least?"
+        },
+        {
+          "role": "user",
+          "content": "It was decent, but Mom was stressing out. She was saying how much she disliked apartment hunting when she was young, and how it would be so much easier if we had a car."
+        },
+        {
+          "role": "assistant",
+          "content": "She has a point about the car, but navigating city traffic isn't fun either. Are you still aiming to find something before the end of the month like you originally planned?"
+        },
+        {
+          "role": "user",
+          "content": "Actually, no. I promised Mom I'll sign a lease during the apartment hunting by this Wednesday, rather than waiting until the end of the month. She just wants me settled ASAP."
+        },
+        {
+          "role": "assistant",
+          "content": "Wednesday! That's a tight deadline. Do you think this place you saw today is the one, or are you still looking?"
+        },
+        {
+          "role": "user",
+          "content": "I need to check a few more listings, but the apartment hunting app keeps crashing on my phone. So frustrating. I'll probably just use my laptop tonight to finalize things."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, app crashes are the worst when you're in a rush. Let me know if you need help organizing the links or comparing the final options on your laptop!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-21, Linchen promised Mom he will sign a lease during the apartment hunting by this Wednesday, rather than waiting until the end of the month."
+      ]
+    },
+    {
+      "session_id": "w3_s2",
+      "day": "Monday",
+      "date": "2025-07-21",
+      "topic": "Rescheduling the code review block",
+      "focal_character": "Jiange",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen",
+        "Wanghao"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to update my calendar. I originally scheduled a 30-minute block at 9 AM today to finish the code review with Wanghao, but I'm rescheduling it to Tuesday at 2 PM instead."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, I've moved your 30-minute code review block with Wanghao from today at 9 AM to Tuesday at 2 PM. Need to adjust anything else?"
+        },
+        {
+          "role": "user",
+          "content": "No, that's it for the calendar. I was just chatting with Jiange, and he joked that the code review UI in our tool is absolutely terrible. I have to agree."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, he's definitely not the first to say that! How is the actual review going, despite the clunky UI?"
+        },
+        {
+          "role": "user",
+          "content": "It's pretty tedious. I complained to him that the code review comments were very nitpicky, especially since the code review took 500 lines of changes."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, 500 lines is a massive chunk to go through, and nitpicky comments definitely don't help. Make sure you take a breather once it's done!"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, for sure. Jiange suggested grabbing a snack after the code review is finally over, so I'm looking forward to that."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a perfect way to decompress. A snack break with Jiange is well deserved after all that!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-21, Linchen rescheduled the 30-minute block for the code review with Wanghao to Tuesday at 2 PM instead of Monday at 9 AM."
+      ]
+    },
+    {
+      "session_id": "w3_s3",
+      "day": "Tuesday",
+      "date": "2025-07-22",
+      "topic": "Setting priorities in the weekly sync",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the weekly sync",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just got out of the weekly sync. It started 10 minutes late because the projector was acting up again."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic meeting room struggles. Did you guys manage to get through the agenda once it finally worked?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, eventually. Though Boss Zhang was complaining the whole time about the room being too cold. Plus I had a slight headache during the sync, so I wasn't exactly at my best."
+        },
+        {
+          "role": "assistant",
+          "content": "Oof, sorry to hear about the headache and the freezing room. Did anything good come out of the meeting at least?"
+        },
+        {
+          "role": "user",
+          "content": "Well, someone brought donuts, which helped a bit. But the main takeaway is that Boss Zhang decided refactoring the authentication module is the top priority for this sprint. Everything else takes a backseat."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. Refactoring the auth module is the main focus now. Do you need me to adjust your schedule or task list to reflect that priority?"
+        },
+        {
+          "role": "user",
+          "content": "No, I think I'm good for now. I'll just keep it in mind as I plan my tasks for the rest of the week."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Just let me know if you need help sorting out your tasks later, and grab some water for that headache!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-22, Boss Zhang decided during the weekly sync that refactoring the authentication module is the top priority for this sprint."
+      ]
+    },
+    {
+      "session_id": "w3_s4",
+      "day": "Tuesday",
+      "date": "2025-07-22",
+      "topic": "Technical discussions in the weekly sync",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the weekly sync",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just got out of the weekly sync. Man, I felt so bored halfway through it."
+        },
+        {
+          "role": "assistant",
+          "content": "Long meeting? Sounds like you need a quick break before jumping back into the refactoring."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Wanghao even said the weekly sync always feels too long. He asked if we could move it to Thursday next time."
+        },
+        {
+          "role": "assistant",
+          "content": "Thursday might actually break up the week better. Did you guys at least figure out the plan for the auth module Boss Zhang prioritized?"
+        },
+        {
+          "role": "user",
+          "content": "We did. Wanghao concluded that the new authentication module will require 3 database migrations. Honestly, I noticed he was chugging an energy drink during the sync, probably stressing over it."
+        },
+        {
+          "role": "assistant",
+          "content": "3 database migrations is no small task. No wonder he needed the caffeine! Want me to help you prep for your 2 PM code review with him?"
+        },
+        {
+          "role": "user",
+          "content": "Thanks, I'll definitely need to review the new auth logic before we meet. I'll ping you if I get stuck."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. Good luck with the review, and maybe grab a coffee for yourself too!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-22, Wanghao concluded during the weekly sync that the new authentication module will require 3 database migrations."
+      ]
+    },
+    {
+      "session_id": "w3_s5",
+      "day": "Wednesday",
+      "date": "2025-07-23",
+      "topic": "Venting about the housing market",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Man, I am so done with today. I just felt a huge surge of exhaustion regarding the apartment hunting because the landlord suddenly raised the asking price right before I was supposed to sign."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh man, that's incredibly frustrating. A last-minute bait and switch is the worst. Are you going to walk away from it?"
+        },
+        {
+          "role": "user",
+          "content": "Definitely. It's ridiculous, especially since the apartment hunting contract was 15 pages long! I spent forever reading all that legal jargon for nothing."
+        },
+        {
+          "role": "assistant",
+          "content": "15 pages for a standard lease? That's insane. honestly, you probably dodged a bullet with that landlord."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I was just venting to Sister Chen about it. She suggested using a different broker for the apartment hunting moving forward."
+        },
+        {
+          "role": "assistant",
+          "content": "She makes a good point. A better broker might screen out these shady landlords before you even have to deal with them."
+        },
+        {
+          "role": "user",
+          "content": "True. Sister Chen also asked if the apartment hunting area had good parking, which I hadn't even checked. Honestly, apartment hunting usually takes up my entire Saturday, so I'm just too drained to notice every little detail."
+        },
+        {
+          "role": "assistant",
+          "content": "Totally understandable, it's a marathon. Take a breather tonight. Want me to help you look into some highly-rated brokers before the weekend rolls around?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-23, Linchen felt a surge of exhaustion regarding the apartment hunting because the landlord suddenly raised the asking price."
+      ]
+    },
+    {
+      "session_id": "w3_s6",
+      "day": "Thursday",
+      "date": "2025-07-24",
+      "topic": "Planning the upcoming business trip",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to start getting things together for the Shenzhen trip. Boss Zhang just decided today that the trip is going to be mandatory for all frontend leads."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've noted that down. Do you have the exact dates for the trip yet?"
+        },
+        {
+          "role": "user",
+          "content": "Not the exact dates yet. But Boss Zhang mentioned we should probably pack umbrellas because the weather during the Shenzhen trip might be rainy."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call, Shenzhen weather can be pretty wet this time of year. Anything else you need to prep?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I asked him if we would fly economy for the Shenzhen trip, but he hasn't confirmed the travel policy yet. Oh, and he also said he really wants to eat dim sum while we're there."
+        },
+        {
+          "role": "assistant",
+          "content": "Dim sum sounds like a great team dinner idea! Let me know when the flight details are settled so I can block your calendar."
+        },
+        {
+          "role": "user",
+          "content": "Will do. I also just realized my luggage is broken, so I'll need to buy a new suitcase before the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a bummer. Let me know if you want me to find some quick next-day delivery options for a new suitcase."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-24, Boss Zhang decided that the Shenzhen trip will be mandatory for all frontend leads."
+      ]
+    },
+    {
+      "session_id": "w3_s7",
+      "day": "Thursday",
+      "date": "2025-07-24",
+      "topic": "Adjusting workout schedules for the trip",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, since Boss Zhang made that Shenzhen trip mandatory for us frontend leads, I need to adjust my schedule. Jiange was just asking if I was excited about the Shenzhen trip, but honestly, I'm mostly just dreading the 3-hour flight."
+        },
+        {
+          "role": "assistant",
+          "content": "I hear you, a 3-hour flight right in the middle of this classroom refactoring sprint is a lot. Do you need me to move some of your appointments around?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, mainly my gym time. I was chatting with Jiange, and he actually mentioned his cousin lives right near the hotel we're staying at for the Shenzhen trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, small world! Does that mean you won't be able to do your usual weekend workout with him?"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. I was even complaining to him that this Shenzhen trip is totally going to interrupt my diet. But to make up for missing the weekend, I scheduled a makeup workout session with Jiange for this Friday at 6 PM because of the upcoming trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll block out Friday at 6 PM for your makeup workout with Jiange. Do you need me to adjust anything else before you leave?"
+        },
+        {
+          "role": "user",
+          "content": "That's it for now. Just make sure the calendar is updated so I don't accidentally book any late meetings on Friday."
+        },
+        {
+          "role": "assistant",
+          "content": "All set! Friday at 6 PM is locked in for your workout with Jiange. Hang in there with the trip prep!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-24, Linchen scheduled a makeup workout session with Jiange for Friday at 6 PM because of the upcoming Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w3_s8",
+      "day": "Friday",
+      "date": "2025-07-25",
+      "topic": "Discussing the business trip with Liwei",
+      "focal_character": "Liwei",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to get organized for this Shenzhen trip. Boss Zhang made it mandatory for all leads, remember? Liwei just asked what clothes I'm packing, and honestly, I haven't even thought about it."
+        },
+        {
+          "role": "assistant",
+          "content": "You'd better figure that out soon! What's the weather usually like down there this time of year?"
+        },
+        {
+          "role": "user",
+          "content": "Probably pretty wet. Liwei actually suggested bringing an umbrella for the Shenzhen trip, which is definitely a smart call. I also need to remember to expense the tickets later, the Shenzhen trip flights cost 2000 RMB."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call on the umbrella. I'll add a quick note to remind you about the 2000 RMB flight expense next week. Is the itinerary pretty packed?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it's going to be exhausting. The Shenzhen trip will involve meeting 5 new clients over just a couple of days. Because I'll be so tied up, I seriously committed to Liwei that I will call her every night during the Shenzhen trip so she doesn't feel neglected."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a really sweet promise. I can set a recurring reminder for your evening calls with Liwei if you want. Anything else you need to prep before you leave?"
+        },
+        {
+          "role": "user",
+          "content": "No, I think that covers it. I'm going to finish throwing some shirts in my bag and then head out to that makeup workout session with Jiange at 6 PM."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. Have a great workout with Jiange, and safe travels to Shenzhen!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-25, Linchen seriously committed to Liwei that he will call her every night during the Shenzhen trip."
+      ]
+    },
+    {
+      "session_id": "w3_s9",
+      "day": "Saturday",
+      "date": "2025-07-26",
+      "topic": "Weekend code review catch-up",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the code review",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just wrapping up that weekend code review catch-up with Wanghao. Man, I have to say, the code review notification emails are so annoying, they've been spamming my inbox all morning."
+        },
+        {
+          "role": "assistant",
+          "content": "Ugh, email floods are the worst. Did you guys at least manage to get through the review smoothly?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly. I was getting a bit distracted because the code review tool's dark mode looks super weird after their latest update. But Wanghao was just chilling, mentioning he was drinking iced coffee while we went through the files."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, classic. Did you guys hit any major roadblocks with the auth module changes?"
+        },
+        {
+          "role": "user",
+          "content": "No roadblocks, actually some good news. Wanghao concluded during the code review that our new API payload size is reduced by 25KB. Pretty solid win for the refactor."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a massive drop! Shaving off 25KB will definitely help with the latency goals. Are you done for the day then?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, pretty much. Wanghao actually asked if I wanted to play a game after the code review, so I think I'm gonna go do that and finally unwind."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a well-deserved break. Have fun gaming, and let me know if you need anything later!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-26, Wanghao concluded during the code review that the new API payload size is reduced by 25KB."
+      ]
+    },
+    {
+      "session_id": "w3_s10",
+      "day": "Sunday",
+      "date": "2025-07-27",
+      "topic": "Reflecting on the week's meetings",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the weekly sync",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I was just catching up with Sister Chen about how this week went, especially looking back at our weekly sync."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh yeah? How is she doing? I know the aftermath of that production incident last week really took a toll on her."
+        },
+        {
+          "role": "user",
+          "content": "She's doing a lot better now! In fact, today she told me she felt a deep sense of relief remembering the weekly sync, mainly because the project timeline was finally clarified."
+        },
+        {
+          "role": "assistant",
+          "content": "That is such good news. Having a clear timeline takes so much pressure off, especially with the Q3 deadline Boss Zhang set for the refactoring."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. She was in a pretty good mood about it. She even complimented that the weekly sync notes were formatted nicely. Oh, and out of nowhere, she asked if Boss Zhang wore his blue shirt to the weekly sync. I honestly couldn't remember."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, she always notices the little details! Sounds like it was a pretty productive meeting overall."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it was. I actually noted that exactly 12 people attended the weekly sync, and we kept it tight—it took exactly 45 minutes. Pretty rare for us."
+        },
+        {
+          "role": "assistant",
+          "content": "A 45-minute meeting with 12 people is basically a miracle! Glad things are looking up and the team is getting some clarity."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-27, Sister Chen felt a deep sense of relief remembering the weekly sync because the project timeline was finally clarified."
+      ]
+    }
+  ]
+}

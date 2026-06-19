@@ -1,0 +1,11 @@
+{
+  "method": "adamem",
+  "memory_model": "gemini-3.5-flash",
+  "fbmode": "verbose",
+  "story_id": 10,
+  "extracted_judged_rows": 359,
+  "recall_judged_rows": 100,
+  "golden_pool_size": 107,
+  "judged_by": "call_llm/deepseek-v4-flash",
+  "ts": 1781665537
+}

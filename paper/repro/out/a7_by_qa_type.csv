@@ -1,0 +1,13 @@
+method,model,fbmode,qa_type,acc,n
+adamem,deepseek,verbose,within_pref,85.2,500
+adamem,deepseek,with_gold,within_pref,82.0,500
+adamem,gemini,verbose,within_pref,84.8,500
+adamem,gemini,with_gold,within_pref,85.4,500
+fc,deepseek,verbose,within_pref,96.4,500
+fc,deepseek,with_gold,within_pref,97.2,500
+id,deepseek,verbose,within_pref,96.0,500
+id,deepseek,with_gold,within_pref,96.4,500
+m0,deepseek,verbose,within_pref,76.2,500
+m0,deepseek,with_gold,within_pref,80.2,500
+m0,gemini,verbose,within_pref,80.4,500
+m0,gemini,with_gold,within_pref,83.2,500

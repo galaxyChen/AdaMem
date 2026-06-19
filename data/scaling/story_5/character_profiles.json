@@ -1,0 +1,32 @@
+{
+  "Boss Zhang": {
+    "preference_feedback": "I want you to just save Boss Zhang's final decisions and conclusions from now on, you can ignore all his brainstorming.",
+    "preference_id": "P1",
+    "preference_desc": "only record final decisions and conclusions"
+  },
+  "Liwei": {
+    "preference_feedback": "I need you to focus on Liwei's actual promises and how she's feeling, rather than the minor details you saved this time.",
+    "preference_id": "P2",
+    "preference_desc": "record serious commitments and emotional signals (Linchen's girlfriend)"
+  },
+  "Wanghao": {
+    "preference_feedback": "For Wanghao, I only want you to save the hard numbers and final technical conclusions, not all the extra discussion.",
+    "preference_id": "P3",
+    "preference_desc": "only record technical conclusions and key numbers (engineering colleague)"
+  },
+  "Sister Chen": {
+    "preference_feedback": "I'd rather you focus on Sister Chen's mood shifts and what triggers them, instead of logging every little thing she says.",
+    "preference_id": "P4",
+    "preference_desc": "record emotional changes and their triggers (close friend)"
+  },
+  "Mom": {
+    "preference_feedback": "For my mom, I'd rather you just keep track of the promises I make and our big family events, not the everyday chatter.",
+    "preference_id": "P5",
+    "preference_desc": "only record Linchen's promises and major family events"
+  },
+  "Jiange": {
+    "preference_feedback": "For Jiange, I just need you to track our workout schedules and meeting times, so please ignore the rest of our casual chats.",
+    "preference_id": "P6",
+    "preference_desc": "only record schedule/time arrangements (workout buddy)"
+  }
+}

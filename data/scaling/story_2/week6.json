@@ -1,0 +1,489 @@
+{
+  "week": 6,
+  "conversations": [
+    {
+      "session_id": "w6_s1",
+      "day": "Monday",
+      "date": "2025-08-11",
+      "topic": "Rescheduling the move due to rain",
+      "focal_character": "Jiange",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my calendar? It's pouring rain today, so Jiange and I won't be moving boxes for the apartment hunting this morning like we planned."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, stay dry! When are you and Jiange planning to tackle the move instead?"
+        },
+        {
+          "role": "user",
+          "content": "Jiange rescheduled helping me move the boxes to tomorrow, August 12th, at 6:00 PM. He was actually kind of relieved because he was complaining about the heavy traffic near the apartment hunting area this morning anyway."
+        },
+        {
+          "role": "assistant",
+          "content": "Calendar updated to tomorrow at 6:00 PM. Dodging that traffic is definitely a win! Need me to set any reminders for tomorrow?"
+        },
+        {
+          "role": "user",
+          "content": "No need for reminders. Jiange did suggest buying pizza after the apartment hunting move is done tomorrow, which sounds great. He also mentioned his own stressful apartment hunting experience from three years ago, so I think he really gets why I just want to be done with this."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza is the ultimate moving day reward. It's awesome he's so understanding about the stress of it all. I'll keep your evening clear tomorrow so you guys can eat and chill."
+        },
+        {
+          "role": "user",
+          "content": "Thanks! I'll let you know if anything else changes, but 6 PM tomorrow is locked in."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it. Good luck with the move tomorrow, and enjoy the pizza!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-11 Jiange rescheduled helping Linchen move boxes for the apartment hunting to August 12th at 6:00 PM due to rain."
+      ]
+    },
+    {
+      "session_id": "w6_s2",
+      "day": "Tuesday",
+      "date": "2025-08-12",
+      "topic": "Signing the lease",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, we finally did it! We just finished up the apartment hunting and signed the lease today."
+        },
+        {
+          "role": "assistant",
+          "content": "Awesome news! I know you've been working hard to get that finalized before the mid-August deadline."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, it was totally worth it. Liwei felt immense relief when the landlord finally signed the paperwork. Though I have to admit, I could barely keep a straight face—I kept joking with Liwei about the landlord's funny hat during the meeting."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, at least it made a boring paperwork meeting a bit more memorable! Did everything go smoothly with the contract?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly! Liwei actually noted that the pen we used for the lease was running out of ink, so our signatures look incredibly scratchy. But to make things easier on her, I made a serious commitment to Liwei that I will cover the full security deposit."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a great gesture, Linchen. I'm sure that takes a lot of pressure off her. Are you all set for Jiange to help you move boxes at 6:00 PM tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, we're ready for tonight. Oh, and right before we left, Liwei mentioned she saw a very cute dog in the lobby, so she's already loving the new building."
+        },
+        {
+          "role": "assistant",
+          "content": "A cute dog in the lobby is definitely a top-tier amenity. Good luck with the move tonight, and let me know if you need me to order dinner for you and Jiange!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-12 Liwei felt immense relief when the landlord finally signed the paperwork for the apartment hunting.",
+        "On 2025-08-12 Linchen made a serious commitment to Liwei to cover the full security deposit for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w6_s3",
+      "day": "Wednesday",
+      "date": "2025-08-13",
+      "topic": "Budget cuts affecting travel",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, looks like the budget cuts are officially hitting us. Boss Zhang just finalized the decision that the Shenzhen trip will be cut back to exactly two days to save budget."
+        },
+        {
+          "role": "assistant",
+          "content": "Wow, that's a tight turnaround! Down to just two days from four. How are you and Wanghao going to squeeze the server load tests into that window?"
+        },
+        {
+          "role": "user",
+          "content": "It's going to be a massive rush. Honestly, during the meeting, Boss Zhang just complained about the terrible airline food usually served on the Shenzhen trip. Like that's our biggest problem right now."
+        },
+        {
+          "role": "assistant",
+          "content": "Ha, classic Boss Zhang priorities. Well, at least it's a shorter trip so you won't have to endure the food for long."
+        },
+        {
+          "role": "user",
+          "content": "True. He also mentioned the rainy weather forecast for the Shenzhen trip, which sounds miserable. Do you think I should even bother packing a suit for the Shenzhen trip if it's just two days of rain and running between servers?"
+        },
+        {
+          "role": "assistant",
+          "content": "Probably not worth the hassle! I'd say pack light and bring a good waterproof jacket instead. Need me to update your calendar for the new dates?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, please update the calendar. I'll just prep for a very crammed 48 hours."
+        },
+        {
+          "role": "assistant",
+          "content": "Done! Your itinerary is updated for the two-day sprint. Let me know if you need help organizing any docs before you fly out."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-13 Boss Zhang finalized the decision that the Shenzhen trip will be cut back to exactly two days to save budget."
+      ]
+    },
+    {
+      "session_id": "w6_s4",
+      "day": "Wednesday",
+      "date": "2025-08-13",
+      "topic": "Server migration prep",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you help me prep my notes for the server migration? Since Boss Zhang cut the Shenzhen trip back to exactly two days to save budget, Wanghao and I are scrambling a bit."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure thing! Two days is definitely a tight window. What do you need to jot down for the migration prep?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Wanghao just concluded that the database migration during the Shenzhen trip will require 150GB of temporary storage. We need to make sure DevOps provisions that beforehand."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I've logged the 150GB temporary storage requirement for the database migration. Did he mention any other technical specs?"
+        },
+        {
+          "role": "user",
+          "content": "No, that was the main technical takeaway. After that, Wanghao just joked about bringing his heavy mechanical keyboard on the Shenzhen trip. I told him he's crazy, especially since I was just looking at my own carry-on luggage and realizing it might be too small for the trip."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, packing a heavy mechanical keyboard in a tiny carry-on sounds like a hassle! Are you guys going to be stuck in the server room the whole time, or will you get a break?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly stuck in the server room, but Wanghao did ask where we should eat authentic dim sum during the Shenzhen trip. We'll definitely try to squeeze that in."
+        },
+        {
+          "role": "assistant",
+          "content": "Dim sum is a must! I can look up some top-rated authentic spots near your data center if you'd like. Good luck with the packing!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-13 Wanghao concluded that the database migration during the Shenzhen trip will require 150GB of temporary storage."
+      ]
+    },
+    {
+      "session_id": "w6_s5",
+      "day": "Thursday",
+      "date": "2025-08-14",
+      "topic": "Office rumors and stress",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the morning coffee chat",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got back from the morning coffee chat with Sister Chen and my nerves are completely shot."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, what happened? Is everything okay?"
+        },
+        {
+          "role": "user",
+          "content": "Not really. I felt a sudden spike of anxiety during the morning coffee chat, triggered by hearing rumors of departmental budget cuts. It just hit me out of nowhere and freaked me out."
+        },
+        {
+          "role": "assistant",
+          "content": "Budget cuts? That's definitely stressful, especially with the beta launch coming up. Did Sister Chen have any details about it?"
+        },
+        {
+          "role": "user",
+          "content": "No, she was actually just complaining because she disliked the new espresso beans used for the morning coffee chat. I was so shaken up by the rumor that I accidentally spilled a drop of milk on the counter while making my drink."
+        },
+        {
+          "role": "assistant",
+          "content": "Try not to panic until Boss Zhang makes an official announcement. Remember, the multiplayer mode is a top priority for Q3. Want me to block out 10 minutes for you to decompress?"
+        },
+        {
+          "role": "user",
+          "content": "Maybe later. Honestly, the whole pantry was a mess anyway. Someone left a dirty mug right next to the machine during the morning coffee chat. I just wiped up my milk and got out of there."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call getting out of that chaotic space. Just take a deep breath at your desk. Let me know if you need to vent more later!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-14 Linchen felt a sudden spike of anxiety during the morning coffee chat, triggered by hearing rumors of departmental budget cuts."
+      ]
+    },
+    {
+      "session_id": "w6_s6",
+      "day": "Thursday",
+      "date": "2025-08-14",
+      "topic": "Quick project update in the pantry",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the morning coffee chat",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just stepped out of the pantry. Had a morning coffee chat with Boss Zhang."
+        },
+        {
+          "role": "assistant",
+          "content": "Nice! Did you manage to ask him about those budget cut rumors that were stressing you out?"
+        },
+        {
+          "role": "user",
+          "content": "Briefly, but it started off super casual. I complimented his new tie, and he was just chatting about how he usually prefers green tea over the morning coffee chat brews we have here."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic. Did he eventually circle back to the actual project?"
+        },
+        {
+          "role": "user",
+          "content": "Eventually, yeah. He talked at length about his recent golf game first, which took up a good chunk of time."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, of course he did. What was the verdict on work stuff?"
+        },
+        {
+          "role": "user",
+          "content": "The big thing is that he finally decided that the marketing team will officially join the beta testing phase. We'll need to coordinate with them."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll make a note of that decision. Anything else you need me to update for the beta phase?"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-14 Boss Zhang decided during the morning coffee chat that the marketing team will officially join the beta testing phase."
+      ]
+    },
+    {
+      "session_id": "w6_s7",
+      "day": "Friday",
+      "date": "2025-08-15",
+      "topic": "Calling mom about the weekend",
+      "focal_character": "Mom",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just got off a call with my mom about the weekend. We were mostly talking about my anniversary plan with Liwei."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey Linchen! How did the call go? Is she excited for you two?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, she is. Though she kept asking what specific shirt I'm wearing for the anniversary plan, which is pretty typical of her."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, moms always want to make sure we're looking our best. Did you figure out the timing for the evening?"
+        },
+        {
+          "role": "user",
+          "content": "Well, I mentioned that the downtown traffic might be terrible for the anniversary plan, so she suggested we eat early to avoid the crowds."
+        },
+        {
+          "role": "assistant",
+          "content": "That's actually really solid advice. A quieter dinner and less traffic sounds like a win. Anything else you need me to remember from the call?"
+        },
+        {
+          "role": "user",
+          "content": "Just one thing. I promised Mom I would send her a video of the restaurant view during the anniversary plan. Remind me to do that later."
+        },
+        {
+          "role": "assistant",
+          "content": "You got it! I'll remind you to record and send that video of the restaurant view to your mom. Have a fantastic anniversary dinner!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-15 Linchen promised Mom he would send her a video of the restaurant view during the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w6_s8",
+      "day": "Friday",
+      "date": "2025-08-15",
+      "topic": "Pre-anniversary jitters",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I just ran into Sister Chen by the coffee machine and we were chatting about the anniversary plan. I've got to tell you, I'm feeling this overwhelming excitement right now! It was totally triggered by finally picking up the custom gift for the anniversary plan."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome! It must feel incredible to finally have that custom gift in your hands. What did Sister Chen think about your plans?"
+        },
+        {
+          "role": "user",
+          "content": "Well, Sister Chen asked what time the dinner reservation is for the anniversary plan. I told her, and then she said she absolutely loves the restaurant chosen for the anniversary plan. It really validated my choice!"
+        },
+        {
+          "role": "assistant",
+          "content": "Having her seal of approval definitely helps with the pre-anniversary jitters! Did you end up getting the gift wrapped at the shop?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, I did. I mentioned to her that I chose a silver gift wrap color for the anniversary plan. I think it looks super elegant. Now I just need to remember to take that video of the restaurant view for my mom like I promised."
+        },
+        {
+          "role": "assistant",
+          "content": "Silver sounds very classy, Liwei is going to love it. Don't worry, I'll remind you to take that video for your mom when the time comes. Sounds like everything is perfectly set!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-15 Linchen experienced overwhelming excitement, triggered by finally picking up the custom gift for the anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w6_s9",
+      "day": "Saturday",
+      "date": "2025-08-16",
+      "topic": "The actual anniversary date",
+      "focal_character": "Liwei",
+      "topic_anchor": "the anniversary plan",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! The anniversary plan went perfectly tonight. Well, mostly perfectly—the waiter accidentally dropped a salad fork right at our table when we sat down, but we just laughed it off."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, a little clumsy start but it sounds like it didn't ruin the mood! How was the rest of the dinner?"
+        },
+        {
+          "role": "user",
+          "content": "It was fantastic. Liwei mentioned she really liked the soft background music playing during the dinner, it kept things super romantic. And the food was great too, I ordered the medium-rare steak and it was cooked perfectly."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like an amazing atmosphere! Did you finally give her the custom gift you were so excited about yesterday?"
+        },
+        {
+          "role": "user",
+          "content": "I did! It was the highlight of the night. Liwei actually cried tears of joy when I presented the custom gift during our anniversary plan. Seeing her that happy was everything."
+        },
+        {
+          "role": "assistant",
+          "content": "That is so incredibly sweet, Linchen! I'm so glad the gift was a huge success. It really sounds like a night to remember."
+        },
+        {
+          "role": "user",
+          "content": "It really was. In fact, right after that, I made a serious commitment to Liwei to take an annual trip for every future anniversary plan. I want to make sure we always celebrate like this."
+        },
+        {
+          "role": "assistant",
+          "content": "That’s a beautiful promise to make. An annual anniversary trip sounds like a fantastic tradition. Let me know when you want to start brainstorming destinations for next year!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-16 Liwei cried tears of joy when Linchen presented the custom gift during the anniversary plan.",
+        "On 2025-08-16 Linchen made a serious commitment to Liwei to take an annual trip for every future anniversary plan."
+      ]
+    },
+    {
+      "session_id": "w6_s10",
+      "day": "Sunday",
+      "date": "2025-08-17",
+      "topic": "Weekend catchup",
+      "focal_character": "Jiange",
+      "topic_anchor": "the morning coffee chat",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, just getting back. The morning coffee chat with Jiange went pretty well, though I ended up getting a large iced latte instead of hot coffee since it's already roasting outside."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call on the iced latte! How's Jiange doing? Did you guys talk about your lifting plans?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, we did. He was actually complaining that his shoulder muscles were extremely sore during the chat. Apparently, he pushed it too hard last week."
+        },
+        {
+          "role": "assistant",
+          "content": "Ouch, that sounds rough. Did he figure out a way to adjust his recovery?"
+        },
+        {
+          "role": "user",
+          "content": "He did talk about a new vanilla protein powder he bought to help with that. He thinks it'll make a difference."
+        },
+        {
+          "role": "assistant",
+          "content": "Hopefully the vanilla powder does the trick. Are you guys changing up your routines then?"
+        },
+        {
+          "role": "user",
+          "content": "Exactly. Because of that, Jiange scheduled a follow-up morning coffee chat for next Tuesday at 9:15 AM to discuss our new workout routines."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll note down the Tuesday 9:15 AM chat with Jiange so you don't forget. Enjoy the rest of your Sunday!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-17 Jiange scheduled a follow-up morning coffee chat for next Tuesday at 9:15 AM to discuss their new workout routines."
+      ]
+    }
+  ]
+}

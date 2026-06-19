@@ -1,0 +1,503 @@
+{
+  "week": 4,
+  "conversations": [
+    {
+      "session_id": "w4_s1",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Updating Mom on the housing search progress",
+      "focal_character": "Mom",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Mom",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, I need to send an update to Mom about the apartment hunting. Man, I have to complain about how hot the weather was while I was out looking today. I'm completely drenched in sweat."
+        },
+        {
+          "role": "assistant",
+          "content": "I can imagine, the heat has been intense today! What do you want me to include in the message to your Mom?"
+        },
+        {
+          "role": "user",
+          "content": "Tell her that there's a slight change of plans. I know I told her before that I'd sign by Wednesday, but please tell her I promise I will finalize the lease signing during the apartment hunting by this Friday instead. The landlord is just causing some delays with the paperwork."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. I'll let her know you promise to finalize the lease by Friday instead of Wednesday because of the landlord's delays. Want to add any lighter details so she doesn't worry?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, good idea. Mention that the real estate agent for the apartment hunting was wearing a really funny hat, which kept cracking me up. Also let her know the location is near a highly-rated noodle shop, so she knows I'll eat well."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect, Mom will definitely love the noodle shop detail. I've drafted the message with the Friday promise, the funny hat, and the noodle shop. Should I send it off?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, go ahead and send it. Also, set a reminder for me: I scheduled a follow-up call regarding the apartment hunting for 8 PM tonight to iron out the rest of those landlord delays."
+        },
+        {
+          "role": "assistant",
+          "content": "Message sent to Mom! I've also set your reminder for the 8 PM follow-up call regarding the apartment hunting. Go grab some water and cool off!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Linchen promised Mom he will finalize the lease signing during the apartment hunting by this Friday instead of Wednesday due to landlord delays."
+      ]
+    },
+    {
+      "session_id": "w4_s2",
+      "day": "Monday",
+      "date": "2025-07-28",
+      "topic": "Adjusting travel requirements for the upcoming trip",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, quick update on the Shenzhen trip. Boss Zhang just mentioned that the flights for it are getting quite expensive lately."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh, budget concerns? Does that mean they're changing the travel plans?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, exactly. Boss Zhang decided that the Shenzhen trip is now optional for frontend leads, but it's still mandatory for product managers."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it. That's probably a relief for you, considering you're busy with the classroom refactoring and apartment hunting. Are you still planning to go?"
+        },
+        {
+          "role": "user",
+          "content": "Probably not. Boss Zhang was actually feeling a bit anxious about the tight schedule for the trip, so having fewer people might make it easier to manage. Plus, he joked about the quality of the hotel breakfast there, so I don't think I'm missing much."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, fair enough. A tight schedule and a bad breakfast don't exactly sound like a fun combo. Did he mention anything else?"
+        },
+        {
+          "role": "user",
+          "content": "Not much, he just said he hopes the weather is nice down there during the trip. I'll just stay back and focus on the React 18 migration."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a solid plan. I'll update your notes. Let me know if you need help organizing your tasks for the week instead!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-28, Boss Zhang decided that the Shenzhen trip is now optional for frontend leads but mandatory for product managers."
+      ]
+    },
+    {
+      "session_id": "w4_s3",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Evaluating the staging environment capacity",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Wanghao and I just went over the staging environment for the customer demo. He was feeling very nervous about the whole thing."
+        },
+        {
+          "role": "assistant",
+          "content": "Demos can definitely be nerve-wracking. Did you two manage to get the capacity sorted out?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, Wanghao ran some load tests and concluded that the staging environment for the customer demo can support exactly 500 concurrent users. That should be plenty for our needs."
+        },
+        {
+          "role": "assistant",
+          "content": "That's a solid number, 500 concurrent users should definitely cover it. Is he feeling any better about it now?"
+        },
+        {
+          "role": "user",
+          "content": "A bit, though he still asked me what time the customer demo officially starts just to make sure he's ready. Oh, and he promised he would clean up his desk before the customer demo."
+        },
+        {
+          "role": "assistant",
+          "content": "Haha, a clean desk is a rare sight! Did you remind him of the start time?"
+        },
+        {
+          "role": "user",
+          "content": "Yep, I told him 2 PM. To lighten the mood, Wanghao suggested we order pizza for the team after the customer demo wraps up."
+        },
+        {
+          "role": "assistant",
+          "content": "Pizza is the perfect post-demo reward. Good luck to you both at 2 PM, I'm sure it'll go great!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29, Wanghao concluded that the staging environment for the customer demo can support exactly 500 concurrent users."
+      ]
+    },
+    {
+      "session_id": "w4_s4",
+      "day": "Tuesday",
+      "date": "2025-07-29",
+      "topic": "Experiencing issues during a team meeting",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Just got back to my desk. I was just talking to Sister Chen, and she was complaining about the new conference room."
+        },
+        {
+          "role": "assistant",
+          "content": "Oh no, what went wrong with it?"
+        },
+        {
+          "role": "user",
+          "content": "She was extremely annoyed because the AC in the new conference room was completely broken during her meeting today. She said it felt like an absolute sauna in there."
+        },
+        {
+          "role": "assistant",
+          "content": "Yikes, that sounds miserable. A broken AC in July is no joke."
+        },
+        {
+          "role": "user",
+          "content": "Exactly. She noted the room currently has 12 chairs, and with that many people packed in, it heated up fast. Plus, she mentioned it has a weird echo that makes it super hard to hear anyone."
+        },
+        {
+          "role": "assistant",
+          "content": "Broken AC and bad acoustics? That's a terrible combo for a meeting room."
+        },
+        {
+          "role": "user",
+          "content": "Yeah, and on top of that, she decided the new conference room definitely needs a larger whiteboard. The tiny one they installed just isn't enough for drawing out architecture diagrams."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like facilities really needs to upgrade that room. Is she avoiding it for now?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, she actually scheduled a sync in the new conference room for 3 PM tomorrow. I guess it's the only space left for her team."
+        },
+        {
+          "role": "assistant",
+          "content": "Let's hope they fix the AC before 3 PM tomorrow, or she's going to be furious all over again!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-29, Sister Chen felt extremely annoyed because the AC in the new conference room was broken during her meeting."
+      ]
+    },
+    {
+      "session_id": "w4_s5",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Receiving the draft contract",
+      "focal_character": "Liwei",
+      "topic_anchor": "the apartment hunting",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! Liwei and I finally got the draft contract for the new apartment today! I felt such a huge surge of excitement with her when the email came through. We were literally cheering."
+        },
+        {
+          "role": "assistant",
+          "content": "That's awesome news! I know you both have been stressing over this. Everything look okay in the document?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, the numbers match up. I calculated it out, and the apartment hunting deposit will be exactly 16000 RMB."
+        },
+        {
+          "role": "assistant",
+          "content": "Perfect. So, when is the big day to actually put pen to paper?"
+        },
+        {
+          "role": "user",
+          "content": "I went ahead and scheduled the contract signing for 10 AM on Saturday. Looking back, I realized this whole apartment hunting process took exactly three weeks."
+        },
+        {
+          "role": "assistant",
+          "content": "Three weeks of hard work paying off! You guys definitely deserve a break now. Any plans to mark the occasion?"
+        },
+        {
+          "role": "user",
+          "content": "Oh, for sure. I decided we should celebrate the end of the apartment hunting with hot pot right after we sign on Saturday."
+        },
+        {
+          "role": "assistant",
+          "content": "Hot pot sounds like the perfect way to celebrate. Let me know if you need help finding a good place near the new apartment!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Linchen felt a surge of excitement with Liwei when they finally received the draft contract for the apartment hunting."
+      ]
+    },
+    {
+      "session_id": "w4_s6",
+      "day": "Wednesday",
+      "date": "2025-07-30",
+      "topic": "Rescheduling a workout due to travel changes",
+      "focal_character": "Jiange",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Jiange",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you draft a quick message to Jiange for me? My return flight from the Shenzhen trip just got delayed, so I need to reschedule our makeup workout session."
+        },
+        {
+          "role": "assistant",
+          "content": "Of course. That's a bummer about the flight! When would you like to reschedule the workout for?"
+        },
+        {
+          "role": "user",
+          "content": "Let's move it to Saturday at 8 AM. Also, let him know I promised I'd bring back some local snacks from the Shenzhen trip to make up for bailing on Friday."
+        },
+        {
+          "role": "assistant",
+          "content": "Done. I'll let Jiange know the session is moved to Saturday at 8 AM and that he has snacks to look forward to. How are you holding up with the travel?"
+        },
+        {
+          "role": "user",
+          "content": "Honestly, I feel completely exhausted from the Shenzhen trip. The only silver lining is that I noted the trip added 5000 miles to my frequent flyer account."
+        },
+        {
+          "role": "assistant",
+          "content": "Hey, 5000 miles is a pretty nice consolation prize! Try to get some rest on the flight back so you have energy for Saturday."
+        },
+        {
+          "role": "user",
+          "content": "Will do. By the way, make a note for me: I've decided I definitely need to pack lighter for the next Shenzhen trip. Lugging my huge bag around is half the reason I'm so tired."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted! I'll remind you to pack light next time you head to Shenzhen. Safe travels and hope you get to relax soon!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-30, Linchen rescheduled the makeup workout session with Jiange to Saturday at 8 AM because his return flight from the Shenzhen trip was delayed."
+      ]
+    },
+    {
+      "session_id": "w4_s7",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Establishing rules for office spaces",
+      "focal_character": "Boss Zhang",
+      "topic_anchor": "the new conference room",
+      "characters_mentioned": [
+        "Boss Zhang",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you update my notes on the new conference room? Boss Zhang just gave us a rundown. He noted that the room cost 50,000 RMB to renovate, but he felt very happy about the natural lighting in there."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it! 50k is quite the investment, but good lighting makes a huge difference. Did he mention any new rules for booking it?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, a few things. First off, Boss Zhang scheduled all his 1-on-1s in the new conference room from now on. He also promised to buy a plant for the new conference room to liven it up a bit."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like he's practically moving in! Is the rest of the team still allowed to use it?"
+        },
+        {
+          "role": "user",
+          "content": "Mostly, yes. But the main takeaway is that Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Fridays. We can't book it at all on that day."
+        },
+        {
+          "role": "assistant",
+          "content": "Understood. I've noted the Friday restriction for executive meetings. Anything else on your mind before you get back to the classroom refactoring?"
+        },
+        {
+          "role": "user",
+          "content": "Nope, that's all for today. I better get back to the code."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds good! Good luck with the code, and let me know if you need anything else."
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Boss Zhang decided that the new conference room will be exclusively reserved for executive meetings on Fridays."
+      ]
+    },
+    {
+      "session_id": "w4_s8",
+      "day": "Thursday",
+      "date": "2025-07-31",
+      "topic": "Making plans for after the big presentation",
+      "focal_character": "Liwei",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Liwei",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, can you set an alarm for me? The customer demo is officially scheduled for 4 PM today. I've got this huge knot of anxiety in my stomach just thinking about it."
+        },
+        {
+          "role": "assistant",
+          "content": "Alarm set for 4 PM! It's totally normal to feel anxious before a huge presentation, especially with the crazy sprint you've had. You've prepared well for this, though. You'll crush it!"
+        },
+        {
+          "role": "user",
+          "content": "I hope so. The customer demo relies heavily on 3 new microservices we just integrated, so there are a lot of moving parts. I even decided I'll wear a formal suit for the customer demo today to look as professional as possible."
+        },
+        {
+          "role": "assistant",
+          "content": "A formal suit is a great call—dress for success! And remember, Wanghao confirmed the staging environment can handle the load, so those microservices should hold up just fine. Do you have any plans to unwind after it's done?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, actually. I just texted Liwei, and I seriously committed to her that I will take her out to a fancy dinner once the customer demo is successfully finished. We definitely need to celebrate after all the stress lately."
+        },
+        {
+          "role": "assistant",
+          "content": "That sounds like a wonderful way to celebrate! She's going to love that, especially after the excitement of getting the apartment draft contract yesterday. Need me to look up some high-end restaurant reservations for tonight?"
+        },
+        {
+          "role": "user",
+          "content": "Not right now, I need to go review my talking points. Just make sure you remember my commitment to Liwei so I don't accidentally schedule anything else this evening."
+        },
+        {
+          "role": "assistant",
+          "content": "Noted and locked in! Go review your notes, take a deep breath, and go knock that demo out of the park. I'll be here when you're ready to pick a restaurant!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-07-31, Linchen seriously committed to Liwei that he will take her out to a fancy dinner once the customer demo is successfully finished."
+      ]
+    },
+    {
+      "session_id": "w4_s9",
+      "day": "Friday",
+      "date": "2025-08-01",
+      "topic": "Reviewing metrics gathered during travel",
+      "focal_character": "Wanghao",
+      "topic_anchor": "the Shenzhen trip",
+      "characters_mentioned": [
+        "Wanghao",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey, Wanghao just got back to the office today. He told me he felt so relieved the Shenzhen trip was finally over."
+        },
+        {
+          "role": "assistant",
+          "content": "Welcome back to him! Those work trips can be exhausting. Did he manage to get the metrics for the classroom refactor?"
+        },
+        {
+          "role": "user",
+          "content": "Yeah, he ran the network tests on-site. He concluded after the Shenzhen trip that the client's local server latency is exactly 120 milliseconds."
+        },
+        {
+          "role": "assistant",
+          "content": "Got it, 120ms. That's a crucial number for our new video rendering engine. Is he going to document the rest of the findings?"
+        },
+        {
+          "role": "user",
+          "content": "Yes, he promised he would write a detailed summary of the Shenzhen trip. He also scheduled a follow-up meeting regarding the Shenzhen trip for next Monday to discuss the next steps."
+        },
+        {
+          "role": "assistant",
+          "content": "Sounds like a plan. I'll make sure to remind you about the Monday meeting. Anything else you need to log from his trip?"
+        },
+        {
+          "role": "user",
+          "content": "Not really, just some admin stuff. He decided to expense his taxi rides from the Shenzhen trip this afternoon. That's about it for now."
+        },
+        {
+          "role": "assistant",
+          "content": "Classic post-trip admin work. I've noted the 120ms latency figure for your refactoring work. Let me know if you need to prep for Monday's sync!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-01, Wanghao concluded after the Shenzhen trip that the client's local server latency is exactly 120 milliseconds."
+      ]
+    },
+    {
+      "session_id": "w4_s10",
+      "day": "Saturday",
+      "date": "2025-08-02",
+      "topic": "Debriefing after a successful presentation",
+      "focal_character": "Sister Chen",
+      "topic_anchor": "the customer demo",
+      "characters_mentioned": [
+        "Sister Chen",
+        "Linchen"
+      ],
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hey! I just got off a call with Sister Chen and I need to share this. I am feeling a massive wave of relief right now because the customer demo went flawlessly without any crashes!"
+        },
+        {
+          "role": "assistant",
+          "content": "That's amazing news! I know how much pressure was on this one. How did the pacing go?"
+        },
+        {
+          "role": "user",
+          "content": "It went perfectly. I timed it, and the customer demo lasted exactly 45 minutes. Kept them engaged the whole time."
+        },
+        {
+          "role": "assistant",
+          "content": "Nailed it. Are you officially logging off for the weekend now so you can finally relax?"
+        },
+        {
+          "role": "user",
+          "content": "Almost. I just decided to archive the presentation slides from the customer demo so my workspace is clean. I also scheduled a technical debrief for the customer demo on Monday morning to review our performance."
+        },
+        {
+          "role": "assistant",
+          "content": "Good call getting the admin stuff out of the way. You definitely owe yourself that fancy dinner with Liwei now!"
+        },
+        {
+          "role": "user",
+          "content": "For sure! Oh, and I also promised to buy coffee for the team who helped with the customer demo. They really saved my life this week."
+        },
+        {
+          "role": "assistant",
+          "content": "They'll definitely appreciate that. Enjoy your weekend, Linchen, you earned it!"
+        }
+      ],
+      "golden_memories": [
+        "On 2025-08-02, Linchen felt a massive wave of relief talking to Sister Chen because the customer demo went flawlessly without any crashes."
+      ]
+    }
+  ]
+}
